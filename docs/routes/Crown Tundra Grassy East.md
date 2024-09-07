@@ -45,15 +45,15 @@
 
 	???+ note "Legendary Lv. 80"
 		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
-                    ![cosmog](../../img/pokemon/cosmog.png) [Cosmog](/sword-and-shield-ultimate-plus-wiki/pokemon/789-cosmog) 100%
-                </div><div style="display: grid; justify-items: center">
-                    ![stakataka](../../img/pokemon/stakataka.png) [Stakataka](/sword-and-shield-ultimate-plus-wiki/pokemon/805-stakataka) 100%
-                </div><div style="display: grid; justify-items: center">
-                    ![regirock](../../img/pokemon/regirock.png) [Regirock](/sword-and-shield-ultimate-plus-wiki/pokemon/377-regirock) 100%
+                    ![blacephalon](../../img/pokemon/blacephalon.png) [Blacephalon](/sword-and-shield-ultimate-plus-wiki/pokemon/806-blacephalon) 100%
                 </div><div style="display: grid; justify-items: center">
                     ![poipole](../../img/pokemon/poipole.png) [Poipole](/sword-and-shield-ultimate-plus-wiki/pokemon/803-poipole) 100%
                 </div><div style="display: grid; justify-items: center">
-                    ![blacephalon](../../img/pokemon/blacephalon.png) [Blacephalon](/sword-and-shield-ultimate-plus-wiki/pokemon/806-blacephalon) 100%
+                    ![regirock](../../img/pokemon/regirock.png) [Regirock](/sword-and-shield-ultimate-plus-wiki/pokemon/377-regirock) 100%
+                </div><div style="display: grid; justify-items: center">
+                    ![stakataka](../../img/pokemon/stakataka.png) [Stakataka](/sword-and-shield-ultimate-plus-wiki/pokemon/805-stakataka) 100%
+                </div><div style="display: grid; justify-items: center">
+                    ![cosmog](../../img/pokemon/cosmog.png) [Cosmog](/sword-and-shield-ultimate-plus-wiki/pokemon/789-cosmog) 100%
                 </div></div>
 
 

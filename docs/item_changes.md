@@ -1,7 +1,6 @@
 | New Items | Effect |
                     | :--: | :-- |
                     | ![Link Cable](img/items/Link Cable.png)<br/>Link Cable | Item to evolve Pokémon that normally evolve via trade evolution. Use like a stone. |
-| ![Dynamax Band](img/items/Dynamax Band.png)<br/>Dynamax Band | A band which allows the user to harness the power of Dynamax! |
 | ![Armor Pass](img/items/Armor Pass.png)<br/>Armor Pass | Allows you to travel to the Isle of Armor by interacting with the guard at Wedgehurst Station. |
 | ![Crown Pass](img/items/Crown Pass.png)<br/>Crown Pass | Allows you to travel to the Crown Tundra by interacting with the guard at Wedgehurst Station. |
 | ![Mega Ring](img/items/Mega Ring.png)<br/>Mega Ring | A ring to allow the player to harness the power of Mega Evolution. |
@@ -11,4 +10,5 @@
 | ![z-ring](img/items/z-ring.png)<br/>Z Ring | Allows the player's Pokémon to use Z-moves. |
 | ![Rotom-Phone](img/items/Rotom-Phone.png)<br/>Rotom Phone | The Rotom Phone acts as a portable PC! Access your Pokémon Storage from anywhere. |
 | ![Ability Pill](img/items/Ability Pill.png)<br/>Ability Pill | Use this key item to change the ability of the next Pokemon you encounter to have its hidden ability. This only works on wild encounters and in-game trades. Not on hatching eggs. Unlimited use. |
+| ![Dynamax Band](img/items/Dynamax Band.png)<br/>Dynamax Band | Allows the user to harness the power of Dynamax, |
 

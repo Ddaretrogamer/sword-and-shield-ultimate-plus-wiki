@@ -41,10 +41,5 @@
                     ![garbodor](../../img/pokemon/garbodor.png) [Garbodor](/sword-and-shield-ultimate-plus-wiki/pokemon/569-garbodor) 100%
                 </div></div>
 
-	???+ note "Legendary"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
-                    ![marshadow](../../img/pokemon/marshadow.png) [Marshadow](/sword-and-shield-ultimate-plus-wiki/pokemon/802-marshadow) 100%
-                </div></div>
-
 
 
