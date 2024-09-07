@@ -1,8 +1,8 @@
 site_name: Sword and Shield Ultimate Plus Wiki
-site_url: https://ddaretrogamer.github.io/sword-and-shield-ultimate-plus-wiki
+site_url: https://ddaretrogamer.github.io/Sword-And-Shield-Ultimate-Plus-GBA-English-Wiki/
 site_description: This is a Wiki page for the Sword and Shield Ultimate Plus English GBA ROM hack, developed by PCL.G and and Jeanstars, translated by Phantonomy
 site_author: ddaretrogamer
-repo_url: https://github.com/ddaretrogamer/sword-and-shield-ultimate-plus-wiki
+repo_url: https://github.com/Ddaretrogamer/Sword-And-Shield-Ultimate-Plus-GBA-English-Wiki
 theme:
   name: material
   features:
