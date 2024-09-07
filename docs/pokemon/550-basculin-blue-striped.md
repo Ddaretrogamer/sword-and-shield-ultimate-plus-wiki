@@ -1,19 +1,24 @@
 <div style="display: flex; flex-direction: row; column-gap: 3rem; align-content: center;">
   <img src="../../img/pokemon/basculin-blue-striped.png" width="100"/>
 
-  <div>
-    <div style="display: flex; flex-direction: row; column-gap: 3rem; alignt-items: center; margin-bottom: 0.5rem;">
-      <p style="color: #737373; margin: 0px; font-size: 16px; font-weight: normal;">Types</p>
+  <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
+    <div style="display: grid; grid-template-columns: 100px auto; column-gap: 3rem; alignt-items: center;">
+      <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Types</p>
       <div style="display: flex; flex-direction: row; align-items: center; column-gap: 1rem">
         <img src='../../img/types/water.png' style='width: 77px; height: 26px;'/>
         
       </div>
     </div>
-    <div style="display: flex; flex-direction: row; column-gap: 3rem; alignt-items: center; ">
-      <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px;">Abilities</p>
+    <div style="display: grid; grid-template-columns: 100px auto; column-gap: 3rem; alignt-items: center; ">
+      <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Abilities</p>
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="This Pokemon's recoil moves and crash moves have 1.2x their base power.  struggle is unaffected.  The "crash moves" are the moves that damage the user upon missing: jump kick and high jump kick.">Reckless</a>
         /<a href='' title="This Pokemon inflicts twice as much damage with moves whose types match its own, rather than the usual same-type attack bonus of 1.5x.">Adaptability</a>
+      </div>
+    </div>
+    <div style="display: none; grid-template-columns: 100px auto; column-gap: 3rem; alignt-items: center; ">
+      <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:15px; align-self: center;">Hidden Ability</p>
+      <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         
       </div>
     </div>

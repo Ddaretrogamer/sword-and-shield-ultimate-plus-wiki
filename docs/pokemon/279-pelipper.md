@@ -1,19 +1,24 @@
 <div style="display: flex; flex-direction: row; column-gap: 3rem; align-content: center;">
   <img src="../../img/pokemon/pelipper.png" width="100"/>
 
-  <div>
-    <div style="display: flex; flex-direction: row; column-gap: 3rem; alignt-items: center; margin-bottom: 0.5rem;">
-      <p style="color: #737373; margin: 0px; font-size: 16px; font-weight: normal;">Types</p>
+  <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
+    <div style="display: grid; grid-template-columns: 100px auto; column-gap: 3rem; alignt-items: center;">
+      <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Types</p>
       <div style="display: flex; flex-direction: row; align-items: center; column-gap: 1rem">
         <img src='../../img/types/water.png' style='width: 77px; height: 26px;'/>
         <img src='../../img/types/flying.png' style='width: 77px; height: 26px;'/>
       </div>
     </div>
-    <div style="display: flex; flex-direction: row; column-gap: 3rem; alignt-items: center; ">
-      <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px;">Abilities</p>
+    <div style="display: grid; grid-template-columns: 100px auto; column-gap: 3rem; alignt-items: center; ">
+      <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Abilities</p>
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="This Pokemon cannot have its accuracy lowered.  This ability does not prevent any accuracy losses other than stat modifiers, such as the accuracy cut from fog; nor does it prevent other Pokemon's evasion from making this Pokemon's moves less accurate.  This Pokemon can still be passed negative accuracy modifiers through heart swap.  Overworld: If the first Pokemon in the party has this ability, any random encounter with a Pokemon five or more levels lower than it has a 50% chance of being skipped.">Keen-eye</a>
         /<a href='' title="The weather changes to rain when this Pokemon enters battle and does not end unless replaced by another weather condition.  If multiple Pokemon with this ability, drought, sand stream, or snow warning are sent out at the same time, the abilities will activate in order of Speed, respecting trick room.  Each ability's weather will cancel the previous weather, and only the weather summoned by the slowest of the Pokemon will stay.">Drizzle</a>
+      </div>
+    </div>
+    <div style="display: none; grid-template-columns: 100px auto; column-gap: 3rem; alignt-items: center; ">
+      <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:15px; align-self: center;">Hidden Ability</p>
+      <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         
       </div>
     </div>

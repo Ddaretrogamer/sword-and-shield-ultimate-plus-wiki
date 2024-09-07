@@ -33,5 +33,12 @@
                     ![snom](../../img/pokemon/snom.png) [Snom](/sword-and-shield-ultimate-plus-wiki/pokemon/872-snom) 100%
                 </div></div>
 
+	???+ note "Legendary Lv. 50"
+		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+                    ![darkrai](../../img/pokemon/darkrai.png) [Darkrai](/sword-and-shield-ultimate-plus-wiki/pokemon/491-darkrai) 100%
+                </div><div style="display: grid; justify-items: center">
+                    ![cresselia](../../img/pokemon/cresselia.png) [Cresselia](/sword-and-shield-ultimate-plus-wiki/pokemon/488-cresselia) 100%
+                </div></div>
+
 
 

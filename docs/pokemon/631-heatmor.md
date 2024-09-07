@@ -1,19 +1,24 @@
 <div style="display: flex; flex-direction: row; column-gap: 3rem; align-content: center;">
   <img src="../../img/pokemon/heatmor.png" width="100"/>
 
-  <div>
-    <div style="display: flex; flex-direction: row; column-gap: 3rem; alignt-items: center; margin-bottom: 0.5rem;">
-      <p style="color: #737373; margin: 0px; font-size: 16px; font-weight: normal;">Types</p>
+  <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
+    <div style="display: grid; grid-template-columns: 100px auto; column-gap: 3rem; alignt-items: center;">
+      <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Types</p>
       <div style="display: flex; flex-direction: row; align-items: center; column-gap: 1rem">
         <img src='../../img/types/fire.png' style='width: 77px; height: 26px;'/>
         
       </div>
     </div>
-    <div style="display: flex; flex-direction: row; column-gap: 3rem; alignt-items: center; ">
-      <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px;">Abilities</p>
+    <div style="display: grid; grid-template-columns: 100px auto; column-gap: 3rem; alignt-items: center; ">
+      <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Abilities</p>
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="This Pokemon eats any held Berry triggered by low HP when it falls below 50% of its HP, regardless of the Berry's usual threshold.">Gluttony</a>
         /<a href='' title="This Pokemon is immune to fire-type moves.  Once this Pokemon has been hit by a Fire move, its own Fire moves will inflict 1.5x as much damage until it leaves battle.  This ability has no effect while the Pokemon is frozen.  The Fire damage bonus is retained even if the Pokemon is frozen and thawed or the ability is lost or disabled.  Fire moves will ignore this Pokemon's substitute.  This ability takes effect even on non-damaging moves, i.e. will o wisp.">Flash-fire</a>
+      </div>
+    </div>
+    <div style="display: none; grid-template-columns: 100px auto; column-gap: 3rem; alignt-items: center; ">
+      <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:15px; align-self: center;">Hidden Ability</p>
+      <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         
       </div>
     </div>
@@ -79,7 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Brawlers Cave (Isle Of Armor) | Legendary | 100 |  |
+        	| Brawlers Cave (Isle Of Armor) | Legendary | 100 | Collect and revive the 4 Galar fossils |
 
         
 

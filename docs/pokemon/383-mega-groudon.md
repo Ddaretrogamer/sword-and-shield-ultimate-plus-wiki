@@ -1,19 +1,24 @@
 <div style="display: flex; flex-direction: row; column-gap: 3rem; align-content: center;">
   <img src="../../img/pokemon/mega-groudon.png" width="100"/>
 
-  <div>
-    <div style="display: flex; flex-direction: row; column-gap: 3rem; alignt-items: center; margin-bottom: 0.5rem;">
-      <p style="color: #737373; margin: 0px; font-size: 16px; font-weight: normal;">Types</p>
+  <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
+    <div style="display: grid; grid-template-columns: 100px auto; column-gap: 3rem; alignt-items: center;">
+      <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Types</p>
       <div style="display: flex; flex-direction: row; align-items: center; column-gap: 1rem">
         <img src='../../img/types/ground.png' style='width: 77px; height: 26px;'/>
         <img src='../../img/types/fire.png' style='width: 77px; height: 26px;'/>
       </div>
     </div>
-    <div style="display: flex; flex-direction: row; column-gap: 3rem; alignt-items: center; ">
-      <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px;">Abilities</p>
+    <div style="display: grid; grid-template-columns: 100px auto; column-gap: 3rem; alignt-items: center; ">
+      <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Abilities</p>
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="When this Pokemon enters battle or gains this ability, the weather becomes extremely harsh sunlight.  Extremely harsh sunlight has all the properties of sunny day and also causes damaging Water moves to fail.  Extremely harsh sunlight ends when this Pokemon leaves battle or loses this ability, or when this ability is nullified.  The weather cannot otherwise be changed except by the effects of delta stream and primordial sea.  air lock and cloud nine will prevent the effects of extremely harsh sunlight, including allowing Water moves to work, but will not allow the weather to be changed.">Desolate-land</a>
         
+      </div>
+    </div>
+    <div style="display: none; grid-template-columns: 100px auto; column-gap: 3rem; alignt-items: center; ">
+      <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:15px; align-self: center;">Hidden Ability</p>
+      <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         
       </div>
     </div>
