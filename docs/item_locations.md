@@ -6,7 +6,6 @@
 | ![Dynamax Band](img/items/Dynamax Band.png)<br/>Dynamax Band | Route 2 | Magnolia's House | Obtain as part of the story |  |
 | ![Fly Map](img/items/Fly Map.png)<br/>Fly Map | Route 3 | Sonia will give you the Fly Map outside the entrance to Galar mine 1 on Route 3. |  |  |
 | ![Link Cable](img/items/Link Cable.png)<br/>Link Cable | Wild Area 4: South | NPC selling evolution items  | Buy |  |
-| ![Mega Ring](img/items/Mega Ring.png)<br/>Mega Ring | Motostoke | House nearest the Budew Drop Inn | Battle Bianca in a 1 on 1 battle and win. | Win the Battle against Bianca's level 25 Mega-Altaria 1 on 1. |
 | ![Rotom Bike](img/items/Rotom Bike.png)<br/>Rotom Bike | Route 5 | Save man from Team Yell. | Defeat Team Yell Grunts | 1 Badge |
 | ![Rotom-Phone](img/items/Rotom-Phone.png)<br/>Rotom Phone | Wedgehurst | Sonia's Lab | Get from Sonia to start your journey! |  |
 | ![Water Bike](img/items/Water Bike.png)<br/>Water Bike | Route 9 | Save the man from Team Yell to upgrade your bike to the Water Bike. | Defeat Team Yell. | 6 Badges |
