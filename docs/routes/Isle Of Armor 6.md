@@ -1,4 +1,4 @@
-
+<img src="../../img/routes/Isle Of Armor 6.png" alt="Isle Of Armor 6"/>
 
 === "Wild Encounters"
 

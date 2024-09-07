@@ -1,4 +1,4 @@
-
+<img src="../../img/routes/Route 8 (Desert).png" alt="Route 8 (Desert)"/>
 
 === "Wild Encounters"
 

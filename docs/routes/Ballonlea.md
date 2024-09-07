@@ -1,4 +1,4 @@
-
+<img src="../../img/routes/Ballonlea.png" alt="Ballonlea"/>
 
 === "Wild Encounters"
 
