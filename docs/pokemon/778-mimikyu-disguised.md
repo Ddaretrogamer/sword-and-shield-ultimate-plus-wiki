@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="If this Pokemon is in its Disguised Form and takes damage from a move, it switches to its Busted Form and the damage is prevented.  Other effects are not prevented.  This ability cannot be copied or replaced.  This ability only takes effect for Mimikyu.">Disguise</a>
         
+        
       </div>
     </div>
   </div>

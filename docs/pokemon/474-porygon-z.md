@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="This Pokemon inflicts twice as much damage with moves whose types match its own, rather than the usual same-type attack bonus of 1.5x.">Adaptability</a>
         /<a href='' title="When this Pokemon enters battle, its Attack or Special Attack, whichever corresponds to its opponents' weaker total defensive stat, rises one stage.  In the event of a tie, Special Attack is raised.  This ability also takes effect when acquired during a battle.">Download</a>
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,12 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Dynamax Adventure (Crown Tundra) | Legendary | 100 |  |
 
+        
 
 ## Moveset
 

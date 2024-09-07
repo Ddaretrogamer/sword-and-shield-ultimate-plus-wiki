@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="This Pokemon cannot be asleep.  This causes rest to fail altogether.  If a Pokemon is asleep and acquires this ability, it will immediately wake up; this includes when regaining a lost ability upon leaving battle.  This ability functions identically to insomnia in battle.  Overworld: If the lead Pokemon has this ability, higher-levelled Pokemon have their encounter rate increased.">Vital-spirit</a>
         /<a href='' title="Whenever this Pokemon receives a critical hit, its Attack rises to the maximum of 6 stages.  This ability will still take effect if the critical hit is received by a substitute.">Anger-point</a>
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,13 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Courageous Cavern (Route 10) | Grass | 10 |  |
+	| Isle Of Armor 1 | Grass | 10 |  |
 
+        
 
 ## Moveset
 

@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="Increases super-effective damage dealt to 1.25x.">Steam-engine</a>
         /<a href='' title="This Pokemon takes half as much damage from fire-type moves and burns.">Heatproof</a>
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,12 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Route 4 | Grass | 40 |  |
 
+        
 
 ## Moveset
 

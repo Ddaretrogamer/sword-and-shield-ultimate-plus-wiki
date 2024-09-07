@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="Friendly Pokemon next to this Pokemon in double and triple battles each have a 30% chance of being cured of any major status ailment after each turn.">Healer</a>
         /<a href='' title="When this Pokemon enters battle, if one of its opponents has a move that is super effective against it, self destruct, explosion, or a one-hit knockout move, all participating trainers are notified.  The move itself is not revealed; only that there is such a move.  Moves that inflict typeless damage, such as future sight, and moves of variable type, such as hidden power, count as their listed types.  counter, metal burst, mirror coat, and one-hit KO moves to which this Pokemon is immune do not trigger this ability.">Anticipation</a>
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,12 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Tree Base (Crown Tundra) | Grass | 20 |  |
 
+        
 
 ## Moveset
 

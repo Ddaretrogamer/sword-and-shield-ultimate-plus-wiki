@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="Whenever a water-type move hits this Pokemon, it heals for 1/4 of its maximum HP, negating any other effect on it.  Water moves will ignore this Pokemon's substitute.">Water-absorb</a>
         /<a href='' title="Moves cannot score critical hits against this Pokemon.  This ability functions identically to battle armor.">Shell-armor</a>
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,15 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Wild Area 6 (Ice): East | Surf | 20 |  |
+	| Wild Area 6 (Ice): East | Fishing   Super Rod | 20 |  |
+	| Wild Area 6 (Ice): West | Surf | 20 |  |
+	| Route 9 | Surf | 20 |  |
 
+        
 
 ## Moveset
 

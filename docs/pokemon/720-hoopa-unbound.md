@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="Steals the target's held item when the bearer uses a damaging move.">Magician</a>
         
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,13 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Route 9 | Grass | 10 |  |
+	| Isle Of Armor 9 | Surf | 100 |  |
 
+        
 
 ## Moveset
 

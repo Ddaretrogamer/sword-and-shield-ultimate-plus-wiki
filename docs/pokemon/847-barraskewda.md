@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="This Pokemon's Speed is doubled during rain.  This bonus does not count as a stat modifier.">Swift-swim</a>
         /<a href='' title="Increases super-effective damage dealt to 1.25x.">Propeller-tail</a>
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,12 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Wild Area 8: East | Grass | 10 |  |
 
+        
 
 ## Moveset
 

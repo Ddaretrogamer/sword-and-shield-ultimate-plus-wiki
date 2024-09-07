@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="This Pokemon's non-damaging moves have their priority increased by one stage.">Prankster</a>
         /<a href='' title="When any of this Pokemon's stats are lowered, its Attack rises by two stages.  If multiple stats are lowered at once, this ability takes effect with each stat lowered.">Defiant</a>
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,12 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Wild Area 2 (Bear) | Grass | 10 |  |
 
+        
 
 ## Moveset
 

@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="Whenever a move makes contact with this Pokemon, the move's user has a 30% chance of being poisoned.">Poison-point</a>
         /<a href='' title="This Pokemon inflicts 1.25x as much regular damage against Pokemon of the same gender and 0.75x as much regular damage against Pokemon of the opposite gender.  If either Pokemon is genderless, damage is unaffected.">Rivalry</a>
+        
       </div>
     </div>
   </div>

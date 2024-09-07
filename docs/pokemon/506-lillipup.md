@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="This Pokemon cannot be asleep.  This causes rest to fail altogether.  If a Pokemon is asleep and acquires this ability, it will immediately wake up; this includes when regaining a lost ability upon leaving battle.  This ability functions identically to insomnia in battle.  Overworld: If the lead Pokemon has this ability, higher-levelled Pokemon have their encounter rate increased.">Vital-spirit</a>
         /<a href='' title="At the end of each turn, if another Pokemon consumed or Flung a held item that turn, this Pokemon picks up the item if it is not already holding one.  After each battle, this Pokemon has a 10% chance of picking up an item if it is not already holding one.  The air balloon and eject button cannot be picked up.  The items that may be found vary by game, and, since Pokemon Emerald, by the Pokemon's level.  This ability is checked after the battle ends, at which point any temporary ability changes have worn off.">Pickup</a>
+        
       </div>
     </div>
   </div>

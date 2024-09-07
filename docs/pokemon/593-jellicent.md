@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="Whenever a water-type move hits this Pokemon, it heals for 1/4 of its maximum HP, negating any other effect on it.  Water moves will ignore this Pokemon's substitute.">Water-absorb</a>
         /<a href='' title="Moves that hit this Pokemon have a 30% chance of being Disabled afterward.">Cursed-body</a>
+        
       </div>
     </div>
   </div>

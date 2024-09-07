@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="Whenever a move makes contact with this Pokemon, the move's user has a 30% chance of being poisoned.">Poison-point</a>
         /<a href='' title="This Pokemon's contact moves have a 30% chance of poisoning the target with each hit.  This counts as an extra effect for the purposes of shield dust.  This ability takes effect before mummy.">Poison-touch</a>
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,14 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Wild Area 6 (Ice): East | Fishing   Super Rod | 60 |  |
+	| Wild Area 6 (Ice): West | Grass | 20 |  |
+	| Tree Base (Crown Tundra) | Grass | 10 |  |
 
+        
 
 ## Moveset
 

@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="This Pokemon is immune to moves flagged as being sound-based.  heal bell is unaffected.  uproar still prevents this Pokemon from sleeping.  This Pokemon can still receive a Perish Song counter through baton pass, and will retain a Perish Song counter if it acquires this ability after Perish Song is used.  howl, roar of time, sonic boom, and yawn are not flagged as sound-based.">Soundproof</a>
         /<a href='' title="This Pokemon's Speed rises one stage with each hit from a damaging dark-, ghost-, or bug-type move.">Rattled</a>
+        
       </div>
     </div>
   </div>

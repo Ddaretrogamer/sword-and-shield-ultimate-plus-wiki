@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="Increases super-effective damage dealt to 1.25x.">Gulp-missile</a>
         
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,14 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Glimwood Tangle | Grass | 5 |  |
+	| Glimwood Tangle | Grass | 5 |  |
+	| Route 10 | Grass | 1 |  |
 
+        
 
 ## Moveset
 

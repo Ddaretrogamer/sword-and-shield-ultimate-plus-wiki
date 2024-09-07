@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="This Pokemon is always successful fleeing from wild battles, even if trapped by a move or ability.">Run-away</a>
         /<a href='' title="Whenever this Pokemon has a major status ailment, it has 1.5x its Speed.  This Pokemon is not affected by the usual Speed cut from paralysis.  Overworld: If the lead Pokemon has this ability, the wild encounter rate is halved.">Quick-feet</a>
+        
       </div>
     </div>
   </div>

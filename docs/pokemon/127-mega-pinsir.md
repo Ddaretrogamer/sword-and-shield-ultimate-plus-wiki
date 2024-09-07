@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="Turns the bearer's normal-type moves into flying-type moves.  Moves changed by this ability have 1.3x their power.">Aerilate</a>
         
+        
       </div>
     </div>
   </div>

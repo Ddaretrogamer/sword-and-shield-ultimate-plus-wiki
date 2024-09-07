@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="Whenever an electric-type move hits this Pokemon, its Speed rises one stage, negating any other effect on it.  This ability will not take effect if this Pokemon is immune to Electric moves.  Electric moves will ignore this Pokemon's substitute.  This effect includes non-damaging moves, i.e. thunder wave.">Motor-drive</a>
         /<a href='' title="This Pokemon cannot be asleep.  This causes rest to fail altogether.  If a Pokemon is asleep and acquires this ability, it will immediately wake up; this includes when regaining a lost ability upon leaving battle.  This ability functions identically to insomnia in battle.  Overworld: If the lead Pokemon has this ability, higher-levelled Pokemon have their encounter rate increased.">Vital-spirit</a>
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,21 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Wild Area 6 (Ice): East | Grass | 1 |  |
+	| Wild Area 6 (Ice): East | Overworld | 100 |  |
+	| Wild Area 6 (Ice): West | Grass | 5 |  |
+	| Wild Area 6 (Ice): West | Overworld | 100 |  |
+	| Freezington (Crown Tundra) | Grass | 10 |  |
+	| Freezington (Crown Tundra) | Overworld | 100 |  |
+	| Crown Tundra Snowy East | Overworld | 100 |  |
+	| Scifub Chamber (Crown Tundra) | Overworld | 100 |  |
+	| Tanoby Key (Crown Tundra) | Grass | 5 |  |
+	| Tanoby Key (Crown Tundra) | Overworld | 100 |  |
 
+        
 
 ## Moveset
 

@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="Whenever a dark-type move hits this Pokemon, its Attack rises one stage.  The move is not negated in any way.">Justified</a>
         
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,15 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Wild Area 8: West | Overworld | 100 |  |
+	| Wild Area 8: East | Overworld | 100 |  |
+	| Wild Area 10 (Dragon) | Overworld | 100 |  |
+	| Isle Of Armor 8 | Overworld | 100 |  |
 
+        
 
 ## Moveset
 

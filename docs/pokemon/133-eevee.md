@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="This Pokemon is always successful fleeing from wild battles, even if trapped by a move or ability.">Run-away</a>
         /<a href='' title="This Pokemon inflicts twice as much damage with moves whose types match its own, rather than the usual same-type attack bonus of 1.5x.">Adaptability</a>
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,15 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Wild Area 1 South | Grass | 20 |  |
+	| Wild Area 3: South | Grass | 10 |  |
+	| Route 4 | Grass | 20 |  |
+	| Crown Tundra Graveyard | Grass | 10 |  |
 
+        
 
 ## Moveset
 

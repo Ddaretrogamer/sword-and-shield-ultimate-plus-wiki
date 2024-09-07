@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="During a sandstorm, this Pokemon has 1.25x its evasion, and it does not take sandstorm damage regardless of type.  The evasion bonus does not count as a stat modifier.  Overworld: If the lead Pokemon has this ability, the wild encounter rate is halved in a sandstorm.">Sand-veil</a>
         /<a href='' title="While this Pokemon is in battle, opposing Pokemon cannot flee or switch out.  flying-type Pokemon and Pokemon in the air, e.g. due to levitate or magnet rise, are unaffected.  Pokemon with run away can still flee.  Pokemon can still switch out with the use of a move or item.  Overworld: If the lead Pokemon has this ability, the wild encounter rate is doubled.">Arena-trap</a>
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,15 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Galar Mine 1 | Grass | 14 |  |
+	| Hulbury | Purchase from NPC | 0 |  |
+	| Wild Area 7 (Desert): South | Grass | 20 |  |
+	| Route 8 Cave | Grass | 19 |  |
 
+        
 
 ## Moveset
 

@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="This Pokemon takes 0.75x as much damage from moves that are super effective against it.  This ability functions identically to solid rock.">Filter</a>
         
+        
       </div>
     </div>
   </div>

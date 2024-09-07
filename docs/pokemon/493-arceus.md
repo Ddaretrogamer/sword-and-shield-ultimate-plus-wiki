@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="If this Pokemon is holding an elemental Plate, its type and form change to match the Plate.  This Pokemon's held item, whether or not it is a Plate, cannot be taken by covet or thief, nor removed by knock off, nor traded by switcheroo or trick.  Covet, Thief, and Knock Off still inflict damage against this Pokemon.  Unlike with sticky hold, this Pokemon cannot use fling, Switcheroo, or Trick to lose its item itself, nor gain an item through Switcheroo or Trick if it does not have one.  This ability has no effect for any Pokemon other than arceus.  This ability cannot be traded with skill swap, nor copied with role play or trace, nor disabled with gastro acid, nor changed with worry seed.  This Pokemon cannot use Skill Swap or Role Play to lose its ability itself.  mold breaker cannot ignore this ability.  If a Pokemon Transforms into an Arceus with this ability, it will Transform into Arceus's default, normal-type form.  If the Transforming Pokemon is holding a Plate, this ability will then activate and change the Pokemon into the corresponding form.">Multitype</a>
         
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,12 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Route 2 | Grass | 2 |  |
 
+        
 
 ## Moveset
 

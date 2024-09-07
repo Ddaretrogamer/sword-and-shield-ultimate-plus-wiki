@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="Whenever a move makes contact with this Pokemon, the move's user has a 30% chance of being infatuated.  Overworld: If the first Pokemon in the party has this ability, any wild Pokemon whose species can be either gender has a 2/3 chance of being set to the opposite gender, and a 1/3 chance of having a random gender as usual.">Cute-charm</a>
         /<a href='' title="In battle, this Pokemon cannot use its held item, nor will the item have any passive effect on the battle, positive or negative.  This Pokemon also cannot use fling.  The Speed cut from the iron ball and the effort items (the macho brace, power weight, power bracer, power belt, power lens, power band, and power anklet) is unaffected.  Items that do not directly affect the battle, such as the exp share, the amulet coin, or the soothe bell, work as usual.  All held items work as usual out of battle.  Other moves that use the held item, such as natural gift and switcheroo, work as usual.">Klutz</a>
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,12 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Isle Of Armor 5 | Grass | 10 |  |
 
+        
 
 ## Moveset
 

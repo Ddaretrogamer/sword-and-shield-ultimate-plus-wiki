@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="When this Pokemon is hit by a Fire move, the damage is halved.  When this Pokemon uses a Water move, the power is doubled. This Pokemon cannot be burned, and if it becomes burned, the burn is immediately cured.">Water-bubble</a>
         /<a href='' title="Whenever a water-type move hits this Pokemon, it heals for 1/4 of its maximum HP, negating any other effect on it.  Water moves will ignore this Pokemon's substitute.">Water-absorb</a>
+        
       </div>
     </div>
   </div>

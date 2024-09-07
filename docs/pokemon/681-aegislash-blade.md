@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="Changes aegislash to Blade Forme before using a damaging move, or Shield Forme before using kings shield.">Stance-change</a>
         
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,12 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Route 5 | Grass | 20 |  |
 
+        
 
 ## Moveset
 

@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="During a sandstorm, this Pokemon has 1.25x its evasion, and it does not take sandstorm damage regardless of type.  The evasion bonus does not count as a stat modifier.  Overworld: If the lead Pokemon has this ability, the wild encounter rate is halved in a sandstorm.">Sand-veil</a>
         /<a href='' title="While this Pokemon is in battle, opposing Pokemon cannot flee or switch out.  flying-type Pokemon and Pokemon in the air, e.g. due to levitate or magnet rise, are unaffected.  Pokemon with run away can still flee.  Pokemon can still switch out with the use of a move or item.  Overworld: If the lead Pokemon has this ability, the wild encounter rate is doubled.">Arena-trap</a>
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,13 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Route 6 | Grass | 10 |  |
+	| Wild Area 7 (Desert): North | Grass | 20 |  |
 
+        
 
 ## Moveset
 

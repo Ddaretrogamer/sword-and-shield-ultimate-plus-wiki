@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="This Pokemon has a chance of picking up honey after each battle.  This chance starts at 5% and rises another 5% after every tenth level: 5% from level 1 - 10, 10% from 11 - 20, and so on, up to 50% from 91 - 100.  This ability is checked after the battle ends, at which point any temporary ability changes have worn off.">Honey-gather</a>
         /<a href='' title="This Pokemon's physical moves do 1.5x as much regular damage, but have 0.8x their usual accuracy.  Special moves are unaffected.  Moves that do set damage, such as seismic toss, have their accuracy affected, but not their damage.  Overworld: If the lead Pokemon has this ability, higher-levelled Pokemon have their encounter rate increased.">Hustle</a>
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,12 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Wild Area 1 South | Surf | 20 |  |
 
+        
 
 ## Moveset
 

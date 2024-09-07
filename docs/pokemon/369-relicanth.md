@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="This Pokemon's Speed is doubled during rain.  This bonus does not count as a stat modifier.">Swift-swim</a>
         /<a href='' title="This Pokemon does not receive recoil damage from its recoil moves.  struggle's recoil is unaffected.  This ability does not prevent crash damage from missing with jump kick or high jump kick.">Rock-head</a>
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,15 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Wild Area 6 (Ice): East | Surf | 20 |  |
+	| Wild Area 6 (Ice): East | Fishing   Good Rod | 33 |  |
+	| Wild Area 6 (Ice): West | Surf | 20 |  |
+	| Crown Tundra Snowy East | Surf | 100 |  |
 
+        
 
 ## Moveset
 

@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="When this Pokemon enters battle or gains this ability, the weather becomes a mysterious air current.  A mysterious air current causes moves to not be super effective against Flying; they do neutral damage instead.  anticipation and stealth rock are not affected.  The mysterious air current ends when this Pokemon leaves battle or loses this ability, or when this ability is nullified.  The weather cannot otherwise be changed except by the effects of desolate land and primordial sea.  air lock and cloud nine will prevent the effect of a mysterious air current, but will not allow the weather to be changed.">Delta-stream</a>
         
+        
       </div>
     </div>
   </div>

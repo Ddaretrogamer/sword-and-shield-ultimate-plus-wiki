@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="Protects against bullet, ball, and bomb-based moves.">Bulletproof</a>
         /<a href='' title="This Pokemon is immune to moves flagged as being sound-based.  heal bell is unaffected.  uproar still prevents this Pokemon from sleeping.  This Pokemon can still receive a Perish Song counter through baton pass, and will retain a Perish Song counter if it acquires this ability after Perish Song is used.  howl, roar of time, sonic boom, and yawn are not flagged as sound-based.">Soundproof</a>
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,13 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Postwick | Gift | 100 | Starter Pokémon |
+	| Wedgehurst | Gift | 100 | Defeat Jeanstars after beating the game to receive all 3 Galar starters |
 
+        
 
 ## Moveset
 

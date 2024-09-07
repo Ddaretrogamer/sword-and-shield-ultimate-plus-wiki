@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="This Pokemon's stats cannot be lowered by other Pokemon's moves or abilities.  This effect only applies to normal stat modifications and not more exotic effects such as topsy turvy or power swap.  This Ability is not bypassed by mold breaker, teravolt, or turboblaze.">Full-metal-body</a>
         
+        
       </div>
     </div>
   </div>

@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="Opposing Pokemon take 1/8 of their maximum HP in damage after each turn while they are asleep.">Bad-dreams</a>
         
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,12 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Wild Area 1 South | Grass | 4 |  |
 
+        
 
 ## Moveset
 

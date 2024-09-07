@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="All other Pokemon's single-target electric-type moves are redirected to this Pokemon if it is an eligible target.  Other Pokemon's Electric moves raise this Pokemon's Special Attack one stage, negating any other effect on it, and cannot miss it.  If the move's intended target also has this ability, the move is not redirected.  When multiple Pokemon with this ability are possible targets for redirection, the move is redirected to the one with the highest Speed stat, or, in the case of a tie, to a random tied Pokemon.  follow me takes precedence over this ability.  If the Pokemon is a ground-type and thus immune to Electric moves, its immunity prevents the Special Attack boost.">Lightning-rod</a>
         /<a href='' title="Whenever an electric-type move hits this Pokemon, its Speed rises one stage, negating any other effect on it.  This ability will not take effect if this Pokemon is immune to Electric moves.  Electric moves will ignore this Pokemon's substitute.  This effect includes non-damaging moves, i.e. thunder wave.">Motor-drive</a>
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,14 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Wild Area 5: East | Grass | 1 |  |
+	| Route 8 (Snow) | Grass | 5 |  |
+	| Courageous Cavern (Route 10) | Grass | 8 |  |
 
+        
 
 ## Moveset
 

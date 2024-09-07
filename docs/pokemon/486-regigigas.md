@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="This Pokemon's Attack and Speed are halved for five turns upon entering battle.  This ability also takes effect when acquired during battle.  If this Pokemon loses its ability before the five turns are up, its Attack and Speed return to normal; if it then regains this ability without leaving battle, its Attack and Speed are halved again, but the counter keeps counting from where it was.">Slow-start</a>
         
+        
       </div>
     </div>
   </div>

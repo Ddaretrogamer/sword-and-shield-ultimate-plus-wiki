@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="Whenever a move makes contact with this Pokemon, the move's user takes 1/8 of its maximum HP in damage.  This ability functions identically to rough skin.">Iron-barbs</a>
         /<a href='' title="All other Pokemon's single-target electric-type moves are redirected to this Pokemon if it is an eligible target.  Other Pokemon's Electric moves raise this Pokemon's Special Attack one stage, negating any other effect on it, and cannot miss it.  If the move's intended target also has this ability, the move is not redirected.  When multiple Pokemon with this ability are possible targets for redirection, the move is redirected to the one with the highest Speed stat, or, in the case of a tie, to a random tied Pokemon.  follow me takes precedence over this ability.  If the Pokemon is a ground-type and thus immune to Electric moves, its immunity prevents the Special Attack boost.">Lightning-rod</a>
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,12 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Ballonlea | Legendary | 100 | Win the Gym Challenge Championship by defeating Leon and return to Ballonlea to find a Meltan. |
 
+        
 
 ## Moveset
 

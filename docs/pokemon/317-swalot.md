@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="Whenever a Pokemon would heal after hitting this Pokemon with a leeching move like absorb, it instead loses as many HP as it would usually gain.  dream eater is unaffected.">Liquid-ooze</a>
         /<a href='' title="This Pokemon's hold item cannot be removed by other Pokemon.  Damaging moves that would remove this Pokemon's item can still inflict damage against this Pokemon, e.g. knock off or pluck.  This Pokemon can still use moves that involve the loss of its own item, e.g. fling or trick.  Overworld: If the lead Pokemon has this ability, the encounter rate while fishing is increased.">Sticky-hold</a>
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,12 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Isle Of Armor 4 | Grass | 10 |  |
 
+        
 
 ## Moveset
 

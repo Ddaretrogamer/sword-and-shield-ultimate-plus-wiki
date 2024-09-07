@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="Increases super-effective damage dealt to 1.25x.">Sand-spit</a>
         /<a href='' title="After each turn, this Pokemon has a 33% of being cured of any major status ailment.">Shed-skin</a>
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,14 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Wild Area 6 (Ice): East | Grass | 5 |  |
+	| Wild Area 6 (Ice): East | Fishing   Old Rod | 50 |  |
+	| Wild Area 6 (Ice): East | Fishing   Super Rod | 20 |  |
 
+        
 
 ## Moveset
 

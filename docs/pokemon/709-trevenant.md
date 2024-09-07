@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="This Pokemon is cured of any major status ailment when it is switched out for another Pokemon.  If this ability is acquired during battle, the Pokemon is cured upon leaving battle before losing the temporary ability.">Natural-cure</a>
         /<a href='' title="When this Pokemon enters battle, it reveals an opposing Pokemon's held item to all participating trainers.  In a double battle, if one opponent has an item, this Pokemon will Frisk that Pokemon; if both have an item, it will Frisk one at random.">Frisk</a>
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,12 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Wild Area 2 (Bear) | Grass | 2 |  |
 
+        
 
 ## Moveset
 

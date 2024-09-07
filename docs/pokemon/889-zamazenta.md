@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="Increases super-effective damage dealt to 1.25x.">Dauntless-shield</a>
         
+        
       </div>
     </div>
   </div>

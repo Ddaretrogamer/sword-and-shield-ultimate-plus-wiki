@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="This Pokemon's Speed is doubled during strong sunlight.  This bonus does not count as a stat modifier.">Chlorophyll</a>
         /<a href='' title="This Pokemon's remaining sleep turn count falls by 2 rather than 1.  If this Pokemon's sleep counter is at 1, it will fall to 0 and then the Pokemon will wake up.">Early-bird</a>
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,12 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Route 5 | Grass | 5 |  |
 
+        
 
 ## Moveset
 

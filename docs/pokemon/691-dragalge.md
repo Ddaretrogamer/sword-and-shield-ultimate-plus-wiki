@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="Whenever a move makes contact with this Pokemon, the move's user has a 30% chance of being poisoned.">Poison-point</a>
         /<a href='' title="This Pokemon's contact moves have a 30% chance of poisoning the target with each hit.  This counts as an extra effect for the purposes of shield dust.  This ability takes effect before mummy.">Poison-touch</a>
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,16 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Galar Mine 1 | Grass | 11 |  |
+	| Galar Mine 2 | Grass | 24 |  |
+	| Wild Area 4 (Volcano) | Grass | 10 |  |
+	| Wild Area 8 (Rixy Chamber) | Grass | 20 |  |
+	| Route 8 Cave | Grass | 10 |  |
 
+        
 
 ## Moveset
 

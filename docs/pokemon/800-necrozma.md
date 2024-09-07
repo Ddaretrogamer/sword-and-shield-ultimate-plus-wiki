@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="Super-effective damage this Pokemon takes is reduced to 0.75x.  This Ability is not bypassed by mold breaker, teravolt, or turboblaze.">Prism-armor</a>
         
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,15 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Route 1 | Grass | 20 |  |
+	| Wild Area 5: East | Overworld | 100 |  |
+	| Freezington (Crown Tundra) | Overworld | 100 |  |
+	| Crown Tundra Snowy East | Overworld | 100 |  |
 
+        
 
 ## Moveset
 

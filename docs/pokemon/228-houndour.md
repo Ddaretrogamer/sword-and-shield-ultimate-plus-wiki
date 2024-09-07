@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="This Pokemon's remaining sleep turn count falls by 2 rather than 1.  If this Pokemon's sleep counter is at 1, it will fall to 0 and then the Pokemon will wake up.">Early-bird</a>
         /<a href='' title="This Pokemon is immune to fire-type moves.  Once this Pokemon has been hit by a Fire move, its own Fire moves will inflict 1.5x as much damage until it leaves battle.  This ability has no effect while the Pokemon is frozen.  The Fire damage bonus is retained even if the Pokemon is frozen and thawed or the ability is lost or disabled.  Fire moves will ignore this Pokemon's substitute.  This ability takes effect even on non-damaging moves, i.e. will o wisp.">Flash-fire</a>
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,17 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Wild Area 4: South | Overworld | 100 |  |
+	| Wild Area 4: West | Grass | 20 |  |
+	| Wild Area 4 (Volcano) | Overworld | 100 |  |
+	| Wild Area 8 (Rixy Chamber) | Grass | 10 |  |
+	| Isle Of Armor 7 | Overworld | 100 |  |
+	| Crown Tundra Grassy East | Overworld | 100 |  |
 
+        
 
 ## Moveset
 

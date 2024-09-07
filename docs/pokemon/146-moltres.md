@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="Moves targetting this Pokemon use one extra PP.  This ability stacks if multiple targets have it.  This ability still affects moves that fail or miss.  This ability does not affect ally moves that target either the entire field or just its side, nor this Pokemon's self-targetted moves; it does, however, affect single-targetted ally moves aimed at this Pokemon, ally moves that target all other Pokemon, and opponents' moves that target the entire field.  If this ability raises a move's PP cost above its remaining PP, it will use all remaining PP.  When this Pokemon enters battle, all participating trainers are notified that it has this ability.  Overworld: If the lead Pokemon has this ability, higher-levelled Pokemon have their encounter rate increased.">Pressure</a>
         /<a href='' title="Whenever a move makes contact with this Pokemon, the move's user has a 30% chance of being burned.  Overworld: If any Pokemon in the party has this ability, each egg in the party has its hatch counter decreased by 2 (rather than 1) each step cycle, making eggs hatch roughly twice as quickly.  This effect does not stack if multiple Pokemon have this ability or magma armor.">Flame-body</a>
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,13 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Isle Of Armor 4 | Legendary | 100 |  |
+	| Dynamax Adventure (Crown Tundra) | Legendary | 100 |  |
 
+        
 
 ## Moveset
 

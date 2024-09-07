@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="When this Pokemon has 1/3 or less of its HP remaining, its water-type moves inflict 1.5x as much regular damage.">Torrent</a>
         /<a href='' title="When this Pokemon uses a move that is sound-based, that move's type is Water.">Liquid-voice</a>
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,12 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Isle Of Armor 9 | Grass | 5 |  |
 
+        
 
 ## Moveset
 

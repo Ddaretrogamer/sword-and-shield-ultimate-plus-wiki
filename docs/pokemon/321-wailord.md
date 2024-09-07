@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="This Pokemon cannot be burned.  If a Pokemon is burned and acquires this ability, its burn is healed; this includes when regaining a lost ability upon leaving battle.">Water-veil</a>
         /<a href='' title="This Pokemon cannot be infatuated and is immune to captivate.  If a Pokemon is infatuated and acquires this ability, its infatuation is cleared.">Oblivious</a>
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,18 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Wild Area 6 (Ice): East | Fishing   Good Rod | 33 |  |
+	| Route 9 | Surf | 20 |  |
+	| Wild Area 10 (Dragon) | Fishing   Old Rod | 50 |  |
+	| Isle Of Armor 2 | Overworld | 100 |  |
+	| Isle Of Armor 3 | Overworld | 100 |  |
+	| Isle Of Armor 7 | Overworld | 100 |  |
+	| Crown Tundra Snowy East | Overworld | 100 |  |
 
+        
 
 ## Moveset
 

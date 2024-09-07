@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="Whenever a grass-type move hits this Pokemon, its Attack rises one stage, negating any other effect on it.">Sap-sipper</a>
         /<a href='' title="This Pokemon is cured of any major status ailment after each turn during rain.">Hydration</a>
+        
       </div>
     </div>
   </div>

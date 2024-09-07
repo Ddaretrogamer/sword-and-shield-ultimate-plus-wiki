@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="Strengthens biting moves to 1.5x their power.">Strong-jaw</a>
         /<a href='' title="Raises Special Attack by two stages upon having any stat lowered.">Competitive</a>
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,12 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Crown Tundra Graveyard | Grass | 4 |  |
 
+        
 
 ## Moveset
 

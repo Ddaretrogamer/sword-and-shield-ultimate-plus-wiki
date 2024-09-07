@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="This Pokemon cannot be forced out of battle by moves such as whirlwind.  dragon tail and circle throw still inflict damage against this Pokemon.  Overworld: If the lead Pokemon has this ability, the success rate while fishing is increased.">Suction-cups</a>
         /<a href='' title="This Pokemon inflicts triple damage with critical hits, rather than the usual double damage.">Sniper</a>
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,13 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Wild Area 8: East | Fishing   Super Rod | 20 |  |
+	| Route 9 | Grass | 20 |  |
 
+        
 
 ## Moveset
 

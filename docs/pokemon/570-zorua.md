@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="This Pokemon, upon being sent out, appears to have the species, nickname, and Poke Ball of the last Pokemon in the party that is able to battle.  This illusion breaks upon being hit by a damaging move.  Other damage, e.g. from weather or spikes, does not break the illusion, nor does damage done to a substitute.  If the party order becomes temporarily shuffled around as Pokemon are switched out in battle, this ability chooses the last Pokemon according to that shuffled order.">Illusion</a>
         
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,13 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Wild Area 4: West | Grass | 10 |  |
+	| Route 7 | Grass | 10 |  |
 
+        
 
 ## Moveset
 

@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="Whenever an electric-type move hits this Pokemon, it heals for 1/4 of its maximum HP, negating any other effect on it.  This ability will not take effect if this Pokemon is ground-type and thus immune to Electric moves.  Electric moves will ignore this Pokemon's substitute.  This effect includes non-damaging moves, i.e. thunder wave.">Volt-absorb</a>
         /<a href='' title="Overworld: If the lead Pokemon has this ability, the wild encounter rate is doubled.  This ability has no effect in battle.">Illuminate</a>
+        
       </div>
     </div>
   </div>

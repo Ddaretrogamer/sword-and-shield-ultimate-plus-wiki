@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="This Pokemon's Speed is doubled during strong sunlight.  This bonus does not count as a stat modifier.">Chlorophyll</a>
         /<a href='' title="Increases super-effective damage dealt to 1.25x.">Wind-rider</a>
+        
       </div>
     </div>
   </div>

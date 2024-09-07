@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="This Pokemon's Speed is doubled during rain.  This bonus does not count as a stat modifier.">Swift-swim</a>
         /<a href='' title="This Pokemon inflicts triple damage with critical hits, rather than the usual double damage.">Sniper</a>
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,15 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Wild Area 6 (Ice): East | Surf | 20 |  |
+	| Wild Area 6 (Ice): West | Surf | 20 |  |
+	| Wild Area 10 (Dragon) | Surf | 20 |  |
+	| Wild Area 10 (Dragon) | Fishing   Good Rod | 33 |  |
 
+        
 
 ## Moveset
 

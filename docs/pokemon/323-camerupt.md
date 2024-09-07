@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="This Pokemon cannot be frozen.  If a Pokemon is frozen and acquires this ability, it will immediately thaw out; this includes when regaining a lost ability upon leaving battle.  Overworld: If any Pokemon in the party has this ability, each egg in the party has its hatch counter decreased by 2 (rather than 1) each step cycle, making eggs hatch roughly twice as quickly.  This effect does not stack if multiple Pokemon have this ability or flame body.">Magma-armor</a>
         /<a href='' title="This Pokemon takes 0.75x as much damage from moves that are super effective against it.  This ability functions identically to filter.">Solid-rock</a>
+        
       </div>
     </div>
   </div>

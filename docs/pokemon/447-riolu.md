@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="Whenever this Pokemon flinches, its Speed rises one stage.">Steadfast</a>
         /<a href='' title="This Pokemon cannot flinch.">Inner-focus</a>
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,12 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Isle Of Armor 6 | Grass | 5 |  |
 
+        
 
 ## Moveset
 

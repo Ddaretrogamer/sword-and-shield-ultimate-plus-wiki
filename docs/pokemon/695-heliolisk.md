@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="This Pokemon takes 1/8 of its maximum HP in damage after each turn during strong sunlight, but it heals for 1/8 of its HP each turn during rain.  This Pokemon takes 1.25x as much damage from fire-type moves, but whenever a water move hits it, it heals for 1/4 its maximum HP instead.">Dry-skin</a>
         /<a href='' title="During a sandstorm, this Pokemon has 1.25x its evasion, and it does not take sandstorm damage regardless of type.  The evasion bonus does not count as a stat modifier.  Overworld: If the lead Pokemon has this ability, the wild encounter rate is halved in a sandstorm.">Sand-veil</a>
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,13 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Turffield | Legendary | 100 |  |
+	| Galar Mine 2 | Legendary | 100 |  |
 
+        
 
 ## Moveset
 

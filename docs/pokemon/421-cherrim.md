@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="Friendly Pokemon have 1.5x their Attack and Special Defense during strong sunlight if any friendly Pokemon has this ability.  Unlike forecast, multitype, and zen mode, this ability is not tied to its Pokemon's form change; cherrim will switch between its forms even if it loses this ability.  As such, this ability also works if obtained by a Pokemon other than Cherrim.">Flower-gift</a>
         
+        
       </div>
     </div>
   </div>

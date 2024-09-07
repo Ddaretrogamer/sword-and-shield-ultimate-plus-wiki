@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="Prevents friendly Pokemon from sleeping.">Sweet-veil</a>
         /<a href='' title="Protects allies against moves that affect their mental state.">Aroma-veil</a>
+        
       </div>
     </div>
   </div>

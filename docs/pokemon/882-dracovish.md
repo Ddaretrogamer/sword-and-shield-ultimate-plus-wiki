@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="Whenever a water-type move hits this Pokemon, it heals for 1/4 of its maximum HP, negating any other effect on it.  Water moves will ignore this Pokemon's substitute.">Water-absorb</a>
         /<a href='' title="Strengthens biting moves to 1.5x their power.">Strong-jaw</a>
+        
       </div>
     </div>
   </div>

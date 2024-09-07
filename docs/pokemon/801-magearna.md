@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="This Pokemon's Special Attack rises by one stage every time any Pokemon faints.">Soul-heart</a>
         
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,16 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Wild Area 5: West | Grass | 4 |  |
+	| Freezington (Crown Tundra) | Grass | 20 |  |
+	| Crown Tundra Graveyard | Grass | 10 |  |
+	| Crown Tundra Snowy East | Grass | 10 |  |
+	| Resting Spot Entrance (Crown Tundra) | Grass | 10 |  |
 
+        
 
 ## Moveset
 

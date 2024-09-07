@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="Lets the bearer hit twice with damaging moves.  The second hit has half power.">Parental-bond</a>
         
+        
       </div>
     </div>
   </div>

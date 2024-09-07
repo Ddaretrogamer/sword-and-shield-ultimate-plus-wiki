@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="When this Pokemon enters battle, if one of its opponents has a move that is super effective against it, self destruct, explosion, or a one-hit knockout move, all participating trainers are notified.  The move itself is not revealed; only that there is such a move.  Moves that inflict typeless damage, such as future sight, and moves of variable type, such as hidden power, count as their listed types.  counter, metal burst, mirror coat, and one-hit KO moves to which this Pokemon is immune do not trigger this ability.">Anticipation</a>
         /<a href='' title="This Pokemon takes 1/8 of its maximum HP in damage after each turn during strong sunlight, but it heals for 1/8 of its HP each turn during rain.  This Pokemon takes 1.25x as much damage from fire-type moves, but whenever a water move hits it, it heals for 1/4 its maximum HP instead.">Dry-skin</a>
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,14 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Wild Area 6 (Ice): East | Grass | 4 |  |
+	| Freezington (Crown Tundra) | Grass | 4 |  |
+	| Resting Spot Entrance (Crown Tundra) | Grass | 10 |  |
 
+        
 
 ## Moveset
 

@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="Ally Pokemon's moves have their power increased to 1.3x.">Battery</a>
         
+        
       </div>
     </div>
   </div>

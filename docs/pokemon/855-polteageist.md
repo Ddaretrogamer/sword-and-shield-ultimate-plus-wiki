@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="Whenever a physical move hits this Pokemon, its Speed rises one stage and its Defense falls one stage.  This ability triggers on every hit of a multiple-hit move.">Weak-armor</a>
         /<a href='' title="Moves that hit this Pokemon have a 30% chance of being Disabled afterward.">Cursed-body</a>
+        
       </div>
     </div>
   </div>

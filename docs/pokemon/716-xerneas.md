@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="Strengthens fairy moves for all friendly and opposing Pokemon.">Fairy-aura</a>
         
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,12 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Glimwood Tangle | Legendary | 100 | After capturing 90 Pokemon, speak with Sonia. Return to the Glimwood Tangle and cut the trees to battle Xerneas. |
 
+        
 
 ## Moveset
 

@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="Damage from contact moves is halved.  Damage from Fire moves is doubled.">Fluffy</a>
         /<a href='' title="Whenever this Pokemon flinches, its Speed rises one stage.">Steadfast</a>
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,12 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Route 7 | Grass | 5 |  |
 
+        
 
 ## Moveset
 

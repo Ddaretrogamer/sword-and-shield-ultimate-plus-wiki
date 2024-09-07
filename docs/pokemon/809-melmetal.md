@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="Moves flagged as being punch-based have 1.2x their base power for this Pokemon.  sucker punch is not flagged as punch-based; its original, Japanese name only means "surprise attack".">Iron-fist</a>
         
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,14 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Route 5 | Overworld | 100 |  |
+	| Isle Of Armor 3 | Overworld | 100 |  |
+	| Isle Of Armor 5 | Overworld | 100 |  |
 
+        
 
 ## Moveset
 

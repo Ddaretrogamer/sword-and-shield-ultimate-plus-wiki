@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="Whenever this Pokemon takes damage from a move, the Pokemon's type changes to match the move.  If the Pokemon has two types, both are overridden.  The Pokemon must directly take damage; for example, moves blocked by a substitute will not trigger this ability, nor will moves that deal damage indirectly, such as spikes.  This ability takes effect on only the last hit of a multiple-hit attack.  In Pokemon Colosseum and XD: Gale of Darkness, this ability does not take effect on Shadow-type moves.">Color-change</a>
         /<a href='' title="Changes the bearer's type to match each move it uses.  The type change takes place just before the move is used.">Protean</a>
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,12 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Wild Area 3: South | Grass | 4 |  |
 
+        
 
 ## Moveset
 

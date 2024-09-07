@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="Moves targetting this Pokemon use one extra PP.  This ability stacks if multiple targets have it.  This ability still affects moves that fail or miss.  This ability does not affect ally moves that target either the entire field or just its side, nor this Pokemon's self-targetted moves; it does, however, affect single-targetted ally moves aimed at this Pokemon, ally moves that target all other Pokemon, and opponents' moves that target the entire field.  If this ability raises a move's PP cost above its remaining PP, it will use all remaining PP.  When this Pokemon enters battle, all participating trainers are notified that it has this ability.  Overworld: If the lead Pokemon has this ability, higher-levelled Pokemon have their encounter rate increased.">Pressure</a>
         /<a href='' title="When this Pokemon enters battle, it reveals an opposing Pokemon's held item to all participating trainers.  In a double battle, if one opponent has an item, this Pokemon will Frisk that Pokemon; if both have an item, it will Frisk one at random.">Frisk</a>
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,12 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Dynamax Adventure (Crown Tundra) | Legendary | 100 |  |
 
+        
 
 ## Moveset
 

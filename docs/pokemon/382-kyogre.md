@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="The weather changes to rain when this Pokemon enters battle and does not end unless replaced by another weather condition.  If multiple Pokemon with this ability, drought, sand stream, or snow warning are sent out at the same time, the abilities will activate in order of Speed, respecting trick room.  Each ability's weather will cancel the previous weather, and only the weather summoned by the slowest of the Pokemon will stay.">Drizzle</a>
         
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,12 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Wild Area 6 (Ice): East | Legendary | 100 | Bring Relicanth and Wailord to Dive locations, surf in Wild Area 6 to encounter Kyogre |
 
+        
 
 ## Moveset
 

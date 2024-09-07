@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="This Pokemon cannot be confused.  If a Pokemon is confused and acquires this ability, its confusion will immediately be healed.">Own-tempo</a>
         /<a href='' title="Raises this Pokemon's Defense by one stage when it takes damage from a move.">Stamina</a>
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,13 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Wild Area 10 (Dragon) | Grass | 20 |  |
+	| Wild Area 10 (Dragon) | Overworld | 100 |  |
 
+        
 
 ## Moveset
 

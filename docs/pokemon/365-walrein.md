@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="This Pokemon takes half as much damage from fire- and ice-type moves.">Thick-fat</a>
         /<a href='' title="This Pokemon heals for 1/16 of its maximum HP after each turn during hail, and it does not take hail damage regardless of type.">Ice-body</a>
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,13 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Wild Area 6 (Ice): East | Surf | 20 |  |
+	| Wild Area 6 (Ice): West | Surf | 20 |  |
 
+        
 
 ## Moveset
 

@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="This Pokemon's damaging moves have a 10% chance to make the target flinch with each hit if they do not already cause flinching as a secondary effect.  This ability does not stack with a held item.  Overworld: The wild encounter rate is halved while this Pokemon is first in the party.">Stench</a>
         /<a href='' title="This Pokemon's hold item cannot be removed by other Pokemon.  Damaging moves that would remove this Pokemon's item can still inflict damage against this Pokemon, e.g. knock off or pluck.  This Pokemon can still use moves that involve the loss of its own item, e.g. fling or trick.  Overworld: If the lead Pokemon has this ability, the encounter rate while fishing is increased.">Sticky-hold</a>
+        
       </div>
     </div>
   </div>

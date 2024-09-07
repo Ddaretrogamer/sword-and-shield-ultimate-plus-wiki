@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="While this Pokemon is in battle, opposing Pokemon cannot flee or switch out.  Other Pokemon with this ability are unaffected.  Pokemon with run away can still flee.  Pokemon can still switch out with the use of a move or item.">Shadow-tag</a>
         /<a href='' title="This Pokemon does not take damage from friendly Pokemon's moves, including single-target moves aimed at it.">Telepathy</a>
+        
       </div>
     </div>
   </div>

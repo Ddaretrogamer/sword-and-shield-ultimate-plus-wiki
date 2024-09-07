@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="Whenever a move makes contact with this Pokemon, the move's user takes 1/8 of its maximum HP in damage.  This ability functions identically to iron barbs.">Rough-skin</a>
         /<a href='' title="This Pokemon's Speed rises one stage after each turn.">Speed-boost</a>
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,15 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Wild Area 1 South | Surf | 20 |  |
+	| Wild Area 1 North | Surf | 20 |  |
+	| Wild Area 1 North | Fishing   Good Rod | 33 |  |
+	| Wild Area 5: East | Surf | 100 |  |
 
+        
 
 ## Moveset
 

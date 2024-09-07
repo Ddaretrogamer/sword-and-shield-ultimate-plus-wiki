@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="Whenever a dark-type move hits this Pokemon, its Attack rises one stage.  The move is not negated in any way.">Justified</a>
         
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,12 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Route 5 | In Game Trade | 100 | Trade Corvisquire for Froakie |
 
+        
 
 ## Moveset
 

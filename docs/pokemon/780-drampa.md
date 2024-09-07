@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="Whenever this Pokemon takes damage from a move that causes its HP to drop below 50%, its Special Attack rises by one stage.">Berserk</a>
         /<a href='' title="Whenever a grass-type move hits this Pokemon, its Attack rises one stage, negating any other effect on it.">Sap-sipper</a>
+        
       </div>
     </div>
   </div>

@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="This Pokemon takes half as much damage from fire- and ice-type moves.">Thick-fat</a>
         /<a href='' title="This Pokemon ignores ghost-type Pokemon's immunity to normal- and fighting-type moves.  Ghost Pokemon's other types affect damage as usual.">Scrappy</a>
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,14 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Wild Area 5: East | Grass | 4 |  |
+	| Wild Area 8: East | Grass | 4 |  |
+	| Isle Of Armor 6 | Grass | 5 |  |
 
+        
 
 ## Moveset
 

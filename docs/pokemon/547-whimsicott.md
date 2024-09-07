@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="This Pokemon's non-damaging moves have their priority increased by one stage.">Prankster</a>
         /<a href='' title="This Pokemon's moves ignore light screen, reflect, and safeguard.">Infiltrator</a>
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,12 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Isle Of Armor 7 | Grass | 4 |  |
 
+        
 
 ## Moveset
 

@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="This Pokemon's Defense cannot be lowered by other Pokemon.  This Pokemon can still be passed negative Defense modifiers through heart swap or guard swap.">Big-pecks</a>
         /<a href='' title="This Pokemon does not take damage from weather.">Overcoat</a>
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,12 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Circhester | Legendary | 100 | Pay the woman in Wyndon to play the Pokeflute and return to Circhester Restaurant. Meloetta will be there. |
 
+        
 
 ## Moveset
 

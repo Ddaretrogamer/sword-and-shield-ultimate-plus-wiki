@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="This Pokemon's Speed is doubled during strong sunlight.  This bonus does not count as a stat modifier.">Chlorophyll</a>
         /<a href='' title="Whenever a grass-type move hits this Pokemon, its Attack rises one stage, negating any other effect on it.">Sap-sipper</a>
+        
       </div>
     </div>
   </div>

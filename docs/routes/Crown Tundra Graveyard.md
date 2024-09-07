@@ -49,23 +49,25 @@
 
 	???+ note "Legendary Lv. 80"
 		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
-                    ![cosmoem](../../img/pokemon/cosmoem.png) [Cosmoem](/sword-and-shield-ultimate-plus-wiki/pokemon/790-cosmoem) 100%
+                    ![marshadow](../../img/pokemon/marshadow.png) [Marshadow](/sword-and-shield-ultimate-plus-wiki/pokemon/802-marshadow) 100%
                 </div><div style="display: grid; justify-items: center">
-                    ![guzzlord](../../img/pokemon/guzzlord.png) [Guzzlord](/sword-and-shield-ultimate-plus-wiki/pokemon/799-guzzlord) 100%
-                </div><div style="display: grid; justify-items: center">
-                    ![xurkitree](../../img/pokemon/xurkitree.png) [Xurkitree](/sword-and-shield-ultimate-plus-wiki/pokemon/796-xurkitree) 100%
-                </div><div style="display: grid; justify-items: center">
-                    ![buzzwole](../../img/pokemon/buzzwole.png) [Buzzwole](/sword-and-shield-ultimate-plus-wiki/pokemon/794-buzzwole) 100%
-                </div><div style="display: grid; justify-items: center">
-                    ![registeel](../../img/pokemon/registeel.png) [Registeel](/sword-and-shield-ultimate-plus-wiki/pokemon/379-registeel) 100%
-                </div><div style="display: grid; justify-items: center">
-                    ![nihilego](../../img/pokemon/nihilego.png) [Nihilego](/sword-and-shield-ultimate-plus-wiki/pokemon/793-nihilego) 100%
-                </div><div style="display: grid; justify-items: center">
-                    ![pheromosa](../../img/pokemon/pheromosa.png) [Pheromosa](/sword-and-shield-ultimate-plus-wiki/pokemon/795-pheromosa) 100%
+                    ![kartana](../../img/pokemon/kartana.png) [Kartana](/sword-and-shield-ultimate-plus-wiki/pokemon/798-kartana) 100%
                 </div><div style="display: grid; justify-items: center">
                     ![celesteela](../../img/pokemon/celesteela.png) [Celesteela](/sword-and-shield-ultimate-plus-wiki/pokemon/797-celesteela) 100%
                 </div><div style="display: grid; justify-items: center">
-                    ![kartana](../../img/pokemon/kartana.png) [Kartana](/sword-and-shield-ultimate-plus-wiki/pokemon/798-kartana) 100%
+                    ![pheromosa](../../img/pokemon/pheromosa.png) [Pheromosa](/sword-and-shield-ultimate-plus-wiki/pokemon/795-pheromosa) 100%
+                </div><div style="display: grid; justify-items: center">
+                    ![nihilego](../../img/pokemon/nihilego.png) [Nihilego](/sword-and-shield-ultimate-plus-wiki/pokemon/793-nihilego) 100%
+                </div><div style="display: grid; justify-items: center">
+                    ![registeel](../../img/pokemon/registeel.png) [Registeel](/sword-and-shield-ultimate-plus-wiki/pokemon/379-registeel) 100%
+                </div><div style="display: grid; justify-items: center">
+                    ![buzzwole](../../img/pokemon/buzzwole.png) [Buzzwole](/sword-and-shield-ultimate-plus-wiki/pokemon/794-buzzwole) 100%
+                </div><div style="display: grid; justify-items: center">
+                    ![xurkitree](../../img/pokemon/xurkitree.png) [Xurkitree](/sword-and-shield-ultimate-plus-wiki/pokemon/796-xurkitree) 100%
+                </div><div style="display: grid; justify-items: center">
+                    ![guzzlord](../../img/pokemon/guzzlord.png) [Guzzlord](/sword-and-shield-ultimate-plus-wiki/pokemon/799-guzzlord) 100%
+                </div><div style="display: grid; justify-items: center">
+                    ![cosmoem](../../img/pokemon/cosmoem.png) [Cosmoem](/sword-and-shield-ultimate-plus-wiki/pokemon/790-cosmoem) 100%
                 </div></div>
 
 

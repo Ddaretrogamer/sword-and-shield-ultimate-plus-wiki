@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="While this Pokemon is in battle, weather can still be in play, but will not have any of its effects.  This ability functions identically to cloud nine.">Air-lock</a>
         
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,13 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Stow-On-Side | Legendary | 100 | Teach Dragon Ascent to Rayquaza in Stow-on-Side |
+	| Wyndon | Legendary | 100 | Return to Rose Tower after beating the game and beat all 7 trainers and Leon. Walk all the way to the right to encounter Rayquaza. |
 
+        
 
 ## Moveset
 

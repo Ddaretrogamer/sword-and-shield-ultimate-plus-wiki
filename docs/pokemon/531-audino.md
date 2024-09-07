@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="Friendly Pokemon next to this Pokemon in double and triple battles each have a 30% chance of being cured of any major status ailment after each turn.">Healer</a>
         /<a href='' title="This Pokemon regains 1/3 of its maximum HP when it is switched out for another Pokemon under any circumstances other than having fainted.  This ability does not take effect when a battle ends.">Regenerator</a>
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,12 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Isle Of Armor 7 | Grass | 10 |  |
 
+        
 
 ## Moveset
 

@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="After this Pokemon is hit by a move, if that move caused this Pokemon's HP to drop below half, it switches out.">Wimp-out</a>
         
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,12 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Crown Tundra Graveyard | Legendary | 100 |  |
 
+        
 
 ## Moveset
 

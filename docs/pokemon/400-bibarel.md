@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="Each stage of this Pokemon's stat modifiers acts as two stages.  These doubled stages are still limited to a minimum of -6 and a maximum of 6.  This Pokemon can still accumulate less than -3 or more than 3 stages of stat modifiers, even though the extra ones have no effect after doubling.">Simple</a>
         /<a href='' title="This Pokemon ignores other Pokemon's stat modifiers for the purposes of damage and accuracy calculation.  Effectively, this affects modifiers of every stat except Speed.  The power of punishment and stored power is calculated as usual.  When this Pokemon hurts itself in confusion, its stat modifiers affect damage as usual.">Unaware</a>
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,13 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Route 3 | In Game Trade | 100 | Trade Yamper for Shinx |
+	| Wild Area 4: North | Grass | 1 |  |
 
+        
 
 ## Moveset
 

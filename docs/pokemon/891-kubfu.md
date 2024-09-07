@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="This Pokemon cannot flinch.">Inner-focus</a>
         
+        
       </div>
     </div>
   </div>

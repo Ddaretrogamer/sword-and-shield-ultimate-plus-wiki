@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="Turns the bearer's normal-type moves into ice-type moves.  Moves changed by this ability have 1.3x their power.">Refrigerate</a>
         /<a href='' title="The weather changes to hail when this Pokemon enters battle and does not end unless cancelled by another weather condition.  If multiple Pokemon with this ability, drizzle, drought, or sand stream are sent out at the same time, the abilities will activate in order of Speed, respecting trick room.  Each ability's weather will cancel the previous weather, and only the weather summoned by the slowest of the Pokemon will stay.">Snow-warning</a>
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,12 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Ballonlea | In Game Trade | 100 | Trade Leafeon for Rowlet |
 
+        
 
 ## Moveset
 

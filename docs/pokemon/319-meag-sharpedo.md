@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="Strengthens biting moves to 1.5x their power.">Strong-jaw</a>
         
+        
       </div>
     </div>
   </div>

@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="When this Pokemon has 1/3 or less of its HP remaining, its water-type moves inflict 1.5x as much regular damage.">Torrent</a>
         /<a href='' title="While this Pokemon is in battle, self destruct and explosion will fail and aftermath will not take effect.">Damp</a>
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,12 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Route 5 | In Game Trade | 100 | Trade Thievul for Mudkip |
 
+        
 
 ## Moveset
 

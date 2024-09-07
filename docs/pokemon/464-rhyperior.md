@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="All other Pokemon's single-target electric-type moves are redirected to this Pokemon if it is an eligible target.  Other Pokemon's Electric moves raise this Pokemon's Special Attack one stage, negating any other effect on it, and cannot miss it.  If the move's intended target also has this ability, the move is not redirected.  When multiple Pokemon with this ability are possible targets for redirection, the move is redirected to the one with the highest Speed stat, or, in the case of a tie, to a random tied Pokemon.  follow me takes precedence over this ability.  If the Pokemon is a ground-type and thus immune to Electric moves, its immunity prevents the Special Attack boost.">Lightning-rod</a>
         /<a href='' title="This Pokemon takes 0.75x as much damage from moves that are super effective against it.  This ability functions identically to filter.">Solid-rock</a>
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,12 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Resting Spot Entrance (Crown Tundra) | Grass | 1 |  |
 
+        
 
 ## Moveset
 

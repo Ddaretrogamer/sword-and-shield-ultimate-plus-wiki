@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="This Pokemon's Speed is doubled during rain.  This bonus does not count as a stat modifier.">Swift-swim</a>
         /<a href='' title="Whenever a water-type move hits this Pokemon, it heals for 1/4 of its maximum HP, negating any other effect on it.  Water moves will ignore this Pokemon's substitute.">Water-absorb</a>
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,16 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Wild Area 1 South | Fishing   Super Rod | 20 |  |
+	| Wild Area 1 North | Fishing   Super Rod | 20 |  |
+	| Wild Area 8: East | Fishing   Good Rod | 33 |  |
+	| Route 9 | Grass | 1 |  |
+	| Wild Area 10 (Dragon) | Fishing   Super Rod | 20 |  |
 
+        
 
 ## Moveset
 

@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="This Pokemon has half the usual weight for its species.">Light-metal</a>
         /<a href='' title="This Pokemon has double the usual weight for its species.">Heavy-metal</a>
+        
       </div>
     </div>
   </div>

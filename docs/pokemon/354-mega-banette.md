@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="This Pokemon's non-damaging moves have their priority increased by one stage.">Prankster</a>
         
+        
       </div>
     </div>
   </div>

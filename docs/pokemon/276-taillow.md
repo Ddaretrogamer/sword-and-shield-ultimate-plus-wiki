@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="Whenever this Pokemon is asleep, burned, paralyzed, or poisoned, it has 1.5x its Attack.  This Pokemon is not affected by the usual Attack cut from a burn.  This bonus does not count as a stat modifier.">Guts</a>
         /<a href='' title="This Pokemon ignores ghost-type Pokemon's immunity to normal- and fighting-type moves.  Ghost Pokemon's other types affect damage as usual.">Scrappy</a>
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,13 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Wild Area 1 South | Overworld | 100 |  |
+	| Wild Area 5: West | Overworld | 100 |  |
 
+        
 
 ## Moveset
 

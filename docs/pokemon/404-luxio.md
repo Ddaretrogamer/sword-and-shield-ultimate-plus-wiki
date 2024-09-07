@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="This Pokemon inflicts 1.25x as much regular damage against Pokemon of the same gender and 0.75x as much regular damage against Pokemon of the opposite gender.  If either Pokemon is genderless, damage is unaffected.">Rivalry</a>
         /<a href='' title="When this Pokemon enters battle, the opponent's Attack is lowered by one stage.  In a double battle, both opponents are affected.  This ability also takes effect when acquired during a battle, but will not take effect again if lost and reobtained without leaving battle.  This ability has no effect on an opponent that has a substitute.  Overworld: If the first Pokemon in the party has this ability, any random encounter with a Pokemon five or more levels lower than it has a 50% chance of being skipped.">Intimidate</a>
+        
       </div>
     </div>
   </div>

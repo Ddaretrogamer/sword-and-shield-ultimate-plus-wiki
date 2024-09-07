@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="This Pokemon has a chance of picking up honey after each battle.  This chance starts at 5% and rises another 5% after every tenth level: 5% from level 1 - 10, 10% from 11 - 20, and so on, up to 50% from 91 - 100.  This ability is checked after the battle ends, at which point any temporary ability changes have worn off.">Honey-gather</a>
         /<a href='' title="This Pokemon is immune to the extra effects of moves used against it.  An extra effect is a move's chance, listed as an "effect chance", to inflict a status ailment, cause a stat change, or make the target flinch in addition to the move's main effect.  For example, thunder shock's paralysis is an extra effect, but thunder wave's is not, nor are knock off's item removal and air cutter's increased critical hit rate.">Shield-dust</a>
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,13 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Route 9 | Grass | 5 |  |
+	| Isle Of Armor 9 | Grass | 4 |  |
 
+        
 
 ## Moveset
 

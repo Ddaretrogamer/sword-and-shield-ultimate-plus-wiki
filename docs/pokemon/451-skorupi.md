@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="Moves cannot score critical hits against this Pokemon.  This ability functions identically to shell armor.">Battle-armor</a>
         /<a href='' title="This Pokemon inflicts triple damage with critical hits, rather than the usual double damage.">Sniper</a>
+        
       </div>
     </div>
   </div>

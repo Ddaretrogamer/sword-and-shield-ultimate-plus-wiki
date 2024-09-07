@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="When this Pokemon enters battle, it changes the terrain to electric terrain.">Electric-surge</a>
         /<a href='' title="This Pokemon does not take damage from friendly Pokemon's moves, including single-target moves aimed at it.">Telepathy</a>
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,13 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Postwick | Gift | 100 | Starter Pokémon |
+	| Wedgehurst | Gift | 100 | Defeat Jeanstars after beating the game to receive all 3 Galar starters |
 
+        
 
 ## Moveset
 

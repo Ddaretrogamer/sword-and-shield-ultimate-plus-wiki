@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="When this Pokemon has 1/3 or less of its HP remaining, its fire-type moves inflict 1.5x as much regular damage.">Blaze</a>
         /<a href='' title="Increases super-effective damage dealt to 1.25x.">Libero</a>
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,16 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Route 2 | Fishing   Old Rod | 50 |  |
+	| Motostoke | Overworld | 100 |  |
+	| Galar Mine 1 | Fishing   Old Rod | 50 |  |
+	| Galar Mine 1 | Fishing   Good Rod | 33 |  |
+	| Wild Area 4: North | Overworld | 100 |  |
 
+        
 
 ## Moveset
 

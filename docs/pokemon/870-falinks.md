@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="Moves cannot score critical hits against this Pokemon.  This ability functions identically to shell armor.">Battle-armor</a>
         /<a href='' title="When any of this Pokemon's stats are lowered, its Attack rises by two stages.  If multiple stats are lowered at once, this ability takes effect with each stat lowered.">Defiant</a>
+        
       </div>
     </div>
   </div>

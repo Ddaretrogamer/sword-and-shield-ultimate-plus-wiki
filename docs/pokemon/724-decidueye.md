@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="When this Pokemon has 1/3 or less of its HP remaining, its grass-type moves inflict 1.5x as much regular damage.">Overgrow</a>
         /<a href='' title="A move used by this Pokemon will not make contact.">Long-reach</a>
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,14 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Wild Area 4: South | Overworld | 100 |  |
+	| Wild Area 7 (Desert): North | Overworld | 100 |  |
+	| Isle Of Armor Desert | Overworld | 100 |  |
 
+        
 
 ## Moveset
 

@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="This Pokemon cannot be asleep.  This causes rest to fail altogether.  If a Pokemon is asleep and acquires this ability, it will immediately wake up; this includes when regaining a lost ability upon leaving battle.  This ability functions identically to vital spirit in battle.">Insomnia</a>
         /<a href='' title="This Pokemon's moves have critical hit rates one stage higher than normal.">Super-luck</a>
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,15 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Route 8 | Grass | 10 |  |
+	| Crown Tundra Graveyard | Grass | 10 |  |
+	| Crown Tundra Grassy East | Grass | 20 |  |
+	| Tree Base (Crown Tundra) | Grass | 10 |  |
 
+        
 
 ## Moveset
 

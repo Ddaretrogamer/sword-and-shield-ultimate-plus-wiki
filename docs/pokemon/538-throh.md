@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="Whenever this Pokemon is asleep, burned, paralyzed, or poisoned, it has 1.5x its Attack.  This Pokemon is not affected by the usual Attack cut from a burn.  This bonus does not count as a stat modifier.">Guts</a>
         /<a href='' title="This Pokemon cannot flinch.">Inner-focus</a>
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,19 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Wild Area 6 (Ice): East | Overworld | 100 |  |
+	| Wild Area 6 (Ice): West | Overworld | 100 |  |
+	| Route 8 (Snow) | Grass | 26 |  |
+	| Route 8 (Snow) | Overworld | 100 |  |
+	| Route 10 | Grass | 4 |  |
+	| Route 10 | Overworld | 100 |  |
+	| Freezington (Crown Tundra) | Overworld | 100 |  |
+	| Crown Tundra Snowy East | Overworld | 100 |  |
 
+        
 
 ## Moveset
 

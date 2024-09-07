@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="Whenever this Pokemon is burned, paralyzed, or poisoned, the Pokemon who gave this Pokemon that ailment is also given the ailment.  This ability passes back bad poison when this Pokemon is badly poisoned.  This ability cannot pass on a status ailment that the Pokemon did not directly receive from another Pokemon, such as the poison from toxic spikes or the burn from a flame orb.  Overworld: If the lead Pokemon has this ability, wild Pokemon have a 50% chance of having the lead Pokemon's nature, and a 50% chance of being given a random nature as usual, including the lead Pokemon's nature.  This does not work on Pokemon received outside of battle or roaming legendaries.">Synchronize</a>
         /<a href='' title="When this Pokemon is targeted by a move flagged as being reflectable, the move is redirected to its user.  All reflectable moves are non-damaging, and most non-damaging moves that target other Pokemon are reflectable.  A move reflected by this ability or magic coat cannot be reflected back.">Magic-bounce</a>
+        
       </div>
     </div>
   </div>

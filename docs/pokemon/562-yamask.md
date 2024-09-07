@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="Whenever a contact move hits this Pokemon, the attacking Pokemon's ability changes to Mummy.  multitype is unaffected.  If a Pokemon with moxie knocks this Pokemon out, the former's ability will change without taking effect.">Mummy</a>
         
+        
       </div>
     </div>
   </div>

@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="When this Pokemon has full HP, regular damage (not fixed damage!) from moves is halved.  This ability cannot be nullified.">Shadow-shield</a>
         
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,15 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Route 7 | Grass | 10 |  |
+	| Wild Area 9 (Spooky) | Overworld | 100 |  |
+	| Slumbering Area | Grass | 20 |  |
+	| Crown Tundra Graveyard | Overworld | 100 |  |
 
+        
 
 ## Moveset
 

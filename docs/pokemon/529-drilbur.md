@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="This Pokemon's Speed is doubled during a sandstorm, and it does not take sandstorm damage, regardless of type.">Sand-rush</a>
         /<a href='' title="During a sandstorm, this Pokemon's rock-, ground-, and steel-type moves have 1.3x their base power.  This Pokemon does not take sandstorm damage, regardless of type.">Sand-force</a>
+        
       </div>
     </div>
   </div>

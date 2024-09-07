@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="Changes this Pokemon's type to match its held Memory.  This ability cannot be copied, replaced, or nullified.  This ability only takes effect for Silvally.">Rks-system</a>
         
+        
       </div>
     </div>
   </div>

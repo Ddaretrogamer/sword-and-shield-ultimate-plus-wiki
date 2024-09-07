@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="Damage from contact moves is halved.  Damage from Fire moves is doubled.">Fluffy</a>
         /<a href='' title="This Pokemon is always successful fleeing from wild battles, even if trapped by a move or ability.">Run-away</a>
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,13 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Wild Area 9 (Spooky) | Grass | 5 |  |
+	| Crown Tundra Graveyard | Grass | 1 |  |
 
+        
 
 ## Moveset
 

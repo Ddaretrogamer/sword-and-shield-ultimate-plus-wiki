@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="After each turn, this Pokemon has a 33% of being cured of any major status ailment.">Shed-skin</a>
         /<a href='' title="Whenever this Pokemon has a major status ailment, it has 1.5x its Defense.  This bonus does not count as a stat modifier.">Marvel-scale</a>
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,12 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Wild Area 8: East | Surf | 20 |  |
 
+        
 
 ## Moveset
 

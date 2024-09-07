@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="When this Pokemon faints from an opponent's move, that opponent takes damage equal to the HP this Pokemon had remaining.">Innards-out</a>
         /<a href='' title="This Pokemon ignores other Pokemon's stat modifiers for the purposes of damage and accuracy calculation.  Effectively, this affects modifiers of every stat except Speed.  The power of punishment and stored power is calculated as usual.  When this Pokemon hurts itself in confusion, its stat modifiers affect damage as usual.">Unaware</a>
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,12 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Wild Area 9 (Spooky) | Legendary | 100 |  |
 
+        
 
 ## Moveset
 

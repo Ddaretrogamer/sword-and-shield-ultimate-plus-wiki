@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="While this Pokemon is on the field, dark aura and fairy aura weaken moves of their respective types to 2/3 their power, rather than strengthening them.">Aura-break</a>
         /<a href='' title="While this Pokemon is on the field, dark aura and fairy aura weaken moves of their respective types to 2/3 their power, rather than strengthening them.">Aura-break</a>
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,12 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Isle Of Armor 9 | Grass | 30 |  |
 
+        
 
 ## Moveset
 

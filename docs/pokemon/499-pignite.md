@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="When this Pokemon has 1/3 or less of its HP remaining, its fire-type moves inflict 1.5x as much regular damage.">Blaze</a>
         /<a href='' title="This Pokemon takes half as much damage from fire- and ice-type moves.">Thick-fat</a>
+        
       </div>
     </div>
   </div>

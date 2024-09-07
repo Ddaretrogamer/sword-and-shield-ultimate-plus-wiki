@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="This Pokemon's Speed rises one stage after each turn.">Speed-boost</a>
         /<a href='' title="This Pokemon's moves ignore light screen, reflect, and safeguard.">Infiltrator</a>
+        
       </div>
     </div>
   </div>

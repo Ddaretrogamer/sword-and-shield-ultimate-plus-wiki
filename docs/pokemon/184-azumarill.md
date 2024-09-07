@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="This Pokemon takes half as much damage from fire- and ice-type moves.">Thick-fat</a>
         /<a href='' title="This Pokemon's Attack is doubled while in battle.  This bonus does not count as a stat modifier.  This ability functions identically to pure power.">Huge-power</a>
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,12 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Isle Of Armor 2 | Grass | 10 |  |
 
+        
 
 ## Moveset
 

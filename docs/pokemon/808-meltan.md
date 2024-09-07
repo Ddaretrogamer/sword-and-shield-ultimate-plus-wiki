@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="While this Pokemon is in battle, opposing steel-type Pokemon cannot flee or switch out.  Pokemon with run away can still flee.  Pokemon can still switch out with the use of a move or item.  Overworld: If the lead Pokemon has this ability, Steel-type Pokemon have a higher encounter rate.">Magnet-pull</a>
         
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,12 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Warm Up Tunnel (Isle Of Armor) | Grass | 10 |  |
 
+        
 
 ## Moveset
 

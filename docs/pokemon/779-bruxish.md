@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="When an opposing Pokemon attempts to use a move that targets this Pokemon or an ally, and that move has priority, it will fail.">Dazzling</a>
         /<a href='' title="Strengthens biting moves to 1.5x their power.">Strong-jaw</a>
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,13 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Postwick | Gift | 100 | Starter Pokémon |
+	| Wedgehurst | Gift | 100 | Defeat Jeanstars after beating the game to receive all 3 Galar starters |
 
+        
 
 ## Moveset
 

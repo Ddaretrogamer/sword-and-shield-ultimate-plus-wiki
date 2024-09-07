@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="Whenever a move makes contact with this Pokemon, the move's user takes 1/8 of its maximum HP in damage.  This ability functions identically to iron barbs.">Rough-skin</a>
         /<a href='' title="This Pokemon's Speed rises one stage after each turn.">Speed-boost</a>
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,21 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Wild Area 8: East | Fishing   Good Rod | 33 |  |
+	| Wild Area 10 (Dragon) | Surf | 20 |  |
+	| Wild Area 10 (Dragon) | Fishing   Old Rod | 50 |  |
+	| Wild Area 10 (Dragon) | Overworld | 100 |  |
+	| Isle Of Armor 1 | Overworld | 100 |  |
+	| Isle Of Armor 2 | Overworld | 100 |  |
+	| Isle Of Armor 3 | Overworld | 100 |  |
+	| Isle Of Armor 5 | Overworld | 100 |  |
+	| Isle Of Armor 7 | Overworld | 100 |  |
+	| Isle Of Armor 9 | Overworld | 100 |  |
 
+        
 
 ## Moveset
 

@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="When this Pokemon enters battle, it changes the terrain to misty terrain.">Misty-surge</a>
         /<a href='' title="This Pokemon does not take damage from friendly Pokemon's moves, including single-target moves aimed at it.">Telepathy</a>
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,14 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Slumbering Weald | Grass | 50 |  |
+	| Route 1 | Grass | 20 |  |
+	| Route 3 | Overworld | 100 |  |
 
+        
 
 ## Moveset
 

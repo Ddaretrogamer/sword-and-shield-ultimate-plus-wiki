@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="Whenever a move makes contact with this Pokemon, the move's user has a 30% chance of being infatuated.  Overworld: If the first Pokemon in the party has this ability, any wild Pokemon whose species can be either gender has a 2/3 chance of being set to the opposite gender, and a 1/3 chance of having a random gender as usual.">Cute-charm</a>
         /<a href='' title="Turns the bearer's normal-type moves into fairy moves.  Moves changed by this ability have 1.3x their power.">Pixilate</a>
+        
       </div>
     </div>
   </div>

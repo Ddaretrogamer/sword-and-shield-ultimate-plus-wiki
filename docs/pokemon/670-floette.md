@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="Protects friendly grass Pokemon from having their stats lowered by other Pokemon.">Flower-veil</a>
         /<a href='' title="Passes the bearer's held item to an ally when the ally uses up its item.">Symbiosis</a>
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,13 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Galar Mine 1 | Fishing   Old Rod | 50 |  |
+	| Wild Area 4: North | Fishing   Good Rod | 33 |  |
 
+        
 
 ## Moveset
 

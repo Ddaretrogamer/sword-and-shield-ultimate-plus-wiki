@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="Strengthens moves that make contact to 1.33x their power.">Tough-claws</a>
         
+        
       </div>
     </div>
   </div>

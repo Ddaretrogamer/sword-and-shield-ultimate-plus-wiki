@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="Moves cannot score critical hits against this Pokemon.  This ability functions identically to shell armor.">Battle-armor</a>
         /<a href='' title="This Pokemon inflicts triple damage with critical hits, rather than the usual double damage.">Sniper</a>
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,19 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Wild Area 6 (Ice): East | Grass | 5 |  |
+	| Wild Area 6 (Ice): East | Overworld | 100 |  |
+	| Wild Area 6 (Ice): West | Overworld | 100 |  |
+	| Route 8 (Snow) | Grass | 10 |  |
+	| Route 8 (Snow) | Overworld | 100 |  |
+	| Route 10 | Grass | 10 |  |
+	| Route 10 | Overworld | 100 |  |
+	| Crown Tundra Snowy East | Overworld | 100 |  |
 
+        
 
 ## Moveset
 

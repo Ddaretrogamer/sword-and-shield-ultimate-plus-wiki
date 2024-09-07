@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="All friendly Pokemon's moves, including this Pokemon's own moves, have 1.1x their usual accuracy while this Pokemon is in battle.">Victory-star</a>
         
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,12 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Wild Area 8: West | Grass | 5 |  |
 
+        
 
 ## Moveset
 

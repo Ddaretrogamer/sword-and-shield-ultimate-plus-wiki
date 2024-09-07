@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="Friendly Pokemon next to this Pokemon in double and triple battles each have a 30% chance of being cured of any major status ailment after each turn.">Healer</a>
         
+        
       </div>
     </div>
   </div>

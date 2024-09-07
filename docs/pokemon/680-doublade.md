@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="Moves used by or against this Pokemon never miss.  One-hit KO moves are unaffected.  Moves affected by this ability can hit Pokemon during the preparation turn of moves like dig or fly.  Overworld: If the lead Pokemon has this ability, the wild encounter rate is doubled.">No-guard</a>
         
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,12 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Wild Area 1 North | Grass | 4 |  |
 
+        
 
 ## Moveset
 

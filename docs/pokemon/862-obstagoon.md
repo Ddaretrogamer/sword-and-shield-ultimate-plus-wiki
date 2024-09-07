@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="This Pokemon's recoil moves and crash moves have 1.2x their base power.  struggle is unaffected.  The "crash moves" are the moves that damage the user upon missing: jump kick and high jump kick.">Reckless</a>
         /<a href='' title="Whenever this Pokemon is asleep, burned, paralyzed, or poisoned, it has 1.5x its Attack.  This Pokemon is not affected by the usual Attack cut from a burn.  This bonus does not count as a stat modifier.">Guts</a>
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,12 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Wild Area 10 (Dragon) | Legendary | 100 | Defeat the battle tower in the Dragon Wild Area to have a choice to battle Zarude |
 
+        
 
 ## Moveset
 

@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="Increases super-effective damage dealt to 1.25x.">Ripen</a>
         /<a href='' title="This Pokemon eats any held Berry triggered by low HP when it falls below 50% of its HP, regardless of the Berry's usual threshold.">Gluttony</a>
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,16 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Wild Area 6 (Ice): West | Grass | 20 |  |
+	| Freezington (Crown Tundra) | Grass | 20 |  |
+	| Freezington (Crown Tundra) | Overworld | 100 |  |
+	| Crown Tundra Snowy East | Grass | 20 |  |
+	| Crown Tundra Snowy East | Overworld | 100 |  |
 
+        
 
 ## Moveset
 

@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="When this Pokemon is targeted by a move flagged as being reflectable, the move is redirected to its user.  All reflectable moves are non-damaging, and most non-damaging moves that target other Pokemon are reflectable.  A move reflected by this ability or magic coat cannot be reflected back.">Magic-bounce</a>
         
+        
       </div>
     </div>
   </div>

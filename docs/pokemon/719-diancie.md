@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="This Pokemon cannot have its stats lowered by other Pokemon.  This ability does not prevent any stat losses other than stat modifiers, such as the Speed cut from paralysis.  This Pokemon can still be passed negative stat modifiers through guard swap, heart swap, or power swap.  This ability functions identically to white smoke in battle.">Clear-body</a>
         
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,17 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Wild Area 3: South | Overworld | 100 |  |
+	| Motostoke | Gift | 100 | Talk to NPC in first house on the right when you enter from the south to get a free Rockruff. |
+	| Wild Area 7 (Desert): North | Overworld | 100 |  |
+	| Wild Area 8: West | Grass | 1 |  |
+	| Isle Of Armor 1 | Overworld | 100 |  |
+	| Isle Of Armor 2 | Overworld | 100 |  |
 
+        
 
 ## Moveset
 

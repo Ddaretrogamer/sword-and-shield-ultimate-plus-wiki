@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="This Pokemon's moves have 1.5x their power if their base power is 60 or less.  This includes moves of variable power, such as hidden power and magnitude, when their power is 60 or less.  helping hand's power boost is taken into account for any move, as is defense curl's power boost for rollout.">Technician</a>
         
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,18 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Route 2 | Grass | 8 |  |
+	| Wild Area 3: North | Overworld | 100 |  |
+	| Route 4 | Grass | 8 |  |
+	| Galar Mine 2 | Grass | 25 |  |
+	| Motostoke | Grass | 20 |  |
+	| Isle Of Armor 2 | Overworld | 100 |  |
+	| Isle Of Armor 5 | Overworld | 100 |  |
 
+        
 
 ## Moveset
 

@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="When this Pokemon has 1/3 or less of its HP remaining, its grass-type moves inflict 1.5x as much regular damage.">Overgrow</a>
         /<a href='' title="Protects against bullet, ball, and bomb-based moves.">Bulletproof</a>
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,13 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Route 3 | Grass | 8 |  |
+	| Wild Area 4: South | Grass | 10 |  |
 
+        
 
 ## Moveset
 

@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="Non-damaging moves have exactly 50% base accuracy against this Pokemon.">Wonder-skin</a>
         /<a href='' title="This Pokemon is immune to damage not directly caused by a move.  For example, this Pokemon takes no damage from from weather, recoil, status ailments, or spikes, but it still suffers from the Attack cut when burned, and a life orb will still power up this Pokemon's moves without damaging it.  Anything that directly depends on such damage will also not happen; for example, leech seed will neither hurt this Pokemon nor heal the opponent, and Pokemon with a jaboca berry or rowap berry will not consume the berry when hit by this Pokemon.  The following are unaffected: struggle, pain split (whether used by or against this Pokemon), belly drum, substitute, curse, moves that knock the user out, and damage from confusion.  This Pokemon will neither lose nor regain HP if it drains HP from a Pokemon with liquid ooze.  If this Pokemon is badly poisoned, the poison counter is still increased each turn; if the Pokemon loses this ability, it will begin taking as much damage as it would be if it had been taking increasing damage each turn.">Magic-guard</a>
+        
       </div>
     </div>
   </div>

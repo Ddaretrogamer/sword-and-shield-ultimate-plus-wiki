@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="When this Pokemon is confused, it has twice its evasion.">Tangled-feet</a>
         /<a href='' title="Increases super-effective damage dealt to 1.25x.">Screen-cleaner</a>
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,12 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Resting Spot (Crown Tundra) | Legendary | 100 |  |
 
+        
 
 ## Moveset
 

@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="Raises this Pokemon's highest stat by one stage when it faints another Pokemon.">Beast-boost</a>
         
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,13 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Route 2 | Fishing   Good Rod | 33 |  |
+	| Wild Area 8: East | Fishing   Super Rod | 20 |  |
 
+        
 
 ## Moveset
 

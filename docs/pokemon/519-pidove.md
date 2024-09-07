@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="This Pokemon's Defense cannot be lowered by other Pokemon.  This Pokemon can still be passed negative Defense modifiers through heart swap or guard swap.">Big-pecks</a>
         /<a href='' title="This Pokemon's moves have critical hit rates one stage higher than normal.">Super-luck</a>
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,15 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Wild Area 1 South | Surf | 20 |  |
+	| Wild Area 1 South | Fishing   Good Rod | 33 |  |
+	| Wild Area 1 North | Surf | 20 |  |
+	| Motostoke | Grass | 10 |  |
 
+        
 
 ## Moveset
 

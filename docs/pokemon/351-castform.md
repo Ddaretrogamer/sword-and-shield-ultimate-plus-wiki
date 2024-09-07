@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="During rain, strong sunlight, or hail, this Pokemon's type changes to water, fire, or ice, respectively, and its form changes to match.  This ability has no effect for any Pokemon other than castform.  If the weather ends or becomes anything that does not trigger this ability, or a Pokemon with air lock or cloud nine enters battle, this Pokemon's type and form revert to their default.  If this ability is lost or disabled, this Pokemon cannot change its current type and form until it regains its ability.">Forecast</a>
         
+        
       </div>
     </div>
   </div>

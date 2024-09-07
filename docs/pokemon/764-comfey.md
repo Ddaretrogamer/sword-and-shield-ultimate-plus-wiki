@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="Protects friendly grass Pokemon from having their stats lowered by other Pokemon.">Flower-veil</a>
         /<a href='' title="This Pokemon's healing moves have their priority increased by 3.">Triage</a>
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,12 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Crown Tundra Graveyard | Legendary | 100 |  |
 
+        
 
 ## Moveset
 

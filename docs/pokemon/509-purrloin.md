@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="This Pokemon cannot be paralyzed.  If a Pokemon is paralyzed and acquires this ability, its paralysis is healed; this includes when regaining a lost ability upon leaving battle.">Limber</a>
         /<a href='' title="When this Pokemon uses or loses its held item, its Speed is doubled.  If it gains another item or leaves battle, this bonus is lost.  This includes when the Pokemon drops its item because of knock off.  This bonus does not count as a stat modifier.  There is no notification when this ability takes effect.">Unburden</a>
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,14 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Wild Area 4 (Volcano) | Grass | 10 |  |
+	| Wild Area 8 (Rixy Chamber) | Grass | 10 |  |
+	| Route 8 | Grass | 4 |  |
 
+        
 
 ## Moveset
 

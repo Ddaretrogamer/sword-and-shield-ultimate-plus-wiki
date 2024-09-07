@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="This Pokemon's Attack cannot be lowered by other Pokemon.  This ability does not prevent any Attack losses other than stat modifiers, such as the Attack cut from a burn.  This Pokemon can still be passed negative Attack modifiers through heart swap or power swap.">Hyper-cutter</a>
         /<a href='' title="While this Pokemon is in battle, opposing Pokemon cannot flee or switch out.  flying-type Pokemon and Pokemon in the air, e.g. due to levitate or magnet rise, are unaffected.  Pokemon with run away can still flee.  Pokemon can still switch out with the use of a move or item.  Overworld: If the lead Pokemon has this ability, the wild encounter rate is doubled.">Arena-trap</a>
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,15 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Route 6 | Grass | 10 |  |
+	| Wild Area 7 (Desert): North | Grass | 10 |  |
+	| Wild Area 7 (Desert): North | Overworld | 100 |  |
+	| Wild Area 7 (Desert): South | Overworld | 100 |  |
 
+        
 
 ## Moveset
 

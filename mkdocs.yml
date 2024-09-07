@@ -1147,11 +1147,11 @@ nav:
   - Route 1: routes/Route 1.md
   - Wedgehurst: routes/Wedgehurst.md
   - Route 2: routes/Route 2.md
-  - 'Wild Area 1: South': 'routes/Wild Area 1: South.md'
-  - 'Wild Area 1: North': 'routes/Wild Area 1: North.md'
+  - Wild Area 1 South: routes/Wild Area 1 South.md
+  - Wild Area 1 North: routes/Wild Area 1 North.md
   - Wild Area 2 (Bear): routes/Wild Area 2 (Bear).md
-  - 'Wild Area 3: South': 'routes/Wild Area 3: South.md'
-  - 'Wild Area 3: North': 'routes/Wild Area 3: North.md'
+  - Wild Area 3 South: routes/Wild Area 3 South.md
+  - Wild Area 3 North: routes/Wild Area 3 North.md
   - Motostoke: routes/Motostoke.md
   - Route 3: routes/Route 3.md
   - Galar Mine 1: routes/Galar Mine 1.md
@@ -1161,34 +1161,31 @@ nav:
   - Hulbury: routes/Hulbury.md
   - Galar Mine 2: routes/Galar Mine 2.md
   - Motostoke East: routes/Motostoke East.md
-  - 'Wild Area 4: South': 'routes/Wild Area 4: South.md'
-  - 'Wild Area 4: West': 'routes/Wild Area 4: West.md'
-  - 'Wild Area 4: North': 'routes/Wild Area 4: North.md'
+  - Wild Area 4 South: routes/Wild Area 4 South.md
+  - Wild Area 4 West: routes/Wild Area 4 West.md
+  - Wild Area 4 North: routes/Wild Area 4 North.md
   - Wild Area 4 (Volcano): routes/Wild Area 4 (Volcano).md
-  - 'Wild Area 5: Right': 'routes/Wild Area 5: Right.md'
-  - 'Wild Area 5: Left': 'routes/Wild Area 5: Left.md'
-  - 'Wild Area 5: East': 'routes/Wild Area 5: East.md'
-  - 'Wild Area 5: West': 'routes/Wild Area 5: West.md'
-  - Route 6: routes/Route 6.md
-  - Glimwood Tangle: routes/Glimwood Tangle.md
-  - Route 7: routes/Route 7.md
-  - Route 8: routes/Route 8.md
-  - Route 9: routes/Route 9.md
-  - Route 10: routes/Route 10.md
-  - Wild Area 6 (Ice): routes/Wild Area 6 (Ice).md
-  - 'Wild Area 6 (Ice): East': 'routes/Wild Area 6 (Ice): East.md'
-  - 'Wild Area 6 (Ice): West': 'routes/Wild Area 6 (Ice): West.md'
+  - Wild Area 5 East: routes/Wild Area 5 East.md
+  - Wild Area 5 West: routes/Wild Area 5 West.md
+  - Wild Area 6 (Ice) East: routes/Wild Area 6 (Ice) East.md
+  - Wild Area 6 (Ice) West: routes/Wild Area 6 (Ice) West.md
   - Hammerlocke: routes/Hammerlocke.md
+  - Route 6: routes/Route 6.md
   - Stow-On-Side: routes/Stow-On-Side.md
+  - Glimwood Tangle: routes/Glimwood Tangle.md
   - Ballonlea: routes/Ballonlea.md
-  - 'Wild Area 7 (Desert): North': 'routes/Wild Area 7 (Desert): North.md'
-  - 'Wild Area 7 (Desert): South': 'routes/Wild Area 7 (Desert): South.md'
-  - 'Wild Area 8: West': 'routes/Wild Area 8: West.md'
-  - 'Wild Area 8: East': 'routes/Wild Area 8: East.md'
+  - Wild Area 7 (Desert) North: routes/Wild Area 7 (Desert) North.md
+  - Wild Area 7 (Desert) South: routes/Wild Area 7 (Desert) South.md
+  - Wild Area 8 West: routes/Wild Area 8 West.md
+  - Wild Area 8 East: routes/Wild Area 8 East.md
   - Wild Area 8 (Rixy Chamber): routes/Wild Area 8 (Rixy Chamber).md
+  - Route 7: routes/Route 7.md
+  - Route 8 (Desert): routes/Route 8 (Desert).md
   - Route 8 Cave: routes/Route 8 Cave.md
   - Route 8 (Snow): routes/Route 8 (Snow).md
   - Circhester: routes/Circhester.md
+  - Route 9: routes/Route 9.md
+  - Route 10: routes/Route 10.md
   - Courageous Cavern (Route 10): routes/Courageous Cavern (Route 10).md
   - Wyndon: routes/Wyndon.md
   - Wild Area 9 (Spooky): routes/Wild Area 9 (Spooky).md

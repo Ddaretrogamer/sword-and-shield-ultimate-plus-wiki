@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="This Pokemon cannot be poisoned.  This includes bad poison.  If a Pokemon is poisoned and acquires this ability, its poison is healed; this includes when regaining a lost ability upon leaving battle.">Immunity</a>
         /<a href='' title="This Pokemon takes half as much damage from fire- and ice-type moves.">Thick-fat</a>
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,13 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Freezington (Crown Tundra) | Grass | 5 |  |
+	| Resting Spot Entrance (Crown Tundra) | Grass | 20 |  |
 
+        
 
 ## Moveset
 

@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="Whenever this Pokemon flinches, its Speed rises one stage.">Steadfast</a>
         
+        
       </div>
     </div>
   </div>

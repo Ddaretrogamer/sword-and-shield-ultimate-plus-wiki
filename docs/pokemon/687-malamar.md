@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="Whenever this Pokemon's stats would be raised, they are instead lowered by the same amount, and vice versa.">Contrary</a>
         /<a href='' title="This Pokemon cannot be forced out of battle by moves such as whirlwind.  dragon tail and circle throw still inflict damage against this Pokemon.  Overworld: If the lead Pokemon has this ability, the success rate while fishing is increased.">Suction-cups</a>
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,13 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Route 4 | Grass | 10 |  |
+	| Motostoke | Grass | 10 |  |
 
+        
 
 ## Moveset
 

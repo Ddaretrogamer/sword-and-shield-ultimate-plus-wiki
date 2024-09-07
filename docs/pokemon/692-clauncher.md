@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="Strengthens aura and pulse moves to 1.5x their power.">Mega-launcher</a>
         
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,14 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Tree Base (Crown Tundra) | Grass | 20 |  |
+	| Scifub Chamber (Crown Tundra) | Grass | 25 |  |
+	| Tanoby Key (Crown Tundra) | Grass | 1 |  |
 
+        
 
 ## Moveset
 

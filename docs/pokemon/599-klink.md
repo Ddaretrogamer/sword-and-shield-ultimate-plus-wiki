@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="This Pokemon has 1.5x its Special Attack if any friendly Pokemon has plus or minus.  This bonus does not count as a stat modifier.  If either ability is disabled by gastro acid, both lose their effect.">Plus</a>
         /<a href='' title="This Pokemon has 1.5x its Special Attack if any friendly Pokemon has plus or minus.  This bonus does not count as a stat modifier.  If either ability is disabled by gastro acid, both lose their effect.">Minus</a>
+        
       </div>
     </div>
   </div>

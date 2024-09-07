@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="This Pokemon's hold item cannot be removed by other Pokemon.  Damaging moves that would remove this Pokemon's item can still inflict damage against this Pokemon, e.g. knock off or pluck.  This Pokemon can still use moves that involve the loss of its own item, e.g. fling or trick.  Overworld: If the lead Pokemon has this ability, the encounter rate while fishing is increased.">Sticky-hold</a>
         /<a href='' title="All other Pokemon's single-target water-type moves are redirected to this Pokemon, if it is an eligible target.  Other Pokemon's Water moves raise this Pokemon's Special Attack one stage, negating any other effect on it, and cannot miss it.  If the move's intended target also has this ability, the move is not redirected.  When multiple Pokemon with this ability are possible targets for redirection, the move is redirected to the one with the highest Speed stat, or, in the case of a tie, to a random tied Pokemon.  follow me takes precedence over this ability.">Storm-drain</a>
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,12 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Wild Area 9 (Spooky) | Grass | 4 |  |
 
+        
 
 ## Moveset
 

@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="When this Pokemon has 1/3 or less of its HP remaining, its water-type moves inflict 1.5x as much regular damage.">Torrent</a>
         /<a href='' title="This Pokemon heals for 1/16 of its maximum HP after each turn during rain.">Rain-dish</a>
+        
       </div>
     </div>
   </div>

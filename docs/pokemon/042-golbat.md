@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="This Pokemon cannot flinch.">Inner-focus</a>
         /<a href='' title="This Pokemon's moves ignore light screen, reflect, and safeguard.">Infiltrator</a>
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,14 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Courageous Cavern (Isle Of Armor) | Grass | 5 |  |
+	| Liptoo Chamber (Crown Tundra) | Grass | 20 |  |
+	| Tanoby Key (Crown Tundra) | Grass | 4 |  |
 
+        
 
 ## Moveset
 

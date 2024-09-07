@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="Steals the target's held item when the bearer uses a damaging move.">Magician</a>
         
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,14 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Wild Area 8 (Rixy Chamber) | Grass | 10 |  |
+	| Wild Area 8 (Rixy Chamber) | Grass | 5 |  |
+	| Warm Up Tunnel (Isle Of Armor) | Grass | 20 |  |
 
+        
 
 ## Moveset
 

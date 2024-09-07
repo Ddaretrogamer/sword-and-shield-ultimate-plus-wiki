@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="Whenever another Pokemon uses a dance move, this Pokemon will use the same move immediately afterwards.">Dancer</a>
         
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,14 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Wild Area 1 North | Fishing   Super Rod | 20 |  |
+	| Galar Mine 2 | Fishing   Super Rod | 40 |  |
+	| Wild Area 10 (Dragon) | Fishing   Good Rod | 33 |  |
 
+        
 
 ## Moveset
 

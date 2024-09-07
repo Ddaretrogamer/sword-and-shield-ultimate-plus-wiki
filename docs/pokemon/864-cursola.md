@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="Whenever a physical move hits this Pokemon, its Speed rises one stage and its Defense falls one stage.  This ability triggers on every hit of a multiple-hit move.">Weak-armor</a>
         /<a href='' title="Increases super-effective damage dealt to 1.25x.">Perish-body</a>
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,12 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Crown Tundra Snowy East | Legendary | 100 |  |
 
+        
 
 ## Moveset
 

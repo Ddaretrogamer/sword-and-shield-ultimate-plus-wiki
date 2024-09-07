@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="After each turn, this Pokemon has a 33% of being cured of any major status ailment.">Shed-skin</a>
         /<a href='' title="All friendly Pokemon take 0.75x as much direct damage from moves while this Pokemon is in battle.  This effect stacks if multiple allied Pokemon have it.">Friend-guard</a>
+        
       </div>
     </div>
   </div>

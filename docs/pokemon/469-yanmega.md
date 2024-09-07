@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="This Pokemon's Speed rises one stage after each turn.">Speed-boost</a>
         /<a href='' title="This Pokemon deals twice as much damage with moves that are not very effective against the target.">Tinted-lens</a>
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,12 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Wild Area 7 (Desert): South | Grass | 5 |  |
 
+        
 
 ## Moveset
 

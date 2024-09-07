@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="This Pokemon cannot be given a major status ailment during strong sunlight.  This ability does not heal prior status ailments.  rest will fail altogether with this ability in effect.  yawn will immediately fail if used on this Pokemon during strong sunlight, and an already-used Yawn will fail if the weather turns to strong sunlight in the meantime.">Leaf-guard</a>
         /<a href='' title="When an opposing Pokemon attempts to use a move that targets this Pokemon or an ally, and that move has priority, it will fail.">Queenly-majesty</a>
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,12 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Crown Tundra Graveyard | Legendary | 100 |  |
 
+        
 
 ## Moveset
 

@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="The weather changes to a sandstorm when this Pokemon enters battle and does not end unless cancelled by another weather condition.  If multiple Pokemon with this ability, drizzle, drought, or snow warning are sent out at the same time, the abilities will activate in order of Speed, respecting trick room.  Each ability's weather will cancel the previous weather, and only the weather summoned by the slowest of the Pokemon will stay.  Overworld: If the lead Pokemon has this ability, the wild encounter rate is halved in a sandstorm.">Sand-stream</a>
         /<a href='' title="During a sandstorm, this Pokemon's rock-, ground-, and steel-type moves have 1.3x their base power.  This Pokemon does not take sandstorm damage, regardless of type.">Sand-force</a>
+        
       </div>
     </div>
   </div>

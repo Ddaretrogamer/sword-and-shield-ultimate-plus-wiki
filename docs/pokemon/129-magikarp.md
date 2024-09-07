@@ -14,6 +14,7 @@
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="This Pokemon's Speed is doubled during rain.  This bonus does not count as a stat modifier.">Swift-swim</a>
         /<a href='' title="This Pokemon's Speed rises one stage with each hit from a damaging dark-, ghost-, or bug-type move.">Rattled</a>
+        
       </div>
     </div>
   </div>
@@ -75,7 +76,17 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Wild Area 1 North | Surf | 20 |  |
+	| Wild Area 1 North | Fishing   Good Rod | 33 |  |
+	| Galar Mine 2 | Fishing   Good Rod | 33 |  |
+	| Wild Area 4: North | Fishing   Super Rod | 20 |  |
+	| Glimwood Tangle | Fishing   Old Rod | 100 |  |
+	| Glimwood Tangle | Fishing   Good Rod | 33 |  |
 
+        
 
 ## Moveset
 
