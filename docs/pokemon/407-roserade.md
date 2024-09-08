@@ -81,12 +81,7 @@
 
 
 
-## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Route 6 | Gift | 100 |  |
 
-        
 
 ## Moveset
 

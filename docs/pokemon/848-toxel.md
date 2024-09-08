@@ -84,9 +84,8 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Isle Of Armor 5 | Overworld | 100 |  |
-	| Crown Tundra Grassy East | Grass | 20 |  |
-	| Crown Tundra Grassy East | Overworld | 100 |  |
+        	| Route 5 | Gift | 100 | Gift from old woman in daycare |
+	| Route 7 | Grass | 20 |  |
 
         
 

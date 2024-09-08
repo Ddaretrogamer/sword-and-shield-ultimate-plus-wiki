@@ -81,7 +81,13 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Wild Area 2 (Bear) | Grass | 10 |  |
+	| Galar Mine 1 | Grass | 5 |  |
 
+        
 
 ## Moveset
 

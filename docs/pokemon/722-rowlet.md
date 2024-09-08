@@ -84,8 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 10 (Dragon) | Surf | 20 |  |
-	| Wild Area 10 (Dragon) | Fishing   Super Rod | 20 |  |
+        	| Ballonlea | In Game Trade | 100 | Trade Leafeon for Rowlet |
 
         
 

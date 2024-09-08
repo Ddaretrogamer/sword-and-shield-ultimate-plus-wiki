@@ -84,7 +84,9 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Ballonlea | In Game Trade | 100 | Trade Leafeon for Rowlet |
+        	| Freezington (Crown Tundra) | Grass | 10 |  |
+	| Crown Tundra Snowy East | Grass | 10 |  |
+	| Resting Spot Entrance (Crown Tundra) | Grass | 10 |  |
 
         
 

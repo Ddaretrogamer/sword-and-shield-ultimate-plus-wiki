@@ -84,7 +84,9 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Dynamax Adventure (Crown Tundra) | Legendary | 100 |  |
+        	| Wild Area 6 (Ice): East | Grass | 4 |  |
+	| Crown Tundra Snowy East | Grass | 5 |  |
+	| Scifub Chamber (Crown Tundra) | Grass | 24 |  |
 
         
 

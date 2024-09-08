@@ -84,7 +84,9 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Crown Tundra Grassy East | Legendary | 100 | Interact with Ultrawormhole. |
+        	| Wild Area 8 (Rixy Chamber) | Grass | 8 |  |
+	| Isle Of Armor 9 | Grass | 1 |  |
+	| Warm Up Tunnel (Isle Of Armor) | Grass | 20 |  |
 
         
 

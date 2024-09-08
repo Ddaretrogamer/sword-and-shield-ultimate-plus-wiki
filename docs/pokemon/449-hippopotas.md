@@ -81,7 +81,15 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Galar Mine 1 | Grass | 10 |  |
+	| Galar Mine 2 | Grass | 10 |  |
+	| Route 6 | Grass | 4 |  |
+	| Wild Area 7 (Desert): North | Grass | 5 |  |
 
+        
 
 ## Moveset
 

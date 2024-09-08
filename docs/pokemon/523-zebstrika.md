@@ -84,8 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 5: East | Grass | 1 |  |
-	| Route 8 (Snow) | Grass | 5 |  |
+        	| Isle Of Armor 7 | Grass | 10 |  |
 
         
 

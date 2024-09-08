@@ -81,13 +81,7 @@
 
 
 
-## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Wild Area 4 (Volcano) | Grass | 10 |  |
-	| Scifub Chamber (Crown Tundra) | Grass | 11 |  |
 
-        
 
 ## Moveset
 

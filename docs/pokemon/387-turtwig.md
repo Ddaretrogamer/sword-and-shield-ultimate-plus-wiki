@@ -84,7 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Galar Mine 2 | In Game Trade | 100 | Trade Flareon for Chimchar |
+        	| Motostoke | In Game Trade | 100 | Trade Dubwool for Turtwig |
 
         
 

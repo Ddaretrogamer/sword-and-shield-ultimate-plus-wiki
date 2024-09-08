@@ -81,7 +81,16 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Route 7 | Grass | 5 |  |
+	| Route 7 | Overworld | 100 |  |
+	| Route 9 | Overworld | 100 |  |
+	| Isle Of Armor 5 | Overworld | 100 |  |
+	| Crown Tundra Graveyard | Overworld | 100 |  |
 
+        
 
 ## Moveset
 

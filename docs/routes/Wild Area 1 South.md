@@ -81,7 +81,7 @@
 
 	???+ note "In Game Trade Lv. 10"
 		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
-                    ![chespin](../../img/pokemon/chespin.png) [Chespin](/sword-and-shield-ultimate-plus-wiki/pokemon/672-chespin) 100%
+                    ![chespin](../../img/pokemon/chespin.png) [Chespin](/sword-and-shield-ultimate-plus-wiki/pokemon/650-chespin) 100%
                 </div><div style="display: grid; justify-items: center">
                     ![totodile](../../img/pokemon/totodile.png) [Totodile](/sword-and-shield-ultimate-plus-wiki/pokemon/158-totodile) 100%
                 </div></div>

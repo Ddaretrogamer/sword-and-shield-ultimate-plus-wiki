@@ -84,7 +84,9 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Route 9 | Grass | 10 |  |
+        	| Route 5 | Overworld | 100 |  |
+	| Isle Of Armor 3 | Overworld | 100 |  |
+	| Isle Of Armor 5 | Overworld | 100 |  |
 
         
 

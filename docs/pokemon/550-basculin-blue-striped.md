@@ -84,9 +84,8 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Brawlers Cave (Isle Of Armor) | Grass | 10 |  |
-	| Warm Up Tunnel (Isle Of Armor) | Grass | 10 |  |
-	| Crown Tundra Grassy East | Grass | 10 |  |
+        	| Route 2 | Fishing   Super Rod | 20 |  |
+	| Galar Mine 1 | Fishing   Super Rod | 20 |  |
 
         
 

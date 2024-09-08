@@ -84,8 +84,8 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 9 (Spooky) | Grass | 5 |  |
-	| Crown Tundra Graveyard | Grass | 1 |  |
+        	| Wild Area 8 (Rixy Chamber) | Grass | 2 |  |
+	| Isle Of Armor 7 | Grass | 1 |  |
 
         
 

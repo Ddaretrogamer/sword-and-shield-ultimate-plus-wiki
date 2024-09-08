@@ -84,7 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Crown Tundra Grassy East | Grass | 10 |  |
+        	| Crown Tundra Graveyard | Grass | 4 |  |
 
         
 

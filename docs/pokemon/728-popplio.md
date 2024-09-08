@@ -84,7 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Isle Of Armor 9 | Grass | 5 |  |
+        	| Circhester | In Game Trade | 100 | Trade Galarian-Yamask for Popplio |
 
         
 

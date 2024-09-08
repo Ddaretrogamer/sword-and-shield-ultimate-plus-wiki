@@ -81,12 +81,7 @@
 
 
 
-## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Route 2 | Fishing   Old Rod | 50 |  |
 
-        
 
 ## Moveset
 

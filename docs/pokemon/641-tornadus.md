@@ -84,7 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 1 South | Grass | 20 |  |
+        	| Dynamax Adventure (Crown Tundra) | Legendary | 100 |  |
 
         
 

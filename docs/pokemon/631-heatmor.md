@@ -84,7 +84,8 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Brawlers Cave (Isle Of Armor) | Legendary | 100 | Collect and revive the 4 Galar fossils |
+        	| Route 6 | Grass | 4 |  |
+	| Isle Of Armor 8 | Grass | 10 |  |
 
         
 

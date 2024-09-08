@@ -81,13 +81,7 @@
 
 
 
-## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Route 4 | Grass | 10 |  |
-	| Motostoke | Grass | 10 |  |
 
-        
 
 ## Moveset
 

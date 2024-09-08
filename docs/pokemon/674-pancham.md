@@ -84,7 +84,8 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Route 6 | Gift | 100 |  |
+        	| Route 3 | Grass | 8 |  |
+	| Wild Area 4: South | Grass | 10 |  |
 
         
 

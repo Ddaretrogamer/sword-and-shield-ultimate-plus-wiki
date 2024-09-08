@@ -84,7 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Route 2 | Grass | 2 |  |
+        	| Dynamax Adventure (Crown Tundra) | Legendary | 100 |  |
 
         
 

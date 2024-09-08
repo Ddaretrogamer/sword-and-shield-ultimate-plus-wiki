@@ -84,7 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Dynamax Adventure (Crown Tundra) | Legendary | 100 |  |
+        	| Isle Of Armor 5 | Grass | 4 |  |
 
         
 

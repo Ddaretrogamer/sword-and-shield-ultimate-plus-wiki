@@ -84,7 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Isle Of Armor 1 | Legendary | 100 |  |
+        	| Isle Of Armor 9 | Grass | 5 |  |
 
         
 

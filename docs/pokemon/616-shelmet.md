@@ -84,7 +84,8 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 9 (Spooky) | Grass | 10 |  |
+        	| Wild Area 4: West | Grass | 10 |  |
+	| Route 7 | Grass | 10 |  |
 
         
 

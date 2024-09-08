@@ -84,7 +84,10 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Motostoke | Legendary | 100 | After getting cutter item, return to this route and go north to the small trees. Enter the house and Magearna should be there. |
+        	| Wild Area 7 (Desert): North | Overworld | 100 |  |
+	| Wild Area 7 (Desert): South | Overworld | 100 |  |
+	| Wild Area 10 (Dragon) | Overworld | 100 |  |
+	| Isle Of Armor Desert | Overworld | 100 |  |
 
         
 

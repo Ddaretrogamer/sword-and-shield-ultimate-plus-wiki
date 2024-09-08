@@ -81,13 +81,7 @@
 
 
 
-## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Route 3 | Grass | 8 |  |
-	| Wild Area 4: South | Grass | 10 |  |
 
-        
 
 ## Moveset
 

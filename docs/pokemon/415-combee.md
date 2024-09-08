@@ -84,7 +84,9 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 1 South | Surf | 20 |  |
+        	| Wild Area 3: South | Overworld | 100 |  |
+	| Wild Area 3: North | Grass | 5 |  |
+	| Wild Area 3: North | Overworld | 100 |  |
 
         
 

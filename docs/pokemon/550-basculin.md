@@ -84,7 +84,8 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Route 6 | Gift | 100 |  |
+        	| Route 2 | Fishing   Super Rod | 20 |  |
+	| Isle Of Armor 10 | Surf | 100 |  |
 
         
 

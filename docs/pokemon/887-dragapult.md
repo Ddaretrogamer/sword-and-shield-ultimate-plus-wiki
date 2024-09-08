@@ -81,7 +81,12 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Tree Base (Crown Tundra) | Grass | 20 |  |
 
+        
 
 ## Moveset
 

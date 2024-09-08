@@ -84,8 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Stow-On-Side | Legendary | 100 | Teach Dragon Ascent to Rayquaza in Stow-on-Side |
-	| Wyndon | Legendary | 100 | Return to Rose Tower after beating the game and beat all 7 trainers and Leon. Walk all the way to the right to encounter Rayquaza. |
+        	| Wyndon | Legendary | 100 | Return to Rose Tower after beating the game and beat all 7 trainers and Leon. Walk all the way to the right to encounter Rayquaza. |
 
         
 

@@ -84,7 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 1 South | Grass | 4 |  |
+        	| Route 8 (Snow) | Legendary | 100 | Defeat the Garbodor the the old hermit's house, then get in the bed. |
 
         
 

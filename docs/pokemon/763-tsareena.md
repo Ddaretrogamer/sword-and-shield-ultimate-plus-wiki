@@ -81,12 +81,7 @@
 
 
 
-## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Crown Tundra Graveyard | Legendary | 100 | Interact with Ultrawormhole. |
 
-        
 
 ## Moveset
 

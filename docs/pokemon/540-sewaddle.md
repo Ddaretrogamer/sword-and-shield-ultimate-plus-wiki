@@ -81,13 +81,7 @@
 
 
 
-## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Route 6 | Grass | 10 |  |
-	| Isle Of Armor 7 | Grass | 5 |  |
 
-        
 
 ## Moveset
 

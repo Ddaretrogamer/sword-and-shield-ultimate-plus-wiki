@@ -84,7 +84,8 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Tree Base (Crown Tundra) | Grass | 20 |  |
+        	| Motostoke | Grass | 10 |  |
+	| Motostoke | Grass | 10 |  |
 
         
 

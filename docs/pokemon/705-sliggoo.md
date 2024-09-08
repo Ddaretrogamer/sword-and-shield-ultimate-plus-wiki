@@ -81,12 +81,7 @@
 
 
 
-## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Circhester | In Game Trade | 100 | Trade Galarian-Yamask for Popplio |
 
-        
 
 ## Moveset
 

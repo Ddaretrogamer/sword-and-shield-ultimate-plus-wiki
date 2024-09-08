@@ -81,12 +81,7 @@
 
 
 
-## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Crown Tundra Snowy East | Grass | 1 |  |
 
-        
 
 ## Moveset
 

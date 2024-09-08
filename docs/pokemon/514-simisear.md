@@ -84,8 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Liptoo Chamber (Crown Tundra) | Grass | 5 |  |
-	| Tanoby Key (Crown Tundra) | Grass | 10 |  |
+        	| Isle Of Armor 5 | Grass | 1 |  |
 
         
 

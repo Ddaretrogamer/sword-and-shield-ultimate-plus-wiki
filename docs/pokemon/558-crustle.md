@@ -81,7 +81,12 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Brawlers Cave (Isle Of Armor) | Grass | 10 |  |
 
+        
 
 ## Moveset
 

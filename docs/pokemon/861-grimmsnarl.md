@@ -84,8 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Isle Of Armor 5 | Legendary | 100 |  |
-	| Isle Of Armor 8 | Legendary | 100 |  |
+        	| Crown Tundra Snowy East | Grass | 1 |  |
 
         
 

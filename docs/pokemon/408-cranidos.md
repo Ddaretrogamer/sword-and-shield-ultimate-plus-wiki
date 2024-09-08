@@ -84,7 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Brawlers Cave (Isle Of Armor) | Grass | 10 |  |
+        	| Route 6 | Gift | 100 |  |
 
         
 

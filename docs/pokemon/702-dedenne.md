@@ -84,7 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Ballonlea | In Game Trade | 100 | Trade Galarian Zigzagoon for Litten |
+        	| Wild Area 1 North | Grass | 4 |  |
 
         
 

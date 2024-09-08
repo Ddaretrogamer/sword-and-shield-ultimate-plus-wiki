@@ -84,9 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Slumbering Weald | Grass | 10 |  |
-	| Route 1 | Grass | 10 |  |
-	| Route 2 | Grass | 40 |  |
+        	| Crown Tundra Graveyard | Legendary | 100 | Interact with Ultrawormhole. |
 
         
 

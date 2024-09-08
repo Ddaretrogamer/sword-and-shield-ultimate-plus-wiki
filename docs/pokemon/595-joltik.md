@@ -81,15 +81,7 @@
 
 
 
-## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Wild Area 6 (Ice): East | Overworld | 100 |  |
-	| Wild Area 6 (Ice): West | Overworld | 100 |  |
-	| Route 8 Cave | Grass | 1 |  |
-	| Route 10 | Grass | 20 |  |
 
-        
 
 ## Moveset
 

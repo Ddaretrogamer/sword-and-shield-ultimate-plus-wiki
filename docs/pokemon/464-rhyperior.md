@@ -84,7 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Resting Spot Entrance (Crown Tundra) | Grass | 1 |  |
+        	| Brawlers Cave (Isle Of Armor) | Grass | 20 |  |
 
         
 

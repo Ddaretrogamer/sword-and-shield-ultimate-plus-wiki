@@ -84,7 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Slumbering Area | Grass | 10 |  |
+        	| Crown Tundra Graveyard | Legendary | 100 | Interact with Ultrawormhole. |
 
         
 

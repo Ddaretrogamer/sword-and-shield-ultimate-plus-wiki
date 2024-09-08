@@ -84,7 +84,8 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 8: East | Grass | 5 |  |
+        	| Route 4 | Grass | 10 |  |
+	| Motostoke | Grass | 10 |  |
 
         
 

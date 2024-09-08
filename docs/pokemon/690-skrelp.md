@@ -84,9 +84,8 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 6 (Ice): East | Fishing   Super Rod | 60 |  |
-	| Wild Area 6 (Ice): West | Grass | 20 |  |
-	| Tree Base (Crown Tundra) | Grass | 10 |  |
+        	| Wild Area 1 North | Fishing   Old Rod | 50 |  |
+	| Galar Mine 1 | Fishing   Good Rod | 33 |  |
 
         
 

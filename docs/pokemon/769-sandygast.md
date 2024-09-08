@@ -84,7 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Dynamax Adventure (Crown Tundra) | Legendary | 100 |  |
+        	| Wild Area 8: East | Grass | 20 |  |
 
         
 

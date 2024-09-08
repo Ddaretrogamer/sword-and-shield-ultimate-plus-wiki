@@ -81,13 +81,7 @@
 
 
 
-## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Route 6 | Grass | 20 |  |
-	| Route 8 Cave | Grass | 1 |  |
 
-        
 
 ## Moveset
 

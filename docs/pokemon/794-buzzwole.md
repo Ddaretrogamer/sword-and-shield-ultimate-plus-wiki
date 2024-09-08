@@ -84,7 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Route 5 | Grass | 20 |  |
+        	| Crown Tundra Graveyard | Legendary | 100 | Interact with Ultrawormhole. |
 
         
 

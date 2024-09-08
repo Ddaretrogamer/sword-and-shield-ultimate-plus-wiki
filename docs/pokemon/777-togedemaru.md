@@ -81,12 +81,7 @@
 
 
 
-## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Ballonlea | Legendary | 100 | Win the Gym Challenge Championship by defeating Leon and return to Ballonlea to find a Meltan. |
 
-        
 
 ## Moveset
 

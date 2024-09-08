@@ -84,9 +84,8 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 6 (Ice): East | Grass | 1 |  |
-	| Route 8 (Snow) | Grass | 4 |  |
-	| Route 10 | Grass | 5 |  |
+        	| Brawlers Cave (Isle Of Armor) | Grass | 5 |  |
+	| Warm Up Tunnel (Isle Of Armor) | Grass | 20 |  |
 
         
 

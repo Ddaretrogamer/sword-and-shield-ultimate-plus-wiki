@@ -84,13 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Route 2 | Grass | 8 |  |
-	| Wild Area 3: North | Overworld | 100 |  |
-	| Route 4 | Grass | 8 |  |
-	| Galar Mine 2 | Grass | 25 |  |
-	| Motostoke | Grass | 20 |  |
-	| Isle Of Armor 2 | Overworld | 100 |  |
-	| Isle Of Armor 5 | Overworld | 100 |  |
+        	| Crown Tundra Graveyard | Legendary | 100 | Interact with Ultrawormhole. |
 
         
 

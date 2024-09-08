@@ -84,7 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 9 (Spooky) | Grass | 1 |  |
+        	| Motostoke | In Game Trade | 100 | Trade Greedent for Fennekin |
 
         
 

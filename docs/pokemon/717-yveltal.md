@@ -84,7 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Isle Of Armor 9 | Grass | 20 |  |
+        	| Route 5 | Legendary | 100 | Catch 90 Pokémon and speak with Sonia. A new cave will appear where Yveltal awaits. |
 
         
 

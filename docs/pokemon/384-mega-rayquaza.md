@@ -81,7 +81,12 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Stow-On-Side | Legendary | 100 | Teach Dragon Ascent to Rayquaza in Stow-on-Side |
 
+        
 
 ## Moveset
 

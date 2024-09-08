@@ -84,8 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 9 (Spooky) | Grass | 10 |  |
-	| Freezington (Crown Tundra) | Grass | 5 |  |
+        	| Wild Area 3: South | Grass | 4 |  |
 
         
 

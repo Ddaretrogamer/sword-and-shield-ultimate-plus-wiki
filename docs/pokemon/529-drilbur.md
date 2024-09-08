@@ -81,7 +81,13 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Galar Mine 1 | Grass | 4 |  |
+	| Liptoo Chamber (Crown Tundra) | Grass | 9 |  |
 
+        
 
 ## Moveset
 

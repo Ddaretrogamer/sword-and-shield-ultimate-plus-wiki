@@ -81,12 +81,7 @@
 
 
 
-## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Stow-On-Side | In Game Trade | 100 | Trade Eevee for Tepig |
 
-        
 
 ## Moveset
 

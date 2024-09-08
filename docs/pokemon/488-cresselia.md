@@ -81,7 +81,12 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Route 8 (Snow) | Legendary | 100 | Get back into the bed after seeing Darkrai |
 
+        
 
 ## Moveset
 

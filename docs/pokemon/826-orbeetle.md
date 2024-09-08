@@ -84,7 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Glimwood Tangle | Grass | 10 |  |
+        	| Slumbering Area | Grass | 10 |  |
 
         
 

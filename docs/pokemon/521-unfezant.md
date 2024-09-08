@@ -84,9 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Galar Mine 2 | Fishing   Super Rod | 20 |  |
-	| Wild Area 8: East | Surf | 20 |  |
-	| Wild Area 10 (Dragon) | Fishing   Super Rod | 20 |  |
+        	| Isle Of Armor 7 | Grass | 20 |  |
 
         
 

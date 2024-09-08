@@ -84,7 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 4 (Volcano) | Grass | 10 |  |
+        	| Isle Of Armor 8 | Grass | 5 |  |
 
         
 

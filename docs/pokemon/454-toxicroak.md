@@ -84,9 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 6 (Ice): East | Grass | 4 |  |
-	| Freezington (Crown Tundra) | Grass | 4 |  |
-	| Resting Spot Entrance (Crown Tundra) | Grass | 10 |  |
+        	| Isle Of Armor 6 | Grass | 5 |  |
 
         
 

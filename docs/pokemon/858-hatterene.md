@@ -84,7 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Slumbering Area | Legendary | 100 |  |
+        	| Tree Base (Crown Tundra) | Grass | 1 |  |
 
         
 

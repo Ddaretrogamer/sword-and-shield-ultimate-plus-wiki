@@ -84,7 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Galar Mine 2 | Fishing   Old Rod | 50 |  |
+        	| Isle Of Armor 9 | Grass | 30 |  |
 
         
 

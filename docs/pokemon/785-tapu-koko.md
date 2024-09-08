@@ -84,8 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Postwick | Gift | 100 | Starter Pokémon |
-	| Wedgehurst | Gift | 100 | Defeat Jeanstars after beating the game to receive all 3 Galar starters |
+        	| Isle Of Armor 1 | Legendary | 100 |  |
 
         
 

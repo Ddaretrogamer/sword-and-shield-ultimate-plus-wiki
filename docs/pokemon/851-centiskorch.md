@@ -84,7 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Route 6 | Gift | 100 |  |
+        	| Crown Tundra Grassy East | Grass | 10 |  |
 
         
 

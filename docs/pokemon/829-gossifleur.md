@@ -81,7 +81,14 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Wild Area 1 South | Overworld | 100 |  |
+	| Wild Area 3: South | Overworld | 100 |  |
+	| Route 3 | Grass | 10 |  |
 
+        
 
 ## Moveset
 

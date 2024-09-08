@@ -81,7 +81,18 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Stow-On-Side | Gift | 100 |  |
+	| Route 8 | Grass | 20 |  |
+	| Route 8 | Overworld | 100 |  |
+	| Route 8 Cave | Grass | 15 |  |
+	| Isle Of Armor 7 | Overworld | 100 |  |
+	| Isle Of Armor 8 | Overworld | 100 |  |
+	| Crown Tundra Graveyard | Overworld | 100 |  |
 
+        
 
 ## Moveset
 

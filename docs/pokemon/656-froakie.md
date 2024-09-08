@@ -84,8 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Route 7 | Grass | 4 |  |
-	| Isle Of Armor 8 | Grass | 4 |  |
+        	| Route 5 | In Game Trade | 100 | Trade Corvisquire for Froakie |
 
         
 

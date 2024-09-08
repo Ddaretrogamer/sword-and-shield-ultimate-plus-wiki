@@ -84,7 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Motostoke | In Game Trade | 100 | Trade Greedent for Fennekin |
+        	| Tanoby Key (Crown Tundra) | Grass | 4 |  |
 
         
 

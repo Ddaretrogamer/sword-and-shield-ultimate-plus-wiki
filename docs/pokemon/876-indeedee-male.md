@@ -81,7 +81,14 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Glimwood Tangle | Grass | 5 |  |
+	| Glimwood Tangle | Grass | 5 |  |
+	| Route 10 | Grass | 1 |  |
 
+        
 
 ## Moveset
 

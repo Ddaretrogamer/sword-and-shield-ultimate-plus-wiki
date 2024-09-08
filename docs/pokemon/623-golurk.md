@@ -84,7 +84,8 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Dynamax Adventure (Crown Tundra) | Legendary | 100 |  |
+        	| Wild Area 8: West | Grass | 4 |  |
+	| Tree Base (Crown Tundra) | Grass | 10 |  |
 
         
 

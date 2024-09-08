@@ -84,7 +84,8 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Route 5 | Grass | 10 |  |
+        	| Isle Of Armor 7 | Grass | 10 |  |
+	| Crown Tundra Snowy East | Grass | 4 |  |
 
         
 

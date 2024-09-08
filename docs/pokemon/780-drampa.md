@@ -81,7 +81,13 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Wild Area 10 (Dragon) | Grass | 20 |  |
+	| Wild Area 10 (Dragon) | Overworld | 100 |  |
 
+        
 
 ## Moveset
 

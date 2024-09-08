@@ -84,8 +84,10 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 1 North | Fishing   Old Rod | 50 |  |
-	| Galar Mine 1 | Fishing   Good Rod | 33 |  |
+        	| Wild Area 8: West | Overworld | 100 |  |
+	| Wild Area 8: East | Overworld | 100 |  |
+	| Wild Area 10 (Dragon) | Overworld | 100 |  |
+	| Isle Of Armor 8 | Overworld | 100 |  |
 
         
 

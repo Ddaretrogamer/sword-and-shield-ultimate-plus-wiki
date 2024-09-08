@@ -81,7 +81,14 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Tree Base (Crown Tundra) | Grass | 20 |  |
+	| Scifub Chamber (Crown Tundra) | Grass | 25 |  |
+	| Tanoby Key (Crown Tundra) | Grass | 1 |  |
 
+        
 
 ## Moveset
 

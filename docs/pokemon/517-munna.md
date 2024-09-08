@@ -84,7 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Route 8 | Grass | 1 |  |
+        	| Slumbering Area | Grass | 25 |  |
 
         
 

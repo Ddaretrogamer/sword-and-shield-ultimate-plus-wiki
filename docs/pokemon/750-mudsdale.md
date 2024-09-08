@@ -84,8 +84,9 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 1 South | Fishing   Super Rod | 20 |  |
-	| Wild Area 4: North | Fishing   Old Rod | 50 |  |
+        	| Wild Area 4: South | Overworld | 100 |  |
+	| Wild Area 7 (Desert): North | Overworld | 100 |  |
+	| Isle Of Armor Desert | Overworld | 100 |  |
 
         
 

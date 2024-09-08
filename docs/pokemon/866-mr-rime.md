@@ -84,7 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Resting Spot (Crown Tundra) | Legendary | 100 |  |
+        	| Resting Spot Entrance (Crown Tundra) | Grass | 4 |  |
 
         
 

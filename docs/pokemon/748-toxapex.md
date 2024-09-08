@@ -84,8 +84,8 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Route 2 | Fishing   Good Rod | 33 |  |
-	| Isle Of Armor 7 | Surf | 100 |  |
+        	| Wild Area 10 (Dragon) | Surf | 20 |  |
+	| Wild Area 10 (Dragon) | Fishing   Super Rod | 20 |  |
 
         
 

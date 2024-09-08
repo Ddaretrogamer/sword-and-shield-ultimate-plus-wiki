@@ -81,7 +81,18 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Route 6 | Grass | 10 |  |
+	| Route 6 | Overworld | 100 |  |
+	| Wild Area 7 (Desert): North | Grass | 4 |  |
+	| Wild Area 7 (Desert): North | Overworld | 100 |  |
+	| Wild Area 7 (Desert): South | Overworld | 100 |  |
+	| Route 8 | Grass | 10 |  |
+	| Crown Tundra Grassy East | Overworld | 100 |  |
 
+        
 
 ## Moveset
 

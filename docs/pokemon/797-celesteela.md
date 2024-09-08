@@ -84,8 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Route 7 | Grass | 20 |  |
-	| Wild Area 9 (Spooky) | Grass | 4 |  |
+        	| Crown Tundra Graveyard | Legendary | 100 | Interact with Ultrawormhole. |
 
         
 

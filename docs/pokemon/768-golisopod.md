@@ -84,7 +84,9 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Crown Tundra Graveyard | Legendary | 100 | Interact with Ultrawormhole. |
+        	| Wild Area 1 North | Fishing   Super Rod | 20 |  |
+	| Galar Mine 2 | Fishing   Super Rod | 40 |  |
+	| Wild Area 10 (Dragon) | Fishing   Good Rod | 33 |  |
 
         
 

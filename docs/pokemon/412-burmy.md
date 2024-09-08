@@ -84,9 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 3: South | Overworld | 100 |  |
-	| Wild Area 3: North | Grass | 5 |  |
-	| Wild Area 3: North | Overworld | 100 |  |
+        	| Isle Of Armor 4 | Grass | 2 |  |
 
         
 

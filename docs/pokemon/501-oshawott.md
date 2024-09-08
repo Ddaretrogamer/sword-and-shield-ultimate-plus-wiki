@@ -81,12 +81,7 @@
 
 
 
-## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Slumbering Area | Grass | 25 |  |
 
-        
 
 ## Moveset
 

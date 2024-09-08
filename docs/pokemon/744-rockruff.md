@@ -81,7 +81,18 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Wild Area 3: South | Overworld | 100 |  |
+	| Motostoke | Gift | 100 | Talk to NPC in first house on the right when you enter from the south to get a free Rockruff. |
+	| Wild Area 4 West | Overworld | 100 |  |
+	| Wild Area 7 (Desert): North | Overworld | 100 |  |
+	| Wild Area 8: West | Grass | 1 |  |
+	| Isle Of Armor 1 | Overworld | 100 |  |
+	| Isle Of Armor 2 | Overworld | 100 |  |
 
+        
 
 ## Moveset
 

@@ -84,13 +84,8 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Route 2 | Fishing   Good Rod | 33 |  |
-	| Galar Mine 1 | Fishing   Super Rod | 60 |  |
-	| Wild Area 6 (Ice): East | Surf | 20 |  |
-	| Wild Area 6 (Ice): East | Fishing   Old Rod | 50 |  |
-	| Wild Area 6 (Ice): East | Fishing   Good Rod | 33 |  |
-	| Wild Area 6 (Ice): West | Surf | 20 |  |
-	| Wild Area 8: East | Fishing   Super Rod | 20 |  |
+        	| Postwick | Gift | 100 | Starter Pokémon |
+	| Wedgehurst | Gift | 100 | Defeat Jeanstars after beating the game to receive all 3 Galar starters |
 
         
 

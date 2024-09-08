@@ -67,7 +67,7 @@
 
 	???+ note "Legendary"
 		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
-                    ![xerneas](../../img/pokemon/xerneas.png) [Xerneas](/sword-and-shield-ultimate-plus-wiki/pokemon/739-xerneas) 100%
+                    ![xerneas](../../img/pokemon/xerneas.png) [Xerneas](/sword-and-shield-ultimate-plus-wiki/pokemon/716-xerneas) 100%
                 </div></div>
 
 

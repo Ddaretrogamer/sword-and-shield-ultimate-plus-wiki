@@ -84,7 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Isle Of Armor 9 | Grass | 1 |  |
+        	| Wild Area 8 (Rixy Chamber) | Grass | 5 |  |
 
         
 

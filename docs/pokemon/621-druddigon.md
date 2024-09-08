@@ -84,7 +84,10 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Dynamax Adventure (Crown Tundra) | Legendary | 100 |  |
+        	| Wild Area 10 (Dragon) | Grass | 10 |  |
+	| Tree Base (Crown Tundra) | Grass | 4 |  |
+	| Crown Tundra Snowy East | Grass | 10 |  |
+	| Scifub Chamber (Crown Tundra) | Grass | 11 |  |
 
         
 

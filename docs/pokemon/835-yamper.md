@@ -84,7 +84,9 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Resting Spot Entrance (Crown Tundra) | Grass | 4 |  |
+        	| Route 2 | Grass | 10 |  |
+	| Route 2 | Overworld | 100 |  |
+	| Crown Tundra Graveyard | Overworld | 100 |  |
 
         
 

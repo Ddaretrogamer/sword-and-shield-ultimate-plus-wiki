@@ -84,8 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Route 10 | Grass | 10 |  |
-	| Resting Spot Entrance (Crown Tundra) | Grass | 5 |  |
+        	| Route 6 | Gift | 100 |  |
 
         
 

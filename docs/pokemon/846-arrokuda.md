@@ -84,11 +84,11 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Route 7 | Grass | 5 |  |
-	| Route 7 | Overworld | 100 |  |
-	| Route 9 | Overworld | 100 |  |
-	| Isle Of Armor 5 | Overworld | 100 |  |
-	| Crown Tundra Graveyard | Overworld | 100 |  |
+        	| Route 2 | Fishing   Old Rod | 50 |  |
+	| Motostoke | Overworld | 100 |  |
+	| Galar Mine 1 | Fishing   Old Rod | 50 |  |
+	| Galar Mine 1 | Fishing   Good Rod | 33 |  |
+	| Wild Area 4: North | Overworld | 100 |  |
 
         
 

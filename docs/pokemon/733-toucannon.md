@@ -84,8 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 3: South | Grass | 1 |  |
-	| Route 5 | Grass | 1 |  |
+        	| Wild Area 8: East | Grass | 5 |  |
 
         
 

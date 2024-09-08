@@ -84,7 +84,8 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 5: West | Grass | 10 |  |
+        	| Wild Area 4: South | Overworld | 100 |  |
+	| Wild Area 9 (Spooky) | Overworld | 100 |  |
 
         
 

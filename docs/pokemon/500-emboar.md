@@ -81,13 +81,7 @@
 
 
 
-## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Galar Mine 2 | Fishing   Super Rod | 20 |  |
-	| Isle Of Armor 5 | Grass | 1 |  |
 
-        
 
 ## Moveset
 

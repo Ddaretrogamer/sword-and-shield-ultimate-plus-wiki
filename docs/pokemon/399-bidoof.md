@@ -84,7 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Isle Of Armor 4 | Grass | 4 |  |
+        	| Route 2 | Fishing   Old Rod | 50 |  |
 
         
 

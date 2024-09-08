@@ -81,15 +81,7 @@
 
 
 
-## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Wild Area 7 (Desert): North | Overworld | 100 |  |
-	| Wild Area 7 (Desert): South | Overworld | 100 |  |
-	| Wild Area 10 (Dragon) | Overworld | 100 |  |
-	| Isle Of Armor Desert | Overworld | 100 |  |
 
-        
 
 ## Moveset
 

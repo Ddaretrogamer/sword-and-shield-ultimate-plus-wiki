@@ -84,7 +84,8 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Glimwood Tangle | Grass | 1 |  |
+        	| Route 7 | Grass | 4 |  |
+	| Isle Of Armor 8 | Grass | 4 |  |
 
         
 

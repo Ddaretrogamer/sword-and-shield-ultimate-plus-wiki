@@ -84,7 +84,9 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Circhester | Legendary | 100 | Pay the woman in Wyndon to play the Pokeflute and return to Circhester Restaurant. Meloetta will be there. |
+        	| Wild Area 4: West | Grass | 20 |  |
+	| Wild Area 5: East | Grass | 5 |  |
+	| Isle Of Armor 8 | Grass | 10 |  |
 
         
 

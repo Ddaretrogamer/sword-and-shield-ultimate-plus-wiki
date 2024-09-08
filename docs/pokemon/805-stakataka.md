@@ -81,7 +81,12 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Crown Tundra Grassy East | Legendary | 100 | Interact with Ultrawormhole. |
 
+        
 
 ## Moveset
 

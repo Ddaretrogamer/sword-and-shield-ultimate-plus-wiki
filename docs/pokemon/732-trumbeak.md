@@ -84,7 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 10 (Dragon) | Grass | 5 |  |
+        	| Wild Area 2 (Bear) | Grass | 2 |  |
 
         
 

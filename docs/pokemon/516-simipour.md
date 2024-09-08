@@ -84,8 +84,8 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 2 (Bear) | Grass | 10 |  |
-	| Galar Mine 1 | Grass | 5 |  |
+        	| Galar Mine 2 | Fishing   Super Rod | 20 |  |
+	| Isle Of Armor 5 | Grass | 1 |  |
 
         
 

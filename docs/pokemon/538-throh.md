@@ -84,14 +84,9 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 6 (Ice): East | Overworld | 100 |  |
-	| Wild Area 6 (Ice): West | Overworld | 100 |  |
-	| Route 8 (Snow) | Grass | 26 |  |
-	| Route 8 (Snow) | Overworld | 100 |  |
-	| Route 10 | Grass | 4 |  |
-	| Route 10 | Overworld | 100 |  |
-	| Freezington (Crown Tundra) | Overworld | 100 |  |
-	| Crown Tundra Snowy East | Overworld | 100 |  |
+        	| Wild Area 5: East | Grass | 1 |  |
+	| Route 8 (Snow) | Grass | 5 |  |
+	| Courageous Cavern (Route 10) | Grass | 8 |  |
 
         
 

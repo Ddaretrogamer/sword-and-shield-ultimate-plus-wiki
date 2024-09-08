@@ -84,7 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Isle Of Armor 5 | Grass | 1 |  |
+        	| Stow-On-Side | In Game Trade | 100 | Trade Eevee for Tepig |
 
         
 

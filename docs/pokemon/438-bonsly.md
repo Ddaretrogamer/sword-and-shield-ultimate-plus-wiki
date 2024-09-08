@@ -84,7 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Scifub Chamber (Crown Tundra) | Grass | 5 |  |
+        	| Wild Area 3: South | Grass | 10 |  |
 
         
 

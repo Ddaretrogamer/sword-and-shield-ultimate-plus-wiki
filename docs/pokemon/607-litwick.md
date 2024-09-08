@@ -84,7 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 8: West | Grass | 4 |  |
+        	| Route 8 Cave | Grass | 4 |  |
 
         
 

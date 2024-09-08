@@ -84,8 +84,14 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Crown Tundra Grassy East | Grass | 4 |  |
-	| Tree Base (Crown Tundra) | Grass | 4 |  |
+        	| Wild Area 6 (Ice): East | Grass | 5 |  |
+	| Wild Area 6 (Ice): East | Overworld | 100 |  |
+	| Wild Area 6 (Ice): West | Overworld | 100 |  |
+	| Route 8 (Snow) | Grass | 10 |  |
+	| Route 8 (Snow) | Overworld | 100 |  |
+	| Route 10 | Grass | 10 |  |
+	| Route 10 | Overworld | 100 |  |
+	| Crown Tundra Snowy East | Overworld | 100 |  |
 
         
 

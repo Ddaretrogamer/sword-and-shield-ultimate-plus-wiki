@@ -84,8 +84,8 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Glimwood Tangle | Grass | 20 |  |
-	| Glimwood Tangle | Overworld | 100 |  |
+        	| Route 7 | Grass | 20 |  |
+	| Wild Area 9 (Spooky) | Grass | 4 |  |
 
         
 

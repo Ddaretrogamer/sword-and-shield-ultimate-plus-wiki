@@ -84,8 +84,8 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 7 (Desert): South | Grass | 4 |  |
-	| Route 8 | Grass | 20 |  |
+        	| Postwick | Gift | 100 | Starter Pokémon |
+	| Wedgehurst | Gift | 100 | Defeat Jeanstars after beating the game to receive all 3 Galar starters |
 
         
 

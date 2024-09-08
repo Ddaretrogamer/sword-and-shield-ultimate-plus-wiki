@@ -84,8 +84,8 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Route 6 | Grass | 1 |  |
-	| Isle Of Armor 8 | Grass | 10 |  |
+        	| Wild Area 6 (Ice): West | Grass | 9 |  |
+	| Crown Tundra Snowy East | Grass | 10 |  |
 
         
 

@@ -81,17 +81,7 @@
 
 
 
-## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Hammerlocke | Purchase from NPC | 100 |  |
-	| Hammerlocke | Purchase from NPC | 100 |  |
-	| Hammerlocke | Purchase from NPC | 100 |  |
-	| Hammerlocke | Purchase from NPC | 100 |  |
-	| Hammerlocke | Purchase from NPC | 100 |  |
-	| Isle Of Armor 5 | Grass | 4 |  |
 
-        
 
 ## Moveset
 

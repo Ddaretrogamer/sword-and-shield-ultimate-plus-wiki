@@ -81,7 +81,16 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Galar Mine 1 | Grass | 11 |  |
+	| Galar Mine 2 | Grass | 24 |  |
+	| Wild Area 4 (Volcano) | Grass | 10 |  |
+	| Wild Area 8 (Rixy Chamber) | Grass | 20 |  |
+	| Route 8 Cave | Grass | 10 |  |
 
+        
 
 ## Moveset
 

@@ -81,7 +81,12 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Route 1 | In Game Trade | 100 | Trade for Eevee |
 
+        
 
 ## Moveset
 

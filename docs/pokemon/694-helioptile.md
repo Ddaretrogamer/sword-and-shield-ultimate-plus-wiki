@@ -84,7 +84,8 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Route 5 | Legendary | 100 | Catch 90 Pokémon and speak with Sonia. A new cave will appear where Yveltal awaits. |
+        	| Wild Area 3: South | Grass | 1 |  |
+	| Route 6 | Grass | 5 |  |
 
         
 

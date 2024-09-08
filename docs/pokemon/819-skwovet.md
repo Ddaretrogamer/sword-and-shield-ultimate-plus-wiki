@@ -84,7 +84,9 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Route 3 | Grass | 20 |  |
+        	| Slumbering Weald | Grass | 50 |  |
+	| Route 1 | Grass | 20 |  |
+	| Route 3 | Overworld | 100 |  |
 
         
 

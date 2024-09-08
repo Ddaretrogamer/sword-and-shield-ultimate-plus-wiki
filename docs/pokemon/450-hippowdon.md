@@ -81,7 +81,13 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Wild Area 7 (Desert): South | Grass | 10 |  |
+	| Route 8 | Grass | 10 |  |
 
+        
 
 ## Moveset
 

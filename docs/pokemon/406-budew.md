@@ -84,8 +84,8 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Brawlers Cave (Isle Of Armor) | Grass | 20 |  |
-	| Warm Up Tunnel (Isle Of Armor) | Grass | 4 |  |
+        	| Wild Area 3: North | Grass | 1 |  |
+	| Route 4 | Grass | 2 |  |
 
         
 

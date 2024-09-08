@@ -84,8 +84,8 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Postwick | Gift | 100 | Starter Pokémon |
-	| Wedgehurst | Gift | 100 | Defeat Jeanstars after beating the game to receive all 3 Galar starters |
+        	| Route 2 | Fishing   Good Rod | 33 |  |
+	| Isle Of Armor 7 | Surf | 100 |  |
 
         
 

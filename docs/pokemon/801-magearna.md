@@ -84,11 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 5: West | Grass | 4 |  |
-	| Freezington (Crown Tundra) | Grass | 20 |  |
-	| Crown Tundra Graveyard | Grass | 10 |  |
-	| Crown Tundra Snowy East | Grass | 10 |  |
-	| Resting Spot Entrance (Crown Tundra) | Grass | 10 |  |
+        	| Motostoke | Legendary | 100 | After getting cutter item, return to this route and go north to the small trees. Enter the house and Magearna should be there. |
 
         
 

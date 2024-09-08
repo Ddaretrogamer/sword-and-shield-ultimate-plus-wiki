@@ -84,13 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Galar Mine 1 | Grass | 21 |  |
-	| Galar Mine 1 | Overworld | 100 |  |
-	| Brawlers Cave (Isle Of Armor) | Overworld | 100 |  |
-	| Warm Up Tunnel (Isle Of Armor) | Overworld | 100 |  |
-	| Scifub Chamber (Crown Tundra) | Overworld | 100 |  |
-	| Liptoo Chamber (Crown Tundra) | Overworld | 100 |  |
-	| Tanoby Key (Crown Tundra) | Overworld | 100 |  |
+        	| Crown Tundra Grassy East | Legendary | 100 | Interact with Ultrawormhole. |
 
         
 

@@ -84,7 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Isle Of Armor 7 | Legendary | 100 |  |
+        	| Wild Area 4: North | Grass | 10 |  |
 
         
 

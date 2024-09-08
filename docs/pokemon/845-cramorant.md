@@ -84,9 +84,14 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Glimwood Tangle | Grass | 5 |  |
-	| Glimwood Tangle | Grass | 5 |  |
-	| Route 10 | Grass | 1 |  |
+        	| Wild Area 4: North | Overworld | 100 |  |
+	| Wild Area 8: East | Fishing   Super Rod | 20 |  |
+	| Route 9 | Grass | 10 |  |
+	| Route 9 | Surf | 20 |  |
+	| Route 9 | Overworld | 100 |  |
+	| Isle Of Armor 7 | Overworld | 100 |  |
+	| Isle Of Armor 8 | Overworld | 100 |  |
+	| Crown Tundra Grassy East | Overworld | 100 |  |
 
         
 

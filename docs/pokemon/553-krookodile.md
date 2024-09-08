@@ -81,12 +81,7 @@
 
 
 
-## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Wild Area 9 (Spooky) | Grass | 20 |  |
 
-        
 
 ## Moveset
 

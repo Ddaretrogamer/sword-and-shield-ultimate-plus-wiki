@@ -84,7 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Crown Tundra Snowy East | Legendary | 100 | Bring Regirock, Regice, and Registeel to the temple door. |
+        	| Route 7 | Grass | 5 |  |
 
         
 

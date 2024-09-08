@@ -84,7 +84,8 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Hammerlocke | Legendary | 100 | Show the little girl in the apartment building a Drifloon, Zeraora awaits on the roof. |
+        	| Wild Area 4: South | Grass | 20 |  |
+	| Wild Area 10 (Dragon) | Grass | 1 |  |
 
         
 

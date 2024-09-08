@@ -84,8 +84,10 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 9 (Spooky) | Grass | 5 |  |
-	| Crown Tundra Graveyard | Grass | 1 |  |
+        	| Route 1 | Grass | 20 |  |
+	| Wild Area 5: East | Overworld | 100 |  |
+	| Freezington (Crown Tundra) | Overworld | 100 |  |
+	| Crown Tundra Snowy East | Overworld | 100 |  |
 
         
 

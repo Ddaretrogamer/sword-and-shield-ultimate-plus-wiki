@@ -84,7 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 1 North | Grass | 1 |  |
+        	| Isle Of Armor 9 | Grass | 20 |  |
 
         
 

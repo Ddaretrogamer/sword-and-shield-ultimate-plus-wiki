@@ -81,7 +81,12 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Hammerlocke | Legendary | 100 | Unlocked as part of story mode |
 
+        
 
 ## Moveset
 

@@ -84,7 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Warm Up Tunnel (Isle Of Armor) | Grass | 10 |  |
+        	| Ballonlea | Legendary | 100 | Win the Gym Challenge Championship by defeating Leon and return to Ballonlea to find a Meltan. |
 
         
 

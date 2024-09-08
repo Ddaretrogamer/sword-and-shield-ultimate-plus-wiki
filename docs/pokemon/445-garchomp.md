@@ -81,7 +81,12 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Scifub Chamber (Crown Tundra) | Grass | 5 |  |
 
+        
 
 ## Moveset
 

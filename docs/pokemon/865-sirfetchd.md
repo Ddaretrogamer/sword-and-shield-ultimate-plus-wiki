@@ -81,12 +81,7 @@
 
 
 
-## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Resting Spot (Crown Tundra) | Legendary | 100 |  |
 
-        
 
 ## Moveset
 

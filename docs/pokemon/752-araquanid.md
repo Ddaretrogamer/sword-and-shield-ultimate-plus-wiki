@@ -81,7 +81,16 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Wild Area 1 South | Fishing   Super Rod | 20 |  |
+	| Wild Area 1 North | Fishing   Super Rod | 20 |  |
+	| Wild Area 10 (Dragon) | Surf | 20 |  |
+	| Crown Tundra Grassy East | Grass | 4 |  |
+	| Tree Base (Crown Tundra) | Grass | 5 |  |
 
+        
 
 ## Moveset
 

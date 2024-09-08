@@ -81,7 +81,14 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Galar Mine 1 | Grass | 10 |  |
+	| Galar Mine 2 | Grass | 9 |  |
+	| Motostoke | Grass | 10 |  |
 
+        
 
 ## Moveset
 

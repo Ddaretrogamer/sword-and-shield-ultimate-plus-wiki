@@ -84,7 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Isle Of Armor 7 | Grass | 10 |  |
+        	| Route 8 | Grass | 1 |  |
 
         
 

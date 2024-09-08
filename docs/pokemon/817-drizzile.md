@@ -81,13 +81,7 @@
 
 
 
-## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Route 5 | Gift | 100 | Gift from old woman in daycare |
-	| Route 7 | Grass | 20 |  |
 
-        
 
 ## Moveset
 

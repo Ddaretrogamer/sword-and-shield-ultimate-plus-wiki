@@ -84,8 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 10 (Dragon) | Grass | 5 |  |
-	| Brawlers Cave (Isle Of Armor) | Grass | 14 |  |
+        	| Wild Area 8: West | Grass | 5 |  |
 
         
 

@@ -81,16 +81,7 @@
 
 
 
-## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Route 2 | Fishing   Old Rod | 50 |  |
-	| Motostoke | Overworld | 100 |  |
-	| Galar Mine 1 | Fishing   Old Rod | 50 |  |
-	| Galar Mine 1 | Fishing   Good Rod | 33 |  |
-	| Wild Area 4: North | Overworld | 100 |  |
 
-        
 
 ## Moveset
 

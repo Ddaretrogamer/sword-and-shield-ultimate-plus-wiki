@@ -84,7 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Route 8 (Snow) | Legendary | 100 | Defeat the Garbodor the the old hermit's house, then get in the bed. |
+        	| Hammerlocke | Purchase from NPC | 100 |  |
 
         
 

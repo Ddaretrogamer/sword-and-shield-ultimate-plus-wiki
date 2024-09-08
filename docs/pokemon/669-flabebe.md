@@ -84,7 +84,9 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 10 (Dragon) | Surf | 20 |  |
+        	| Wild Area 1 South | Grass | 4 |  |
+	| Wild Area 1 North | Overworld | 100 |  |
+	| Wild Area 2 (Bear) | Overworld | 100 |  |
 
         
 

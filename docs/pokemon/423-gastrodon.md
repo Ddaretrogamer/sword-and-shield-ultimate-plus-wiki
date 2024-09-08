@@ -84,7 +84,8 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 9 (Spooky) | Grass | 10 |  |
+        	| Route 9 | Grass | 10 |  |
+	| Isle Of Armor 5 | Grass | 20 |  |
 
         
 

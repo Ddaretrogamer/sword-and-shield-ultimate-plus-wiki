@@ -84,10 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Route 8 | Grass | 10 |  |
-	| Crown Tundra Graveyard | Grass | 10 |  |
-	| Crown Tundra Grassy East | Grass | 20 |  |
-	| Tree Base (Crown Tundra) | Grass | 10 |  |
+        	| Wild Area 9 (Spooky) | Grass | 10 |  |
 
         
 

@@ -84,7 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Isle Of Armor 10 | Legendary | 100 |  |
+        	| Glimwood Tangle | Grass | 4 |  |
 
         
 

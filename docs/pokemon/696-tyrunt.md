@@ -84,7 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Courageous Cavern (Isle Of Armor) | Legendary | 100 |  |
+        	| Route 6 | Gift | 100 |  |
 
         
 

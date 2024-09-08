@@ -84,8 +84,8 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Route 3 | In Game Trade | 100 | Trade Yamper for Shinx |
-	| Wild Area 4: North | Grass | 1 |  |
+        	| Isle Of Armor 4 | Grass | 4 |  |
+	| Tree Base (Crown Tundra) | Surf | 100 |  |
 
         
 

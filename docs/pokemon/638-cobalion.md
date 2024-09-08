@@ -84,7 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Route 5 | In Game Trade | 100 | Trade Corvisquire for Froakie |
+        	| Dynamax Adventure (Crown Tundra) | Legendary | 100 |  |
 
         
 

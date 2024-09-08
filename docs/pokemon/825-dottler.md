@@ -84,8 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Motostoke | Grass | 10 |  |
-	| Motostoke | Grass | 10 |  |
+        	| Route 5 | Grass | 20 |  |
 
         
 

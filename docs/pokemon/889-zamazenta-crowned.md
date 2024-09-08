@@ -81,7 +81,12 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Slumbering Area | Legendary | 100 |  |
 
+        
 
 ## Moveset
 

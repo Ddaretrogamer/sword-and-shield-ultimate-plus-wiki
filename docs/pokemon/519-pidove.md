@@ -81,15 +81,7 @@
 
 
 
-## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Wild Area 1 South | Surf | 20 |  |
-	| Wild Area 1 South | Fishing   Good Rod | 33 |  |
-	| Wild Area 1 North | Surf | 20 |  |
-	| Motostoke | Grass | 10 |  |
 
-        
 
 ## Moveset
 

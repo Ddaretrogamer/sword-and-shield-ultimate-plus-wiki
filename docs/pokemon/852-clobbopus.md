@@ -84,7 +84,9 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Route 6 | Gift | 100 |  |
+        	| Wild Area 4: North | Overworld | 100 |  |
+	| Isle Of Armor 3 | Overworld | 100 |  |
+	| Isle Of Armor 4 | Overworld | 100 |  |
 
         
 

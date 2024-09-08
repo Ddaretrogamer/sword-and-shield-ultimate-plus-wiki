@@ -84,7 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Route 6 | Gift | 100 |  |
+        	| Isle Of Armor 8 | Grass | 5 |  |
 
         
 

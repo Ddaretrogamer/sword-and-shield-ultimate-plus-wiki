@@ -81,16 +81,7 @@
 
 
 
-## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Route 6 | Grass | 20 |  |
-	| Route 6 | Overworld | 100 |  |
-	| Wild Area 7 (Desert): North | Overworld | 100 |  |
-	| Wild Area 7 (Desert): South | Overworld | 100 |  |
-	| Isle Of Armor Desert | Overworld | 100 |  |
 
-        
 
 ## Moveset
 

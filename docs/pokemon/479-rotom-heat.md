@@ -81,7 +81,12 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Hammerlocke | Purchase from NPC | 100 |  |
 
+        
 
 ## Moveset
 

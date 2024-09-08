@@ -81,13 +81,7 @@
 
 
 
-## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Route 9 | Grass | 10 |  |
-	| Isle Of Armor 9 | Surf | 100 |  |
 
-        
 
 ## Moveset
 

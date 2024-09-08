@@ -81,13 +81,7 @@
 
 
 
-## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Turffield | Legendary | 100 |  |
-	| Galar Mine 2 | Legendary | 100 |  |
 
-        
 
 ## Moveset
 

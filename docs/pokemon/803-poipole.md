@@ -84,8 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Route 2 | Fishing   Good Rod | 33 |  |
-	| Wild Area 8: East | Fishing   Super Rod | 20 |  |
+        	| Crown Tundra Grassy East | Legendary | 100 | Interact with Ultrawormhole. |
 
         
 

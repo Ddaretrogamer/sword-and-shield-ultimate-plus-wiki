@@ -84,7 +84,8 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Crown Tundra Graveyard | Grass | 4 |  |
+        	| Circhester | Gift | 100 | Gift from the Phantonomy in the Crystal Hotel |
+	| Crown Tundra Grassy East | Legendary | 100 | Interact with Ultrawormhole. |
 
         
 

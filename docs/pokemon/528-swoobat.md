@@ -81,7 +81,13 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Liptoo Chamber (Crown Tundra) | Grass | 10 |  |
+	| Tanoby Key (Crown Tundra) | Grass | 10 |  |
 
+        
 
 ## Moveset
 

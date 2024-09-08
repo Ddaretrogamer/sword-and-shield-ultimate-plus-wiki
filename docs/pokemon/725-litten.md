@@ -84,7 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Route 5 | Grass | 10 |  |
+        	| Ballonlea | In Game Trade | 100 | Trade Galarian Zigzagoon for Litten |
 
         
 

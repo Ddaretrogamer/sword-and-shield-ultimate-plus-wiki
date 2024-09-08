@@ -84,10 +84,8 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Route 2 | Fishing   Super Rod | 20 |  |
-	| Route 2 | Fishing   Super Rod | 20 |  |
-	| Galar Mine 1 | Fishing   Super Rod | 20 |  |
-	| Isle Of Armor 10 | Surf | 100 |  |
+        	| Crown Tundra Graveyard | Grass | 5 |  |
+	| Crown Tundra Grassy East | Grass | 5 |  |
 
         
 

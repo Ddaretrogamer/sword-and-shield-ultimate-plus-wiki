@@ -84,8 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 1 South | Grass | 2 |  |
-	| Wild Area 1 South | In Game Trade | 100 | Trade Drakloak for Chespin |
+        	| Wild Area 1 South | In Game Trade | 100 | Trade Drakloak for Chespin |
 
         
 

@@ -84,8 +84,8 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Freezington (Crown Tundra) | Grass | 1 |  |
-	| Resting Spot Entrance (Crown Tundra) | Grass | 20 |  |
+        	| Wild Area 3: North | Grass | 4 |  |
+	| Galar Mine 2 | Grass | 10 |  |
 
         
 

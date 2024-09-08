@@ -81,7 +81,12 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Wild Area 2 (Bear) | Grass | 10 |  |
 
+        
 
 ## Moveset
 

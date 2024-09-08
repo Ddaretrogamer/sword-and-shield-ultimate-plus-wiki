@@ -84,7 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Isle Of Armor 5 | Grass | 5 |  |
+        	| Tanoby Key (Crown Tundra) | Grass | 5 |  |
 
         
 

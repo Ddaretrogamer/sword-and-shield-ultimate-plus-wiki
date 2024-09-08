@@ -84,9 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Freezington (Crown Tundra) | Grass | 10 |  |
-	| Crown Tundra Snowy East | Grass | 10 |  |
-	| Resting Spot Entrance (Crown Tundra) | Grass | 10 |  |
+        	| Route 5 | Grass | 4 |  |
 
         
 

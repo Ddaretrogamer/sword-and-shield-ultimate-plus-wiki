@@ -84,7 +84,8 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 8: West | Grass | 10 |  |
+        	| Wild Area 4: North | Surf | 20 |  |
+	| Wild Area 4: North | Fishing   Good Rod | 33 |  |
 
         
 

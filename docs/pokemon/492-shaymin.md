@@ -81,7 +81,12 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Wild Area 2 (Bear) | Legendary | 100 | Complete In-Game trades for Snivy, Oshawott, and Tepig. |
 
+        
 
 ## Moveset
 

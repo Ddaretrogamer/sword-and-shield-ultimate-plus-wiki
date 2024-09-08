@@ -84,9 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 8 (Rixy Chamber) | Grass | 10 |  |
-	| Wild Area 8 (Rixy Chamber) | Grass | 5 |  |
-	| Warm Up Tunnel (Isle Of Armor) | Grass | 20 |  |
+        	| Dynamax Adventure (Crown Tundra) | Legendary | 100 |  |
 
         
 

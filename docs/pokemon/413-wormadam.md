@@ -81,13 +81,7 @@
 
 
 
-## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Wild Area 4: North | Surf | 20 |  |
-	| Wild Area 4: North | Fishing   Good Rod | 33 |  |
 
-        
 
 ## Moveset
 

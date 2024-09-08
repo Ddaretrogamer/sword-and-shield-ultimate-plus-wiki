@@ -84,8 +84,9 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Slumbering Weald | Grass | 5 |  |
-	| Wild Area 1 North | Grass | 1 |  |
+        	| Wild Area 6 (Ice): East | Fishing   Super Rod | 60 |  |
+	| Wild Area 6 (Ice): West | Grass | 20 |  |
+	| Tree Base (Crown Tundra) | Grass | 10 |  |
 
         
 

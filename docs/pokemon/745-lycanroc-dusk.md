@@ -81,13 +81,7 @@
 
 
 
-## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Wild Area 4: South | Grass | 20 |  |
-	| Wild Area 10 (Dragon) | Grass | 1 |  |
 
-        
 
 ## Moveset
 

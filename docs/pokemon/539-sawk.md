@@ -84,8 +84,8 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Isle Of Armor 7 | Grass | 10 |  |
-	| Crown Tundra Snowy East | Grass | 4 |  |
+        	| Wild Area 5: East | Grass | 1 |  |
+	| Route 8 (Snow) | Grass | 5 |  |
 
         
 

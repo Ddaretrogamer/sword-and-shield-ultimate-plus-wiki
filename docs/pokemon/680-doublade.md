@@ -84,7 +84,8 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 1 North | Grass | 4 |  |
+        	| Wild Area 5: West | Grass | 5 |  |
+	| Courageous Cavern (Route 10) | Grass | 1 |  |
 
         
 

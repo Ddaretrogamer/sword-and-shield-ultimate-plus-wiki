@@ -81,7 +81,12 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Wild Area 10 (Dragon) | Legendary | 100 | Defeat the battle tower in the Dragon Wild Area to have a choice to battle Zarude |
 
+        
 
 ## Moveset
 

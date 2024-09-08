@@ -84,7 +84,8 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 2 (Bear) | Grass | 5 |  |
+        	| Route 8 Cave | Grass | 20 |  |
+	| Brawlers Cave (Isle Of Armor) | Grass | 1 |  |
 
         
 

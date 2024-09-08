@@ -84,7 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 1 North | Fishing   Good Rod | 33 |  |
+        	| Isle Of Armor 7 | Grass | 20 |  |
 
         
 

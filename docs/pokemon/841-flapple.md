@@ -81,15 +81,7 @@
 
 
 
-## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Route 8 (Snow) | Grass | 20 |  |
-	| Route 8 (Snow) | Overworld | 100 |  |
-	| Route 10 | Grass | 4 |  |
-	| Route 10 | Overworld | 100 |  |
 
-        
 
 ## Moveset
 

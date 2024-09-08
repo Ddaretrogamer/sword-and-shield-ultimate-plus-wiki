@@ -84,7 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Route 1 | In Game Trade | 100 | Trade for Eevee |
+        	| Galar Mine 2 | In Game Trade | 100 | Trade Flareon for Chimchar |
 
         
 

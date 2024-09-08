@@ -84,9 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 1 South | Grass | 4 |  |
-	| Wild Area 1 North | Overworld | 100 |  |
-	| Wild Area 2 (Bear) | Overworld | 100 |  |
+        	| Circhester | Legendary | 100 | Pay the woman in Wyndon to play the Pokeflute and return to Circhester Restaurant. Meloetta will be there. |
 
         
 

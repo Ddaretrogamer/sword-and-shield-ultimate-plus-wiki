@@ -84,10 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 4 West | Overworld | 100 |  |
-	| Wild Area 5: West | Overworld | 100 |  |
-	| Isle Of Armor 3 | Overworld | 100 |  |
-	| Isle Of Armor 4 | Overworld | 100 |  |
+        	| Glimwood Tangle | Grass | 11 |  |
 
         
 

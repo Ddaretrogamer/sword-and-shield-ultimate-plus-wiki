@@ -84,7 +84,8 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Crown Tundra Graveyard | Legendary | 100 | Interact with Ultrawormhole. |
+        	| Route 9 | Grass | 5 |  |
+	| Isle Of Armor 9 | Grass | 4 |  |
 
         
 

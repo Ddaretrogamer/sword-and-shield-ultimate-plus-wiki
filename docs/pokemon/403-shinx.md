@@ -84,8 +84,8 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 3: North | Grass | 1 |  |
-	| Route 4 | Grass | 2 |  |
+        	| Route 3 | In Game Trade | 100 | Trade Yamper for Shinx |
+	| Wild Area 4: North | Grass | 1 |  |
 
         
 

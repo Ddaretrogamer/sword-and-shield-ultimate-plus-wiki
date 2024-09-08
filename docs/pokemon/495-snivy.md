@@ -81,7 +81,12 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Stow-On-Side | In Game Trade | 100 | Trade Galarian Meowth for Snivy |
 
+        
 
 ## Moveset
 

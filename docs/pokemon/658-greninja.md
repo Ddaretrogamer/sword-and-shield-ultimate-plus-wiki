@@ -84,8 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 5: West | Grass | 5 |  |
-	| Courageous Cavern (Route 10) | Grass | 1 |  |
+        	| Wild Area 10 (Dragon) | Gift | 100 | Defeat the battle tower in the Dragon Wild Area to have a choice to battle Greninja |
 
         
 

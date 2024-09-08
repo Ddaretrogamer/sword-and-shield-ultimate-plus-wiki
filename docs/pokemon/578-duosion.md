@@ -81,14 +81,7 @@
 
 
 
-## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Route 7 | Grass | 4 |  |
-	| Crown Tundra Grassy East | Grass | 1 |  |
-	| Tree Base (Crown Tundra) | Grass | 5 |  |
 
-        
 
 ## Moveset
 

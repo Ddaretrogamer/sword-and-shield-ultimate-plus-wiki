@@ -84,7 +84,9 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 1 North | Grass | 5 |  |
+        	| Wild Area 1 North | Overworld | 100 |  |
+	| Wild Area 5: West | Grass | 10 |  |
+	| Wild Area 5: West | Overworld | 100 |  |
 
         
 

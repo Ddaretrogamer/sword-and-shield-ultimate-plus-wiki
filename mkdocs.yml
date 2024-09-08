@@ -11,13 +11,13 @@ theme:
   favicon: img/items/poke-ball.png
   palette:
   - media: '(prefers-color-scheme: light)'
-    primary: black
+    primary: cyan
     scheme: default
     toggle:
       icon: material/eye-outline
       name: Switch to dark mode
   - media: '(prefers-color-scheme: dark)'
-    primary: black
+    primary: cyan
     scheme: default
     toggle:
       icon: material/eye

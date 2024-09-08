@@ -84,8 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Motostoke | In Game Trade | 100 | Trade Dubwool for Turtwig |
-	| Stow-On-Side | Legendary | 100 | Interact with Meteorite with Deoxys to change form |
+        	| Stow-On-Side | Legendary | 100 | Interact with Meteorite with Deoxys to change form |
 
         
 

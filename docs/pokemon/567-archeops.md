@@ -84,7 +84,9 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 1 North | Grass | 4 |  |
+        	| Brawlers Cave (Isle Of Armor) | Grass | 10 |  |
+	| Warm Up Tunnel (Isle Of Armor) | Grass | 10 |  |
+	| Crown Tundra Grassy East | Grass | 10 |  |
 
         
 

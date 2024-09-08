@@ -84,8 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Galar Mine 1 | Grass | 20 |  |
-	| Wild Area 4 (Volcano) | Grass | 4 |  |
+        	| Hammerlocke | Legendary | 100 | Show the little girl in the apartment building a Drifloon, Zeraora awaits on the roof. |
 
         
 

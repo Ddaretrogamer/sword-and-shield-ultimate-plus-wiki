@@ -84,7 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Hammerlocke | Legendary | 100 | Interact with the chalkboard in the empty house to unveil a secret base. Clear the secret base to get a Type: Null. |
+        	| Isle Of Armor 9 | Grass | 10 |  |
 
         
 

@@ -81,12 +81,7 @@
 
 
 
-## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Courageous Cavern (Route 10) | Grass | 1 |  |
 
-        
 
 ## Moveset
 
