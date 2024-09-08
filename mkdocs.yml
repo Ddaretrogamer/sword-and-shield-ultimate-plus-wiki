@@ -18,7 +18,7 @@ theme:
       name: Switch to dark mode
   - media: '(prefers-color-scheme: dark)'
     primary: cyan
-    scheme: default
+    scheme: slate
     toggle:
       icon: material/eye
       name: Switch to light mode
