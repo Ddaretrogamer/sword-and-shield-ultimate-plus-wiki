@@ -1,24 +1,24 @@
-<div style="display: flex; flex-direction: row; column-gap: 3rem; align-content: center;">
+<div class="pokemon-attribute-container">
   <img src="../../img/pokemon/whiscash.png" width="100"/>
 
   <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
-    <div style="display: grid; grid-template-columns: 100px auto; column-gap: 3rem; alignt-items: center;">
+    <div class="pokemon-attribute">
       <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Types</p>
-      <div style="display: flex; flex-direction: row; align-items: center; column-gap: 1rem">
+      <div class="attribute-value" style="column-gap: 0.5rem;">
         <img src='../../img/types/water.png' style='width: 77px; height: 26px;'/>
         <img src='../../img/types/ground.png' style='width: 77px; height: 26px;'/>
       </div>
     </div>
-    <div style="display: grid; grid-template-columns: 100px auto; column-gap: 3rem; alignt-items: center; ">
+    <div class="pokemon-attribute">
       <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Abilities</p>
-      <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
+      <div class="attribute-value">
         <a href='' title="This Pokemon cannot be infatuated and is immune to captivate.  If a Pokemon is infatuated and acquires this ability, its infatuation is cleared.">Oblivious</a>
         /<a href='' title="When this Pokemon enters battle, if one of its opponents has a move that is super effective against it, self destruct, explosion, or a one-hit knockout move, all participating trainers are notified.  The move itself is not revealed; only that there is such a move.  Moves that inflict typeless damage, such as future sight, and moves of variable type, such as hidden power, count as their listed types.  counter, metal burst, mirror coat, and one-hit KO moves to which this Pokemon is immune do not trigger this ability.">Anticipation</a>
       </div>
     </div>
-    <div style="display: none; grid-template-columns: 100px auto; column-gap: 3rem; alignt-items: center; ">
+    <div style="display: none;" class="hidden-pokemon-attribute">
       <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:15px; align-self: center;">Hidden Ability</p>
-      <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
+      <div class="attribute-value">
         
       </div>
     </div>

@@ -4,7 +4,7 @@
 
 
 	???+ note "Grass Lv. 40-50"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![raticate](../../img/pokemon/raticate.png) [Raticate](/sword-and-shield-ultimate-plus-wiki/pokemon/020-raticate) 20%
                 </div><div style="display: grid; justify-items: center">
                     ![fearow](../../img/pokemon/fearow.png) [Fearow](/sword-and-shield-ultimate-plus-wiki/pokemon/022-fearow) 20%
@@ -29,14 +29,14 @@
                 </div></div>
 
 	???+ note "Surf Lv. 40"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![poliwhirl](../../img/pokemon/poliwhirl.png) [Poliwhirl](/sword-and-shield-ultimate-plus-wiki/pokemon/061-poliwhirl) 60%
                 </div><div style="display: grid; justify-items: center">
                     ![golduck](../../img/pokemon/golduck.png) [Golduck](/sword-and-shield-ultimate-plus-wiki/pokemon/055-golduck) 40%
                 </div></div>
 
 	???+ note "Overworld Lv. 50-52"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![pelipper](../../img/pokemon/pelipper.png) [Pelipper](/sword-and-shield-ultimate-plus-wiki/pokemon/279-pelipper) 100%
                 </div><div style="display: grid; justify-items: center">
                     ![sharpedo](../../img/pokemon/sharpedo.png) [Sharpedo](/sword-and-shield-ultimate-plus-wiki/pokemon/319-sharpedo) 100%
@@ -45,7 +45,7 @@
                 </div></div>
 
 	???+ note "Legendary Lv. 50"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![tapu-bulu](../../img/pokemon/tapu-bulu.png) [Tapu-bulu](/sword-and-shield-ultimate-plus-wiki/pokemon/787-tapu-bulu) 100%
                 </div><div style="display: grid; justify-items: center">
                     ![tapu-koko](../../img/pokemon/tapu-koko.png) [Tapu-koko](/sword-and-shield-ultimate-plus-wiki/pokemon/785-tapu-koko) 100%

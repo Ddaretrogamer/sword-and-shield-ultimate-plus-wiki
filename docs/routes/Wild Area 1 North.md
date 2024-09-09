@@ -4,7 +4,7 @@
 
 
 	???+ note "Grass"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![ekans](../../img/pokemon/ekans.png) [Ekans](/sword-and-shield-ultimate-plus-wiki/pokemon/023-ekans) 20%
                 </div><div style="display: grid; justify-items: center">
                     ![pikachu](../../img/pokemon/pikachu.png) [Pikachu](/sword-and-shield-ultimate-plus-wiki/pokemon/025-pikachu) 20%
@@ -31,7 +31,7 @@
                 </div></div>
 
 	???+ note "Surf"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![magikarp](../../img/pokemon/magikarp.png) [Magikarp](/sword-and-shield-ultimate-plus-wiki/pokemon/129-magikarp) 20%
                 </div><div style="display: grid; justify-items: center">
                     ![horsea](../../img/pokemon/horsea.png) [Horsea](/sword-and-shield-ultimate-plus-wiki/pokemon/116-horsea) 20%
@@ -44,14 +44,14 @@
                 </div></div>
 
 	???+ note "Fishing   Old Rod"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![skrelp](../../img/pokemon/skrelp.png) [Skrelp](/sword-and-shield-ultimate-plus-wiki/pokemon/690-skrelp) 50%
                 </div><div style="display: grid; justify-items: center">
                     ![tentacool](../../img/pokemon/tentacool.png) [Tentacool](/sword-and-shield-ultimate-plus-wiki/pokemon/072-tentacool) 50%
                 </div></div>
 
 	???+ note "Fishing   Good Rod"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![magikarp](../../img/pokemon/magikarp.png) [Magikarp](/sword-and-shield-ultimate-plus-wiki/pokemon/129-magikarp) 33%
                 </div><div style="display: grid; justify-items: center">
                     ![palpitoad](../../img/pokemon/palpitoad.png) [Palpitoad](/sword-and-shield-ultimate-plus-wiki/pokemon/536-palpitoad) 33%
@@ -60,7 +60,7 @@
                 </div></div>
 
 	???+ note "Fishing   Super Rod"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![feebas](../../img/pokemon/feebas.png) [Feebas](/sword-and-shield-ultimate-plus-wiki/pokemon/349-feebas) 20%
                 </div><div style="display: grid; justify-items: center">
                     ![golisopod](../../img/pokemon/golisopod.png) [Golisopod](/sword-and-shield-ultimate-plus-wiki/pokemon/768-golisopod) 20%
@@ -73,7 +73,7 @@
                 </div></div>
 
 	???+ note "Overworld"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![scraggy](../../img/pokemon/scraggy.png) [Scraggy](/sword-and-shield-ultimate-plus-wiki/pokemon/559-scraggy) 100%
                 </div><div style="display: grid; justify-items: center">
                     ![flabebe](../../img/pokemon/flabebe.png) [Flabebe](/sword-and-shield-ultimate-plus-wiki/pokemon/669-flabebe) 100%

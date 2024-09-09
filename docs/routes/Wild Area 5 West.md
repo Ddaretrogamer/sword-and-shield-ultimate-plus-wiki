@@ -4,7 +4,7 @@
 
 
 	???+ note "Grass"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![misdreavus](../../img/pokemon/misdreavus.png) [Misdreavus](/sword-and-shield-ultimate-plus-wiki/pokemon/200-misdreavus) 20%
                 </div><div style="display: grid; justify-items: center">
                     ![magneton](../../img/pokemon/magneton.png) [Magneton](/sword-and-shield-ultimate-plus-wiki/pokemon/082-magneton) 20%
@@ -31,7 +31,7 @@
                 </div></div>
 
 	???+ note "Overworld"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![taillow](../../img/pokemon/taillow.png) [Taillow](/sword-and-shield-ultimate-plus-wiki/pokemon/276-taillow) 100%
                 </div><div style="display: grid; justify-items: center">
                     ![scraggy](../../img/pokemon/scraggy.png) [Scraggy](/sword-and-shield-ultimate-plus-wiki/pokemon/559-scraggy) 100%
@@ -40,7 +40,7 @@
                 </div></div>
 
 	???+ note "Legendary"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![zapdos](../../img/pokemon/zapdos.png) [Zapdos](/sword-and-shield-ultimate-plus-wiki/pokemon/145-zapdos) 100%
                 </div></div>
 

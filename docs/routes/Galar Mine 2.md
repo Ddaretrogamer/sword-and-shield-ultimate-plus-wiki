@@ -4,7 +4,7 @@
 
 
 	???+ note "Grass"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![chewtle](../../img/pokemon/chewtle.png) [Chewtle](/sword-and-shield-ultimate-plus-wiki/pokemon/833-chewtle) 25%
                 </div><div style="display: grid; justify-items: center">
                     ![noibat](../../img/pokemon/noibat.png) [Noibat](/sword-and-shield-ultimate-plus-wiki/pokemon/714-noibat) 24%
@@ -21,14 +21,14 @@
                 </div></div>
 
 	???+ note "Fishing   Old Rod Lv. 5-10"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![wimpod](../../img/pokemon/wimpod.png) [Wimpod](/sword-and-shield-ultimate-plus-wiki/pokemon/767-wimpod) 50%
                 </div><div style="display: grid; justify-items: center">
                     ![feebas](../../img/pokemon/feebas.png) [Feebas](/sword-and-shield-ultimate-plus-wiki/pokemon/349-feebas) 50%
                 </div></div>
 
 	???+ note "Fishing   Good Rod Lv. 10-15"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![barboach](../../img/pokemon/barboach.png) [Barboach](/sword-and-shield-ultimate-plus-wiki/pokemon/339-barboach) 33%
                 </div><div style="display: grid; justify-items: center">
                     ![magikarp](../../img/pokemon/magikarp.png) [Magikarp](/sword-and-shield-ultimate-plus-wiki/pokemon/129-magikarp) 33%
@@ -37,7 +37,7 @@
                 </div></div>
 
 	???+ note "Fishing   Super Rod Lv. 30-40"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![golisopod](../../img/pokemon/golisopod.png) [Golisopod](/sword-and-shield-ultimate-plus-wiki/pokemon/768-golisopod) 40%
                 </div><div style="display: grid; justify-items: center">
                     ![seismitoad](../../img/pokemon/seismitoad.png) [Seismitoad](/sword-and-shield-ultimate-plus-wiki/pokemon/537-seismitoad) 20%
@@ -48,12 +48,12 @@
                 </div></div>
 
 	???+ note "In Game Trade Lv. 10"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![chimchar](../../img/pokemon/chimchar.png) [Chimchar](/sword-and-shield-ultimate-plus-wiki/pokemon/390-chimchar) 100%
                 </div></div>
 
 	???+ note "Legendary Lv. 70"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![zygarde-complete](../../img/pokemon/zygarde-complete.png) [Zygarde-complete](/sword-and-shield-ultimate-plus-wiki/pokemon/718-zygarde-complete) 100%
                 </div></div>
 

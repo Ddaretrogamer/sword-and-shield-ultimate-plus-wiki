@@ -4,7 +4,7 @@
 
 
 	???+ note "Grass Lv. 2-3"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![skwovet](../../img/pokemon/skwovet.png) [Skwovet](/sword-and-shield-ultimate-plus-wiki/pokemon/819-skwovet) 50%
                 </div><div style="display: grid; justify-items: center">
                     ![rookidee](../../img/pokemon/rookidee.png) [Rookidee](/sword-and-shield-ultimate-plus-wiki/pokemon/821-rookidee) 20%

@@ -1,24 +1,24 @@
-<div style="display: flex; flex-direction: row; column-gap: 3rem; align-content: center;">
+<div class="pokemon-attribute-container">
   <img src="../../img/pokemon/sableye.png" width="100"/>
 
   <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
-    <div style="display: grid; grid-template-columns: 100px auto; column-gap: 3rem; alignt-items: center;">
+    <div class="pokemon-attribute">
       <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Types</p>
-      <div style="display: flex; flex-direction: row; align-items: center; column-gap: 1rem">
+      <div class="attribute-value" style="column-gap: 0.5rem;">
         <img src='../../img/types/dark.png' style='width: 77px; height: 26px;'/>
         <img src='../../img/types/ghost.png' style='width: 77px; height: 26px;'/>
       </div>
     </div>
-    <div style="display: grid; grid-template-columns: 100px auto; column-gap: 3rem; alignt-items: center; ">
+    <div class="pokemon-attribute">
       <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Abilities</p>
-      <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
+      <div class="attribute-value">
         <a href='' title="This Pokemon cannot have its accuracy lowered.  This ability does not prevent any accuracy losses other than stat modifiers, such as the accuracy cut from fog; nor does it prevent other Pokemon's evasion from making this Pokemon's moves less accurate.  This Pokemon can still be passed negative accuracy modifiers through heart swap.  Overworld: If the first Pokemon in the party has this ability, any random encounter with a Pokemon five or more levels lower than it has a 50% chance of being skipped.">Keen-eye</a>
         /<a href='' title="This Pokemon moves last within its priority bracket.  Multiple Pokemon with this ability move in order of Speed amongst themselves.  The full incense and lagging tail take precedence over this ability; that is, Pokemon with these items move after Pokemon with this ability.  Pokemon with both this ability and one of these items are delayed as much as if they had only the item.  This ability works as usual during trick room: Pokemon with this ability will move in reverse order of Speed after Pokemon without it.">Stall</a>
       </div>
     </div>
-    <div style="display: none; grid-template-columns: 100px auto; column-gap: 3rem; alignt-items: center; ">
+    <div style="display: none;" class="hidden-pokemon-attribute">
       <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:15px; align-self: center;">Hidden Ability</p>
-      <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
+      <div class="attribute-value">
         
       </div>
     </div>

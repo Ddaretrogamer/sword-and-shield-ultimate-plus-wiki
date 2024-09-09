@@ -4,7 +4,7 @@
 
 
 	???+ note "Grass Lv. 40-46"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![cubchoo](../../img/pokemon/cubchoo.png) [Cubchoo](/sword-and-shield-ultimate-plus-wiki/pokemon/613-cubchoo) 20%
                 </div><div style="display: grid; justify-items: center">
                     ![mr-mime](../../img/pokemon/mr-mime.png) [Mr-mime](/sword-and-shield-ultimate-plus-wiki/pokemon/122-mr-mime) 20%
@@ -31,7 +31,7 @@
                 </div></div>
 
 	???+ note "Overworld Lv. 40"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![snom](../../img/pokemon/snom.png) [Snom](/sword-and-shield-ultimate-plus-wiki/pokemon/872-snom) 100%
                 </div><div style="display: grid; justify-items: center">
                     ![snover](../../img/pokemon/snover.png) [Snover](/sword-and-shield-ultimate-plus-wiki/pokemon/459-snover) 100%

@@ -4,7 +4,7 @@
 
 
 	???+ note "Grass"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![tauros](../../img/pokemon/tauros.png) [Tauros](/sword-and-shield-ultimate-plus-wiki/pokemon/128-tauros) 20%
                 </div><div style="display: grid; justify-items: center">
                     ![elekid](../../img/pokemon/elekid.png) [Elekid](/sword-and-shield-ultimate-plus-wiki/pokemon/239-elekid) 20%
@@ -31,7 +31,7 @@
                 </div></div>
 
 	???+ note "Overworld"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![gossifleur](../../img/pokemon/gossifleur.png) [Gossifleur](/sword-and-shield-ultimate-plus-wiki/pokemon/829-gossifleur) 100%
                 </div><div style="display: grid; justify-items: center">
                     ![combee](../../img/pokemon/combee.png) [Combee](/sword-and-shield-ultimate-plus-wiki/pokemon/415-combee) 100%

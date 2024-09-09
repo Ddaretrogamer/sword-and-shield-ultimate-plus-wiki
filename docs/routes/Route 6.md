@@ -4,7 +4,7 @@
 
 
 	???+ note "Grass"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![silicobra](../../img/pokemon/silicobra.png) [Silicobra](/sword-and-shield-ultimate-plus-wiki/pokemon/843-silicobra) 20%
                 </div><div style="display: grid; justify-items: center">
                     ![axew](../../img/pokemon/axew.png) [Axew](/sword-and-shield-ultimate-plus-wiki/pokemon/610-axew) 20%
@@ -31,14 +31,14 @@
                 </div></div>
 
 	???+ note "Overworld"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![yamask](../../img/pokemon/yamask.png) [Yamask](/sword-and-shield-ultimate-plus-wiki/pokemon/562-yamask) 100%
                 </div><div style="display: grid; justify-items: center">
                     ![silicobra](../../img/pokemon/silicobra.png) [Silicobra](/sword-and-shield-ultimate-plus-wiki/pokemon/843-silicobra) 100%
                 </div></div>
 
 	???+ note "Gift"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![arctovish](../../img/pokemon/arctovish.png) [Arctovish](/sword-and-shield-ultimate-plus-wiki/pokemon/883-arctovish) 100%
                 </div><div style="display: grid; justify-items: center">
                     ![dracovish](../../img/pokemon/dracovish.png) [Dracovish](/sword-and-shield-ultimate-plus-wiki/pokemon/882-dracovish) 100%

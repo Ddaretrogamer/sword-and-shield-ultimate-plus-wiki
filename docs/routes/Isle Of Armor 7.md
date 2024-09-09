@@ -4,7 +4,7 @@
 
 
 	???+ note "Grass Lv. 40-50"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![tranquill](../../img/pokemon/tranquill.png) [Tranquill](/sword-and-shield-ultimate-plus-wiki/pokemon/520-tranquill) 20%
                 </div><div style="display: grid; justify-items: center">
                     ![unfezant](../../img/pokemon/unfezant.png) [Unfezant](/sword-and-shield-ultimate-plus-wiki/pokemon/521-unfezant) 20%
@@ -31,12 +31,12 @@
                 </div></div>
 
 	???+ note "Surf Lv. 40"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![bruxish](../../img/pokemon/bruxish.png) [Bruxish](/sword-and-shield-ultimate-plus-wiki/pokemon/779-bruxish) 100%
                 </div></div>
 
 	???+ note "Overworld"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![cramorant](../../img/pokemon/cramorant.png) [Cramorant](/sword-and-shield-ultimate-plus-wiki/pokemon/845-cramorant) 100%
                 </div><div style="display: grid; justify-items: center">
                     ![houndour](../../img/pokemon/houndour.png) [Houndour](/sword-and-shield-ultimate-plus-wiki/pokemon/228-houndour) 100%
@@ -53,7 +53,7 @@
                 </div></div>
 
 	???+ note "Legendary Lv. 50"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![tapu-fini](../../img/pokemon/tapu-fini.png) [Tapu-fini](/sword-and-shield-ultimate-plus-wiki/pokemon/788-tapu-fini) 100%
                 </div></div>
 

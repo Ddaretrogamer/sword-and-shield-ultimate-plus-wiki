@@ -1,24 +1,24 @@
-<div style="display: flex; flex-direction: row; column-gap: 3rem; align-content: center;">
+<div class="pokemon-attribute-container">
   <img src="../../img/pokemon/kingler.png" width="100"/>
 
   <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
-    <div style="display: grid; grid-template-columns: 100px auto; column-gap: 3rem; alignt-items: center;">
+    <div class="pokemon-attribute">
       <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Types</p>
-      <div style="display: flex; flex-direction: row; align-items: center; column-gap: 1rem">
+      <div class="attribute-value" style="column-gap: 0.5rem;">
         <img src='../../img/types/water.png' style='width: 77px; height: 26px;'/>
         
       </div>
     </div>
-    <div style="display: grid; grid-template-columns: 100px auto; column-gap: 3rem; alignt-items: center; ">
+    <div class="pokemon-attribute">
       <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Abilities</p>
-      <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
+      <div class="attribute-value">
         <a href='' title="This Pokemon's Attack cannot be lowered by other Pokemon.  This ability does not prevent any Attack losses other than stat modifiers, such as the Attack cut from a burn.  This Pokemon can still be passed negative Attack modifiers through heart swap or power swap.">Hyper-cutter</a>
         /<a href='' title="Moves cannot score critical hits against this Pokemon.  This ability functions identically to battle armor.">Shell-armor</a>
       </div>
     </div>
-    <div style="display: none; grid-template-columns: 100px auto; column-gap: 3rem; alignt-items: center; ">
+    <div style="display: none;" class="hidden-pokemon-attribute">
       <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:15px; align-self: center;">Hidden Ability</p>
-      <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
+      <div class="attribute-value">
         
       </div>
     </div>

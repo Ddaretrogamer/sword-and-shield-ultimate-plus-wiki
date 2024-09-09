@@ -4,7 +4,7 @@
 
 
 	???+ note "Grass Lv. 40-47"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![octillery](../../img/pokemon/octillery.png) [Octillery](/sword-and-shield-ultimate-plus-wiki/pokemon/224-octillery) 20%
                 </div><div style="display: grid; justify-items: center">
                     ![kingler](../../img/pokemon/kingler.png) [Kingler](/sword-and-shield-ultimate-plus-wiki/pokemon/099-kingler) 20%
@@ -31,7 +31,7 @@
                 </div></div>
 
 	???+ note "Surf Lv. 30"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![dewgong](../../img/pokemon/dewgong.png) [Dewgong](/sword-and-shield-ultimate-plus-wiki/pokemon/087-dewgong) 20%
                 </div><div style="display: grid; justify-items: center">
                     ![lapras](../../img/pokemon/lapras.png) [Lapras](/sword-and-shield-ultimate-plus-wiki/pokemon/131-lapras) 20%
@@ -44,7 +44,7 @@
                 </div></div>
 
 	???+ note "Overworld Lv. 39-41"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![nickit](../../img/pokemon/nickit.png) [Nickit](/sword-and-shield-ultimate-plus-wiki/pokemon/827-nickit) 100%
                 </div><div style="display: grid; justify-items: center">
                     ![cramorant](../../img/pokemon/cramorant.png) [Cramorant](/sword-and-shield-ultimate-plus-wiki/pokemon/845-cramorant) 100%

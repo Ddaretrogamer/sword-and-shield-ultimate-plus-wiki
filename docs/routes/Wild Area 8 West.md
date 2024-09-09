@@ -4,7 +4,7 @@
 
 
 	???+ note "Grass"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![kangaskhan](../../img/pokemon/kangaskhan.png) [Kangaskhan](/sword-and-shield-ultimate-plus-wiki/pokemon/115-kangaskhan) 20%
                 </div><div style="display: grid; justify-items: center">
                     ![pinsir](../../img/pokemon/pinsir.png) [Pinsir](/sword-and-shield-ultimate-plus-wiki/pokemon/127-pinsir) 20%
@@ -31,7 +31,7 @@
                 </div></div>
 
 	???+ note "Overworld Lv. 28-34"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![pyroar](../../img/pokemon/pyroar.png) [Pyroar](/sword-and-shield-ultimate-plus-wiki/pokemon/668-pyroar) 100%
                 </div><div style="display: grid; justify-items: center">
                     ![duraludon](../../img/pokemon/duraludon.png) [Duraludon](/sword-and-shield-ultimate-plus-wiki/pokemon/884-duraludon) 100%

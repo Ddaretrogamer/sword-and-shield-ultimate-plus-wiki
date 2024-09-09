@@ -4,7 +4,7 @@
 
 
 	???+ note "Grass Lv. 63-73"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![golbat](../../img/pokemon/golbat.png) [Golbat](/sword-and-shield-ultimate-plus-wiki/pokemon/042-golbat) 20%
                 </div><div style="display: grid; justify-items: center">
                     ![graveler](../../img/pokemon/graveler.png) [Graveler](/sword-and-shield-ultimate-plus-wiki/pokemon/075-graveler) 20%
@@ -25,7 +25,7 @@
                 </div></div>
 
 	???+ note "Overworld Lv. 63-67"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![rolycoly](../../img/pokemon/rolycoly.png) [Rolycoly](/sword-and-shield-ultimate-plus-wiki/pokemon/837-rolycoly) 100%
                 </div><div style="display: grid; justify-items: center">
                     ![onix](../../img/pokemon/onix.png) [Onix](/sword-and-shield-ultimate-plus-wiki/pokemon/095-onix) 100%

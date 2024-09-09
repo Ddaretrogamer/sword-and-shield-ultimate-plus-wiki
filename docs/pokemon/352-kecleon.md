@@ -1,24 +1,24 @@
-<div style="display: flex; flex-direction: row; column-gap: 3rem; align-content: center;">
+<div class="pokemon-attribute-container">
   <img src="../../img/pokemon/kecleon.png" width="100"/>
 
   <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
-    <div style="display: grid; grid-template-columns: 100px auto; column-gap: 3rem; alignt-items: center;">
+    <div class="pokemon-attribute">
       <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Types</p>
-      <div style="display: flex; flex-direction: row; align-items: center; column-gap: 1rem">
+      <div class="attribute-value" style="column-gap: 0.5rem;">
         <img src='../../img/types/normal.png' style='width: 77px; height: 26px;'/>
         
       </div>
     </div>
-    <div style="display: grid; grid-template-columns: 100px auto; column-gap: 3rem; alignt-items: center; ">
+    <div class="pokemon-attribute">
       <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Abilities</p>
-      <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
+      <div class="attribute-value">
         <a href='' title="Whenever this Pokemon takes damage from a move, the Pokemon's type changes to match the move.  If the Pokemon has two types, both are overridden.  The Pokemon must directly take damage; for example, moves blocked by a substitute will not trigger this ability, nor will moves that deal damage indirectly, such as spikes.  This ability takes effect on only the last hit of a multiple-hit attack.  In Pokemon Colosseum and XD: Gale of Darkness, this ability does not take effect on Shadow-type moves.">Color-change</a>
         /<a href='' title="Changes the bearer's type to match each move it uses.  The type change takes place just before the move is used.">Protean</a>
       </div>
     </div>
-    <div style="display: none; grid-template-columns: 100px auto; column-gap: 3rem; alignt-items: center; ">
+    <div style="display: none;" class="hidden-pokemon-attribute">
       <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:15px; align-self: center;">Hidden Ability</p>
-      <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
+      <div class="attribute-value">
         
       </div>
     </div>

@@ -4,7 +4,7 @@
 
 
 	???+ note "Grass Lv. 63-73"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![dragapult](../../img/pokemon/dragapult.png) [Dragapult](/sword-and-shield-ultimate-plus-wiki/pokemon/887-dragapult) 20%
                 </div><div style="display: grid; justify-items: center">
                     ![noivern](../../img/pokemon/noivern.png) [Noivern](/sword-and-shield-ultimate-plus-wiki/pokemon/715-noivern) 20%
@@ -31,7 +31,7 @@
                 </div></div>
 
 	???+ note "Surf Lv. 75-85"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![bibarel](../../img/pokemon/bibarel.png) [Bibarel](/sword-and-shield-ultimate-plus-wiki/pokemon/400-bibarel) 100%
                 </div></div>
 

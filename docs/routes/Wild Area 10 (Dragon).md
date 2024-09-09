@@ -4,7 +4,7 @@
 
 
 	???+ note "Grass"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![haxorus](../../img/pokemon/haxorus.png) [Haxorus](/sword-and-shield-ultimate-plus-wiki/pokemon/612-haxorus) 20%
                 </div><div style="display: grid; justify-items: center">
                     ![drampa](../../img/pokemon/drampa.png) [Drampa](/sword-and-shield-ultimate-plus-wiki/pokemon/780-drampa) 20%
@@ -31,7 +31,7 @@
                 </div></div>
 
 	???+ note "Surf"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![sharpedo](../../img/pokemon/sharpedo.png) [Sharpedo](/sword-and-shield-ultimate-plus-wiki/pokemon/319-sharpedo) 20%
                 </div><div style="display: grid; justify-items: center">
                     ![araquanid](../../img/pokemon/araquanid.png) [Araquanid](/sword-and-shield-ultimate-plus-wiki/pokemon/752-araquanid) 20%
@@ -44,14 +44,14 @@
                 </div></div>
 
 	???+ note "Fishing   Old Rod"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![sharpedo](../../img/pokemon/sharpedo.png) [Sharpedo](/sword-and-shield-ultimate-plus-wiki/pokemon/319-sharpedo) 50%
                 </div><div style="display: grid; justify-items: center">
                     ![wailord](../../img/pokemon/wailord.png) [Wailord](/sword-and-shield-ultimate-plus-wiki/pokemon/321-wailord) 50%
                 </div></div>
 
 	???+ note "Fishing   Good Rod"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![kingdra](../../img/pokemon/kingdra.png) [Kingdra](/sword-and-shield-ultimate-plus-wiki/pokemon/230-kingdra) 33%
                 </div><div style="display: grid; justify-items: center">
                     ![clawitzer](../../img/pokemon/clawitzer.png) [Clawitzer](/sword-and-shield-ultimate-plus-wiki/pokemon/693-clawitzer) 33%
@@ -60,7 +60,7 @@
                 </div></div>
 
 	???+ note "Fishing   Super Rod"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![milotic](../../img/pokemon/milotic.png) [Milotic](/sword-and-shield-ultimate-plus-wiki/pokemon/350-milotic) 20%
                 </div><div style="display: grid; justify-items: center">
                     ![toxapex](../../img/pokemon/toxapex.png) [Toxapex](/sword-and-shield-ultimate-plus-wiki/pokemon/748-toxapex) 20%
@@ -73,7 +73,7 @@
                 </div></div>
 
 	???+ note "Overworld Lv. 30-52"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![sharpedo](../../img/pokemon/sharpedo.png) [Sharpedo](/sword-and-shield-ultimate-plus-wiki/pokemon/319-sharpedo) 100%
                 </div><div style="display: grid; justify-items: center">
                     ![pyroar](../../img/pokemon/pyroar.png) [Pyroar](/sword-and-shield-ultimate-plus-wiki/pokemon/668-pyroar) 100%
@@ -84,12 +84,12 @@
                 </div></div>
 
 	???+ note "Legendary Lv. 50"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![zarude](../../img/pokemon/zarude.png) [Zarude](/sword-and-shield-ultimate-plus-wiki/pokemon/893-zarude) 100%
                 </div></div>
 
 	???+ note "Gift Lv. 50"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![greninja](../../img/pokemon/greninja.png) [Greninja](/sword-and-shield-ultimate-plus-wiki/pokemon/658-greninja) 100%
                 </div></div>
 

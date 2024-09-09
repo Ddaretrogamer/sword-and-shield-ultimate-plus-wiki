@@ -4,7 +4,7 @@
 
 
 	???+ note "Grass"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![aron](../../img/pokemon/aron.png) [Aron](/sword-and-shield-ultimate-plus-wiki/pokemon/304-aron) 20%
                 </div><div style="display: grid; justify-items: center">
                     ![onix](../../img/pokemon/onix.png) [Onix](/sword-and-shield-ultimate-plus-wiki/pokemon/095-onix) 20%
@@ -31,7 +31,7 @@
                 </div></div>
 
 	???+ note "Overworld"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![stunfisk](../../img/pokemon/stunfisk.png) [Stunfisk](/sword-and-shield-ultimate-plus-wiki/pokemon/618-stunfisk) 100%
                 </div><div style="display: grid; justify-items: center">
                     ![onix](../../img/pokemon/onix.png) [Onix](/sword-and-shield-ultimate-plus-wiki/pokemon/095-onix) 100%
@@ -40,7 +40,7 @@
                 </div></div>
 
 	???+ note "Legendary Lv. 60"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![groudon](../../img/pokemon/groudon.png) [Groudon](/sword-and-shield-ultimate-plus-wiki/pokemon/383-groudon) 100%
                 </div></div>
 

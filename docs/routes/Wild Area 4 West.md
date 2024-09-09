@@ -4,7 +4,7 @@
 
 
 	???+ note "Grass Lv. 28"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![houndour](../../img/pokemon/houndour.png) [Houndour](/sword-and-shield-ultimate-plus-wiki/pokemon/228-houndour) 20%
                 </div><div style="display: grid; justify-items: center">
                     ![mandibuzz](../../img/pokemon/mandibuzz.png) [Mandibuzz](/sword-and-shield-ultimate-plus-wiki/pokemon/630-mandibuzz) 20%
@@ -31,7 +31,7 @@
                 </div></div>
 
 	???+ note "Overworld"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![rockruff](../../img/pokemon/rockruff.png) [Rockruff](/sword-and-shield-ultimate-plus-wiki/pokemon/744-rockruff) 100%
                 </div><div style="display: grid; justify-items: center">
                     ![meowth](../../img/pokemon/meowth.png) [Meowth](/sword-and-shield-ultimate-plus-wiki/pokemon/052-meowth) 100%

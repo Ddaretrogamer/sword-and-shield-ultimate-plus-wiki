@@ -4,7 +4,7 @@
 
 
 	???+ note "Grass Lv. 40-45"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![sandaconda](../../img/pokemon/sandaconda.png) [Sandaconda](/sword-and-shield-ultimate-plus-wiki/pokemon/844-sandaconda) 20%
                 </div><div style="display: grid; justify-items: center">
                     ![falinks](../../img/pokemon/falinks.png) [Falinks](/sword-and-shield-ultimate-plus-wiki/pokemon/870-falinks) 20%
@@ -31,7 +31,7 @@
                 </div></div>
 
 	???+ note "Overworld Lv. 39-41"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![falinks](../../img/pokemon/falinks.png) [Falinks](/sword-and-shield-ultimate-plus-wiki/pokemon/870-falinks) 100%
                 </div></div>
 

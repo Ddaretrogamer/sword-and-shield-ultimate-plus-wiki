@@ -4,7 +4,7 @@
 
 
 	???+ note "Grass Lv. 18-22"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![goomy](../../img/pokemon/goomy.png) [Goomy](/sword-and-shield-ultimate-plus-wiki/pokemon/704-goomy) 20%
                 </div><div style="display: grid; justify-items: center">
                     ![dottler](../../img/pokemon/dottler.png) [Dottler](/sword-and-shield-ultimate-plus-wiki/pokemon/825-dottler) 20%
@@ -31,26 +31,26 @@
                 </div></div>
 
 	???+ note "In Game Trade Lv. 10"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![froakie](../../img/pokemon/froakie.png) [Froakie](/sword-and-shield-ultimate-plus-wiki/pokemon/656-froakie) 100%
                 </div><div style="display: grid; justify-items: center">
                     ![mudkip](../../img/pokemon/mudkip.png) [Mudkip](/sword-and-shield-ultimate-plus-wiki/pokemon/258-mudkip) 100%
                 </div></div>
 
 	???+ note "Gift Lv. 15"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![toxel](../../img/pokemon/toxel.png) [Toxel](/sword-and-shield-ultimate-plus-wiki/pokemon/848-toxel) 100%
                 </div></div>
 
 	???+ note "Overworld Lv. 20-22"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![farfetchd](../../img/pokemon/farfetchd.png) [Farfetchd](/sword-and-shield-ultimate-plus-wiki/pokemon/083-farfetchd) 100%
                 </div><div style="display: grid; justify-items: center">
                     ![applin](../../img/pokemon/applin.png) [Applin](/sword-and-shield-ultimate-plus-wiki/pokemon/840-applin) 100%
                 </div></div>
 
 	???+ note "Legendary Lv. 70"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![yveltal](../../img/pokemon/yveltal.png) [Yveltal](/sword-and-shield-ultimate-plus-wiki/pokemon/717-yveltal) 100%
                 </div></div>
 

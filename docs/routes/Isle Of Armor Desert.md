@@ -4,7 +4,7 @@
 
 
 	???+ note "Overworld"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![silicobra](../../img/pokemon/silicobra.png) [Silicobra](/sword-and-shield-ultimate-plus-wiki/pokemon/843-silicobra) 100%
                 </div><div style="display: grid; justify-items: center">
                     ![palossand](../../img/pokemon/palossand.png) [Palossand](/sword-and-shield-ultimate-plus-wiki/pokemon/770-palossand) 100%

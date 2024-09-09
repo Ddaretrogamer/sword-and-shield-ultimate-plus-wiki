@@ -4,7 +4,7 @@
 
 
 	???+ note "Grass"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![growlithe](../../img/pokemon/growlithe.png) [Growlithe](/sword-and-shield-ultimate-plus-wiki/pokemon/058-growlithe) 20%
                 </div><div style="display: grid; justify-items: center">
                     ![koffing](../../img/pokemon/koffing.png) [Koffing](/sword-and-shield-ultimate-plus-wiki/pokemon/109-koffing) 20%
@@ -29,12 +29,12 @@
                 </div></div>
 
 	???+ note "Overworld"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![flabebe](../../img/pokemon/flabebe.png) [Flabebe](/sword-and-shield-ultimate-plus-wiki/pokemon/669-flabebe) 100%
                 </div></div>
 
 	???+ note "Legendary Lv. 40"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![shaymin](../../img/pokemon/shaymin.png) [Shaymin](/sword-and-shield-ultimate-plus-wiki/pokemon/492-shaymin) 100%
                 </div></div>
 

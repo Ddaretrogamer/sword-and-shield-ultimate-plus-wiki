@@ -4,7 +4,7 @@
 
 
 	???+ note "Grass"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![phanpy](../../img/pokemon/phanpy.png) [Phanpy](/sword-and-shield-ultimate-plus-wiki/pokemon/231-phanpy) 20%
                 </div><div style="display: grid; justify-items: center">
                     ![diglett](../../img/pokemon/diglett.png) [Diglett](/sword-and-shield-ultimate-plus-wiki/pokemon/050-diglett) 20%
@@ -31,7 +31,7 @@
                 </div></div>
 
 	???+ note "Overworld Lv. 22-30"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![silicobra](../../img/pokemon/silicobra.png) [Silicobra](/sword-and-shield-ultimate-plus-wiki/pokemon/843-silicobra) 100%
                 </div><div style="display: grid; justify-items: center">
                     ![palossand](../../img/pokemon/palossand.png) [Palossand](/sword-and-shield-ultimate-plus-wiki/pokemon/770-palossand) 100%

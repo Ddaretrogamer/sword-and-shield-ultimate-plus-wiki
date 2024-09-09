@@ -4,7 +4,7 @@
 
 
 	???+ note "Grass"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![clefairy](../../img/pokemon/clefairy.png) [Clefairy](/sword-and-shield-ultimate-plus-wiki/pokemon/035-clefairy) 20%
                 </div><div style="display: grid; justify-items: center">
                     ![nidoran-m](../../img/pokemon/nidoran-m.png) [Nidoran-m](/sword-and-shield-ultimate-plus-wiki/pokemon/032-nidoran-m) 20%
@@ -31,12 +31,12 @@
                 </div></div>
 
 	???+ note "In Game Trade Lv. 10"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![treecko](../../img/pokemon/treecko.png) [Treecko](/sword-and-shield-ultimate-plus-wiki/pokemon/252-treecko) 100%
                 </div></div>
 
 	???+ note "Overworld"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![chewtle](../../img/pokemon/chewtle.png) [Chewtle](/sword-and-shield-ultimate-plus-wiki/pokemon/833-chewtle) 100%
                 </div><div style="display: grid; justify-items: center">
                     ![combee](../../img/pokemon/combee.png) [Combee](/sword-and-shield-ultimate-plus-wiki/pokemon/415-combee) 100%

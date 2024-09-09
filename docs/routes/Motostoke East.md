@@ -4,7 +4,7 @@
 
 
 	???+ note "Grass Lv. 17-20"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![noctowl](../../img/pokemon/noctowl.png) [Noctowl](/sword-and-shield-ultimate-plus-wiki/pokemon/164-noctowl) 20%
                 </div><div style="display: grid; justify-items: center">
                     ![chewtle](../../img/pokemon/chewtle.png) [Chewtle](/sword-and-shield-ultimate-plus-wiki/pokemon/833-chewtle) 20%
@@ -33,12 +33,12 @@
                 </div></div>
 
 	???+ note "In Game Trade Lv. 10"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![turtwig](../../img/pokemon/turtwig.png) [Turtwig](/sword-and-shield-ultimate-plus-wiki/pokemon/387-turtwig) 100%
                 </div></div>
 
 	???+ note "Legendary Lv. 50"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![magearna](../../img/pokemon/magearna.png) [Magearna](/sword-and-shield-ultimate-plus-wiki/pokemon/801-magearna) 100%
                 </div></div>
 

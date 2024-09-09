@@ -4,7 +4,7 @@
 
 
 	???+ note "Grass Lv. 40-50"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![skarmory](../../img/pokemon/skarmory.png) [Skarmory](/sword-and-shield-ultimate-plus-wiki/pokemon/227-skarmory) 20%
                 </div><div style="display: grid; justify-items: center">
                     ![stantler](../../img/pokemon/stantler.png) [Stantler](/sword-and-shield-ultimate-plus-wiki/pokemon/234-stantler) 20%
@@ -31,14 +31,14 @@
                 </div></div>
 
 	???+ note "Surf Lv. 40"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![starmie](../../img/pokemon/starmie.png) [Starmie](/sword-and-shield-ultimate-plus-wiki/pokemon/121-starmie) 60%
                 </div><div style="display: grid; justify-items: center">
                     ![staryu](../../img/pokemon/staryu.png) [Staryu](/sword-and-shield-ultimate-plus-wiki/pokemon/120-staryu) 40%
                 </div></div>
 
 	???+ note "Overworld"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![clobbopus](../../img/pokemon/clobbopus.png) [Clobbopus](/sword-and-shield-ultimate-plus-wiki/pokemon/852-clobbopus) 100%
                 </div><div style="display: grid; justify-items: center">
                     ![applin](../../img/pokemon/applin.png) [Applin](/sword-and-shield-ultimate-plus-wiki/pokemon/840-applin) 100%

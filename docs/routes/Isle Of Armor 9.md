@@ -4,7 +4,7 @@
 
 
 	???+ note "Grass Lv. 40-50"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![oricorio](../../img/pokemon/oricorio.png) [Oricorio](/sword-and-shield-ultimate-plus-wiki/pokemon/741-oricorio) 30%
                 </div><div style="display: grid; justify-items: center">
                     ![crabominable](../../img/pokemon/crabominable.png) [Crabominable](/sword-and-shield-ultimate-plus-wiki/pokemon/740-crabominable) 20%
@@ -27,12 +27,12 @@
                 </div></div>
 
 	???+ note "Surf Lv. 40"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![wishiwashi-solo](../../img/pokemon/wishiwashi-solo.png) [Wishiwashi-solo](/sword-and-shield-ultimate-plus-wiki/pokemon/746-wishiwashi-solo) 100%
                 </div></div>
 
 	???+ note "Overworld"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![nickit](../../img/pokemon/nickit.png) [Nickit](/sword-and-shield-ultimate-plus-wiki/pokemon/827-nickit) 100%
                 </div><div style="display: grid; justify-items: center">
                     ![pelipper](../../img/pokemon/pelipper.png) [Pelipper](/sword-and-shield-ultimate-plus-wiki/pokemon/279-pelipper) 100%
@@ -41,7 +41,7 @@
                 </div></div>
 
 	???+ note "Legendary Lv. 50"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![jirachi](../../img/pokemon/jirachi.png) [Jirachi](/sword-and-shield-ultimate-plus-wiki/pokemon/385-jirachi) 100%
                 </div></div>
 

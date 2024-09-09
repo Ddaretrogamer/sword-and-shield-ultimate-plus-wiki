@@ -4,7 +4,7 @@
 
 
 	???+ note "Grass Lv. 4-6"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![blipbug](../../img/pokemon/blipbug.png) [Blipbug](/sword-and-shield-ultimate-plus-wiki/pokemon/824-blipbug) 40%
                 </div><div style="display: grid; justify-items: center">
                     ![seedot](../../img/pokemon/seedot.png) [Seedot](/sword-and-shield-ultimate-plus-wiki/pokemon/273-seedot) 20%
@@ -19,24 +19,24 @@
                 </div></div>
 
 	???+ note "In Game Trade Lv. 10"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![cyndaquil](../../img/pokemon/cyndaquil.png) [Cyndaquil](/sword-and-shield-ultimate-plus-wiki/pokemon/155-cyndaquil) 100%
                 </div></div>
 
 	???+ note "Surf Lv. 5-7"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![wooper](../../img/pokemon/wooper.png) [Wooper](/sword-and-shield-ultimate-plus-wiki/pokemon/194-wooper) 100%
                 </div></div>
 
 	???+ note "Fishing   Old Rod Lv. 5-10"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![bidoof](../../img/pokemon/bidoof.png) [Bidoof](/sword-and-shield-ultimate-plus-wiki/pokemon/399-bidoof) 50%
                 </div><div style="display: grid; justify-items: center">
                     ![arrokuda](../../img/pokemon/arrokuda.png) [Arrokuda](/sword-and-shield-ultimate-plus-wiki/pokemon/846-arrokuda) 50%
                 </div></div>
 
 	???+ note "Fishing   Good Rod Lv. 25-30"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![barraskewda](../../img/pokemon/barraskewda.png) [Barraskewda](/sword-and-shield-ultimate-plus-wiki/pokemon/847-barraskewda) 33%
                 </div><div style="display: grid; justify-items: center">
                     ![drednaw](../../img/pokemon/drednaw.png) [Drednaw](/sword-and-shield-ultimate-plus-wiki/pokemon/834-drednaw) 33%
@@ -45,7 +45,7 @@
                 </div></div>
 
 	???+ note "Fishing   Super Rod Lv. 25-30"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![poliwrath](../../img/pokemon/poliwrath.png) [Poliwrath](/sword-and-shield-ultimate-plus-wiki/pokemon/062-poliwrath) 20%
                 </div><div style="display: grid; justify-items: center">
                     ![politoed](../../img/pokemon/politoed.png) [Politoed](/sword-and-shield-ultimate-plus-wiki/pokemon/186-politoed) 20%
@@ -58,7 +58,7 @@
                 </div></div>
 
 	???+ note "Overworld Lv. 4-6"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![rookidee](../../img/pokemon/rookidee.png) [Rookidee](/sword-and-shield-ultimate-plus-wiki/pokemon/821-rookidee) 100%
                 </div><div style="display: grid; justify-items: center">
                     ![yamper](../../img/pokemon/yamper.png) [Yamper](/sword-and-shield-ultimate-plus-wiki/pokemon/835-yamper) 100%

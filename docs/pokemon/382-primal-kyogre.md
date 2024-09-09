@@ -1,24 +1,24 @@
-<div style="display: flex; flex-direction: row; column-gap: 3rem; align-content: center;">
+<div class="pokemon-attribute-container">
   <img src="../../img/pokemon/primal-kyogre.png" width="100"/>
 
   <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
-    <div style="display: grid; grid-template-columns: 100px auto; column-gap: 3rem; alignt-items: center;">
+    <div class="pokemon-attribute">
       <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Types</p>
-      <div style="display: flex; flex-direction: row; align-items: center; column-gap: 1rem">
+      <div class="attribute-value" style="column-gap: 0.5rem;">
         <img src='../../img/types/water.png' style='width: 77px; height: 26px;'/>
         
       </div>
     </div>
-    <div style="display: grid; grid-template-columns: 100px auto; column-gap: 3rem; alignt-items: center; ">
+    <div class="pokemon-attribute">
       <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Abilities</p>
-      <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
+      <div class="attribute-value">
         <a href='' title="When this Pokemon enters battle or gains this ability, the weather becomes heavy rain.  Heavy rain has all the properties of rain dance and also causes damaging Fire moves to fail.  Heavy rain ends when this Pokemon leaves battle or loses this ability, or when this ability is nullified.  The weather cannot otherwise be changed except by the effects of delta stream and desolate land.  air lock and cloud nine will prevent the effects of heavy rain, including allowing Fire moves to work, but will not allow the weather to be changed.">Primordial-sea</a>
         
       </div>
     </div>
-    <div style="display: none; grid-template-columns: 100px auto; column-gap: 3rem; alignt-items: center; ">
+    <div style="display: none;" class="hidden-pokemon-attribute">
       <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:15px; align-self: center;">Hidden Ability</p>
-      <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
+      <div class="attribute-value">
         
       </div>
     </div>

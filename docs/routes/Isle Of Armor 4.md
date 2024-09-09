@@ -4,7 +4,7 @@
 
 
 	???+ note "Grass Lv. 40-50"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![minun](../../img/pokemon/minun.png) [Minun](/sword-and-shield-ultimate-plus-wiki/pokemon/312-minun) 20%
                 </div><div style="display: grid; justify-items: center">
                     ![plusle](../../img/pokemon/plusle.png) [Plusle](/sword-and-shield-ultimate-plus-wiki/pokemon/311-plusle) 20%
@@ -29,19 +29,19 @@
                 </div></div>
 
 	???+ note "Surf Lv. 40"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![luvdisc](../../img/pokemon/luvdisc.png) [Luvdisc](/sword-and-shield-ultimate-plus-wiki/pokemon/370-luvdisc) 100%
                 </div></div>
 
 	???+ note "Overworld"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![dreepy](../../img/pokemon/dreepy.png) [Dreepy](/sword-and-shield-ultimate-plus-wiki/pokemon/885-dreepy) 100%
                 </div><div style="display: grid; justify-items: center">
                     ![clobbopus](../../img/pokemon/clobbopus.png) [Clobbopus](/sword-and-shield-ultimate-plus-wiki/pokemon/852-clobbopus) 100%
                 </div></div>
 
 	???+ note "Legendary Lv. 80"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![moltres](../../img/pokemon/moltres.png) [Moltres](/sword-and-shield-ultimate-plus-wiki/pokemon/146-moltres) 100%
                 </div></div>
 

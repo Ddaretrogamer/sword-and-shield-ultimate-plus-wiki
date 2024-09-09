@@ -4,7 +4,7 @@
 
 
 	???+ note "Grass"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![avalugg](../../img/pokemon/avalugg.png) [Avalugg](/sword-and-shield-ultimate-plus-wiki/pokemon/713-avalugg) 20%
                 </div><div style="display: grid; justify-items: center">
                     ![corsola](../../img/pokemon/corsola.png) [Corsola](/sword-and-shield-ultimate-plus-wiki/pokemon/222-corsola) 20%
@@ -21,7 +21,7 @@
                 </div></div>
 
 	???+ note "Surf"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![barraskewda](../../img/pokemon/barraskewda.png) [Barraskewda](/sword-and-shield-ultimate-plus-wiki/pokemon/847-barraskewda) 20%
                 </div><div style="display: grid; justify-items: center">
                     ![kingdra](../../img/pokemon/kingdra.png) [Kingdra](/sword-and-shield-ultimate-plus-wiki/pokemon/230-kingdra) 20%
@@ -34,7 +34,7 @@
                 </div></div>
 
 	???+ note "Overworld"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![darumaka](../../img/pokemon/darumaka.png) [Darumaka](/sword-and-shield-ultimate-plus-wiki/pokemon/554-darumaka) 100%
                 </div><div style="display: grid; justify-items: center">
                     ![snover](../../img/pokemon/snover.png) [Snover](/sword-and-shield-ultimate-plus-wiki/pokemon/459-snover) 100%

@@ -4,7 +4,7 @@
 
 
 	???+ note "Grass Lv. 63-73"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![nidoking](../../img/pokemon/nidoking.png) [Nidoking](/sword-and-shield-ultimate-plus-wiki/pokemon/034-nidoking) 20%
                 </div><div style="display: grid; justify-items: center">
                     ![nidoqueen](../../img/pokemon/nidoqueen.png) [Nidoqueen](/sword-and-shield-ultimate-plus-wiki/pokemon/031-nidoqueen) 20%
@@ -31,7 +31,7 @@
                 </div></div>
 
 	???+ note "Overworld Lv. 71-73"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![noctowl](../../img/pokemon/noctowl.png) [Noctowl](/sword-and-shield-ultimate-plus-wiki/pokemon/164-noctowl) 100%
                 </div><div style="display: grid; justify-items: center">
                     ![corviknight](../../img/pokemon/corviknight.png) [Corviknight](/sword-and-shield-ultimate-plus-wiki/pokemon/823-corviknight) 100%
@@ -48,7 +48,7 @@
                 </div></div>
 
 	???+ note "Legendary Lv. 80"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![marshadow](../../img/pokemon/marshadow.png) [Marshadow](/sword-and-shield-ultimate-plus-wiki/pokemon/802-marshadow) 100%
                 </div><div style="display: grid; justify-items: center">
                     ![kartana](../../img/pokemon/kartana.png) [Kartana](/sword-and-shield-ultimate-plus-wiki/pokemon/798-kartana) 100%

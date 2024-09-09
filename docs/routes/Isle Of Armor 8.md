@@ -4,7 +4,7 @@
 
 
 	???+ note "Grass Lv. 40-50"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![beheeyem](../../img/pokemon/beheeyem.png) [Beheeyem](/sword-and-shield-ultimate-plus-wiki/pokemon/606-beheeyem) 20%
                 </div><div style="display: grid; justify-items: center">
                     ![klang](../../img/pokemon/klang.png) [Klang](/sword-and-shield-ultimate-plus-wiki/pokemon/600-klang) 20%
@@ -31,7 +31,7 @@
                 </div></div>
 
 	???+ note "Overworld"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![duraludon](../../img/pokemon/duraludon.png) [Duraludon](/sword-and-shield-ultimate-plus-wiki/pokemon/884-duraludon) 100%
                 </div><div style="display: grid; justify-items: center">
                     ![pyroar](../../img/pokemon/pyroar.png) [Pyroar](/sword-and-shield-ultimate-plus-wiki/pokemon/668-pyroar) 100%
@@ -44,7 +44,7 @@
                 </div></div>
 
 	???+ note "Legendary"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![urshifu](../../img/pokemon/urshifu.png) [Urshifu](/sword-and-shield-ultimate-plus-wiki/pokemon/892-urshifu) 100%
                 </div></div>
 

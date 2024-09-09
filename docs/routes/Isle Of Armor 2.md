@@ -4,7 +4,7 @@
 
 
 	???+ note "Grass Lv. 40-50"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![ariados](../../img/pokemon/ariados.png) [Ariados](/sword-and-shield-ultimate-plus-wiki/pokemon/168-ariados) 20%
                 </div><div style="display: grid; justify-items: center">
                     ![ledian](../../img/pokemon/ledian.png) [Ledian](/sword-and-shield-ultimate-plus-wiki/pokemon/166-ledian) 20%
@@ -31,14 +31,14 @@
                 </div></div>
 
 	???+ note "Surf Lv. 40"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![poliwhirl](../../img/pokemon/poliwhirl.png) [Poliwhirl](/sword-and-shield-ultimate-plus-wiki/pokemon/061-poliwhirl) 80%
                 </div><div style="display: grid; justify-items: center">
                     ![poliwrath](../../img/pokemon/poliwrath.png) [Poliwrath](/sword-and-shield-ultimate-plus-wiki/pokemon/062-poliwrath) 20%
                 </div></div>
 
 	???+ note "Overworld"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![pelipper](../../img/pokemon/pelipper.png) [Pelipper](/sword-and-shield-ultimate-plus-wiki/pokemon/279-pelipper) 100%
                 </div><div style="display: grid; justify-items: center">
                     ![wailord](../../img/pokemon/wailord.png) [Wailord](/sword-and-shield-ultimate-plus-wiki/pokemon/321-wailord) 100%

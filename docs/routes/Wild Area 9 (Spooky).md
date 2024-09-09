@@ -4,7 +4,7 @@
 
 
 	???+ note "Grass"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![sableye](../../img/pokemon/sableye.png) [Sableye](/sword-and-shield-ultimate-plus-wiki/pokemon/302-sableye) 20%
                 </div><div style="display: grid; justify-items: center">
                     ![zorua](../../img/pokemon/zorua.png) [Zorua](/sword-and-shield-ultimate-plus-wiki/pokemon/570-zorua) 20%
@@ -31,7 +31,7 @@
                 </div></div>
 
 	???+ note "Overworld Lv. 39-41"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![corviknight](../../img/pokemon/corviknight.png) [Corviknight](/sword-and-shield-ultimate-plus-wiki/pokemon/823-corviknight) 100%
                 </div><div style="display: grid; justify-items: center">
                     ![zigzagoon](../../img/pokemon/zigzagoon.png) [Zigzagoon](/sword-and-shield-ultimate-plus-wiki/pokemon/263-zigzagoon) 100%

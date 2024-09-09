@@ -4,7 +4,7 @@
 
 
 	???+ note "Grass"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![dugtrio](../../img/pokemon/dugtrio.png) [Dugtrio](/sword-and-shield-ultimate-plus-wiki/pokemon/051-dugtrio) 20%
                 </div><div style="display: grid; justify-items: center">
                     ![cubone](../../img/pokemon/cubone.png) [Cubone](/sword-and-shield-ultimate-plus-wiki/pokemon/104-cubone) 20%
@@ -29,7 +29,7 @@
                 </div></div>
 
 	???+ note "Overworld Lv. 22-30"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![mudsdale](../../img/pokemon/mudsdale.png) [Mudsdale](/sword-and-shield-ultimate-plus-wiki/pokemon/750-mudsdale) 100%
                 </div><div style="display: grid; justify-items: center">
                     ![yamask](../../img/pokemon/yamask.png) [Yamask](/sword-and-shield-ultimate-plus-wiki/pokemon/562-yamask) 100%

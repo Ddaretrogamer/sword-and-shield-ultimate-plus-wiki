@@ -4,7 +4,7 @@
 
 
 	???+ note "Grass Lv. 13-16"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![milcery](../../img/pokemon/milcery.png) [Milcery](/sword-and-shield-ultimate-plus-wiki/pokemon/868-milcery) 40%
                 </div><div style="display: grid; justify-items: center">
                     ![pikachu](../../img/pokemon/pikachu.png) [Pikachu](/sword-and-shield-ultimate-plus-wiki/pokemon/025-pikachu) 20%
@@ -19,7 +19,7 @@
                 </div></div>
 
 	???+ note "Overworld Lv. 7-9"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![meowth](../../img/pokemon/meowth.png) [Meowth](/sword-and-shield-ultimate-plus-wiki/pokemon/052-meowth) 100%
                 </div></div>
 

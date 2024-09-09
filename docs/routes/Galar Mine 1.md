@@ -4,7 +4,7 @@
 
 
 	???+ note "Grass Lv. 7-10"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![rolycoly](../../img/pokemon/rolycoly.png) [Rolycoly](/sword-and-shield-ultimate-plus-wiki/pokemon/837-rolycoly) 21%
                 </div><div style="display: grid; justify-items: center">
                     ![carkol](../../img/pokemon/carkol.png) [Carkol](/sword-and-shield-ultimate-plus-wiki/pokemon/838-carkol) 20%
@@ -25,19 +25,19 @@
                 </div></div>
 
 	???+ note "Overworld Lv. 8-10"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![rolycoly](../../img/pokemon/rolycoly.png) [Rolycoly](/sword-and-shield-ultimate-plus-wiki/pokemon/837-rolycoly) 100%
                 </div></div>
 
 	???+ note "Fishing   Old Rod Lv. 5-10"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![arrokuda](../../img/pokemon/arrokuda.png) [Arrokuda](/sword-and-shield-ultimate-plus-wiki/pokemon/846-arrokuda) 50%
                 </div><div style="display: grid; justify-items: center">
                     ![clauncher](../../img/pokemon/clauncher.png) [Clauncher](/sword-and-shield-ultimate-plus-wiki/pokemon/692-clauncher) 50%
                 </div></div>
 
 	???+ note "Fishing   Good Rod Lv. 20-30"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![qwilfish](../../img/pokemon/qwilfish.png) [Qwilfish](/sword-and-shield-ultimate-plus-wiki/pokemon/211-qwilfish) 33%
                 </div><div style="display: grid; justify-items: center">
                     ![arrokuda](../../img/pokemon/arrokuda.png) [Arrokuda](/sword-and-shield-ultimate-plus-wiki/pokemon/846-arrokuda) 33%
@@ -46,7 +46,7 @@
                 </div></div>
 
 	???+ note "Fishing   Super Rod Lv. 30-40"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![barraskewda](../../img/pokemon/barraskewda.png) [Barraskewda](/sword-and-shield-ultimate-plus-wiki/pokemon/847-barraskewda) 60%
                 </div><div style="display: grid; justify-items: center">
                     ![basculin-blue-striped](../../img/pokemon/basculin-blue-striped.png) [Basculin-blue-striped](/sword-and-shield-ultimate-plus-wiki/pokemon/550-basculin-blue-striped) 20%

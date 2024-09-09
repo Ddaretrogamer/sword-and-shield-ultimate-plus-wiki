@@ -4,7 +4,7 @@
 
 
 	???+ note "Grass Lv. 37-41"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![thievul](../../img/pokemon/thievul.png) [Thievul](/sword-and-shield-ultimate-plus-wiki/pokemon/828-thievul) 20%
                 </div><div style="display: grid; justify-items: center">
                     ![toxel](../../img/pokemon/toxel.png) [Toxel](/sword-and-shield-ultimate-plus-wiki/pokemon/848-toxel) 20%
@@ -29,7 +29,7 @@
                 </div></div>
 
 	???+ note "Overworld"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![nickit](../../img/pokemon/nickit.png) [Nickit](/sword-and-shield-ultimate-plus-wiki/pokemon/827-nickit) 100%
                 </div><div style="display: grid; justify-items: center">
                     ![morpeko-full-belly](../../img/pokemon/morpeko-full-belly.png) [Morpeko-full-belly](/sword-and-shield-ultimate-plus-wiki/pokemon/877-morpeko-full-belly) 100%

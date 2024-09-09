@@ -4,7 +4,7 @@
 
 
 	???+ note "Grass"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![staravia](../../img/pokemon/staravia.png) [Staravia](/sword-and-shield-ultimate-plus-wiki/pokemon/397-staravia) 20%
                 </div><div style="display: grid; justify-items: center">
                     ![rufflet](../../img/pokemon/rufflet.png) [Rufflet](/sword-and-shield-ultimate-plus-wiki/pokemon/627-rufflet) 20%
@@ -31,27 +31,27 @@
                 </div></div>
 
 	???+ note "Surf"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![carvanha](../../img/pokemon/carvanha.png) [Carvanha](/sword-and-shield-ultimate-plus-wiki/pokemon/318-carvanha) 100%
                 </div></div>
 
 	???+ note "Fishing   Old Rod"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![barboach](../../img/pokemon/barboach.png) [Barboach](/sword-and-shield-ultimate-plus-wiki/pokemon/339-barboach) 100%
                 </div></div>
 
 	???+ note "Fishing   Good Rod"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![barboach](../../img/pokemon/barboach.png) [Barboach](/sword-and-shield-ultimate-plus-wiki/pokemon/339-barboach) 100%
                 </div></div>
 
 	???+ note "Fishing   Super Rod"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![whiscash](../../img/pokemon/whiscash.png) [Whiscash](/sword-and-shield-ultimate-plus-wiki/pokemon/340-whiscash) 100%
                 </div></div>
 
 	???+ note "Overworld"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![gogoat](../../img/pokemon/gogoat.png) [Gogoat](/sword-and-shield-ultimate-plus-wiki/pokemon/673-gogoat) 100%
                 </div><div style="display: grid; justify-items: center">
                     ![wooloo](../../img/pokemon/wooloo.png) [Wooloo](/sword-and-shield-ultimate-plus-wiki/pokemon/831-wooloo) 100%

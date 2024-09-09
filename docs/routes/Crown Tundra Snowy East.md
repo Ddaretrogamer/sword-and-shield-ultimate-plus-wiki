@@ -4,7 +4,7 @@
 
 
 	???+ note "Grass Lv. 63-73"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![metagross](../../img/pokemon/metagross.png) [Metagross](/sword-and-shield-ultimate-plus-wiki/pokemon/376-metagross) 20%
                 </div><div style="display: grid; justify-items: center">
                     ![frosmoth](../../img/pokemon/frosmoth.png) [Frosmoth](/sword-and-shield-ultimate-plus-wiki/pokemon/873-frosmoth) 20%
@@ -31,12 +31,12 @@
                 </div></div>
 
 	???+ note "Surf Lv. 75-78"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![relicanth](../../img/pokemon/relicanth.png) [Relicanth](/sword-and-shield-ultimate-plus-wiki/pokemon/369-relicanth) 100%
                 </div></div>
 
 	???+ note "Overworld"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![wailord](../../img/pokemon/wailord.png) [Wailord](/sword-and-shield-ultimate-plus-wiki/pokemon/321-wailord) 100%
                 </div><div style="display: grid; justify-items: center">
                     ![frosmoth](../../img/pokemon/frosmoth.png) [Frosmoth](/sword-and-shield-ultimate-plus-wiki/pokemon/873-frosmoth) 100%
@@ -51,7 +51,7 @@
                 </div></div>
 
 	???+ note "Legendary Lv. 80"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![articuno](../../img/pokemon/articuno.png) [Articuno](/sword-and-shield-ultimate-plus-wiki/pokemon/144-articuno) 100%
                 </div><div style="display: grid; justify-items: center">
                     ![regieleki](../../img/pokemon/regieleki.png) [Regieleki](/sword-and-shield-ultimate-plus-wiki/pokemon/894-regieleki) 100%

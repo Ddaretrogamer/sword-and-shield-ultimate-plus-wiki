@@ -4,7 +4,7 @@
 
 
 	???+ note "Grass"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![zubat](../../img/pokemon/zubat.png) [Zubat](/sword-and-shield-ultimate-plus-wiki/pokemon/041-zubat) 20%
                 </div><div style="display: grid; justify-items: center">
                     ![woobat](../../img/pokemon/woobat.png) [Woobat](/sword-and-shield-ultimate-plus-wiki/pokemon/527-woobat) 20%

@@ -4,7 +4,7 @@
 
 
 	???+ note "Grass Lv. 28-32"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![noibat](../../img/pokemon/noibat.png) [Noibat](/sword-and-shield-ultimate-plus-wiki/pokemon/714-noibat) 20%
                 </div><div style="display: grid; justify-items: center">
                     ![misdreavus](../../img/pokemon/misdreavus.png) [Misdreavus](/sword-and-shield-ultimate-plus-wiki/pokemon/200-misdreavus) 20%

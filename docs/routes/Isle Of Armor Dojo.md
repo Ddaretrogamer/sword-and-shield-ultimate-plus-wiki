@@ -4,7 +4,7 @@
 
 
 	???+ note "Gift"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![bulbasaur](../../img/pokemon/bulbasaur.png) [Bulbasaur](/sword-and-shield-ultimate-plus-wiki/pokemon/001-bulbasaur) 100%
                 </div><div style="display: grid; justify-items: center">
                     ![kubfu](../../img/pokemon/kubfu.png) [Kubfu](/sword-and-shield-ultimate-plus-wiki/pokemon/891-kubfu) 100%

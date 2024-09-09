@@ -4,7 +4,7 @@
 
 
 	???+ note "Grass Lv. 63-70"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![frosmoth](../../img/pokemon/frosmoth.png) [Frosmoth](/sword-and-shield-ultimate-plus-wiki/pokemon/873-frosmoth) 20%
                 </div><div style="display: grid; justify-items: center">
                     ![dubwool](../../img/pokemon/dubwool.png) [Dubwool](/sword-and-shield-ultimate-plus-wiki/pokemon/832-dubwool) 20%
@@ -31,7 +31,7 @@
                 </div></div>
 
 	???+ note "Overworld"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![darumaka](../../img/pokemon/darumaka.png) [Darumaka](/sword-and-shield-ultimate-plus-wiki/pokemon/554-darumaka) 100%
                 </div><div style="display: grid; justify-items: center">
                     ![frosmoth](../../img/pokemon/frosmoth.png) [Frosmoth](/sword-and-shield-ultimate-plus-wiki/pokemon/873-frosmoth) 100%

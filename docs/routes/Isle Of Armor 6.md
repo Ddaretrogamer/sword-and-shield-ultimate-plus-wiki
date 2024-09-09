@@ -4,7 +4,7 @@
 
 
 	???+ note "Grass Lv. 40-50"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![stoutland](../../img/pokemon/stoutland.png) [Stoutland](/sword-and-shield-ultimate-plus-wiki/pokemon/508-stoutland) 20%
                 </div><div style="display: grid; justify-items: center">
                     ![kangaskhan](../../img/pokemon/kangaskhan.png) [Kangaskhan](/sword-and-shield-ultimate-plus-wiki/pokemon/115-kangaskhan) 20%
@@ -31,7 +31,7 @@
                 </div></div>
 
 	???+ note "Surf Lv. 40"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![huntail](../../img/pokemon/huntail.png) [Huntail](/sword-and-shield-ultimate-plus-wiki/pokemon/367-huntail) 60%
                 </div><div style="display: grid; justify-items: center">
                     ![tentacool](../../img/pokemon/tentacool.png) [Tentacool](/sword-and-shield-ultimate-plus-wiki/pokemon/072-tentacool) 40%

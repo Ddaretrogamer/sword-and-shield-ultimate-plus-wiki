@@ -4,7 +4,7 @@
 
 
 	???+ note "Grass Lv. 63-73"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![kabutops](../../img/pokemon/kabutops.png) [Kabutops](/sword-and-shield-ultimate-plus-wiki/pokemon/141-kabutops) 20%
                 </div><div style="display: grid; justify-items: center">
                     ![graveler](../../img/pokemon/graveler.png) [Graveler](/sword-and-shield-ultimate-plus-wiki/pokemon/075-graveler) 20%
@@ -31,7 +31,7 @@
                 </div></div>
 
 	???+ note "Overworld Lv. 50-67"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![stunfisk](../../img/pokemon/stunfisk.png) [Stunfisk](/sword-and-shield-ultimate-plus-wiki/pokemon/618-stunfisk) 100%
                 </div><div style="display: grid; justify-items: center">
                     ![mamoswine](../../img/pokemon/mamoswine.png) [Mamoswine](/sword-and-shield-ultimate-plus-wiki/pokemon/473-mamoswine) 100%

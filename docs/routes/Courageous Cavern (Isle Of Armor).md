@@ -4,7 +4,7 @@
 
 
 	???+ note "Grass Lv. 32-46"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![onix](../../img/pokemon/onix.png) [Onix](/sword-and-shield-ultimate-plus-wiki/pokemon/095-onix) 30%
                 </div><div style="display: grid; justify-items: center">
                     ![geodude](../../img/pokemon/geodude.png) [Geodude](/sword-and-shield-ultimate-plus-wiki/pokemon/074-geodude) 20%
@@ -23,7 +23,7 @@
                 </div></div>
 
 	???+ note "Legendary Lv. 65"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![diancie](../../img/pokemon/diancie.png) [Diancie](/sword-and-shield-ultimate-plus-wiki/pokemon/719-diancie) 100%
                 </div></div>
 

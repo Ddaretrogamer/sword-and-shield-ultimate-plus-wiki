@@ -4,7 +4,7 @@
 
 
 	???+ note "Grass Lv. 40-50"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![gastrodon](../../img/pokemon/gastrodon.png) [Gastrodon](/sword-and-shield-ultimate-plus-wiki/pokemon/423-gastrodon) 20%
                 </div><div style="display: grid; justify-items: center">
                     ![pachirisu](../../img/pokemon/pachirisu.png) [Pachirisu](/sword-and-shield-ultimate-plus-wiki/pokemon/417-pachirisu) 20%
@@ -29,12 +29,12 @@
                 </div></div>
 
 	???+ note "Surf Lv. 40"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![gorebyss](../../img/pokemon/gorebyss.png) [Gorebyss](/sword-and-shield-ultimate-plus-wiki/pokemon/368-gorebyss) 100%
                 </div></div>
 
 	???+ note "Overworld"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![copperajah](../../img/pokemon/copperajah.png) [Copperajah](/sword-and-shield-ultimate-plus-wiki/pokemon/879-copperajah) 100%
                 </div><div style="display: grid; justify-items: center">
                     ![sharpedo](../../img/pokemon/sharpedo.png) [Sharpedo](/sword-and-shield-ultimate-plus-wiki/pokemon/319-sharpedo) 100%
@@ -53,7 +53,7 @@
                 </div></div>
 
 	???+ note "Legendary"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![urshifu-rapid-strike](../../img/pokemon/urshifu-rapid-strike.png) [Urshifu-rapid-strike](/sword-and-shield-ultimate-plus-wiki/pokemon/892-urshifu-rapid-strike) 100%
                 </div></div>
 

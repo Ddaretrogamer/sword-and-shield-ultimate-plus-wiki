@@ -4,7 +4,7 @@
 
 
 	???+ note "Legendary Lv. 80"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![calyrex](../../img/pokemon/calyrex.png) [Calyrex](/sword-and-shield-ultimate-plus-wiki/pokemon/898-calyrex) 100%
                 </div><div style="display: grid; justify-items: center">
                     ![spectrier](../../img/pokemon/spectrier.png) [Spectrier](/sword-and-shield-ultimate-plus-wiki/pokemon/897-spectrier) 100%

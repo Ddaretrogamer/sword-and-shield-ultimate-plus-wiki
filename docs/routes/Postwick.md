@@ -4,7 +4,7 @@
 
 
 	???+ note "Gift Lv. 5"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![charmander](../../img/pokemon/charmander.png) [Charmander](/sword-and-shield-ultimate-plus-wiki/pokemon/004-charmander) 100%
                 </div><div style="display: grid; justify-items: center">
                     ![scorbunny](../../img/pokemon/scorbunny.png) [Scorbunny](/sword-and-shield-ultimate-plus-wiki/pokemon/813-scorbunny) 100%

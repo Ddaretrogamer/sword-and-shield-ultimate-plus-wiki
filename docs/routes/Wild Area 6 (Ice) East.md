@@ -4,7 +4,7 @@
 
 
 	???+ note "Grass"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![sneasel](../../img/pokemon/sneasel.png) [Sneasel](/sword-and-shield-ultimate-plus-wiki/pokemon/215-sneasel) 20%
                 </div><div style="display: grid; justify-items: center">
                     ![jynx](../../img/pokemon/jynx.png) [Jynx](/sword-and-shield-ultimate-plus-wiki/pokemon/124-jynx) 20%
@@ -31,7 +31,7 @@
                 </div></div>
 
 	???+ note "Surf Lv. 35-40"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![barraskewda](../../img/pokemon/barraskewda.png) [Barraskewda](/sword-and-shield-ultimate-plus-wiki/pokemon/847-barraskewda) 20%
                 </div><div style="display: grid; justify-items: center">
                     ![kingdra](../../img/pokemon/kingdra.png) [Kingdra](/sword-and-shield-ultimate-plus-wiki/pokemon/230-kingdra) 20%
@@ -44,14 +44,14 @@
                 </div></div>
 
 	???+ note "Fishing   Old Rod Lv. 35-40"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![eiscue](../../img/pokemon/eiscue.png) [Eiscue](/sword-and-shield-ultimate-plus-wiki/pokemon/875-eiscue) 50%
                 </div><div style="display: grid; justify-items: center">
                     ![barraskewda](../../img/pokemon/barraskewda.png) [Barraskewda](/sword-and-shield-ultimate-plus-wiki/pokemon/847-barraskewda) 50%
                 </div></div>
 
 	???+ note "Fishing   Good Rod"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![barraskewda](../../img/pokemon/barraskewda.png) [Barraskewda](/sword-and-shield-ultimate-plus-wiki/pokemon/847-barraskewda) 33%
                 </div><div style="display: grid; justify-items: center">
                     ![relicanth](../../img/pokemon/relicanth.png) [Relicanth](/sword-and-shield-ultimate-plus-wiki/pokemon/369-relicanth) 33%
@@ -60,7 +60,7 @@
                 </div></div>
 
 	???+ note "Fishing   Super Rod"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![avalugg](../../img/pokemon/avalugg.png) [Avalugg](/sword-and-shield-ultimate-plus-wiki/pokemon/713-avalugg) 60%
                 </div><div style="display: grid; justify-items: center">
                     ![lapras](../../img/pokemon/lapras.png) [Lapras](/sword-and-shield-ultimate-plus-wiki/pokemon/131-lapras) 20%
@@ -69,7 +69,7 @@
                 </div></div>
 
 	???+ note "Overworld"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![snover](../../img/pokemon/snover.png) [Snover](/sword-and-shield-ultimate-plus-wiki/pokemon/459-snover) 100%
                 </div><div style="display: grid; justify-items: center">
                     ![mamoswine](../../img/pokemon/mamoswine.png) [Mamoswine](/sword-and-shield-ultimate-plus-wiki/pokemon/473-mamoswine) 100%
@@ -80,7 +80,7 @@
                 </div></div>
 
 	???+ note "Legendary Lv. 60"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![kyogre](../../img/pokemon/kyogre.png) [Kyogre](/sword-and-shield-ultimate-plus-wiki/pokemon/382-kyogre) 100%
                 </div></div>
 

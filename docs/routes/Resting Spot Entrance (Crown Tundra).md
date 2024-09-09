@@ -4,7 +4,7 @@
 
 
 	???+ note "Grass Lv. 63-73"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![abomasnow](../../img/pokemon/abomasnow.png) [Abomasnow](/sword-and-shield-ultimate-plus-wiki/pokemon/460-abomasnow) 20%
                 </div><div style="display: grid; justify-items: center">
                     ![snorlax](../../img/pokemon/snorlax.png) [Snorlax](/sword-and-shield-ultimate-plus-wiki/pokemon/143-snorlax) 20%
@@ -29,7 +29,7 @@
                 </div></div>
 
 	???+ note "Legendary Lv. 80"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![regice](../../img/pokemon/regice.png) [Regice](/sword-and-shield-ultimate-plus-wiki/pokemon/378-regice) 100%
                 </div></div>
 

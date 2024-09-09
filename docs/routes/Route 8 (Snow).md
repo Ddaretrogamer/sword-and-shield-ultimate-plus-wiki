@@ -4,7 +4,7 @@
 
 
 	???+ note "Grass Lv. 40-45"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![darumaka](../../img/pokemon/darumaka.png) [Darumaka](/sword-and-shield-ultimate-plus-wiki/pokemon/554-darumaka) 26%
                 </div><div style="display: grid; justify-items: center">
                     ![snom](../../img/pokemon/snom.png) [Snom](/sword-and-shield-ultimate-plus-wiki/pokemon/872-snom) 20%
@@ -25,7 +25,7 @@
                 </div></div>
 
 	???+ note "Overworld Lv. 39-41"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![darumaka](../../img/pokemon/darumaka.png) [Darumaka](/sword-and-shield-ultimate-plus-wiki/pokemon/554-darumaka) 100%
                 </div><div style="display: grid; justify-items: center">
                     ![snover](../../img/pokemon/snover.png) [Snover](/sword-and-shield-ultimate-plus-wiki/pokemon/459-snover) 100%
@@ -34,7 +34,7 @@
                 </div></div>
 
 	???+ note "Legendary Lv. 50"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![darkrai](../../img/pokemon/darkrai.png) [Darkrai](/sword-and-shield-ultimate-plus-wiki/pokemon/491-darkrai) 100%
                 </div><div style="display: grid; justify-items: center">
                     ![cresselia](../../img/pokemon/cresselia.png) [Cresselia](/sword-and-shield-ultimate-plus-wiki/pokemon/488-cresselia) 100%

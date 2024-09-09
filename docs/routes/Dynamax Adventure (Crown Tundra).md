@@ -4,7 +4,7 @@
 
 
 	???+ note "Legendary Lv. 70"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![thundurus](../../img/pokemon/thundurus.png) [Thundurus](/sword-and-shield-ultimate-plus-wiki/pokemon/642-thundurus) 100%
                 </div><div style="display: grid; justify-items: center">
                     ![tornadus](../../img/pokemon/tornadus.png) [Tornadus](/sword-and-shield-ultimate-plus-wiki/pokemon/641-tornadus) 100%

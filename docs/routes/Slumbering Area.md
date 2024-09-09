@@ -4,7 +4,7 @@
 
 
 	???+ note "Grass Lv. 45-47"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![weezing](../../img/pokemon/weezing.png) [Weezing](/sword-and-shield-ultimate-plus-wiki/pokemon/110-weezing) 30%
                 </div><div style="display: grid; justify-items: center">
                     ![munna](../../img/pokemon/munna.png) [Munna](/sword-and-shield-ultimate-plus-wiki/pokemon/517-munna) 25%
@@ -19,7 +19,7 @@
                 </div></div>
 
 	???+ note "Legendary Lv. 70"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![zamazenta-crowned](../../img/pokemon/zamazenta-crowned.png) [Zamazenta-crowned](/sword-and-shield-ultimate-plus-wiki/pokemon/889-zamazenta-crowned) 100%
                 </div><div style="display: grid; justify-items: center">
                     ![zacian-crowned](../../img/pokemon/zacian-crowned.png) [Zacian-crowned](/sword-and-shield-ultimate-plus-wiki/pokemon/888-zacian-crowned) 100%

@@ -4,7 +4,7 @@
 
 
 	???+ note "Grass Lv. 34-48"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![machop](../../img/pokemon/machop.png) [Machop](/sword-and-shield-ultimate-plus-wiki/pokemon/066-machop) 20%
                 </div><div style="display: grid; justify-items: center">
                     ![geodude](../../img/pokemon/geodude.png) [Geodude](/sword-and-shield-ultimate-plus-wiki/pokemon/074-geodude) 20%

@@ -4,7 +4,7 @@
 
 
 	???+ note "Grass Lv. 28"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![rhydon](../../img/pokemon/rhydon.png) [Rhydon](/sword-and-shield-ultimate-plus-wiki/pokemon/112-rhydon) 20%
                 </div><div style="display: grid; justify-items: center">
                     ![turtonator](../../img/pokemon/turtonator.png) [Turtonator](/sword-and-shield-ultimate-plus-wiki/pokemon/776-turtonator) 20%
@@ -31,7 +31,7 @@
                 </div></div>
 
 	???+ note "Overworld Lv. 25"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![garbodor](../../img/pokemon/garbodor.png) [Garbodor](/sword-and-shield-ultimate-plus-wiki/pokemon/569-garbodor) 100%
                 </div><div style="display: grid; justify-items: center">
                     ![vespiquen](../../img/pokemon/vespiquen.png) [Vespiquen](/sword-and-shield-ultimate-plus-wiki/pokemon/416-vespiquen) 100%

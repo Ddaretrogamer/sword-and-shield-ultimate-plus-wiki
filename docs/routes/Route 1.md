@@ -4,7 +4,7 @@
 
 
 	???+ note "Grass Lv. 2-5"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![caterpie](../../img/pokemon/caterpie.png) [Caterpie](/sword-and-shield-ultimate-plus-wiki/pokemon/010-caterpie) 20%
                 </div><div style="display: grid; justify-items: center">
                     ![skwovet](../../img/pokemon/skwovet.png) [Skwovet](/sword-and-shield-ultimate-plus-wiki/pokemon/819-skwovet) 20%
@@ -21,7 +21,7 @@
                 </div></div>
 
 	???+ note "In Game Trade Lv. 10"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![piplup](../../img/pokemon/piplup.png) [Piplup](/sword-and-shield-ultimate-plus-wiki/pokemon/393-piplup) 100%
                 </div></div>
 

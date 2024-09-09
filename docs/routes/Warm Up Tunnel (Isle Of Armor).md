@@ -4,7 +4,7 @@
 
 
 	???+ note "Grass Lv. 42-52"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![lycanroc](../../img/pokemon/lycanroc.png) [Lycanroc](/sword-and-shield-ultimate-plus-wiki/pokemon/745-lycanroc) 20%
                 </div><div style="display: grid; justify-items: center">
                     ![minior-red-meteor](../../img/pokemon/minior-red-meteor.png) [Minior-red-meteor](/sword-and-shield-ultimate-plus-wiki/pokemon/774-minior-red-meteor) 20%
@@ -29,7 +29,7 @@
                 </div></div>
 
 	???+ note "Overworld Lv. 50"
-		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![rolycoly](../../img/pokemon/rolycoly.png) [Rolycoly](/sword-and-shield-ultimate-plus-wiki/pokemon/837-rolycoly) 100%
                 </div><div style="display: grid; justify-items: center">
                     ![onix](../../img/pokemon/onix.png) [Onix](/sword-and-shield-ultimate-plus-wiki/pokemon/095-onix) 100%
