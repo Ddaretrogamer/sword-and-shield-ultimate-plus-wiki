@@ -12,6 +12,7 @@
 | ![Z-Ring](img/items/Z-Ring.png)<br/>Z Ring | Wild Area 1 North | Old man near the bridge and entrance to Motostoke. | Find, battle, defeat, and return the Mudsdale in Wild Area 3 North to the old man. |  |
 | ![electirizer](img/items/electirizer.png)<br/>Electirizer | Wild Area 4 South | NPC Vender | Purchase from NPC | 3 Badges |
 | ![good-rod](img/items/good-rod.png)<br/>Good Rod | Ballonlea | Left-most house in Ballonlea | Talk to fisherman NPC |  |
+| ![ice-stone](img/items/ice-stone.png)<br/>Ice Stone | Wild Area 4 South | NPC | Purchase from Vender | 3 Badges |
 | ![magmarizer](img/items/magmarizer.png)<br/>Magmarizer | Wild Area 4 South | NPC vender | Purchase from NPC | 3 badges |
 | ![mega-ring](img/items/mega-ring.png)<br/>Mega Ring | Motostoke | House Nearest Budew Drop Inn | Battle Bianca and win in a 1 on 1 battle | Using only 1 Pokémon, defeat Bianca's level 25 Mega-Altaria |
 | ![old-rod](img/items/old-rod.png)<br/>Old Rod | Postwick | Top of stairs in your room when starting a new game. |  |  |

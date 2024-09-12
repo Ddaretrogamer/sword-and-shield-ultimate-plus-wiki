@@ -81,7 +81,12 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Underwater | Legendary | 100 | Enter the submarine. Manaphy and Phione eggs will be inside. |
 
+        
 
 ## Moveset
 
