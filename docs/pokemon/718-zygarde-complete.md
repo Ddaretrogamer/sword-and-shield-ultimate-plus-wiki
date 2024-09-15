@@ -84,7 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Galar Mine 2 | Legendary | 100 |  |
+        	| Galar Mine 2 | Legendary | 100 | Gather 100% Zygarde cells and go up the stairs in Galar Mine 2. Complete Zygarde should appear. |
 
         
 
