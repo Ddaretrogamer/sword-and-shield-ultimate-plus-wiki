@@ -84,7 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 8: West | Grass | 1 |  |
+        	| Wild Area 6 West | Grass | 1 |  |
 
         
 

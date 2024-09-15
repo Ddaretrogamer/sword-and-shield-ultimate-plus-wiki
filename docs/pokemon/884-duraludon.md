@@ -84,8 +84,8 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 8: West | Overworld | 100 |  |
-	| Wild Area 8: East | Grass | 20 |  |
+        	| Wild Area 6 West | Overworld | 100 |  |
+	| Wild Area 6 East | Grass | 20 |  |
 	| Route 10 | Overworld | 100 |  |
 	| Isle Of Armor 7 | Overworld | 100 |  |
 	| Isle Of Armor 8 | Overworld | 100 |  |

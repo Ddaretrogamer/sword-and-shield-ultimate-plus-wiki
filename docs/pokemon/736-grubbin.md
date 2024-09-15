@@ -85,7 +85,7 @@
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
         	| Slumbering Weald | Grass | 5 |  |
-	| Wild Area 1 North | Grass | 1 |  |
+	| Wild Area 1 Northwest | Grass | 1 |  |
 
         
 

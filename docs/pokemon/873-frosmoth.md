@@ -84,7 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 6 (Ice): West | Grass | 20 |  |
+        	| Wild Area 7 (Ice) West | Grass | 20 |  |
 	| Freezington (Crown Tundra) | Grass | 20 |  |
 	| Freezington (Crown Tundra) | Overworld | 100 |  |
 	| Crown Tundra Snowy East | Grass | 20 |  |

@@ -84,7 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 4: North | Fishing   Super Rod | 20 |  |
+        	| Wild Area 3 North | Fishing   Super Rod | 20 |  |
 	| Glimwood Tangle | Fishing   Super Rod | 20 |  |
 
         

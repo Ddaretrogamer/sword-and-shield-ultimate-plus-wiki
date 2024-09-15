@@ -21,7 +21,7 @@
                 </div><div style="display: grid; justify-items: center">
                     ![delibird](../../img/pokemon/delibird.png) [Delibird](/sword-and-shield-ultimate-plus-wiki/pokemon/225-delibird) 5%
                 </div><div style="display: grid; justify-items: center">
-                    ![darmanitan](../../img/pokemon/darmanitan.png) [Darmanitan](/sword-and-shield-ultimate-plus-wiki/pokemon/555-darmanitan) 4%
+                    ![darmanitan-galarian](../../img/pokemon/darmanitan-galarian.png) [Darmanitan-galarian](/sword-and-shield-ultimate-plus-wiki/pokemon/555-darmanitan-galarian) 4%
                 </div><div style="display: grid; justify-items: center">
                     ![absol](../../img/pokemon/absol.png) [Absol](/sword-and-shield-ultimate-plus-wiki/pokemon/359-absol) 4%
                 </div><div style="display: grid; justify-items: center">
@@ -41,22 +41,22 @@
                 </div><div style="display: grid; justify-items: center">
                     ![frosmoth](../../img/pokemon/frosmoth.png) [Frosmoth](/sword-and-shield-ultimate-plus-wiki/pokemon/873-frosmoth) 100%
                 </div><div style="display: grid; justify-items: center">
-                    ![darumaka](../../img/pokemon/darumaka.png) [Darumaka](/sword-and-shield-ultimate-plus-wiki/pokemon/554-darumaka) 100%
-                </div><div style="display: grid; justify-items: center">
                     ![mamoswine](../../img/pokemon/mamoswine.png) [Mamoswine](/sword-and-shield-ultimate-plus-wiki/pokemon/473-mamoswine) 100%
                 </div><div style="display: grid; justify-items: center">
                     ![snover](../../img/pokemon/snover.png) [Snover](/sword-and-shield-ultimate-plus-wiki/pokemon/459-snover) 100%
                 </div><div style="display: grid; justify-items: center">
                     ![wooloo](../../img/pokemon/wooloo.png) [Wooloo](/sword-and-shield-ultimate-plus-wiki/pokemon/831-wooloo) 100%
+                </div><div style="display: grid; justify-items: center">
+                    ![darumaka-galarian](../../img/pokemon/darumaka-galarian.png) [Darumaka-galarian](/sword-and-shield-ultimate-plus-wiki/pokemon/554-darumaka-galarian) 100%
                 </div></div>
 
 	???+ note "Legendary Lv. 80"
 		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
-                    ![articuno](../../img/pokemon/articuno.png) [Articuno](/sword-and-shield-ultimate-plus-wiki/pokemon/144-articuno) 100%
-                </div><div style="display: grid; justify-items: center">
                     ![regieleki](../../img/pokemon/regieleki.png) [Regieleki](/sword-and-shield-ultimate-plus-wiki/pokemon/894-regieleki) 100%
                 </div><div style="display: grid; justify-items: center">
                     ![regidrago](../../img/pokemon/regidrago.png) [Regidrago](/sword-and-shield-ultimate-plus-wiki/pokemon/895-regidrago) 100%
+                </div><div style="display: grid; justify-items: center">
+                    ![articuno-galarian](../../img/pokemon/articuno-galarian.png) [Articuno-galarian](/sword-and-shield-ultimate-plus-wiki/pokemon/1119-articuno-galarian) 100%
                 </div></div>
 
 

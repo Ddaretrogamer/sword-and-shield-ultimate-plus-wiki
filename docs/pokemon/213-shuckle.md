@@ -84,7 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 3: South | Grass | 10 |  |
+        	| Wild Area 1 Southeast | Grass | 10 |  |
 	| Galar Mine 2 | Grass | 2 |  |
 
         

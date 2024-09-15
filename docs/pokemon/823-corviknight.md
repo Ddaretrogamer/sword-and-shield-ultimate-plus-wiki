@@ -85,7 +85,7 @@
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
         	| Route 7 | Grass | 10 |  |
-	| Wild Area 9 (Spooky) | Overworld | 100 |  |
+	| Wild Area 8 (Spooky) | Overworld | 100 |  |
 	| Slumbering Area | Grass | 20 |  |
 	| Crown Tundra Graveyard | Overworld | 100 |  |
 

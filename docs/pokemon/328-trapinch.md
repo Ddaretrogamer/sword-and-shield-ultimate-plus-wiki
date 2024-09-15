@@ -85,9 +85,9 @@
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
         	| Route 6 | Grass | 10 |  |
-	| Wild Area 7 (Desert): North | Grass | 10 |  |
-	| Wild Area 7 (Desert): North | Overworld | 100 |  |
-	| Wild Area 7 (Desert): South | Overworld | 100 |  |
+	| Wild Area 5 (Desert) North | Grass | 10 |  |
+	| Wild Area 5 (Desert) North | Overworld | 100 |  |
+	| Wild Area 5 (Desert) South | Overworld | 100 |  |
 
         
 

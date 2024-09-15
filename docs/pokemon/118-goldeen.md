@@ -84,7 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 1 South | Fishing   Good Rod | 33 |  |
+        	| Wild Area 1 Southwest | Fishing   Good Rod | 33 |  |
 	| Glimwood Tangle | Fishing   Good Rod | 33 |  |
 	| Glimwood Tangle | Fishing   Super Rod | 20 |  |
 

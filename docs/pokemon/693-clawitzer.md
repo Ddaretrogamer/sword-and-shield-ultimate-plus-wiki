@@ -85,7 +85,7 @@
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
         	| Route 2 | Fishing   Super Rod | 20 |  |
-	| Wild Area 10 (Dragon) | Fishing   Good Rod | 33 |  |
+	| Wild Area 9 (Dragon) | Fishing   Good Rod | 33 |  |
 
         
 

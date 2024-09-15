@@ -84,9 +84,9 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 6 (Ice): East | Surf | 20 |  |
-	| Wild Area 6 (Ice): East | Fishing   Good Rod | 33 |  |
-	| Wild Area 6 (Ice): West | Surf | 20 |  |
+        	| Wild Area 7 (Ice) East | Surf | 20 |  |
+	| Wild Area 7 (Ice) East | Fishing   Good Rod | 33 |  |
+	| Wild Area 7 (Ice) West | Surf | 20 |  |
 	| Crown Tundra Snowy East | Surf | 100 |  |
 
         

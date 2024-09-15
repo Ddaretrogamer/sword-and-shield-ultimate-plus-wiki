@@ -84,8 +84,8 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 4: South | Grass | 5 |  |
-	| Wild Area 4 (Volcano) | Grass | 1 |  |
+        	| Wild Area 3 South | Grass | 5 |  |
+	| Wild Area 3 (Volcano) | Grass | 1 |  |
 
         
 

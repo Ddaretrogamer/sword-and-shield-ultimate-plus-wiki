@@ -85,7 +85,7 @@
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
         	| Route 6 | Grass | 1 |  |
-	| Wild Area 7 (Desert): South | Grass | 10 |  |
+	| Wild Area 5 (Desert) South | Grass | 10 |  |
 
         
 

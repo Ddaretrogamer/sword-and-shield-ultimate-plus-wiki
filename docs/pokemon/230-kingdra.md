@@ -84,10 +84,10 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 6 (Ice): East | Surf | 20 |  |
-	| Wild Area 6 (Ice): West | Surf | 20 |  |
-	| Wild Area 10 (Dragon) | Surf | 20 |  |
-	| Wild Area 10 (Dragon) | Fishing   Good Rod | 33 |  |
+        	| Wild Area 7 (Ice) East | Surf | 20 |  |
+	| Wild Area 7 (Ice) West | Surf | 20 |  |
+	| Wild Area 9 (Dragon) | Surf | 20 |  |
+	| Wild Area 9 (Dragon) | Fishing   Good Rod | 33 |  |
 
         
 

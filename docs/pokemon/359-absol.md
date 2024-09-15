@@ -84,7 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 6 (Ice): West | Grass | 6 |  |
+        	| Wild Area 7 (Ice) West | Grass | 6 |  |
 	| Crown Tundra Snowy East | Grass | 4 |  |
 	| Resting Spot Entrance (Crown Tundra) | Grass | 5 |  |
 

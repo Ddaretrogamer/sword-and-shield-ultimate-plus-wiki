@@ -84,9 +84,9 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 6 (Ice): East | Surf | 20 |  |
-	| Wild Area 6 (Ice): East | Fishing   Super Rod | 20 |  |
-	| Wild Area 6 (Ice): West | Surf | 20 |  |
+        	| Wild Area 7 (Ice) East | Surf | 20 |  |
+	| Wild Area 7 (Ice) East | Fishing   Super Rod | 20 |  |
+	| Wild Area 7 (Ice) West | Surf | 20 |  |
 	| Route 9 | Surf | 20 |  |
 
         

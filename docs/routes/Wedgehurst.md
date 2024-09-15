@@ -12,14 +12,14 @@
                     ![scorbunny](../../img/pokemon/scorbunny.png) [Scorbunny](/sword-and-shield-ultimate-plus-wiki/pokemon/813-scorbunny) 100%
                 </div></div>
 
-	???+ note "Overworld Lv. 30"
-		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
-                    ![slowpoke](../../img/pokemon/slowpoke.png) [Slowpoke](/sword-and-shield-ultimate-plus-wiki/pokemon/079-slowpoke) 100%
-                </div></div>
-
 	???+ note "In Game Trade Lv. 10"
 		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![chikorita](../../img/pokemon/chikorita.png) [Chikorita](/sword-and-shield-ultimate-plus-wiki/pokemon/152-chikorita) 100%
+                </div></div>
+
+	???+ note "Overworld Lv. 30"
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
+                    ![slowpoke-galarian](../../img/pokemon/slowpoke-galarian.png) [Slowpoke-galarian](/sword-and-shield-ultimate-plus-wiki/pokemon/079-slowpoke-galarian) 100%
                 </div></div>
 
 

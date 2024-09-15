@@ -84,10 +84,8 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Route 4 | Overworld | 100 |  |
-	| Wild Area 4 West | Overworld | 100 |  |
+        	| Wild Area 3 West | Overworld | 100 |  |
 	| Route 7 | Overworld | 100 |  |
-	| Isle Of Armor 7 | Overworld | 100 |  |
 
         
 

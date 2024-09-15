@@ -84,7 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 8: East | Grass | 20 |  |
+        	| Wild Area 6 East | Grass | 20 |  |
 
         
 

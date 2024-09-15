@@ -84,8 +84,8 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 4: South | Grass | 20 |  |
-	| Wild Area 7 (Desert): South | Grass | 5 |  |
+        	| Wild Area 3 South | Grass | 20 |  |
+	| Wild Area 5 (Desert) South | Grass | 5 |  |
 	| Route 10 | Grass | 5 |  |
 
         

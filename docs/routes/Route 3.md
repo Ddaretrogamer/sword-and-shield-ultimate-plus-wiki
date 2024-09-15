@@ -18,11 +18,11 @@
 
 	???+ note "Overworld Lv. 4-6"
 		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
+                    ![zigzagoon-galarian](../../img/pokemon/zigzagoon-galarian.png) [Zigzagoon-galarian](/sword-and-shield-ultimate-plus-wiki/pokemon/263-zigzagoon-galarian) 100%
+                </div><div style="display: grid; justify-items: center">
                     ![skwovet](../../img/pokemon/skwovet.png) [Skwovet](/sword-and-shield-ultimate-plus-wiki/pokemon/819-skwovet) 100%
                 </div><div style="display: grid; justify-items: center">
                     ![rookidee](../../img/pokemon/rookidee.png) [Rookidee](/sword-and-shield-ultimate-plus-wiki/pokemon/821-rookidee) 100%
-                </div><div style="display: grid; justify-items: center">
-                    ![zigzagoon](../../img/pokemon/zigzagoon.png) [Zigzagoon](/sword-and-shield-ultimate-plus-wiki/pokemon/263-zigzagoon) 100%
                 </div></div>
 
 	???+ note "In Game Trade Lv. 10"

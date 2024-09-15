@@ -87,7 +87,7 @@
         	| Galar Mine 1 | Grass | 10 |  |
 	| Galar Mine 2 | Grass | 10 |  |
 	| Route 6 | Grass | 4 |  |
-	| Wild Area 7 (Desert): North | Grass | 5 |  |
+	| Wild Area 5 (Desert) North | Grass | 5 |  |
 
         
 

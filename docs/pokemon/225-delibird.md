@@ -84,7 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 6 (Ice): East | Grass | 10 |  |
+        	| Wild Area 7 (Ice) East | Grass | 10 |  |
 	| Route 8 (Snow) | Grass | 10 |  |
 	| Crown Tundra Snowy East | Grass | 5 |  |
 

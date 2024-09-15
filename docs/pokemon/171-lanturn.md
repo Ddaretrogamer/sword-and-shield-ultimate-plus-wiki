@@ -84,9 +84,9 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 4: North | Surf | 20 |  |
-	| Wild Area 8: East | Surf | 20 |  |
-	| Wild Area 8: East | Fishing   Good Rod | 33 |  |
+        	| Wild Area 3 North | Surf | 20 |  |
+	| Wild Area 6 East | Surf | 20 |  |
+	| Wild Area 6 East | Fishing   Good Rod | 33 |  |
 
         
 

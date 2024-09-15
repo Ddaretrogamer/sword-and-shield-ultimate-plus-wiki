@@ -84,7 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 6 (Ice): East | Legendary | 100 | Bring Relicanth and Wailord to Dive locations, surf in Wild Area 6 to encounter Kyogre |
+        	| Wild Area 7 (Ice) East | Legendary | 100 | Bring Relicanth and Wailord to Dive locations, surf in Wild Area 6 to encounter Kyogre |
 
         
 

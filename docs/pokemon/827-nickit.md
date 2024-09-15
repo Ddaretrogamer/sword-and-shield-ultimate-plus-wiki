@@ -88,7 +88,7 @@
 	| Route 2 | Overworld | 100 |  |
 	| Route 7 | Overworld | 100 |  |
 	| Route 9 | Overworld | 100 |  |
-	| Wild Area 9 (Spooky) | Overworld | 100 |  |
+	| Wild Area 8 (Spooky) | Overworld | 100 |  |
 	| Isle Of Armor 2 | Overworld | 100 |  |
 	| Isle Of Armor 9 | Overworld | 100 |  |
 	| Crown Tundra Graveyard | Overworld | 100 |  |

@@ -84,7 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 3: North | In Game Trade | 100 | Trade Girafarig for Treecko |
+        	| Wild Area 1 Northeast | In Game Trade | 100 | Trade Girafarig for Treecko |
 
         
 

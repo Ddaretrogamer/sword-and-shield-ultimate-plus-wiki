@@ -84,9 +84,9 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 3: North | Overworld | 100 |  |
-	| Wild Area 4: South | Overworld | 100 |  |
-	| Wild Area 8: East | Grass | 10 |  |
+        	| Wild Area 1 Northeast | Overworld | 100 |  |
+	| Wild Area 3 South | Overworld | 100 |  |
+	| Wild Area 6 East | Grass | 10 |  |
 
         
 

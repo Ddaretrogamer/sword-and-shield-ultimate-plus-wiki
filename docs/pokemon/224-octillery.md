@@ -84,7 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 8: East | Fishing   Super Rod | 20 |  |
+        	| Wild Area 6 East | Fishing   Super Rod | 20 |  |
 	| Route 9 | Grass | 20 |  |
 
         

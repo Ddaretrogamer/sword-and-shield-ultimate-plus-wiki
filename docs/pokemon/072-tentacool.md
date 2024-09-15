@@ -84,7 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 1 North | Fishing   Old Rod | 50 |  |
+        	| Wild Area 1 Northwest | Fishing   Old Rod | 50 |  |
 	| Isle Of Armor 6 | Surf | 40 |  |
 
         

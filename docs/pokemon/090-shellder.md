@@ -84,7 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 1 South | Fishing   Old Rod | 50 |  |
+        	| Wild Area 1 Southwest | Fishing   Old Rod | 50 |  |
 
         
 

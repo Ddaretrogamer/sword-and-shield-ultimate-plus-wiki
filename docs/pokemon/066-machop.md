@@ -86,7 +86,7 @@
         | -- | -- | -- | -- |
         	| Route 3 | Grass | 40 |  |
 	| Galar Mine 1 | Grass | 5 |  |
-	| Wild Area 4: South | Grass | 10 |  |
+	| Wild Area 3 South | Grass | 10 |  |
 	| Courageous Cavern (Route 10) | Grass | 20 |  |
 	| Courageous Cavern (Isle Of Armor) | Grass | 20 |  |
 

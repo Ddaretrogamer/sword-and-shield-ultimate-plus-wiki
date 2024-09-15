@@ -84,8 +84,8 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 4: North | Overworld | 100 |  |
-	| Wild Area 8: East | Fishing   Super Rod | 20 |  |
+        	| Wild Area 3 North | Overworld | 100 |  |
+	| Wild Area 6 East | Fishing   Super Rod | 20 |  |
 	| Route 9 | Grass | 10 |  |
 	| Route 9 | Surf | 20 |  |
 	| Route 9 | Overworld | 100 |  |

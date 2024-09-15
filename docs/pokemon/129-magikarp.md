@@ -84,10 +84,10 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 1 North | Surf | 20 |  |
-	| Wild Area 1 North | Fishing   Good Rod | 33 |  |
+        	| Wild Area 1 Northwest | Surf | 20 |  |
+	| Wild Area 1 Northwest | Fishing   Good Rod | 33 |  |
 	| Galar Mine 2 | Fishing   Good Rod | 33 |  |
-	| Wild Area 4: North | Fishing   Super Rod | 20 |  |
+	| Wild Area 3 North | Fishing   Super Rod | 20 |  |
 	| Glimwood Tangle | Fishing   Old Rod | 100 |  |
 	| Glimwood Tangle | Fishing   Good Rod | 33 |  |
 

@@ -85,7 +85,7 @@
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
         	| Route 2 | Grass | 20 |  |
-	| Wild Area 1 South | Grass | 5 |  |
+	| Wild Area 1 Southwest | Grass | 5 |  |
 
         
 

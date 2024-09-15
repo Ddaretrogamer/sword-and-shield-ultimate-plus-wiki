@@ -84,8 +84,8 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 1 South | Grass | 20 |  |
-	| Wild Area 3: South | Grass | 10 |  |
+        	| Wild Area 1 Southwest | Grass | 20 |  |
+	| Wild Area 1 Southeast | Grass | 10 |  |
 	| Route 4 | Grass | 20 |  |
 	| Crown Tundra Graveyard | Grass | 10 |  |
 

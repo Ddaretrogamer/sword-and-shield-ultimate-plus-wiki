@@ -84,8 +84,8 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 6 (Ice): West | Grass | 20 |  |
-	| Wild Area 7 (Desert): South | Grass | 1 |  |
+        	| Wild Area 7 (Ice) West | Grass | 20 |  |
+	| Wild Area 5 (Desert) South | Grass | 1 |  |
 	| Route 10 | Grass | 1 |  |
 	| Warm Up Tunnel (Isle Of Armor) | Grass | 1 |  |
 	| Crown Tundra Graveyard | Grass | 10 |  |

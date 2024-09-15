@@ -81,14 +81,7 @@
 
 
 
-## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Route 2 | Overworld | 0 |  |
-	| Route 3 | Overworld | 100 |  |
-	| Wild Area 9 (Spooky) | Overworld | 100 |  |
 
-        
 
 ## Moveset
 

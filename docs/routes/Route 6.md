@@ -13,9 +13,9 @@
                 </div><div style="display: grid; justify-items: center">
                     ![trapinch](../../img/pokemon/trapinch.png) [Trapinch](/sword-and-shield-ultimate-plus-wiki/pokemon/328-trapinch) 10%
                 </div><div style="display: grid; justify-items: center">
-                    ![yamask](../../img/pokemon/yamask.png) [Yamask](/sword-and-shield-ultimate-plus-wiki/pokemon/562-yamask) 10%
-                </div><div style="display: grid; justify-items: center">
                     ![dugtrio](../../img/pokemon/dugtrio.png) [Dugtrio](/sword-and-shield-ultimate-plus-wiki/pokemon/051-dugtrio) 10%
+                </div><div style="display: grid; justify-items: center">
+                    ![yamask-galarian](../../img/pokemon/yamask-galarian.png) [Yamask-galarian](/sword-and-shield-ultimate-plus-wiki/pokemon/562-yamask-galarian) 10%
                 </div><div style="display: grid; justify-items: center">
                     ![helioptile](../../img/pokemon/helioptile.png) [Helioptile](/sword-and-shield-ultimate-plus-wiki/pokemon/694-helioptile) 5%
                 </div><div style="display: grid; justify-items: center">
@@ -32,7 +32,7 @@
 
 	???+ note "Overworld"
 		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
-                    ![yamask](../../img/pokemon/yamask.png) [Yamask](/sword-and-shield-ultimate-plus-wiki/pokemon/562-yamask) 100%
+                    ![yamask-galarian](../../img/pokemon/yamask-galarian.png) [Yamask-galarian](/sword-and-shield-ultimate-plus-wiki/pokemon/562-yamask-galarian) 100%
                 </div><div style="display: grid; justify-items: center">
                     ![silicobra](../../img/pokemon/silicobra.png) [Silicobra](/sword-and-shield-ultimate-plus-wiki/pokemon/843-silicobra) 100%
                 </div></div>

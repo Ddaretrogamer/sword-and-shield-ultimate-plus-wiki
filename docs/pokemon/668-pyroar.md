@@ -84,9 +84,9 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 8: West | Overworld | 100 |  |
-	| Wild Area 8: East | Overworld | 100 |  |
-	| Wild Area 10 (Dragon) | Overworld | 100 |  |
+        	| Wild Area 6 West | Overworld | 100 |  |
+	| Wild Area 6 East | Overworld | 100 |  |
+	| Wild Area 9 (Dragon) | Overworld | 100 |  |
 	| Isle Of Armor 8 | Overworld | 100 |  |
 
         

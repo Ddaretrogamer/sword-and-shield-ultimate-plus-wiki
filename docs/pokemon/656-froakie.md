@@ -16,10 +16,10 @@
         /<a href='' title="Changes the bearer's type to match each move it uses.  The type change takes place just before the move is used.">Protean</a>
       </div>
     </div>
-    <div style="display: none;" class="hidden-pokemon-attribute">
+    <div style="display: grid;" class="hidden-pokemon-attribute">
       <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:15px; align-self: center;">Hidden Ability</p>
       <div class="attribute-value">
-        
+        <a href='' title="Changes the bearer's type to match each move it uses.  The type change takes place just before the move is used.">Protean</a>
       </div>
     </div>
   </div>

@@ -85,7 +85,7 @@
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
         	| Motostoke | Grass | 1 |  |
-	| Wild Area 4: North | Grass | 10 |  |
+	| Wild Area 3 North | Grass | 10 |  |
 
         
 

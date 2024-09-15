@@ -88,7 +88,7 @@
 	| Motostoke | Overworld | 100 |  |
 	| Galar Mine 1 | Fishing   Old Rod | 50 |  |
 	| Galar Mine 1 | Fishing   Good Rod | 33 |  |
-	| Wild Area 4: North | Overworld | 100 |  |
+	| Wild Area 3 North | Overworld | 100 |  |
 
         
 

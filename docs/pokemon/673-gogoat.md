@@ -84,7 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 5: East | Overworld | 100 |  |
+        	| Wild Area 4 East | Overworld | 100 |  |
 	| Isle Of Armor 8 | Overworld | 100 |  |
 
         

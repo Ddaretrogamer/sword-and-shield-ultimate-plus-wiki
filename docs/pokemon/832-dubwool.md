@@ -84,7 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 5: West | Grass | 4 |  |
+        	| Wild Area 4 West | Grass | 4 |  |
 	| Freezington (Crown Tundra) | Grass | 20 |  |
 	| Crown Tundra Graveyard | Grass | 10 |  |
 	| Crown Tundra Snowy East | Grass | 10 |  |

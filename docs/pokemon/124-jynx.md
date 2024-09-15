@@ -84,7 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 6 (Ice): East | Grass | 20 |  |
+        	| Wild Area 7 (Ice) East | Grass | 20 |  |
 	| Circhester | In Game Trade | 100 | Trade Polywhirl for Jynx |
 	| Freezington (Crown Tundra) | Grass | 10 |  |
 	| Resting Spot Entrance (Crown Tundra) | Grass | 10 |  |

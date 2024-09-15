@@ -84,14 +84,8 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Galar Mine 2 | Grass | 20 |  |
-	| Wild Area 4 (Volcano) | Overworld | 100 |  |
-	| Slumbering Area | Grass | 5 |  |
+        	| Wild Area 3 (Volcano) | Overworld | 100 |  |
 	| Isle Of Armor 8 | Grass | 10 |  |
-	| Brawlers Cave (Isle Of Armor) | Overworld | 100 |  |
-	| Warm Up Tunnel (Isle Of Armor) | Overworld | 100 |  |
-	| Scifub Chamber (Crown Tundra) | Overworld | 100 |  |
-	| Tanoby Key (Crown Tundra) | Overworld | 100 |  |
 
         
 

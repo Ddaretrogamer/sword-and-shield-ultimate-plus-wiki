@@ -20,7 +20,7 @@
 
 	???+ note "Overworld Lv. 7-9"
 		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
-                    ![meowth](../../img/pokemon/meowth.png) [Meowth](/sword-and-shield-ultimate-plus-wiki/pokemon/052-meowth) 100%
+                    ![meowth-galarian](../../img/pokemon/meowth-galarian.png) [Meowth-galarian](/sword-and-shield-ultimate-plus-wiki/pokemon/052-meowth-galarian) 100%
                 </div></div>
 
 

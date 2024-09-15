@@ -86,7 +86,7 @@
         | -- | -- | -- | -- |
         	| Wild Area 2 (Bear) | Grass | 5 |  |
 	| Motostoke | Grass | 4 |  |
-	| Wild Area 7 (Desert): North | Grass | 1 |  |
+	| Wild Area 5 (Desert) North | Grass | 1 |  |
 
         
 

@@ -85,7 +85,7 @@
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
         	| Galar Mine 1 | Grass | 20 |  |
-	| Wild Area 4 (Volcano) | Grass | 4 |  |
+	| Wild Area 3 (Volcano) | Grass | 4 |  |
 
         
 

@@ -84,9 +84,9 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 6 (Ice): East | Grass | 5 |  |
-	| Wild Area 6 (Ice): East | Fishing   Old Rod | 50 |  |
-	| Wild Area 6 (Ice): East | Fishing   Super Rod | 20 |  |
+        	| Wild Area 7 (Ice) East | Grass | 5 |  |
+	| Wild Area 7 (Ice) East | Fishing   Old Rod | 50 |  |
+	| Wild Area 7 (Ice) East | Fishing   Super Rod | 20 |  |
 
         
 

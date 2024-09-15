@@ -32,7 +32,7 @@
 
 	???+ note "Overworld Lv. 50-67"
 		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
-                    ![stunfisk](../../img/pokemon/stunfisk.png) [Stunfisk](/sword-and-shield-ultimate-plus-wiki/pokemon/618-stunfisk) 100%
+                    ![stunfisk-galarian](../../img/pokemon/stunfisk-galarian.png) [Stunfisk-galarian](/sword-and-shield-ultimate-plus-wiki/pokemon/618-stunfisk-galarian) 100%
                 </div><div style="display: grid; justify-items: center">
                     ![mamoswine](../../img/pokemon/mamoswine.png) [Mamoswine](/sword-and-shield-ultimate-plus-wiki/pokemon/473-mamoswine) 100%
                 </div><div style="display: grid; justify-items: center">

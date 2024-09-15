@@ -84,7 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 4: North | Fishing   Old Rod | 50 |  |
+        	| Wild Area 3 North | Fishing   Old Rod | 50 |  |
 	| Route 9 | Grass | 20 |  |
 	| Isle Of Armor 6 | Grass | 4 |  |
 

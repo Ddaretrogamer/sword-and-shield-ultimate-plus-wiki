@@ -85,7 +85,7 @@
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
         	| Motostoke | Grass | 20 |  |
-	| Wild Area 5: East | Grass | 10 |  |
+	| Wild Area 4 East | Grass | 10 |  |
 	| Crown Tundra Graveyard | Overworld | 100 |  |
 
         

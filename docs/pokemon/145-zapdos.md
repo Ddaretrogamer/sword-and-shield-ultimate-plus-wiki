@@ -84,8 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 5: West | Legendary | 100 |  |
-	| Dynamax Adventure (Crown Tundra) | Legendary | 100 |  |
+        	| Dynamax Adventure (Crown Tundra) | Legendary | 100 |  |
 
         
 

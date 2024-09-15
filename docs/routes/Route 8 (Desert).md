@@ -9,11 +9,11 @@
                 </div><div style="display: grid; justify-items: center">
                     ![falinks](../../img/pokemon/falinks.png) [Falinks](/sword-and-shield-ultimate-plus-wiki/pokemon/870-falinks) 20%
                 </div><div style="display: grid; justify-items: center">
+                    ![yamask-galarian](../../img/pokemon/yamask-galarian.png) [Yamask-galarian](/sword-and-shield-ultimate-plus-wiki/pokemon/562-yamask-galarian) 10%
+                </div><div style="display: grid; justify-items: center">
                     ![dusclops](../../img/pokemon/dusclops.png) [Dusclops](/sword-and-shield-ultimate-plus-wiki/pokemon/356-dusclops) 10%
                 </div><div style="display: grid; justify-items: center">
                     ![hippowdon](../../img/pokemon/hippowdon.png) [Hippowdon](/sword-and-shield-ultimate-plus-wiki/pokemon/450-hippowdon) 10%
-                </div><div style="display: grid; justify-items: center">
-                    ![yamask](../../img/pokemon/yamask.png) [Yamask](/sword-and-shield-ultimate-plus-wiki/pokemon/562-yamask) 10%
                 </div><div style="display: grid; justify-items: center">
                     ![bronzong](../../img/pokemon/bronzong.png) [Bronzong](/sword-and-shield-ultimate-plus-wiki/pokemon/437-bronzong) 10%
                 </div><div style="display: grid; justify-items: center">

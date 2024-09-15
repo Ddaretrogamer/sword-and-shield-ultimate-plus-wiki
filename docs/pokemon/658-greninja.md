@@ -16,10 +16,10 @@
         /<a href='' title="Changes the bearer's type to match each move it uses.  The type change takes place just before the move is used.">Protean</a>
       </div>
     </div>
-    <div style="display: none;" class="hidden-pokemon-attribute">
+    <div style="display: grid;" class="hidden-pokemon-attribute">
       <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:15px; align-self: center;">Hidden Ability</p>
       <div class="attribute-value">
-        
+        <a href='' title="Transforms this Pokemon into Ash-Greninja after fainting an opponent.  Water Shuriken's power is 20 and always hits three times.  This ability cannot be copied or replaced.  This ability only takes effect for Greninja.">Battle-bond</a>
       </div>
     </div>
   </div>
@@ -84,7 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 10 (Dragon) | Gift | 100 | Defeat the battle tower in the Dragon Wild Area to have a choice to battle Greninja |
+        	| Wild Area 9 (Dragon) | Gift | 100 | Defeat the battle tower in the Dragon Wild Area to have a choice to battle a Battle-bond Greninja |
 
         
 

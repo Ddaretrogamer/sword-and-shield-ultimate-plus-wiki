@@ -84,7 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 8: West | Grass | 4 |  |
+        	| Wild Area 6 West | Grass | 4 |  |
 	| Tree Base (Crown Tundra) | Grass | 10 |  |
 
         

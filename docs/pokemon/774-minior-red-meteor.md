@@ -84,7 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 8 (Rixy Chamber) | Grass | 8 |  |
+        	| Wild Area 6 (Rixy Chamber) | Grass | 8 |  |
 	| Isle Of Armor 9 | Grass | 1 |  |
 	| Warm Up Tunnel (Isle Of Armor) | Grass | 20 |  |
 

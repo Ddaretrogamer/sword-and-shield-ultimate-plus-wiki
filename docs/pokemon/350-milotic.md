@@ -84,9 +84,9 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 1 South | Fishing   Super Rod | 20 |  |
-	| Wild Area 8: East | Fishing   Old Rod | 50 |  |
-	| Wild Area 10 (Dragon) | Fishing   Super Rod | 20 |  |
+        	| Wild Area 1 Southwest | Fishing   Super Rod | 20 |  |
+	| Wild Area 6 East | Fishing   Old Rod | 50 |  |
+	| Wild Area 9 (Dragon) | Fishing   Super Rod | 20 |  |
 
         
 

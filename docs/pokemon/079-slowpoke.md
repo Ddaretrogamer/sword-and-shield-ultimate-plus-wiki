@@ -81,13 +81,7 @@
 
 
 
-## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Wedgehurst | Overworld | 100 |  |
-	| Isle Of Armor 1 | Grass | 5 |  |
 
-        
 
 ## Moveset
 

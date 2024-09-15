@@ -85,7 +85,7 @@
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
         	| Route 2 | Grass | 8 |  |
-	| Wild Area 3: North | Overworld | 100 |  |
+	| Wild Area 1 Northeast | Overworld | 100 |  |
 	| Route 4 | Grass | 8 |  |
 	| Galar Mine 2 | Grass | 25 |  |
 	| Motostoke | Grass | 20 |  |

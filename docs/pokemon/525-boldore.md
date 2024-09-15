@@ -84,8 +84,8 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 4 (Volcano) | Grass | 10 |  |
-	| Wild Area 8 (Rixy Chamber) | Grass | 10 |  |
+        	| Wild Area 3 (Volcano) | Grass | 10 |  |
+	| Wild Area 6 (Rixy Chamber) | Grass | 10 |  |
 	| Route 8 | Grass | 4 |  |
 
         

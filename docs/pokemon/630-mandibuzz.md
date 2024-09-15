@@ -84,8 +84,8 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 4: West | Grass | 20 |  |
-	| Wild Area 5: East | Grass | 5 |  |
+        	| Wild Area 3 West | Grass | 20 |  |
+	| Wild Area 4 East | Grass | 5 |  |
 	| Isle Of Armor 8 | Grass | 10 |  |
 
         

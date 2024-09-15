@@ -21,7 +21,7 @@
                 </div><div style="display: grid; justify-items: center">
                     ![vanillish](../../img/pokemon/vanillish.png) [Vanillish](/sword-and-shield-ultimate-plus-wiki/pokemon/583-vanillish) 5%
                 </div><div style="display: grid; justify-items: center">
-                    ![darumaka](../../img/pokemon/darumaka.png) [Darumaka](/sword-and-shield-ultimate-plus-wiki/pokemon/554-darumaka) 4%
+                    ![darumaka-galarian](../../img/pokemon/darumaka-galarian.png) [Darumaka-galarian](/sword-and-shield-ultimate-plus-wiki/pokemon/554-darumaka-galarian) 4%
                 </div><div style="display: grid; justify-items: center">
                     ![snom](../../img/pokemon/snom.png) [Snom](/sword-and-shield-ultimate-plus-wiki/pokemon/872-snom) 4%
                 </div><div style="display: grid; justify-items: center">
@@ -32,13 +32,13 @@
 
 	???+ note "Overworld Lv. 40"
 		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
+                    ![darumaka-galarian](../../img/pokemon/darumaka-galarian.png) [Darumaka-galarian](/sword-and-shield-ultimate-plus-wiki/pokemon/554-darumaka-galarian) 100%
+                </div><div style="display: grid; justify-items: center">
                     ![snom](../../img/pokemon/snom.png) [Snom](/sword-and-shield-ultimate-plus-wiki/pokemon/872-snom) 100%
                 </div><div style="display: grid; justify-items: center">
                     ![snover](../../img/pokemon/snover.png) [Snover](/sword-and-shield-ultimate-plus-wiki/pokemon/459-snover) 100%
                 </div><div style="display: grid; justify-items: center">
                     ![duraludon](../../img/pokemon/duraludon.png) [Duraludon](/sword-and-shield-ultimate-plus-wiki/pokemon/884-duraludon) 100%
-                </div><div style="display: grid; justify-items: center">
-                    ![darumaka](../../img/pokemon/darumaka.png) [Darumaka](/sword-and-shield-ultimate-plus-wiki/pokemon/554-darumaka) 100%
                 </div></div>
 
 

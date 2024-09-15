@@ -84,7 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 8: East | Surf | 20 |  |
+        	| Wild Area 6 East | Surf | 20 |  |
 	| Route 9 | Grass | 5 |  |
 	| Route 9 | Surf | 20 |  |
 	| Isle Of Armor 1 | Overworld | 100 |  |

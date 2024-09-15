@@ -59,13 +59,13 @@
 
 	???+ note "Overworld Lv. 4-6"
 		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
+                    ![zigzagoon-galarian](../../img/pokemon/zigzagoon-galarian.png) [Zigzagoon-galarian](/sword-and-shield-ultimate-plus-wiki/pokemon/263-zigzagoon-galarian) 100%
+                </div><div style="display: grid; justify-items: center">
                     ![rookidee](../../img/pokemon/rookidee.png) [Rookidee](/sword-and-shield-ultimate-plus-wiki/pokemon/821-rookidee) 100%
                 </div><div style="display: grid; justify-items: center">
                     ![yamper](../../img/pokemon/yamper.png) [Yamper](/sword-and-shield-ultimate-plus-wiki/pokemon/835-yamper) 100%
                 </div><div style="display: grid; justify-items: center">
                     ![nickit](../../img/pokemon/nickit.png) [Nickit](/sword-and-shield-ultimate-plus-wiki/pokemon/827-nickit) 100%
-                </div><div style="display: grid; justify-items: center">
-                    ![zigzagoon](../../img/pokemon/zigzagoon.png) [Zigzagoon](/sword-and-shield-ultimate-plus-wiki/pokemon/263-zigzagoon) 
                 </div></div>
 
 

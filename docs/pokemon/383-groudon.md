@@ -84,7 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 4 (Volcano) | Legendary | 100 | Bring Relicanth and Wailord to Dive locations, return to Volcano to encounter Groudon |
+        	| Wild Area 3 (Volcano) | Legendary | 100 | Bring Relicanth and Wailord to Dive locations, return to Volcano to encounter Groudon |
 
         
 

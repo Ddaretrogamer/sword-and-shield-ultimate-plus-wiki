@@ -84,8 +84,8 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 4 (Volcano) | Grass | 20 |  |
-	| Wild Area 4 (Volcano) | Overworld | 100 |  |
+        	| Wild Area 3 (Volcano) | Grass | 20 |  |
+	| Wild Area 3 (Volcano) | Overworld | 100 |  |
 	| Courageous Cavern (Route 10) | Grass | 10 |  |
 	| Isle Of Armor Desert | Overworld | 100 |  |
 	| Courageous Cavern (Isle Of Armor) | Grass | 30 |  |

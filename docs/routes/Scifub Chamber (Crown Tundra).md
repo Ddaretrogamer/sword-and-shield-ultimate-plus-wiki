@@ -22,7 +22,7 @@
 
 	???+ note "Overworld"
 		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
-                    ![stunfisk](../../img/pokemon/stunfisk.png) [Stunfisk](/sword-and-shield-ultimate-plus-wiki/pokemon/618-stunfisk) 100%
+                    ![stunfisk-galarian](../../img/pokemon/stunfisk-galarian.png) [Stunfisk-galarian](/sword-and-shield-ultimate-plus-wiki/pokemon/618-stunfisk-galarian) 100%
                 </div><div style="display: grid; justify-items: center">
                     ![onix](../../img/pokemon/onix.png) [Onix](/sword-and-shield-ultimate-plus-wiki/pokemon/095-onix) 100%
                 </div><div style="display: grid; justify-items: center">

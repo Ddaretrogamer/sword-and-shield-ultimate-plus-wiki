@@ -84,7 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 7 (Desert): North | Grass | 5 |  |
+        	| Wild Area 5 (Desert) North | Grass | 5 |  |
 	| Crown Tundra Grassy East | Grass | 10 |  |
 	| Tree Base (Crown Tundra) | Grass | 10 |  |
 

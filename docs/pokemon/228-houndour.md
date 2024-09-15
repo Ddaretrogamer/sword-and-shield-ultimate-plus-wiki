@@ -84,11 +84,11 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 4: South | Overworld | 100 |  |
-	| Wild Area 4: West | Grass | 20 |  |
-	| Wild Area 4 West | Overworld | 100 |  |
-	| Wild Area 4 (Volcano) | Overworld | 100 |  |
-	| Wild Area 8 (Rixy Chamber) | Grass | 10 |  |
+        	| Wild Area 3 South | Overworld | 100 |  |
+	| Wild Area 3 West | Grass | 20 |  |
+	| Wild Area 3 West | Overworld | 100 |  |
+	| Wild Area 3 (Volcano) | Overworld | 100 |  |
+	| Wild Area 6 (Rixy Chamber) | Grass | 10 |  |
 	| Isle Of Armor 7 | Overworld | 100 |  |
 	| Crown Tundra Grassy East | Overworld | 100 |  |
 

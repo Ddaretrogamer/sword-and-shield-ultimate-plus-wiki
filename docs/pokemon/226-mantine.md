@@ -84,11 +84,11 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 1 South | Fishing   Super Rod | 20 |  |
-	| Wild Area 1 North | Fishing   Super Rod | 20 |  |
-	| Wild Area 8: East | Fishing   Good Rod | 33 |  |
+        	| Wild Area 1 Southwest | Fishing   Super Rod | 20 |  |
+	| Wild Area 1 Northwest | Fishing   Super Rod | 20 |  |
+	| Wild Area 6 East | Fishing   Good Rod | 33 |  |
 	| Route 9 | Grass | 1 |  |
-	| Wild Area 10 (Dragon) | Fishing   Super Rod | 20 |  |
+	| Wild Area 9 (Dragon) | Fishing   Super Rod | 20 |  |
 
         
 

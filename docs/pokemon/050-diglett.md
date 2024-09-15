@@ -85,8 +85,7 @@
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
         	| Galar Mine 1 | Grass | 14 |  |
-	| Hulbury | Purchase from NPC | 0 |  |
-	| Wild Area 7 (Desert): South | Grass | 20 |  |
+	| Wild Area 5 (Desert) South | Grass | 20 |  |
 	| Route 8 Cave | Grass | 19 |  |
 
         

@@ -84,10 +84,10 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 8: East | Fishing   Good Rod | 33 |  |
-	| Wild Area 10 (Dragon) | Surf | 20 |  |
-	| Wild Area 10 (Dragon) | Fishing   Old Rod | 50 |  |
-	| Wild Area 10 (Dragon) | Overworld | 100 |  |
+        	| Wild Area 6 East | Fishing   Good Rod | 33 |  |
+	| Wild Area 9 (Dragon) | Surf | 20 |  |
+	| Wild Area 9 (Dragon) | Fishing   Old Rod | 50 |  |
+	| Wild Area 9 (Dragon) | Overworld | 100 |  |
 	| Isle Of Armor 1 | Overworld | 100 |  |
 	| Isle Of Armor 2 | Overworld | 100 |  |
 	| Isle Of Armor 3 | Overworld | 100 |  |

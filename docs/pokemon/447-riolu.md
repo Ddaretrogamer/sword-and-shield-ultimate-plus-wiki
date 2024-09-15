@@ -85,7 +85,7 @@
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
         	| Route 5 | Grass | 1 |  |
-	| Wild Area 4: West | Grass | 1 |  |
+	| Wild Area 3 West | Grass | 1 |  |
 
         
 

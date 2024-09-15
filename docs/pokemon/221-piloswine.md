@@ -84,7 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 6 (Ice): East | Grass | 10 |  |
+        	| Wild Area 7 (Ice) East | Grass | 10 |  |
 
         
 

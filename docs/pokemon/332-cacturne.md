@@ -84,7 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 4: North | Grass | 4 |  |
+        	| Wild Area 3 North | Grass | 4 |  |
 
         
 

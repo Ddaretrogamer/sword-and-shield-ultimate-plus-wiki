@@ -86,8 +86,6 @@
         | -- | -- | -- | -- |
         	| Route 7 | Grass | 10 |  |
 	| Route 10 | Grass | 20 |  |
-	| Freezington (Crown Tundra) | Grass | 10 |  |
-	| Resting Spot Entrance (Crown Tundra) | Grass | 4 |  |
 
         
 

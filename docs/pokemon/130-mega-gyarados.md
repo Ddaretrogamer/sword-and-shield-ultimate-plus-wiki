@@ -81,7 +81,12 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Dynamax Adventure (Crown Tundra) | Raid Den | 1.6 |  |
 
+        
 
 ## Moveset
 

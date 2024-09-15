@@ -5,7 +5,7 @@
 
 	???+ note "Grass"
 		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
-                    ![ponyta](../../img/pokemon/ponyta.png) [Ponyta](/sword-and-shield-ultimate-plus-wiki/pokemon/077-ponyta) 20%
+                    ![ponyta-galarian](../../img/pokemon/ponyta-galarian.png) [Ponyta-galarian](/sword-and-shield-ultimate-plus-wiki/pokemon/077-ponyta-galarian) 20%
                 </div><div style="display: grid; justify-items: center">
                     ![impidimp](../../img/pokemon/impidimp.png) [Impidimp](/sword-and-shield-ultimate-plus-wiki/pokemon/859-impidimp) 20%
                 </div><div style="display: grid; justify-items: center">

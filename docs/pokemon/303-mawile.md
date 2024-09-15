@@ -84,7 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 4 (Volcano) | Grass | 1 |  |
+        	| Wild Area 3 (Volcano) | Grass | 1 |  |
 	| Route 10 | Grass | 10 |  |
 
         

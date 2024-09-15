@@ -84,7 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 10 (Dragon) | Grass | 10 |  |
+        	| Wild Area 9 (Dragon) | Grass | 10 |  |
 	| Freezington (Crown Tundra) | Grass | 4 |  |
 	| Crown Tundra Grassy East | Grass | 5 |  |
 

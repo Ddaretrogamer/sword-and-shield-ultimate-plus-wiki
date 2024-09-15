@@ -84,8 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Crown Tundra Snowy East | Legendary | 100 |  |
-	| Dynamax Adventure (Crown Tundra) | Legendary | 100 |  |
+        	| Dynamax Adventure (Crown Tundra) | Legendary | 100 |  |
 
         
 

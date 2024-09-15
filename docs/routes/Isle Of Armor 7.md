@@ -37,11 +37,11 @@
 
 	???+ note "Overworld"
 		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
+                    ![meowth-galarian](../../img/pokemon/meowth-galarian.png) [Meowth-galarian](/sword-and-shield-ultimate-plus-wiki/pokemon/052-meowth-galarian) 100%
+                </div><div style="display: grid; justify-items: center">
                     ![cramorant](../../img/pokemon/cramorant.png) [Cramorant](/sword-and-shield-ultimate-plus-wiki/pokemon/845-cramorant) 100%
                 </div><div style="display: grid; justify-items: center">
                     ![houndour](../../img/pokemon/houndour.png) [Houndour](/sword-and-shield-ultimate-plus-wiki/pokemon/228-houndour) 100%
-                </div><div style="display: grid; justify-items: center">
-                    ![meowth](../../img/pokemon/meowth.png) [Meowth](/sword-and-shield-ultimate-plus-wiki/pokemon/052-meowth) 100%
                 </div><div style="display: grid; justify-items: center">
                     ![wailord](../../img/pokemon/wailord.png) [Wailord](/sword-and-shield-ultimate-plus-wiki/pokemon/321-wailord) 100%
                 </div><div style="display: grid; justify-items: center">

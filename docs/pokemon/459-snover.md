@@ -84,9 +84,9 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 6 (Ice): East | Grass | 5 |  |
-	| Wild Area 6 (Ice): East | Overworld | 100 |  |
-	| Wild Area 6 (Ice): West | Overworld | 100 |  |
+        	| Wild Area 7 (Ice) East | Grass | 5 |  |
+	| Wild Area 7 (Ice) East | Overworld | 100 |  |
+	| Wild Area 7 (Ice) West | Overworld | 100 |  |
 	| Route 8 (Snow) | Grass | 10 |  |
 	| Route 8 (Snow) | Overworld | 100 |  |
 	| Route 10 | Grass | 10 |  |

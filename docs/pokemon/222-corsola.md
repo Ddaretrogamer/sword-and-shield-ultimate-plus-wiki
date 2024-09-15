@@ -84,8 +84,8 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 4: North | Grass | 4 |  |
-	| Wild Area 6 (Ice): West | Grass | 20 |  |
+        	| Wild Area 3 North | Grass | 4 |  |
+	| Wild Area 7 (Ice) West | Grass | 20 |  |
 	| Isle Of Armor 2 | Grass | 1 |  |
 
         

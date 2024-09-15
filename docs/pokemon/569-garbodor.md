@@ -84,8 +84,8 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 4: South | Overworld | 100 |  |
-	| Wild Area 9 (Spooky) | Overworld | 100 |  |
+        	| Wild Area 3 South | Overworld | 100 |  |
+	| Wild Area 8 (Spooky) | Overworld | 100 |  |
 
         
 

@@ -11,4 +11,9 @@
 | ![Ability Pill](img/items/Ability Pill.png)<br/>Ability Pill | Use this key item to change the ability of the next Pokemon you encounter to have its hidden ability. This only works on wild encounters and in-game trades. Not on hatching eggs. Unlimited use. |
 | ![Dynamax Band](img/items/Dynamax Band.png)<br/>Dynamax Band | Allows the user to harness the power of Dynamax, |
 | ![Z-Ring](img/items/Z-Ring.png)<br/>Z Ring | Allows the player's Pokémon to use Z-moves. |
+| ![Cutter](img/items/Cutter.png)<br/>Cutter | Allows the user to cut small trees. |
+| ![Dive Goggles](img/items/Dive Goggles.png)<br/>Dive Goggles | Allows the player to dive in specific locations. |
+| ![Rusty Sword](img/items/Rusty Sword.png)<br/>Rusty Sword | Allows Zacian to change to its Crowned form in battle when holding this item. |
+| ![Rusty Shield](img/items/Rusty Shield.png)<br/>Rusty Shield | Allows Zamazenta to change to its Crowned form in battle when holding this item. |
+| ![Zygarde Cell](img/items/Zygarde Cell.png)<br/>Zygarde Cell | It looks like a Pokémon, but it doesn't have a mind of its own. 10% of Zygarde. |
 

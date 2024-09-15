@@ -17,7 +17,7 @@
                 </div><div style="display: grid; justify-items: center">
                     ![primeape](../../img/pokemon/primeape.png) [Primeape](/sword-and-shield-ultimate-plus-wiki/pokemon/057-primeape) 10%
                 </div><div style="display: grid; justify-items: center">
-                    ![slowpoke](../../img/pokemon/slowpoke.png) [Slowpoke](/sword-and-shield-ultimate-plus-wiki/pokemon/079-slowpoke) 5%
+                    ![slowpoke-galarian](../../img/pokemon/slowpoke-galarian.png) [Slowpoke-galarian](/sword-and-shield-ultimate-plus-wiki/pokemon/079-slowpoke-galarian) 5%
                 </div><div style="display: grid; justify-items: center">
                     ![hypno](../../img/pokemon/hypno.png) [Hypno](/sword-and-shield-ultimate-plus-wiki/pokemon/097-hypno) 5%
                 </div><div style="display: grid; justify-items: center">

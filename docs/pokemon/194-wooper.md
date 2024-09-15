@@ -85,9 +85,9 @@
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
         	| Route 2 | Surf | 100 |  |
-	| Wild Area 1 South | Surf | 20 |  |
-	| Wild Area 1 South | Fishing   Old Rod | 50 |  |
-	| Wild Area 1 North | Surf | 20 |  |
+	| Wild Area 1 Southwest | Surf | 20 |  |
+	| Wild Area 1 Southwest | Fishing   Old Rod | 50 |  |
+	| Wild Area 1 Northwest | Surf | 20 |  |
 
         
 

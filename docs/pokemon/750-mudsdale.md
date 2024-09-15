@@ -84,8 +84,8 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 4: South | Overworld | 100 |  |
-	| Wild Area 7 (Desert): North | Overworld | 100 |  |
+        	| Wild Area 3 South | Overworld | 100 |  |
+	| Wild Area 5 (Desert) North | Overworld | 100 |  |
 	| Isle Of Armor Desert | Overworld | 100 |  |
 
         

@@ -84,7 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 6 (Ice): East | Grass | 4 |  |
+        	| Wild Area 7 (Ice) East | Grass | 4 |  |
 	| Crown Tundra Snowy East | Grass | 5 |  |
 	| Scifub Chamber (Crown Tundra) | Grass | 24 |  |
 

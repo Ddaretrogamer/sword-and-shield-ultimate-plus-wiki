@@ -84,7 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 1 South | Surf | 20 |  |
+        	| Wild Area 1 Southwest | Surf | 20 |  |
 
         
 

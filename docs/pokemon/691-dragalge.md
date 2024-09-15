@@ -84,7 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 10 (Dragon) | Surf | 20 |  |
+        	| Wild Area 9 (Dragon) | Surf | 20 |  |
 
         
 

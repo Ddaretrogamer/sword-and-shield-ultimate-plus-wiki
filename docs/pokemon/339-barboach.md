@@ -85,8 +85,8 @@
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
         	| Galar Mine 2 | Fishing   Good Rod | 33 |  |
-	| Wild Area 5: East | Fishing   Old Rod | 100 |  |
-	| Wild Area 5: East | Fishing   Good Rod | 100 |  |
+	| Wild Area 4 East | Fishing   Old Rod | 100 |  |
+	| Wild Area 4 East | Fishing   Good Rod | 100 |  |
 
         
 

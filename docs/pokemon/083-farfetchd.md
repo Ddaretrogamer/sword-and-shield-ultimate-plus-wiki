@@ -85,8 +85,8 @@
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
         	| Route 5 | Overworld | 100 |  |
-	| Wild Area 4 West | Overworld | 100 |  |
-	| Wild Area 8: East | Grass | 1 |  |
+	| Wild Area 3 West | Overworld | 100 |  |
+	| Wild Area 6 East | Grass | 1 |  |
 	| Isle Of Armor 5 | Overworld | 100 |  |
 
         

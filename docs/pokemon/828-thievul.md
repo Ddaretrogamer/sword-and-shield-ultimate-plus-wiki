@@ -85,7 +85,7 @@
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
         	| Route 7 | Grass | 20 |  |
-	| Wild Area 9 (Spooky) | Grass | 4 |  |
+	| Wild Area 8 (Spooky) | Grass | 4 |  |
 
         
 
