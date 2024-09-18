@@ -6,7 +6,7 @@ A FireRed ROM hack by Pclg, Jeanstars, translated by Phantonomy. Image by Alex20
 Use this Wiki to find information about the ROM hack! It is currently a WIP, but it is still pretty useful at this stage.
 
 Please use the search function to find any Pokemon, item, or route you are interested in learning more about.
-Use the sections below for more general information.
+Use the sections below for more general information!
 
 
 For further assistance, join the [discord](discord.gg/5KaesJHx9e)!
@@ -15,19 +15,19 @@ For further assistance, join the [discord](discord.gg/5KaesJHx9e)!
 ## Maps
 === "Galar Region"
     ### Map of the Galar Region
-    ![Image title](src="img/wildarea.PNG"){ align=right }
+    ![Image title](https://i.ibb.co/HPFpZwb/1722886142943.png){ align=right }
 
 === "Wild Area"
     ### Map of the Wild Area.
-    ![Image title](https://ibb.co/3Nzy6sN){ align=right }
+    ![Image title](https://i.ibb.co/PhQZXYh/full-wild-area-map.png){ align=right }
 
 === "Isle of Armor"
     ### Map of the Isle of Armor
-    ![Image title](https://ibb.co/8mR7h6z){ align=right }
+    ![Image title](https://i.ibb.co/grXRnzv/isle-of-armor-full.png){ align=right }
 
 === "Crown Tundra"
     ### Map of the Crown Tundra    
-    ![Image title](https://ibb.co/1L13jkV){ align=right }
+    ![Image title](https://i.ibb.co/PNKR0dp/crown-tundra-full.png){ align=right }
 
 ## Useful Information
 === "Mystery Gifts"
