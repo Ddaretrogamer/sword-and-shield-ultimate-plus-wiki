@@ -11,7 +11,7 @@ Use the sections below for more general information.
 
 For further assistance, join the [discord](https://discord.gg/5KaesJHx9e)!
 
-This Wiki was generated using [WikiGen](https://github.com/AkeemAllen/WikiGen/releases).
+This Wiki was generated using [WikiGen](https://github.com/AkeemAllen/WikiGen).
 
 ## Maps
 === "Galar Region"
