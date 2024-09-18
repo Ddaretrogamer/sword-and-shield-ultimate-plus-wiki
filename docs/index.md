@@ -9,7 +9,7 @@ Please use the search function to find any Pokemon, item, or route you are inter
 Use the sections below for more general information.
 
 
-For further assistance, join the [discord](discord.gg/5KaesJHx9e)!
+For further assistance, join the [discord](https://discord.gg/5KaesJHx9e)!
 
 
 ## Maps
@@ -59,6 +59,7 @@ For further assistance, join the [discord](discord.gg/5KaesJHx9e)!
         All are lvl 60 (except for Eevee) and most are shinies.
 
 === "FAQ"
+    ### FAQ
     ??? question "Where can I download the the game?"
         I provide patch (.bps) files, that you can apply to your own leagally obtained copy of FireRed. You can download the latest patch on my [Pokecommunity post](https://www.pokecommunity.com/threads/update-new-music-sword-and-shield-ultimate-plus-gba-english-version-complete-1-1-4.526384/) or on my [discord server](https://discord.gg/haWvnjYjkb).
 
