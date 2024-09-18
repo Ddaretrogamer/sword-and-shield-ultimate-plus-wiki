@@ -15,7 +15,7 @@ For further assistance, join the [discord](discord.gg/5KaesJHx9e)!
 ## Maps
 === "Galar Region"
     ### Map of the Galar Region
-    ![Image title](https://ibb.co/PWmzkXP){ align=right }
+    ![Image title](https://i.ibb.co/HPFpZwb/1722886142943.webp){ align=right }
 
 === "Wild Area"
     ### Map of the Wild Area.
