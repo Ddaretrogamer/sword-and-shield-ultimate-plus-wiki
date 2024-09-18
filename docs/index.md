@@ -10,20 +10,25 @@ Use the sections below for more general information.
 
 
 For further assistance, join the [discord](discord.gg/5KaesJHx9e)!
-discord.gg/5KaesJHx9e
+
 
 ## Maps
 === "Galar Region"
     ### Map of the Galar Region
+    ![Image title](https://ibb.co/PWmzkXP){ align=right }
 
 === "Wild Area"
     ### Map of the Wild Area.
+    ![Image title](https://ibb.co/3Nzy6sN){ align=right }
 
 === "Isle of Armor"
     ### Map of the Isle of Armor
+    ![Image title](https://ibb.co/8mR7h6z){ align=right }
 
 === "Crown Tundra"
-    ### Map of the Crown Tundra            
+    ### Map of the Crown Tundra    
+    ![Image title](https://ibb.co/1L13jkV){ align=right }
+
 ## Useful Information
 === "Mystery Gifts"
     ### Wyndon Gift Codes
