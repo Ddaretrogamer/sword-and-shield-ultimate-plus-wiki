@@ -9,7 +9,7 @@ Please use the search function to find any Pokemon, item, or route you are inter
 Use the sections below for more general information.
 
 
-For further assistance, join the discord:
+For further assistance, join the [discord](discord.gg/5KaesJHx9e)!
 discord.gg/5KaesJHx9e
 
 ## Maps
