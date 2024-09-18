@@ -26,30 +26,30 @@ discord.gg/5KaesJHx9e
     ### Map of the Crown Tundra            
 ## Useful Information
 === "Mystery Gifts"
-    ### "Wyndon Gift Codes"
+    ### Wyndon Gift Codes
     In the city of Wyndon, in the pokecenter, there is a gift item that you can interact with. Putting in these codes will give you some cool Pokemon!
 
     ??? info "Codes"
-        "3211" - Zacian (shiny)
-        "4092" - Zamazenta (shiny)
-        "4284" - Eternatus (shiny)
-        "4418" - Eevee lvl 5 (shiny)
-        "4493" - Machamp (shiny)
-        "5377" - Corviknight (shiny)
-        "5563" - Alcremie (shiny)
-        "7060" - Victini
-        "7268" - Meloetta
-        "7877" - Diancie
-        "7909" - Hoopa (with "prisonbottle" item)
-        "7950" - Marshadow
-        "8033" - Zarude
-        "8992" - Melmetal (shiny)
-        "2023" - Charizard (shiny)
-        "oizber" - 2 x Calyrex Rider (shiny)
-        "ufhgdz" - Ash Pikachu (shiny)
-        "jsvmru" - Rayquaza (shiny)
-        "uhqyek" - Deoxys (shiny)
-        "bluestars4" - Mewtwo (shiny)
+        - "3211" - Zacian (shiny)
+        - "4092" - Zamazenta (shiny)
+        - "4284" - Eternatus (shiny)
+        - "4418" - Eevee lvl 5 (shiny)
+        - "4493" - Machamp (shiny)
+        - "5377" - Corviknight (shiny)
+        - "5563" - Alcremie (shiny)
+        - "7060" - Victini
+        - "7268" - Meloetta
+        - "7877" - Diancie
+        - "7909" - Hoopa (with "prisonbottle" item)
+        - "7950" - Marshadow
+        - "8033" - Zarude
+        - "8992" - Melmetal (shiny)
+        - "2023" - Charizard (shiny)
+        - "oizber" - 2 x Calyrex Rider (shiny)
+        - "ufhgdz" - Ash Pikachu (shiny)
+        - "jsvmru" - Rayquaza (shiny)
+        - "uhqyek" - Deoxys (shiny)
+        - "bluestars4" - Mewtwo (shiny)
 
         All are lvl 60 (except for Eevee) and most are shinies.
 
