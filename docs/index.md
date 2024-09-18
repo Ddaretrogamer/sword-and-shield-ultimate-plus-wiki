@@ -25,8 +25,36 @@ discord.gg/5KaesJHx9e
 === "Crown Tundra"
     ### Map of the Crown Tundra            
 ## Useful Information
+=== "Mystery Gifts"
+    ### "Wyndon Gift Codes"
+    In the city of Wyndon, in the pokecenter, there is a gift item that you can interact with. Putting in these codes will give you some cool Pokemon!
+
+    ??? info "Codes"
+        "3211" - Zacian (shiny)
+        "4092" - Zamazenta (shiny)
+        "4284" - Eternatus (shiny)
+        "4418" - Eevee lvl 5 (shiny)
+        "4493" - Machamp (shiny)
+        "5377" - Corviknight (shiny)
+        "5563" - Alcremie (shiny)
+        "7060" - Victini
+        "7268" - Meloetta
+        "7877" - Diancie
+        "7909" - Hoopa (with "prisonbottle" item)
+        "7950" - Marshadow
+        "8033" - Zarude
+        "8992" - Melmetal (shiny)
+        "2023" - Charizard (shiny)
+        "oizber" - 2 x Calyrex Rider (shiny)
+        "ufhgdz" - Ash Pikachu (shiny)
+        "jsvmru" - Rayquaza (shiny)
+        "uhqyek" - Deoxys (shiny)
+        "bluestars4" - Mewtwo (shiny)
+
+        All are lvl 60 (except for Eevee) and most are shinies.
+
 === "FAQ"
-    !!! question "Where can I download the the game?"
+    ??? question "Where can I download the the game?"
         I provide patch (.bps) files, that you can apply to your own leagally obtained copy of FireRed. You can download the latest patch on my [Pokecommunity post](https://www.pokecommunity.com/threads/update-new-music-sword-and-shield-ultimate-plus-gba-english-version-complete-1-1-4.526384/) or on my [discord server](https://discord.gg/haWvnjYjkb).
 
     !!! question "How does patching a ROM work?"
@@ -56,7 +84,7 @@ discord.gg/5KaesJHx9e
     !!! question "Do Shiny Charms stack?"
         No.
 
-    !!! question "How do trade evolutions work?
+    !!! question "How do trade evolutions work?"
         There is a Link Cable item that can be used like an evolution stone to evolve pokemon that normally evolve via trade.
 
     !!! question "Where can I get evolution items?"
@@ -90,32 +118,6 @@ discord.gg/5KaesJHx9e
         After beating Opal, the event in Hammerlocke may cause a crash, please put down an in game save after beating Opal. I think i have resolved this in the latest update, but better safe than sorry.
      
         Changing the Button Mode in game option to anything but "help" will cause the menu to be slow. Please leave it set to "help".
-=== "Mystery Gifts"
-    ### "Wyndon Gift Codes"
-    In the city of Wyndon, in the pokecenter, there is a gift item that you can interact with. Putting in these codes will give you some cool Pokemon!
 
-    ??? info "Codes"
-        "3211" - Zacian (shiny)
-        "4092" - Zamazenta (shiny)
-        "4284" - Eternatus (shiny)
-        "4418" - Eevee lvl 5 (shiny)
-        "4493" - Machamp (shiny)
-        "5377" - Corviknight (shiny)
-        "5563" - Alcremie (shiny)
-        "7060" - Victini
-        "7268" - Meloetta
-        "7877" - Diancie
-        "7909" - Hoopa (with "prisonbottle" item)
-        "7950" - Marshadow
-        "8033" - Zarude
-        "8992" - Melmetal (shiny)
-        "2023" - Charizard (shiny)
-        "oizber" - 2 x Calyrex Rider (shiny)
-        "ufhgdz" - Ash Pikachu (shiny)
-        "jsvmru" - Rayquaza (shiny)
-        "uhqyek" - Deoxys (shiny)
-        "bluestars4" - Mewtwo (shiny)
-
-        All are lvl 60 (except for Eevee) and most are shinies.
 === "Gym Puzzle Walkthroughs"
     ### WIP        
