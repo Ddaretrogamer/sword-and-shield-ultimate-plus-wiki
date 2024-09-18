@@ -6,7 +6,7 @@ A FireRed ROM hack by Pclg, Jeanstars, translated by Phantonomy. Image by Alex20
 Use this Wiki to find information about the ROM hack! It is currently a WIP, but it is still pretty useful at this stage.
 
 Please use the search function to find any Pokemon, item, or route you are interested in learning more about.
-Use the sections below for more general information!
+Use the sections below for more general information.
 
 
 For further assistance, join the [discord](discord.gg/5KaesJHx9e)!
