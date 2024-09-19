@@ -194,7 +194,7 @@ This Wiki was generated using [WikiGen](https://github.com/AkeemAllen/WikiGen).
     ![Image title](https://i.ibb.co/XZh0sHb/battle-items-continued-wild-area-9.png){ align=right }
     Vender sells other useful battle items. 
 
-## Gym Puzzle Walkthroughs
+## Gym Puzzles
 
 === "Isle of Armor Lost Cave Gym"
     ??? warning "Solution"
