@@ -128,50 +128,71 @@ This Wiki was generated using [WikiGen](https://github.com/AkeemAllen/WikiGen).
 
 === "Useful NPCs"
     ### Useful NPCs
-    !!! note "Mega-Ring NPC"
+    These NPCs/interactions will help you throughout your jouney through 2D Galar!
+
+    ??? info "Mega-Ring NPC"
     ![Image title](https://i.ibb.co/GJjtgWK/mega-ring-imageonline-co-merged.png){ align=right }
     Battle Bianca in this house in Motostoke 1 on 1. Defeat her Mega-Altaria to get the Mega-Ring.
 
-    !!! note "Z-Ring NPC"
+    ??? info "Z-Ring NPC"
+    ![Image title](https://i.ibb.co/1XpX3vt/z-ring-npc.png){ align=right }
 
-    !!! note "Friendship Checker"
+    ??? info "Friendship Checker"
+    ![Image title](https://i.ibb.co/GJjtgWK/mega-ring-imageonline-co-merged.png){ align=right }
 
-    !!! note "Exp Share Toggle"
+    ??? info "Exp Share Toggle"
+    ![Image title](https://i.ibb.co/GJjtgWK/mega-ring-imageonline-co-merged.png){ align=right }
 
-    !!! note "Randomizer Toggle"
+    ??? info "Randomizer Toggle"
+    ![Image title](https://i.ibb.co/GJjtgWK/mega-ring-imageonline-co-merged.png){ align=right }
 
-    !!! note "Cutter"
+    ??? info "Cutter"
+    ![Image title](https://i.ibb.co/GJjtgWK/mega-ring-imageonline-co-merged.png){ align=right }
 
-    !!! note "Dive Goggles"
+    ??? info "Dive Goggles"
+    ![Image title](https://i.ibb.co/GJjtgWK/mega-ring-imageonline-co-merged.png){ align=right }
 
-    !!! note "Mum"
+    ??? info "Mum"
+    ![Image title](https://i.ibb.co/GJjtgWK/mega-ring-imageonline-co-merged.png){ align=right }
 
 === "Useful Venders"
     ### Useful Venders
+
     !!! note "Berry Vender"
+    ![Image title](https://i.ibb.co/GJjtgWK/mega-ring-imageonline-co-merged.png){ align=right }
 
     !!! note "PokeBall Vender"
+    ![Image title](https://i.ibb.co/GJjtgWK/mega-ring-imageonline-co-merged.png){ align=right }
 
     !!! note "Evolution Item Vender"
+    ![Image title](https://i.ibb.co/GJjtgWK/mega-ring-imageonline-co-merged.png){ align=right }
 
     !!! note "Mega Stone Vender"
+    ![Image title](https://i.ibb.co/GJjtgWK/mega-ring-imageonline-co-merged.png){ align=right }
 
     !!! note "Z-Crystal Vender"
+    ![Image title](https://i.ibb.co/GJjtgWK/mega-ring-imageonline-co-merged.png){ align=right }
 
     !!! note "Vitamin Vender"
+    ![Image title](https://i.ibb.co/GJjtgWK/mega-ring-imageonline-co-merged.png){ align=right }
 
     !!! note "Battle Item Vender 1"
+    ![Image title](https://i.ibb.co/GJjtgWK/mega-ring-imageonline-co-merged.png){ align=right }
 
     !!! note "Battle Item Vender 2"
+    ![Image title](https://i.ibb.co/GJjtgWK/mega-ring-imageonline-co-merged.png){ align=right }
 
 
 === "Gym Puzzle Walkthroughs"
     ### Gym Puzzle Walkthroughs
 
     ??? warning "Circhester Gym"
+    ![Image title](https://i.ibb.co/GJjtgWK/mega-ring-imageonline-co-merged.png){ align=right }
 
     ??? warning "Isle of Armor Lost Cave Gym"
+    ![Image title](https://i.ibb.co/GJjtgWK/mega-ring-imageonline-co-merged.png){ align=right }
 
     ??? warning "Isle of Armor Desert Gym"
+    ![Image title](https://i.ibb.co/GJjtgWK/mega-ring-imageonline-co-merged.png){ align=right }
 
 
