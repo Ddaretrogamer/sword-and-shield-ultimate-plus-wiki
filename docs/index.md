@@ -140,8 +140,8 @@ This Wiki was generated using [WikiGen](https://github.com/AkeemAllen/WikiGen).
         Old man located in Wild Area 1 Northwest. Return his lost Mudsdale from Wild Area 1 Northeast to him for a Z-ring.
 
     ??? info "Friendship Checker"
-            ![Image title](https://i.ibb.co/KxySXTT/friendship-checker-imageonline-co-merged.png){ align=right }
-            Talk to this NPC in Motostoke to check the Frienship of the first Pokemon in your party.
+        ![Image title](https://i.ibb.co/KxySXTT/friendship-checker-imageonline-co-merged.png){ align=right }
+        Talk to this NPC in Motostoke to check the Frienship of the first Pokemon in your party.
 
     ??? info "Exp Share Toggle"
         ![Image title](https://i.ibb.co/NF6H7F0/EXP-toggle.png){ align=right }
