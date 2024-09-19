@@ -15,19 +15,19 @@ This Wiki was generated using [WikiGen](https://github.com/AkeemAllen/WikiGen).
 
 ## Maps
 === "Galar Region"
-    ### Map of the Galar Region
+    ### Galar Region
     ![Image title](https://i.ibb.co/HPFpZwb/1722886142943.png){ align=right }
 
 === "Wild Area"
-    ### Map of the Wild Area.
+    ### Wild Area
     ![Image title](https://i.ibb.co/PhQZXYh/full-wild-area-map.png){ align=right }
 
 === "Isle of Armor"
-    ### Map of the Isle of Armor
+    ### Isle of Armor
     ![Image title](https://i.ibb.co/grXRnzv/isle-of-armor-full.png){ align=right }
 
 === "Crown Tundra"
-    ### Map of the Crown Tundra    
+    ###  Crown Tundra    
     ![Image title](https://i.ibb.co/PNKR0dp/crown-tundra-full.png){ align=right }
 
 ## Useful Information
@@ -126,5 +126,52 @@ This Wiki was generated using [WikiGen](https://github.com/AkeemAllen/WikiGen).
      
         Changing the Button Mode in game option to anything but "help" will cause the menu to be slow. Please leave it set to "help".
 
+=== "Useful NPCs"
+    ### Useful NPCs
+    !!! note "Mega-Ring NPC"
+    ![Image title](https://i.ibb.co/GJjtgWK/mega-ring-imageonline-co-merged.png){ align=right }
+    Battle Bianca in this house in Motostoke 1 on 1. Defeat her Mega-Altaria to get the Mega-Ring.
+
+    !!! note "Z-Ring NPC"
+
+    !!! note "Friendship Checker"
+
+    !!! note "Exp Share Toggle"
+
+    !!! note "Randomizer Toggle"
+
+    !!! note "Cutter"
+
+    !!! note "Dive Goggles"
+
+    !!! note "Mum"
+
+=== "Useful Venders"
+    ### Useful Venders
+    !!! note "Berry Vender"
+
+    !!! note "PokeBall Vender"
+
+    !!! note "Evolution Item Vender"
+
+    !!! note "Mega Stone Vender"
+
+    !!! note "Z-Crystal Vender"
+
+    !!! note "Vitamin Vender"
+
+    !!! note "Battle Item Vender 1"
+
+    !!! note "Battle Item Vender 2"
+
+
 === "Gym Puzzle Walkthroughs"
-    ### WIP        
+    ### Gym Puzzle Walkthroughs
+
+    ??? warning "Circhester Gym"
+
+    ??? warning "Isle of Armor Lost Cave Gym"
+
+    ??? warning "Isle of Armor Desert Gym"
+
+
