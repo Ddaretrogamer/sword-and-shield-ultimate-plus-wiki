@@ -127,8 +127,6 @@ This Wiki was generated using [WikiGen](https://github.com/AkeemAllen/WikiGen).
         Changing the Button Mode in game option to anything but "help" will cause the menu to be slow. Please leave it set to "help".
 
 ## Useful NPCs
-    ### Useful NPCs
-    These NPCs/interactions will help you throughout your jouney through 2D Galar!
 
 === "Mega-Ring NPC"
     ![Image title](https://i.ibb.co/GJjtgWK/mega-ring-imageonline-co-merged.png){ align=right }
@@ -163,8 +161,7 @@ This Wiki was generated using [WikiGen](https://github.com/AkeemAllen/WikiGen).
     Interact with Mum to recieve one of 15 useful items, once per day. 
 
 ## Useful Venders
-    ### Useful Venders
-    These Venders sell items that you may find helpful throughout your journey.
+
 === "Berry Vender"
     ![Image title](https://i.ibb.co/6rZf7P9/Berry-NPC-wild-area-1-southwest.png){ align=right }
     Vender sells berries.
@@ -199,15 +196,14 @@ This Wiki was generated using [WikiGen](https://github.com/AkeemAllen/WikiGen).
 
 ## Gym Puzzle Walkthroughs
 
-    !!! warning "Spoilers!"
-
 === "Isle of Armor Lost Cave Gym"
-    !!! warning "Solution"
-    Go Right, Up, Down, Up.
+    ??? warning "Solution"
+        Go Right, Up, Down, Up.
 
 === "Circhester Gym"
-    ![Image title](https://i.ibb.co/FmFtfv1/circhester-gym-map-imageonline-co-merged.png){ align=right }
-    Follow the red line to breeze through this Gym challenge.
+    ??? warning "Solution"
+        ![Image title](https://i.ibb.co/FmFtfv1/circhester-gym-map-imageonline-co-merged.png){ align=right }
+        Follow the red line to breeze through this Gym challenge.
 
 
 === "Isle of Armor Desert Gym"
