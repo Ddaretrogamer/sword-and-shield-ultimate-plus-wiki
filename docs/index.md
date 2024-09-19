@@ -126,88 +126,92 @@ This Wiki was generated using [WikiGen](https://github.com/AkeemAllen/WikiGen).
      
         Changing the Button Mode in game option to anything but "help" will cause the menu to be slow. Please leave it set to "help".
 
-## Useful NPCs
+=== "Useful NPCs"
 
-=== "Mega-Ring NPC"
-    ![Image title](https://i.ibb.co/GJjtgWK/mega-ring-imageonline-co-merged.png){ align=right }
-    Battle Bianca in this house in Motostoke 1 on 1. Defeat her Mega-Altaria to get the Mega-Ring.
+    ### Useful NPCs
+    These NPCs/Interactions will help you along your journey through 2D Galar!
 
-=== "Z-Ring NPC"
-    ![Image title](https://i.ibb.co/1XpX3vt/z-ring-npc.png){ align=right }
-    Old man located in Wild Area 1 Northwest. Return his lost Mudsdale from Wild Area 1 Northeast to him for a Z-ring.
+    ??? info "Mega-Ring NPC"
+        ![Image title](https://i.ibb.co/GJjtgWK/mega-ring-imageonline-co-merged.png){ align=right }
+        Battle Bianca in this house in Motostoke 1 on 1. Defeat her Mega-Altaria to get the Mega-Ring.
 
-=== "Friendship Checker"
-    ![Image title](https://i.ibb.co/KxySXTT/friendship-checker-imageonline-co-merged.png){ align=right }
-    Talk to this NPC in Motostoke to check the Frienship of the first Pokemon in your party.
+    ??? info "Z-Ring NPC"
+        ![Image title](https://i.ibb.co/1XpX3vt/z-ring-npc.png){ align=right }
+        Old man located in Wild Area 1 Northwest. Return his lost Mudsdale from Wild Area 1 Northeast to him for a Z-ring.
 
-=== "Exp Share Toggle"
-    ![Image title](https://i.ibb.co/NF6H7F0/EXP-toggle.png){ align=right }
-    Interact with this NPC in Sonia's lab to toggle the Exp Share.
+    ??? info "Friendship Checker"
+            ![Image title](https://i.ibb.co/KxySXTT/friendship-checker-imageonline-co-merged.png){ align=right }
+            Talk to this NPC in Motostoke to check the Frienship of the first Pokemon in your party.
 
-=== "Randomizer Toggle"
-    ![Image title](https://i.ibb.co/hsMtSnp/randomizer-toggle.png){ align=right }
-    Interact with the notice at the top of the stairs of your room to toggle the randomizer.
+    ??? info "Exp Share Toggle"
+        ![Image title](https://i.ibb.co/NF6H7F0/EXP-toggle.png){ align=right }
+        Interact with this NPC in Sonia's lab to toggle the Exp Share.
 
-=== "Cutter"
-    ![Image title](https://i.ibb.co/99hhZdx/CUTTER-NPC.png){ align=right }
-    Rescue the Morpeko from the cliff and return to the old woman to receive the Cutter item which allows you to cut small trees.
+    ??? info "Randomizer Toggle"
+        ![Image title](https://i.ibb.co/hsMtSnp/randomizer-toggle.png){ align=right }
+        Interact with the notice at the top of the stairs of your room to toggle the randomizer.
 
-=== "Dive Goggles"
-    ![Image title](https://i.ibb.co/hy21jhv/Dive-goggles-imageonline-co-merged.png){ align=right }
-    Interact with Penny in the Crystal Hotel in Circhester to obtain the Dive Goggles to Dive.
+    ??? info "Cutter"
+        ![Image title](https://i.ibb.co/99hhZdx/CUTTER-NPC.png){ align=right }
+        Rescue the Morpeko from the cliff and return to the old woman to receive the Cutter item which allows you to cut small trees.
 
-=== "Mum"
-    ![Image title](https://i.ibb.co/XDcYdGw/mom-npc.png){ align=right }
-    Interact with Mum to recieve one of 15 useful items, once per day. 
+    ??? info "Dive Goggles"
+        ![Image title](https://i.ibb.co/hy21jhv/Dive-goggles-imageonline-co-merged.png){ align=right }
+        Interact with Penny in the Crystal Hotel in Circhester to obtain the Dive Goggles to Dive.
+    
+    ??? info "Mum"
+        ![Image title](https://i.ibb.co/XDcYdGw/mom-npc.png){ align=right }
+        Interact with Mum to recieve one of 15 useful items, once per day. 
 
-## Useful Venders
+=== "Useful Venders"
 
-=== "Berry Vender"
-    ![Image title](https://i.ibb.co/6rZf7P9/Berry-NPC-wild-area-1-southwest.png){ align=right }
-    Vender sells berries.
+    ### Useful Venders
+    These Venders sell items that will help you along your journey!
 
-=== "PokeBall Vender"
-    ![Image title](https://i.ibb.co/9ZnFD2M/pokeball-npc-WILD-area-2.png){ align=right }
-    Vender sells PokeBalls.
+    ??? info "Berry Vender"
+        ![Image title](https://i.ibb.co/6rZf7P9/Berry-NPC-wild-area-1-southwest.png){ align=right }
+        Vender sells berries.
 
-=== "Evolution Item Vender"
-    ![Image title](https://i.ibb.co/RbW7V5b/evo-item-npc-wild-area-3.png){ align=right }
-    Vender sells Evolution items.
+    ??? info "PokeBall Vender"
+        ![Image title](https://i.ibb.co/9ZnFD2M/pokeball-npc-WILD-area-2.png){ align=right }
+        Vender sells PokeBalls.
 
-=== "Mega Stone Vender"
-    ![Image title](https://i.ibb.co/r3RcCKr/mega-stone-npc-wild-area-4.png){ align=right }
-    Vender sells Mega Stones.
+    ??? info "Evolution Item Vender"
+        ![Image title](https://i.ibb.co/RbW7V5b/evo-item-npc-wild-area-3.png){ align=right }
+        Vender sells Evolution items.
 
-=== "Z-Crystal Vender"
-    ![Image title](https://i.ibb.co/VDXsmhp/Z-move-vender-wild-area-6.png){ align=right }
-    Vender sells Z-Crystals
+    ??? info "Mega Stone Vender"
+        ![Image title](https://i.ibb.co/r3RcCKr/mega-stone-npc-wild-area-4.png){ align=right }
+        Vender sells Mega Stones.
 
-=== "Vitamin Vender"
-    ![Image title](https://i.ibb.co/tHdTnGN/Wild-area-5-NPC-held-items-imageonline-co-merged.png){ align=right }
-    Vender sells vitamins and some held items.
+    ??? info "Z-Crystal Vender"
+        ![Image title](https://i.ibb.co/VDXsmhp/Z-move-vender-wild-area-6.png){ align=right }
+        Vender sells Z-Crystals
 
-=== "Battle Item Vender 1"
-    ![Image title](https://i.ibb.co/ygHMjvH/battle-items-wild-area-8.png){ align=right }
-    Vender sells some useful battle items.
+    ??? info "Vitamin Vender"
+        ![Image title](https://i.ibb.co/tHdTnGN/Wild-area-5-NPC-held-items-imageonline-co-merged.png){ align=right }
+        Vender sells vitamins and some held items.
 
-=== "Battle Item Vender 2"
-    ![Image title](https://i.ibb.co/XZh0sHb/battle-items-continued-wild-area-9.png){ align=right }
-    Vender sells other useful battle items. 
+    ??? info "Battle Item Vender 1"
+        ![Image title](https://i.ibb.co/ygHMjvH/battle-items-wild-area-8.png){ align=right }
+        Vender sells some useful battle items.
 
-## Gym Puzzles
+    ??? info "Battle Item Vender 2"
+        ![Image title](https://i.ibb.co/XZh0sHb/battle-items-continued-wild-area-9.png){ align=right }
+        Vender sells other useful battle items. 
 
-=== "Isle of Armor Lost Cave Gym"
-    ??? warning "Solution"
+=== "Gym Puzzle Guides"
+
+    ??? warning "Isle of Armor Lost Cave Gym"
         Go Right, Up, Down, Up.
 
-=== "Circhester Gym"
-    ??? warning "Solution"
+    ??? warning "Circhester Gym"
         ![Image title](https://i.ibb.co/FmFtfv1/circhester-gym-map-imageonline-co-merged.png){ align=right }
         Follow the red line to breeze through this Gym challenge.
 
 
-=== "Isle of Armor Desert Gym"
-    ![Image title](https://i.ibb.co/LNbBpPy/isle-of-armor-desert-gym-walkthru.png){ align=right }
-    Follow the red line to breeze through this gym!
+    ??? warning "Isle of Armor Desert Gym"
+        ![Image title](https://i.ibb.co/LNbBpPy/isle-of-armor-desert-gym-walkthru.png){ align=right }
+        Follow the red line to breeze through this gym!
 
 
