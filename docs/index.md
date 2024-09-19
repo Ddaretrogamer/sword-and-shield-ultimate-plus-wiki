@@ -170,35 +170,40 @@ This Wiki was generated using [WikiGen](https://github.com/AkeemAllen/WikiGen).
 
     ??? info "Berry Vender"
         ![Image title](https://i.ibb.co/6rZf7P9/Berry-NPC-wild-area-1-southwest.png){ align=right }
-        Vender sells berries.
+        Vender sells berries in Wild Area 1 Southwest.
 
     ??? info "PokeBall Vender"
         ![Image title](https://i.ibb.co/9ZnFD2M/pokeball-npc-WILD-area-2.png){ align=right }
-        Vender sells PokeBalls.
+        Vender sells PokeBalls in Wild Area 2.
 
     ??? info "Evolution Item Vender"
         ![Image title](https://i.ibb.co/RbW7V5b/evo-item-npc-wild-area-3.png){ align=right }
-        Vender sells Evolution items.
+        Vender sells evolution items in Wild Area 3 South.
 
     ??? info "Mega Stone Vender"
         ![Image title](https://i.ibb.co/r3RcCKr/mega-stone-npc-wild-area-4.png){ align=right }
-        Vender sells Mega Stones.
+        Vender sells Mega Stones Wild Area 4 West.
 
     ??? info "Z-Crystal Vender"
         ![Image title](https://i.ibb.co/VDXsmhp/Z-move-vender-wild-area-6.png){ align=right }
-        Vender sells Z-Crystals
+        Vender sells Z-Crystals in Wild Area 6 West.
 
     ??? info "Vitamin Vender"
         ![Image title](https://i.ibb.co/tHdTnGN/Wild-area-5-NPC-held-items-imageonline-co-merged.png){ align=right }
-        Vender sells vitamins and some held items.
+        Vender sells vitamins and some held items In Wild Area 5 (Desert)
 
     ??? info "Battle Item Vender 1"
         ![Image title](https://i.ibb.co/ygHMjvH/battle-items-wild-area-8.png){ align=right }
-        Vender sells some useful battle items.
+        Vender sells some useful battle items in Wild Area 8 (Spooky).
 
     ??? info "Battle Item Vender 2"
         ![Image title](https://i.ibb.co/XZh0sHb/battle-items-continued-wild-area-9.png){ align=right }
-        Vender sells other useful battle items. 
+        Vender sells other useful battle items in Wild Area 9 (Dragon).
+
+    ??? info "EV Item Vender"
+        ![Image title](https://i.ibb.co/6nNC6rM/ice-vender-imageonline-co-merged.png){ align=right }
+        Vender sells other useful battle items in Wild Area 7 (Snow).
+         
 
 === "Gym Puzzle Guides"
 
