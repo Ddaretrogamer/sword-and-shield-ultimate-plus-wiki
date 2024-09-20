@@ -25,7 +25,9 @@
                 </div><div style="display: grid; justify-items: center">
                     ![tangela](../../img/pokemon/tangela.png) [Tangela](/sword-and-shield-ultimate-plus-wiki/pokemon/114-tangela) 4%
                 </div><div style="display: grid; justify-items: center">
-                    ![furret](../../img/pokemon/furret.png) [Furret](/sword-and-shield-ultimate-plus-wiki/pokemon/162-furret) 2%
+                    ![lickitung](../../img/pokemon/lickitung.png) [Lickitung](/sword-and-shield-ultimate-plus-wiki/pokemon/108-lickitung) 1%
+                </div><div style="display: grid; justify-items: center">
+                    ![furret](../../img/pokemon/furret.png) [Furret](/sword-and-shield-ultimate-plus-wiki/pokemon/162-furret) 1%
                 </div></div>
 
 	???+ note "Surf Lv. 40"

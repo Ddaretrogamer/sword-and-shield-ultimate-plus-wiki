@@ -1,9 +1,10 @@
 <img alt="home-page" src="img/logo.png">
 
-# Sword and Shield Ultimate Plus GBA Wiki
-A FireRed ROM hack by Pclg, Jeanstars, translated by Phantonomy. Image by Alex20041509
+# Welcome to the Sword and Shield Ultimate Plus GBA Wiki
+A FireRed ROM hack by Pclg, Jeanstars, translated by Phantonomy.
+Image by Alex20041509.
 
-Use this Wiki to find information about the ROM hack! It is currently a WIP, but it is still pretty useful at this stage.
+Use this Wiki to find information about the ROM hack! This Wiki is still a work in progress.
 
 Please use the search function to find any Pokemon, item, or route you are interested in learning more about.
 Use the sections below for more general information.
@@ -12,6 +13,41 @@ Use the sections below for more general information.
 For further assistance, join the [discord](https://discord.gg/5KaesJHx9e)!
 
 This Wiki was generated using [WikiGen](https://github.com/AkeemAllen/WikiGen).
+
+## About The Game
+
+=== "Features"
+    ### Features
+    - Generation 1-8 Pokemon plus Hydrapple line, Archeludon, and Hisui Starters.
+    - Full Gym Challenge.
+    - Full Sword and Shield Story.
+    - Isle of Armor and Crown Tundra post-game.
+    - Auto-run by pressing L.
+    - Dexnav in the menu.
+    - Dynamax by pressing Start on a move in battle when Dynamax is possible.
+    - Gigantimax
+    - Mega evolution
+    - Z-moves
+    - Ultra beasts
+    - New Music
+    - New Side Quests
+    - Post-game Legendary Hunt
+
+=== "History"
+    ### A Brief History of the SWSH Demake:
+
+    There have been 6 versions of this hack released by 4 developers.
+
+    - Swsh GBA (Portuguese) - PCLG (2020)
+    - SwSh GBA (English) - AStartGaming (2022)
+    - SwSh Ultimate GBA (Portuguese) - Jeanstars (2023)
+    - SwSh Ultimate GBA (English) - Phantonomy (2024)
+    - SwSh Ultimate Plus GBA (Portuguese) - Pclg (2024)
+    - SwSh Ultimate Plus GBA (English) - Phantonomy (2024)
+
+    This hack was originally created and released by Pclg in 2020. Jeanstars remade it, adding CFRU, dubbing it SwSh Ultimate which was released in 2023. I translated this version to English. Pclg released an overhaul of SwSh Ultimate, and dubbed it, SwSh Ultimate Plus. I then translated that version to English as well.
+
+    The current version of the game is SwSh Ultimate Plus v1.1.5.
 
 ## Maps
 === "Galar Region"
@@ -31,33 +67,6 @@ This Wiki was generated using [WikiGen](https://github.com/AkeemAllen/WikiGen).
     ![Image title](https://i.ibb.co/PNKR0dp/crown-tundra-full.png){ align=right }
 
 ## Generally Useful Information
-=== "Mystery Gifts"
-    ### Wyndon Gift Codes
-    In the city of Wyndon, in the pokecenter, there is a gift item that you can interact with. Putting in these codes will give you some cool Pokemon!
-
-    ??? info "Codes"
-        - "3211" - Zacian (shiny)
-        - "4092" - Zamazenta (shiny)
-        - "4284" - Eternatus (shiny)
-        - "4418" - Eevee lvl 5 (shiny)
-        - "4493" - Machamp (shiny)
-        - "5377" - Corviknight (shiny)
-        - "5563" - Alcremie (shiny)
-        - "7060" - Victini
-        - "7268" - Meloetta
-        - "7877" - Diancie
-        - "7909" - Hoopa (with "prisonbottle" item)
-        - "7950" - Marshadow
-        - "8033" - Zarude
-        - "8992" - Melmetal (shiny)
-        - "2023" - Charizard (shiny)
-        - "oizber" - 2 x Calyrex Rider (shiny)
-        - "ufhgdz" - Ash Pikachu (shiny)
-        - "jsvmru" - Rayquaza (shiny)
-        - "uhqyek" - Deoxys (shiny)
-        - "bluestars4" - Mewtwo (shiny)
-
-        All are lvl 60 (except for Eevee) and most are shinies.
 
 === "FAQ"
     ### FAQ
@@ -116,15 +125,50 @@ This Wiki was generated using [WikiGen](https://github.com/AkeemAllen/WikiGen).
 
     ??? question "Are there any known bugs?"
         Yes. 
-        Running Up and Down in the pokecenter (front to back) will cause a memory issue, which makes it so talking to Nurse Joy or the PC freezes the game. If you do this, please exit the pokecenter and all will be ok!
+        
+        - Running Up and Down in the pokecenter (front to back) will cause a memory issue, which makes it so talking to Nurse Joy or the PC freezes the game. If you do this, please exit the pokecenter and all will be ok!
      
-        The Fly Map doesn't work/is messed up in certain areas.
+        - The Fly Map doesn't work/is messed up in certain areas.
      
-        On some emulators, some text boxes may be invisible or missing (Marnie after beating piers, just mash A).
+        - On some emulators, some text boxes may be invisible or missing (Marnie after beating piers, just mash A).
      
-        After beating Opal, the event in Hammerlocke may cause a crash, please put down an in game save after beating Opal. I think i have resolved this in the latest update, but better safe than sorry.
+        - After beating Opal, the event in Hammerlocke may cause a crash, please put down an in game save after beating Opal. I think i have resolved this in the latest update, but better safe than sorry.
      
-        Changing the Button Mode in game option to anything but "help" will cause the menu to be slow. Please leave it set to "help".
+        - Changing the Button Mode in game option to anything but "help" will cause the menu to be slow. Please leave it set to "help".
+
+        - The 6th Gym badge may disappear from your trainer card during the Isle of Armor. Don't worry as this is just cosmetic.
+
+        - The DexNav is buggy in the Wild Area.
+
+
+
+=== "Mystery Gifts"
+    ### Wyndon Gift Codes
+    In the city of Wyndon, in the pokecenter, there is a gift item that you can interact with. Putting in these codes will give you some cool Pokemon!
+
+    ??? info "Codes"
+        - "3211" - Zacian (shiny)
+        - "4092" - Zamazenta (shiny)
+        - "4284" - Eternatus (shiny)
+        - "4418" - Eevee lvl 5 (shiny)
+        - "4493" - Machamp (shiny)
+        - "5377" - Corviknight (shiny)
+        - "5563" - Alcremie (shiny)
+        - "7060" - Victini
+        - "7268" - Meloetta
+        - "7877" - Diancie
+        - "7909" - Hoopa (with "prisonbottle" item)
+        - "7950" - Marshadow
+        - "8033" - Zarude
+        - "8992" - Melmetal (shiny)
+        - "2023" - Charizard (shiny)
+        - "oizber" - 2 x Calyrex Rider (shiny)
+        - "ufhgdz" - Ash Pikachu (shiny)
+        - "jsvmru" - Rayquaza (shiny)
+        - "uhqyek" - Deoxys (shiny)
+        - "bluestars4" - Mewtwo (shiny)
+
+        All are lvl 60 (except for Eevee) and most are shinies.
 
 === "Useful NPCs"
 
@@ -158,6 +202,10 @@ This Wiki was generated using [WikiGen](https://github.com/AkeemAllen/WikiGen).
     ??? info "Dive Goggles"
         ![Image title](https://i.ibb.co/hy21jhv/Dive-goggles-imageonline-co-merged.png){ align=right }
         Interact with Penny in the Crystal Hotel in Circhester to obtain the Dive Goggles to Dive.
+
+    ??? info "Dragon Ascent Tutor"
+        ![Image title](https://i.ibb.co/8DmFtXd/dragon-ascernt-imageonline-co-merged.png){ align=right }
+        Talk with this NPC to teach your Rayquaza Dragon Ascent. This can only be done once.
     
     ??? info "Mum"
         ![Image title](https://i.ibb.co/XDcYdGw/mom-npc.png){ align=right }
@@ -167,6 +215,10 @@ This Wiki was generated using [WikiGen](https://github.com/AkeemAllen/WikiGen).
 
     ### Useful Venders
     These Venders sell items that will help you along your journey!
+
+    ??? info "Name Rater/Move Relearner/TM Shop"
+        ![Image title](https://i.ibb.co/jzmxWT7/back-of-pokecenter.png){ align=right }
+        Chat with this NPC in the back of nearly every Pokecenter.
 
     ??? info "Berry Vender"
         ![Image title](https://i.ibb.co/6rZf7P9/Berry-NPC-wild-area-1-southwest.png){ align=right }
@@ -206,16 +258,20 @@ This Wiki was generated using [WikiGen](https://github.com/AkeemAllen/WikiGen).
          
 
 === "Gym Puzzle Guides"
+    ### Gym Puzzle Guides
+    These guides should help you to navigate through the trickier Gym challenges.
 
-    ??? warning "Isle of Armor Lost Cave Gym"
-        Go Right, Up, Down, Up.
-
-    ??? warning "Circhester Gym"
+    ??? warning "Circhester Gym - Warning - Spoilers!"
         ![Image title](https://i.ibb.co/FmFtfv1/circhester-gym-map-imageonline-co-merged.png){ align=right }
         Follow the red line to breeze through this Gym challenge.
 
 
-    ??? warning "Isle of Armor Desert Gym"
+    ??? warning "Isle of Armor Lost Cave Gym - Warning - Spoilers!"
+        Go Right, Up, Down, Up.
+
+
+
+    ??? warning "Isle of Armor Desert Gym - Warning - Spoilers!"
         ![Image title](https://i.ibb.co/LNbBpPy/isle-of-armor-desert-gym-walkthru.png){ align=right }
         Follow the red line to breeze through this gym!
 
