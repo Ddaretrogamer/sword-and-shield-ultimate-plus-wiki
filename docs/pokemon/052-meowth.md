@@ -81,13 +81,7 @@
 
 
 
-## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Wild Area 3 West | Overworld | 100 |  |
-	| Route 7 | Overworld | 100 |  |
 
-        
 
 ## Moveset
 

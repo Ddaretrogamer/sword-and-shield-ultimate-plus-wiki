@@ -84,7 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Isle Of Armor 1 | Legendary | 100 |  |
+        	| Isle Of Armor 1 | Legendary | 100 | Purchase a Pokeflute from the man in Isle of Armor 3 and play it for the little girl in Isle of Armor 6.  All Tapus will now appear around the Isle of Armor. |
 
         
 

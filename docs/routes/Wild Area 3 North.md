@@ -21,9 +21,9 @@
                 </div><div style="display: grid; justify-items: center">
                     ![ditto](../../img/pokemon/ditto.png) [Ditto](/sword-and-shield-ultimate-plus-wiki/pokemon/132-ditto) 5%
                 </div><div style="display: grid; justify-items: center">
-                    ![corsola](../../img/pokemon/corsola.png) [Corsola](/sword-and-shield-ultimate-plus-wiki/pokemon/222-corsola) 4%
-                </div><div style="display: grid; justify-items: center">
                     ![cacturne](../../img/pokemon/cacturne.png) [Cacturne](/sword-and-shield-ultimate-plus-wiki/pokemon/332-cacturne) 4%
+                </div><div style="display: grid; justify-items: center">
+                    ![corsola-galarian](../../img/pokemon/corsola-galarian.png) [Corsola-galarian](/sword-and-shield-ultimate-plus-wiki/pokemon/1118-corsola-galarian) 4%
                 </div><div style="display: grid; justify-items: center">
                     ![shinx](../../img/pokemon/shinx.png) [Shinx](/sword-and-shield-ultimate-plus-wiki/pokemon/403-shinx) 1%
                 </div><div style="display: grid; justify-items: center">

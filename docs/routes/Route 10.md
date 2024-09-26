@@ -7,7 +7,7 @@
 		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![cubchoo](../../img/pokemon/cubchoo.png) [Cubchoo](/sword-and-shield-ultimate-plus-wiki/pokemon/613-cubchoo) 20%
                 </div><div style="display: grid; justify-items: center">
-                    ![mr-mime](../../img/pokemon/mr-mime.png) [Mr-mime](/sword-and-shield-ultimate-plus-wiki/pokemon/122-mr-mime) 20%
+                    ![mr-mime-galarian](../../img/pokemon/mr-mime-galarian.png) [Mr-mime-galarian](/sword-and-shield-ultimate-plus-wiki/pokemon/122-mr-mime-galarian) 20%
                 </div><div style="display: grid; justify-items: center">
                     ![mawile](../../img/pokemon/mawile.png) [Mawile](/sword-and-shield-ultimate-plus-wiki/pokemon/303-mawile) 10%
                 </div><div style="display: grid; justify-items: center">

@@ -34,7 +34,7 @@
                 </div><div style="display: grid; justify-items: center">
                     ![morpeko-full-belly](../../img/pokemon/morpeko-full-belly.png) [Morpeko-full-belly](/sword-and-shield-ultimate-plus-wiki/pokemon/877-morpeko-full-belly) 100%
                 </div><div style="display: grid; justify-items: center">
-                    ![meowth](../../img/pokemon/meowth.png) [Meowth](/sword-and-shield-ultimate-plus-wiki/pokemon/052-meowth) 100%
+                    ![meowth-galarian](../../img/pokemon/meowth-galarian.png) [Meowth-galarian](/sword-and-shield-ultimate-plus-wiki/pokemon/1151-meowth-galarian) 100%
                 </div></div>
 
 

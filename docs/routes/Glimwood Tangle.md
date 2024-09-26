@@ -70,5 +70,10 @@
                     ![xerneas](../../img/pokemon/xerneas.png) [Xerneas](/sword-and-shield-ultimate-plus-wiki/pokemon/716-xerneas) 100%
                 </div></div>
 
+	???+ note "In Game Trade"
+		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
+                    ![oshawott](../../img/pokemon/oshawott.png) [Oshawott](/sword-and-shield-ultimate-plus-wiki/pokemon/517-oshawott) 100%
+                </div></div>
+
 
 

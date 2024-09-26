@@ -34,7 +34,7 @@ This Wiki was generated using [WikiGen](https://github.com/AkeemAllen/WikiGen).
     - Post-game Legendary Hunt
 
 === "History"
-    ### A Brief History of the SWSH Demake:
+    ### A Brief History of the SWSH Demake
 
     There have been 6 versions of this hack released by 4 developers.
 
@@ -146,7 +146,8 @@ This Wiki was generated using [WikiGen](https://github.com/AkeemAllen/WikiGen).
     ### Wyndon Gift Codes
     In the city of Wyndon, in the pokecenter, there is a gift item that you can interact with. Putting in these codes will give you some cool Pokemon!
 
-    ??? info "Codes"
+    !!! info "Codes"
+        ![Image title](https://i.ibb.co/vPydYTf/wyndon-gift.png){ align=right }
         - "3211" - Zacian (shiny)
         - "4092" - Zamazenta (shiny)
         - "4284" - Eternatus (shiny)
@@ -198,6 +199,7 @@ This Wiki was generated using [WikiGen](https://github.com/AkeemAllen/WikiGen).
     ??? info "Cutter"
         ![Image title](https://i.ibb.co/99hhZdx/CUTTER-NPC.png){ align=right }
         Rescue the Morpeko from the cliff and return to the old woman to receive the Cutter item which allows you to cut small trees.
+        You will need to navigate through Wild Area 5, 6 and Rixy Chamber.
 
     ??? info "Dive Goggles"
         ![Image title](https://i.ibb.co/hy21jhv/Dive-goggles-imageonline-co-merged.png){ align=right }
@@ -257,8 +259,8 @@ This Wiki was generated using [WikiGen](https://github.com/AkeemAllen/WikiGen).
         Vender sells other useful battle items in Wild Area 7 (Snow).
          
 
-=== "Gym Puzzle Guides"
-    ### Gym Puzzle Guides
+=== "Gym/Quest Puzzle Guides"
+    ### Gym/Quest Puzzle Guides
     These guides should help you to navigate through the trickier Gym challenges.
 
     ??? warning "Circhester Gym - Warning - Spoilers!"
@@ -270,9 +272,41 @@ This Wiki was generated using [WikiGen](https://github.com/AkeemAllen/WikiGen).
         Go Right, Up, Down, Up.
 
 
-
     ??? warning "Isle of Armor Desert Gym - Warning - Spoilers!"
         ![Image title](https://i.ibb.co/LNbBpPy/isle-of-armor-desert-gym-walkthru.png){ align=right }
         Follow the red line to breeze through this gym!
+
+    ??? warning "Isle of Armor Slowpoke Mission - Spoilers!"
+        Check out the image of [Isle of Armor 4](https://ddaretrogamer.github.io/sword-and-shield-ultimate-plus-wiki/routes/Isle%20Of%20Armor%204/).
+        Look to the left of the Dojo for the 3 Slowpokes you will need to defeat.
+
+    ??? warning "Isle of Armor Max Mushroom Mission - Spoilers!"
+        Check out the image of [Warm Up Tunne (Isle Of Armor)](https://ddaretrogamer.github.io/sword-and-shield-ultimate-plus-wiki/routes/Warm%20Up%20Tunnel%20%28Isle%20Of%20Armor%29/).
+        There you will see the Max Mushrooms you need to complete this mission.
+
+=== "In Game Trades"
+    ### In Game Trades
+    Search for the Pokemon in the search bar to find the specific location of the trade.
+    !!! note "In Game Trades for All Starters"
+        - Trade Eldegoss For Chikorita
+        - Trade Carkoal for Cyndaquil
+        - Trade Drednaw for Totodile
+        - Trade Girafarig for Treecko
+        - Trade Kanto-Diglett for Torchic
+        - Trade Thievul for Mudkip
+        - Trade Dubwool for Turtwig
+        - Trade Flareon for Chimchar
+        - Trade Eevee for Piplup
+        - Trade Yamper for Shinx
+        - Trade Galar-Meowth for Snivy
+        - Trade Eevee for Tepig
+        - Trade Houndour for Oshawott
+        - Trade Drakloak for Chespin
+        - Trade Greedent for Fennekin
+        - Trade Corvisquire for Froakie
+        - Trade Leafeon for Rowlett
+        - Trade Galar-Zigzagoon for Litten
+        - Trade Galar-Yamask for Popplio
+
 
 

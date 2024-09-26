@@ -7,11 +7,11 @@
 		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![avalugg](../../img/pokemon/avalugg.png) [Avalugg](/sword-and-shield-ultimate-plus-wiki/pokemon/713-avalugg) 20%
                 </div><div style="display: grid; justify-items: center">
-                    ![corsola](../../img/pokemon/corsola.png) [Corsola](/sword-and-shield-ultimate-plus-wiki/pokemon/222-corsola) 20%
-                </div><div style="display: grid; justify-items: center">
                     ![stonjourner](../../img/pokemon/stonjourner.png) [Stonjourner](/sword-and-shield-ultimate-plus-wiki/pokemon/874-stonjourner) 20%
                 </div><div style="display: grid; justify-items: center">
                     ![frosmoth](../../img/pokemon/frosmoth.png) [Frosmoth](/sword-and-shield-ultimate-plus-wiki/pokemon/873-frosmoth) 20%
+                </div><div style="display: grid; justify-items: center">
+                    ![corsola-galarian](../../img/pokemon/corsola-galarian.png) [Corsola-galarian](/sword-and-shield-ultimate-plus-wiki/pokemon/1118-corsola-galarian) 20%
                 </div><div style="display: grid; justify-items: center">
                     ![beartic](../../img/pokemon/beartic.png) [Beartic](/sword-and-shield-ultimate-plus-wiki/pokemon/614-beartic) 9%
                 </div><div style="display: grid; justify-items: center">

@@ -85,7 +85,6 @@
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
         	| Route 7 | Grass | 10 |  |
-	| Route 10 | Grass | 20 |  |
 
         
 
