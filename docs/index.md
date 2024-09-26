@@ -145,9 +145,8 @@ This Wiki was generated using [WikiGen](https://github.com/AkeemAllen/WikiGen).
 === "Mystery Gifts"
     ### Wyndon Gift Codes
     In the city of Wyndon, in the pokecenter, there is a gift item that you can interact with. Putting in these codes will give you some cool Pokemon!
-
+    ![Image title](https://i.ibb.co/vPydYTf/wyndon-gift.png){ align=left }
     !!! info "Codes"
-        ![Image title](https://i.ibb.co/vPydYTf/wyndon-gift.png){ align=right }
         - "3211" - Zacian (shiny)
         - "4092" - Zamazenta (shiny)
         - "4284" - Eternatus (shiny)
