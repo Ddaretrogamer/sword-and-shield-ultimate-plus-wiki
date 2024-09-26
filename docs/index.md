@@ -145,7 +145,7 @@ This Wiki was generated using [WikiGen](https://github.com/AkeemAllen/WikiGen).
 === "Mystery Gifts"
     ### Wyndon Gift Codes
     In the city of Wyndon, in the pokecenter, there is a gift item that you can interact with. Putting in these codes will give you some cool Pokemon!
-    ![Image title](https://i.ibb.co/vPydYTf/wyndon-gift.png){ align=left }
+
     !!! info "Codes"
         - "3211" - Zacian (shiny)
         - "4092" - Zamazenta (shiny)
@@ -169,6 +169,8 @@ This Wiki was generated using [WikiGen](https://github.com/AkeemAllen/WikiGen).
         - "bluestars4" - Mewtwo (shiny)
 
         All are lvl 60 (except for Eevee) and most are shinies.
+
+    ![Image title](https://i.ibb.co/vPydYTf/wyndon-gift.png){ align=left }    
 
 === "Useful NPCs"
 
