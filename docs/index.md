@@ -258,6 +258,10 @@ This Wiki was generated using [WikiGen](https://github.com/AkeemAllen/WikiGen).
     ??? info "EV Item Vender"
         ![Image title](https://i.ibb.co/6nNC6rM/ice-vender-imageonline-co-merged.png){ align=right }
         Vender sells other useful battle items in Wild Area 7 (Snow).
+
+    ??? info "Arceus Plates and Silvally Memories"
+        ![Image title](https://i.ibb.co/9rJzdc5/plates-and-memories.png){ align=right }
+        Vender sells Plates for Arceus and Memories for Silvally. Located in Ballonlea.    
          
 
 === "Gym/Quest Puzzle Guides"

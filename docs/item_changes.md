@@ -1,6 +1,6 @@
 | New Items | Effect |
                     | :--: | :-- |
-                    | ![Link Cable](img/items/Link Cable.png)<br/>Link Cable | Item to evolve Pokémon that normally evolve via trade evolution. Use like a stone. |
+                    | ![Link Cable](img/items/Link Cable.png)<br/>Link Cable | Item to evolve Pokémon that normally evolve via trade evolution. Use it like a stone. |
 | ![Armor Pass](img/items/Armor Pass.png)<br/>Armor Pass | Allows you to travel to the Isle of Armor by interacting with the guard at Wedgehurst Station. |
 | ![Crown Pass](img/items/Crown Pass.png)<br/>Crown Pass | Allows you to travel to the Crown Tundra by interacting with the guard at Wedgehurst Station. |
 | ![Mega Ring](img/items/Mega Ring.png)<br/>Mega Ring | A ring to allow the player to harness the power of Mega Evolution. |

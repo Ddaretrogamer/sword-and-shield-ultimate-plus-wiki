@@ -7,7 +7,7 @@
 | ![Dive Goggles](img/items/Dive Goggles.png)<br/>Dive Goggles | Circhester | Crystal Hotel | Talk to Penny to receive the Dive Goggles | 5 Badges |
 | ![Dynamax Band](img/items/Dynamax Band.png)<br/>Dynamax Band | Route 2 | Magnolia's House | Obtain as part of the story |  |
 | ![Fly Map](img/items/Fly Map.png)<br/>Fly Map | Route 3 | Sonia will give you the Fly Map outside the entrance to Galar mine 1 on Route 3. |  |  |
-| ![Link Cable](img/items/Link Cable.png)<br/>Link Cable | Wild Area 4: South | NPC selling evolution items  | Buy |  |
+| ![Link Cable](img/items/Link Cable.png)<br/>Link Cable | Wild Area 3 South | NPC selling evolution items | Purchase from Vender | 3 Badges |
 | ![Rotom Bike](img/items/Rotom Bike.png)<br/>Rotom Bike | Route 5 | Save man from Team Yell. | Defeat Team Yell Grunts | 1 Badge |
 | ![Rotom-Phone](img/items/Rotom-Phone.png)<br/>Rotom Phone | Wedgehurst | Sonia's Lab | Get from Sonia to start your journey! |  |
 | ![Rusty Shield](img/items/Rusty Shield.png)<br/>Rusty Shield | Slumbering Area | Zamazenta holding this item | Capture Zamazenta | 8 badges |
