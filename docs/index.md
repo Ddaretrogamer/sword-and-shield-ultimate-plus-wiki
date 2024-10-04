@@ -187,7 +187,7 @@ This Wiki was generated using [WikiGen](https://github.com/AkeemAllen/WikiGen).
 
     ??? info "Friendship Checker"
         ![Image title](https://i.ibb.co/KxySXTT/friendship-checker-imageonline-co-merged.png){ align=right }
-        Talk to this NPC in Motostoke to check the Frienship of the first Pokemon in your party.
+        Talk to this NPC in Motostoke to check the Friendship of the first Pokemon in your party.
 
     ??? info "Exp Share Toggle"
         ![Image title](https://i.ibb.co/NF6H7F0/EXP-toggle.png){ align=right }
@@ -260,8 +260,9 @@ This Wiki was generated using [WikiGen](https://github.com/AkeemAllen/WikiGen).
         Vender sells other useful battle items in Wild Area 7 (Snow).
 
     ??? info "Arceus Plates and Silvally Memories"
-        ![Image title](https://i.ibb.co/9rJzdc5/plates-and-memories.png){ align=right }
-        Vender sells Plates for Arceus and Memories for Silvally. Located in Ballonlea.    
+        ![Image title](https://i.ibb.co/wwj9yBs/silvally-memory-imageonline-co-merged.png){ align=right }
+        The machines behind the table where you obtained Type: Null can be interacted with and sell Memories.
+        Plates for Arceus can be won in Raid Dens in the Dynamax Adventure Area.    
          
 
 === "Gym/Quest Puzzle Guides"
@@ -288,6 +289,11 @@ This Wiki was generated using [WikiGen](https://github.com/AkeemAllen/WikiGen).
     ??? warning "Isle of Armor Max Mushroom Mission - Spoilers!"
         Check out the image of [Warm Up Tunne (Isle Of Armor)](https://ddaretrogamer.github.io/sword-and-shield-ultimate-plus-wiki/routes/Warm%20Up%20Tunnel%20%28Isle%20Of%20Armor%29/).
         There you will see the Max Mushrooms you need to complete this mission.
+
+    ??? warning "Isle of Armor Kubfu Lookout Spots - Warning - Spoilers!"
+        ![Image title](https://i.ibb.co/jbngCv8/lookout3-imageonline-co-merged.png){ align=right }
+        Interact with the NPC in the circled locations. From left to right: 
+        Isle of Armor 1, Isle of Armor 5, Isle of Armor 8.
 
 === "In Game Trades"
     ### In Game Trades
