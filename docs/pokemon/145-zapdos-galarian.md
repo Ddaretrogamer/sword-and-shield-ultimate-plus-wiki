@@ -81,7 +81,12 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Wild Area 4 West | Legendary | 100 |  |
 
+        
 
 ## Moveset
 

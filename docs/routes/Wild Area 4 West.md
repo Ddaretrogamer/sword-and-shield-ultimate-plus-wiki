@@ -41,7 +41,7 @@
 
 	???+ note "Legendary Lv. 80"
 		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
-                    ![zapdos-galarian](../../img/pokemon/zapdos-galarian.png) [Zapdos-galarian](/sword-and-shield-ultimate-plus-wiki/pokemon/1149-zapdos-galarian) 100%
+                    ![zapdos-galarian](../../img/pokemon/zapdos-galarian.png) [Zapdos-galarian](/sword-and-shield-ultimate-plus-wiki/pokemon/145-zapdos-galarian) 100%
                 </div></div>
 
 
