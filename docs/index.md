@@ -71,7 +71,7 @@ This Wiki was generated using [WikiGen](https://github.com/AkeemAllen/WikiGen).
 === "FAQ"
     ### FAQ
     ??? question "Where can I download the the game?"
-        I provide patch (.bps) files, that you can apply to your own leagally obtained copy of FireRed. You can download the latest patch on my [Pokecommunity post](https://www.pokecommunity.com/threads/update-new-music-sword-and-shield-ultimate-plus-gba-english-version-complete-1-1-4.526384/) or on my [discord server](https://discord.gg/haWvnjYjkb).
+        I provide patch (.bps) files, that you can apply to your own legally obtained copy of FireRed. You can download the latest patch on my [Pokecommunity post](https://www.pokecommunity.com/threads/update-new-music-sword-and-shield-ultimate-plus-gba-english-version-complete-1-1-4.526384/) or on my [discord server](https://discord.gg/haWvnjYjkb).
 
     ??? question "How does patching a ROM work?"
         Patching a ROM is sort of like adding a mod to a base game. You can use [ROM Patcher JS](https://www.marcrobledo.com/RomPatcher.js/legacy/) to patch your ROM on any device. If you need a comprehensive tutorial, there is one availible on my [discord server](https://discord.gg/DdH7gjTNGx).
