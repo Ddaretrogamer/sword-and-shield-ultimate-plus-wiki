@@ -323,17 +323,18 @@ This Wiki was generated using [WikiGen](https://github.com/AkeemAllen/WikiGen).
 ## Legendary Quests
 
 === "Generation 1 Legendaries"
-    ??? "Generation 1 Legendaries"
-      ??? warning "Legendary Birds - Spoilers!"
-            In the Crown Tundra DLC, one of the passages in the Dynamax Adventure leads to raid dens. Win the battle and capture the Pokemon.
+    Generation 1 Legendaries
+    ??? warning "Legendary Birds - Spoilers!"
+        In the Crown Tundra DLC, one of the passages in the Dynamax Adventure leads to raid dens. Win the battle and capture the Pokemon.
             
-        ??? warning "Mewtwo - Spoilers!"
-            In the Crown Tundra DLC, one of the passages in the Dynamax Adventure leads to an Event where you battle this Pokemon.
+    ??? warning "Mewtwo - Spoilers!"
+        In the Crown Tundra DLC, one of the passages in the Dynamax Adventure leads to an Event where you battle this Pokemon.
             
-        ??? warning "Mew - Spoilers!"
-            In the Crown Tundra DLC, one of the passages in the Dynamax Adventure leads to an Event where you battle this Pokemon.
+    ??? warning "Mew - Spoilers!"
+        In the Crown Tundra DLC, one of the passages in the Dynamax Adventure leads to an Event where you battle this Pokemon.
             
 === "Generation 2 Legendaries"
+    Generation 2 Legendaries
     ??? warning "Legendary Dogs - Spoilers!"
         In the Crown Tundra DLC, one of the passages in the Dynamax Adventure leads to raid dens. Win the battle and capture the Pokemon.
             
@@ -347,6 +348,7 @@ This Wiki was generated using [WikiGen](https://github.com/AkeemAllen/WikiGen).
         In the Crown Tundra DLC, one of the passages in the Dynamax Adventure leads to an Event where you battle this Pokemon.
             
 === "Generation 3 Legendaries"
+    Generation 3 Legendaries
     ??? warning "Latias and Latios - Spoilers!"
         In the Crown Tundra DLC, one of the passages in the Dynamax Adventure leads to raid dens. Win the battle and capture the Pokemon.
             
@@ -370,6 +372,7 @@ This Wiki was generated using [WikiGen](https://github.com/AkeemAllen/WikiGen).
             
 
 === "Generation 4 Legendaries"
+    Generation 4 Legendaries
     ??? warning "Lake Trio - Spoilers!"
         In the Crown Tundra DLC, one of the passages in the Dynamax Adventure leads to an Event where you battle these Pokemon.
             
@@ -395,6 +398,7 @@ This Wiki was generated using [WikiGen](https://github.com/AkeemAllen/WikiGen).
 
 
 === "Generation 5 Legendaries"
+    Generation 5 Legendaries
     ??? warning "Swords of Justice - Spoilers!"
         In the Crown Tundra DLC, one of the passages in the Dynamax Adventure leads to raid dens. Win the battle and capture the Pokemon.
             
@@ -417,6 +421,7 @@ This Wiki was generated using [WikiGen](https://github.com/AkeemAllen/WikiGen).
         Victini will be there waiting for you.
 
 === "Generation 6 Legendaries"
+    Generation 6 Legendaries
     ??? warning "Xerneas - Spoilers!"
         After registering 90 Pokemon and talking to Sonia, Xerneas will appear in the south of the Glimwood Tangle behind some cut trees.
             
@@ -447,6 +452,7 @@ This Wiki was generated using [WikiGen](https://github.com/AkeemAllen/WikiGen).
             
 
 === "Generation 7 Legendaries"
+    Generation 7 Legendaries
     ??? warning "Tapu's - Spoilers!"
         Buy a PokeFlute from the NPC on the west side of the Isle of Armor and play it for the little girl.
         The Tapus will all spawn around the Isle of Armor after this.
@@ -477,6 +483,7 @@ This Wiki was generated using [WikiGen](https://github.com/AkeemAllen/WikiGen).
             
 
 === "Generation 8 Legendaries"
+    Generation 8 Legendaries
     ??? warning "Zacian and Zamazenta - Spoilers!"
         Return to the slumbering weald after defeating leon and beating the game to catch both Zacian and Zamazenta.
             
