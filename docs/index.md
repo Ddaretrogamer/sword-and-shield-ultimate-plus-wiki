@@ -328,10 +328,12 @@ This Wiki was generated using [WikiGen](https://github.com/AkeemAllen/WikiGen).
         In the Crown Tundra DLC, one of the passages in the Dynamax Adventure leads to raid dens. Win the battle and capture the Pokemon.
             
     ??? warning "Mewtwo - Spoilers!"
-        In the Crown Tundra DLC, one of the passages in the Dynamax Adventure leads to an Event where you battle this Pokemon.
+        ![Image title](https://i.ibb.co/rFK5h7L/mewtwo-battle-imageonline-co-merged.png){ align=right }
+        In the Crown Tundra DLC, one of the passages in the Dynamax Adventure leads to an event where you battle this Pokemon.
             
     ??? warning "Mew - Spoilers!"
-        In the Crown Tundra DLC, one of the passages in the Dynamax Adventure leads to an Event where you battle this Pokemon.
+        ![Image title](https://i.ibb.co/HD3XrTF/mew-battle-imageonline-co-merged.png){ align=right }
+        In the Crown Tundra DLC, one of the passages in the Dynamax Adventure leads to an event where you battle this Pokemon.
             
 === "Generation 2 Legendaries"
     ### Generation 2 Legendaries
@@ -339,13 +341,16 @@ This Wiki was generated using [WikiGen](https://github.com/AkeemAllen/WikiGen).
         In the Crown Tundra DLC, one of the passages in the Dynamax Adventure leads to raid dens. Win the battle and capture the Pokemon.
             
     ??? warning "Ho-oh - Spoilers!"
-        In the Crown Tundra DLC, one of the passages in the Dynamax Adventure leads to an Event where you battle this Pokemon.
+        ![Image title](https://i.ibb.co/jHBbsjz/ho-oh-battle-imageonline-co-merged.png){ align=right }
+        In the Crown Tundra DLC, one of the passages in the Dynamax Adventure leads to an event where you battle this Pokemon.
             
     ??? warning "Lugia - Spoilers!"
-        In the Crown Tundra DLC, one of the passages in the Dynamax Adventure leads to an Event where you battle this Pokemon.
+        ![Image title](https://i.ibb.co/kSM9v9z/lugia-battle-imageonline-co-merged.png){ align=right }
+        In the Crown Tundra DLC, one of the passages in the Dynamax Adventure leads to an event where you battle this Pokemon.
             
     ??? warning "Celebi - Spoilers!"
-        In the Crown Tundra DLC, one of the passages in the Dynamax Adventure leads to an Event where you battle this Pokemon.
+        ![Image title](https://i.ibb.co/g4tdJqB/celebi-battle-imageonline-co-merged.png){ align=right }
+        In the Crown Tundra DLC, one of the passages in the Dynamax Adventure leads to an event where you battle this Pokemon.
             
 === "Generation 3 Legendaries"
     ### Generation 3 Legendaries
@@ -361,30 +366,36 @@ This Wiki was generated using [WikiGen](https://github.com/AkeemAllen/WikiGen).
         Kyogre will now appear in the water in the Wild Area 7(Ice) and Groudon will appear in Wild area 3 Volcano.
             
     ??? warning "Rayquaza - Spoilers!"
-        Defeat 8 trainers and leon in the Rose tower challenge to face rayquaza.
+        Defeat 8 trainers and Leon in the Rose Tower challenge to face Rayquaza.
             
 
     ??? warning "Deoxys - Spoilers!"
-        In the Crown Tundra DLC, one of the passages in the Dynamax Adventure leads to an Event where you battle this Pokemon.
+        ![Image title](https://i.ibb.co/K6GD7xN/deoxys-battle-imageonline-co-merged.png){ align=right }
+        In the Crown Tundra DLC, one of the passages in the Dynamax Adventure leads to an event where you battle this Pokemon.
 
     ??? warning "Jirachi - Spoilers!"
-        Surf to the isle to the northwest of the isle of armor, interact with the strange star to battle Jirachi.
+        ![Image title](https://i.ibb.co/DfR7c6C/jirachi-battle-imageonline-co-merged.png){ align=right }
+        Surf to the isle to the northwest of the Isle of Armor, interact with the strange star to battle Jirachi.
             
 
 === "Generation 4 Legendaries"
     ### Generation 4 Legendaries
     ??? warning "Lake Trio - Spoilers!"
-        In the Crown Tundra DLC, one of the passages in the Dynamax Adventure leads to an Event where you battle these Pokemon.
+        ![Image title](https://i.ibb.co/vd52qMX/uxie-battle-imageonline-co-merged-imageonline-co-merged.png){ align=right }
+        In the Crown Tundra DLC, one of the passages in the Dynamax Adventure leads to an event where you battle these Pokemon.
             
     ??? warning "Creation Trio - Spoilers!"
-        In the Crown Tundra DLC, one of the passages in the Dynamax Adventure leads to an Event where you battle these Pokemon.
+        In the Crown Tundra DLC, one of the passages in the Dynamax Adventure leads to an event where you battle these Pokemon.
     ??? warning "Arceus - Spoilers!"
-        In the Crown Tundra DLC, one of the passages in the Dynamax Adventure leads to an Event where you battle this Pokemon.
+        ![Image title](https://i.ibb.co/hc4JYVv/arceus-battle-imageonline-co-merged.png){ align=right }
+        In the Crown Tundra DLC, one of the passages in the Dynamax Adventure leads to an event where you battle this Pokemon.
     ??? warning "Heatran - Spoilers!"
-        In the Crown Tundra DLC, one of the passages in the Dynamax Adventure leads to an Event where you battle this Pokemon.
+        In the Crown Tundra DLC, one of the passages in the Dynamax Adventure leads to an event where you battle this Pokemon.
     ??? warning "Regigigas - Spoilers!"
-        In the Crown Tundra DLC, one of the passages in the Dynamax Adventure leads to an Event where you battle this Pokemon.
+        ![Image title](https://i.ibb.co/tDMP5Jf/regigigas-battle-imageonline-co-merged.png){ align=right }
+        In the Crown Tundra DLC, one of the passages in the Dynamax Adventure leads to an event where you battle this Pokemon.
     ??? warning "Darkrai and Cressilia - Spoilers!"
+        ![Image title](https://i.ibb.co/pymz6LZ/cressilia-battle-imageonline-co-merged-imageonline-co-merged.png){ align=right }
         After defeating Garbodor in the old hermit's house on Route 8, lay down in the bed.
         You will teleport to New Moon Island to battle Darkrai.
         After seeing Darkrai, return to New Moon Island and Cressilia will be in Darkrai's place.
@@ -393,6 +404,7 @@ This Wiki was generated using [WikiGen](https://github.com/AkeemAllen/WikiGen).
         Enter the submarine and grab the odd eggs.
             
     ??? warning "Shyamin - Spoilers!"
+        ![Image title](https://i.ibb.co/RPNdZhc/shaymin-battle-imageonline-co-merged.png){ align=right }
         Trade for all Unova starters, Shaymin will appear in Wild Area 2.
             
 
@@ -403,31 +415,35 @@ This Wiki was generated using [WikiGen](https://github.com/AkeemAllen/WikiGen).
         In the Crown Tundra DLC, one of the passages in the Dynamax Adventure leads to raid dens. Win the battle and capture the Pokemon.
             
     ??? warning "Weather Trio - Spoilers!"
+        ![Image title](https://i.ibb.co/x5tbXnV/thunderous-battle-imageonline-co-merged.png){ align=right }
         In the Crown Tundra DLC, one of the passages in the Dynamax Adventure leads to raid dens. Win the battle and capture the Pokemon.
             
     ??? warning "Tao Trio - Spoilers!"
-        In the Crown Tundra DLC, one of the passages in the Dynamax Adventure leads to an Event where you battle these Pokemon.
+        In the Crown Tundra DLC, one of the passages in the Dynamax Adventure leads to an event where you battle these Pokemon.
             
     ??? warning "Meloetta - Spoilers!"
         Talk to the musician in Wyndon and have her play a song.
         Return to Circhester to Bob's Your Uncle restaurant and battle this Pokemon.
             
     ??? warning "Genesect - Spoilers!"
+        ![Image title](https://i.ibb.co/vmY8CDr/genesect-battle-imageonline-co-merged.png){ align=right }
         Find 4 fossils of Galar and have them restored.
         Genesect will be waiting in Brawlers Cave on the Isle of Armor.
             
     ??? warning "Victini - Spoilers!"
+        ![Image title](https://i.ibb.co/Ry178gK/victinia-battle-imageonline-co-merged.png){ align=right }
         Return to your room after beating the game.
         Victini will be there waiting for you.
 
 === "Generation 6 Legendaries"
     ### Generation 6 Legendaries
     ??? warning "Xerneas - Spoilers!"
+        ![Image title](https://i.ibb.co/mz15jM7/xerneas-battle-imageonline-co-merged.png){ align=right }
         After registering 90 Pokemon and talking to Sonia, Xerneas will appear in the south of the Glimwood Tangle behind some cut trees.
             
 
     ??? warning "Yveltal - Spoilers!"
-        After registering 90 Pokemon and talking to Sonia, a cave will appear on route 5 leading to Yveltal.
+        After registering 90 Pokemon and talking to Sonia, a cave will appear on Route 5 leading to Yveltal.
             
 
     ??? warning "Zygarde - Spoilers!"
@@ -436,15 +452,17 @@ This Wiki was generated using [WikiGen](https://github.com/AkeemAllen/WikiGen).
             
 
     ??? warning "Hoopa - Spoilers!"
-        In the Crown Tundra DLC, one of the passages in the Dynamax Adventure leads to an Event where you battle this Pokemon.
+        ![Image title](https://i.ibb.co/C8RZMXw/hoopa-battle-imageonline-co-merged.png){ align=right }
+        In the Crown Tundra DLC, one of the passages in the Dynamax Adventure leads to an event where you battle this Pokemon.
             
     ??? warning "Diancie - Spoilers!"
+        ![Image title](https://i.ibb.co/MMSkJbG/diancie-battle-imageonline-co-merged.png){ align=right }
         Interact with the large red crystal in Courageous Cavern to initiate a battle with Diance.
         The Diancite for Mega-Diancie is right next to the Crystal.
         
 
     ??? warning "Volcanion - Spoilers!"
-        In the Crown Tundra DLC, one of the passages in the Dynamax Adventure leads to an Event where you battle this Pokemon.
+        In the Crown Tundra DLC, one of the passages in the Dynamax Adventure leads to an event where you battle this Pokemon.
             
     ??? warning "Magearna - Spoilers!"
         Obtain the Cutter by rescuing Morpeko in the Wild Area and cut the trees to the East of Motostoke.
@@ -454,7 +472,7 @@ This Wiki was generated using [WikiGen](https://github.com/AkeemAllen/WikiGen).
 === "Generation 7 Legendaries"
     ### Generation 7 Legendaries
     ??? warning "Tapu's - Spoilers!"
-        Buy a PokeFlute from the NPC on the west side of the Isle of Armor and play it for the little girl.
+        Buy a Poke Flute from the NPC on the west side of the Isle of Armor and play it for the little girl.
         The Tapus will all spawn around the Isle of Armor after this.
             
     ??? warning "Ultra Beasts - Spoilers!"
@@ -462,12 +480,13 @@ This Wiki was generated using [WikiGen](https://github.com/AkeemAllen/WikiGen).
             
 
     ??? warning "Solgaleo, Lunala, and Necrozma - Spoilers!"
-        In the Crown Tundra DLC, one of the passages in the Dynamax Adventure leads to an Event where you battle Necrozma.
+        In the Crown Tundra DLC, one of the passages in the Dynamax Adventure leads to an event where you battle Necrozma.
         Return to the same portal to battle Solgaleo and Lunala.
 
         
     ??? warning "Marshadow - Spoilers!"
-        Battle the ultrawormholes in the Crown Tundra.
+        Look for a subtly different tree on the right side of Wild Area 8 (Spooky).
+        Interact with it to battle Marshadow.
 
     ??? warning "Type: Null - Spoilers!"
         Interact with the chalkboard to open the secret base. Battle your way through to receive a Type: Null.
@@ -479,16 +498,18 @@ This Wiki was generated using [WikiGen](https://github.com/AkeemAllen/WikiGen).
         On the roof awaits Zeraora.
             
     ??? warning "Meltan - Spoilers!"
+        ![Image title](https://i.ibb.co/wCzGVs5/meltan-battle-imageonline-co-merged.png){ align=right }
         After beating Leon in the Pokemon Tournament and becoming the champion, Meltan will spawn in Ballonlea.
             
 
 === "Generation 8 Legendaries"
     ### Generation 8 Legendaries
     ??? warning "Zacian and Zamazenta - Spoilers!"
-        Return to the slumbering weald after defeating leon and beating the game to catch both Zacian and Zamazenta.
+        ![Image title](https://i.ibb.co/mcvGYVj/zacian-battle-imageonline-co-merged.png){ align=right }
+        Return to the Slumbering Weald after defeating Leon and beating the game to catch both Zacian and Zamazenta.
             
     ??? warning "Eternatus - Spoilers!"
-        Complete the main story of Sword and Shield and you will receive eternatus as a part of it.
+        Complete the main story of Sword and Shield and you will receive Eternatus as a part of it.
             
     ??? warning "Galar Birds - Spoilers!"
         Interact with the tree at the far south of the Crown Tundra.
@@ -514,5 +535,5 @@ This Wiki was generated using [WikiGen](https://github.com/AkeemAllen/WikiGen).
         Complete the Crown Tundra story to battle this Pokemon.
             
     ??? warning "Zarude - Spoilers!"
-        Beat the battle tower in the Wild Area and select "Battle Zarude" as a prize.
+        Beat the Battle Tower in the Wild Area and select "Battle Zarude" as a prize.
             
