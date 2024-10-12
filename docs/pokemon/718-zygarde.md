@@ -84,7 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Turffield | Legendary | 100 |  |
+        	| Turffield | Legendary | 100 | Transform your Complete form Zygarde using the Zygarde Cube obtained from an NPC in Turffield. |
 
         
 

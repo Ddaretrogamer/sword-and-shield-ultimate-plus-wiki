@@ -15,7 +15,7 @@
 | ![Rusty Sword](img/items/Rusty Sword.png)<br/>Rusty Sword | Slumbering Area | Zacian holding this item. | Capture Zacian | 8 Badges |
 | ![Rusty Sword](img/items/Rusty Sword.png)<br/>Rusty Sword | Freezington (Crown Tundra) | NPC Vender outside the Train Station | Purchase from Vender | Isle of Armor Completed |
 | ![Water Bike](img/items/Water Bike.png)<br/>Water Bike | Route 9 | Save the man from Team Yell to upgrade your bike to the Water Bike. | Defeat Team Yell. | 6 Badges |
-| ![Z-Ring](img/items/Z-Ring.png)<br/>Z Ring | Wild Area 1 North | Old man near the bridge and entrance to Motostoke. | Find, battle, defeat, and return the Mudsdale in Wild Area 3 North to the old man. |  |
+| ![Z-Ring](img/items/Z-Ring.png)<br/>Z Ring | Wild Area 1 North | Old man near the bridge and entrance to Motostoke. | Find, battle, defeat, and return the Mudsdale in Wild Area 1 Northeast to the old man. |  |
 | ![Zygarde Cell](img/items/Zygarde Cell.png)<br/>Zygarde Cell | Route 2 | Up the hill to the right, near the Cyndaquil Trade. | Interact with sparkles |  |
 | ![Zygarde Cell](img/items/Zygarde Cell.png)<br/>Zygarde Cell | Route 3 | North path on the route, near the Shinx NPC trade. | Interact with sparkles |  |
 | ![Zygarde Cell](img/items/Zygarde Cell.png)<br/>Zygarde Cell | Galar Mine 1 | Across the water in the cave. | Interact with sparkles | Surf |
@@ -26,9 +26,15 @@
 | ![Zygarde Cell](img/items/Zygarde Cell.png)<br/>Zygarde Cell | Stow-On-Side | On the roof, left side of the city. | Interact with sparkles | 3 Badges |
 | ![Zygarde Cell](img/items/Zygarde Cell.png)<br/>Zygarde Cell | Glimwood Tangle | Near the Ballonlea exit of the Glimwood Tangle. behind some cut trees or over some water. | Interact with sparkles | Surf/Cutter |
 | ![Zygarde Cell](img/items/Zygarde Cell.png)<br/>Zygarde Cell | Courageous Cavern (Route 10) | In side of the Courageous Cavern on Route 10, drop down through the holes and find the Cells. | Interact with sparkles | 8 Badges |
+| ![claw-fossil](img/items/claw-fossil.png)<br/>Claw Fossil | Wild Area 5 (Desert) South | Head south and look for this item |  |  |
+| ![cover-fossil](img/items/cover-fossil.png)<br/>Cover Fossil | Wild Area 4 East | Straight up the hill and to the right. |  |  |
 | ![deep-sea-tooth](img/items/deep-sea-tooth.png)<br/>Deep Sea Tooth | Wild Area 3 South | NPC Vender | Purchase from Vender | 3 Badges |
 | ![electirizer](img/items/electirizer.png)<br/>Electirizer | Wild Area 3 South | NPC Vender | Purchase from Vender | 3 Badges |
 | ![fire-stone](img/items/fire-stone.png)<br/>Fire Stone | Wild Area 3 South | NPC vender | Purchase from NPC | 3 Badges |
+| ![fossilized-bird](img/items/fossilized-bird.png)<br/>Fossilized Bird | Route 2 | Surf to the island near Prof. Magnolia's house. |  |  |
+| ![fossilized-dino](img/items/fossilized-dino.png)<br/>Fossilized Dino | Wild Area 7 (Ice) West | Surf to the far left in Wild Area 7 (Ice)  |  |  |
+| ![fossilized-drake](img/items/fossilized-drake.png)<br/>Fossilized Drake | Wild Area 1 Northeast | Down the stairs and to the far right. |  |  |
+| ![fossilized-fish](img/items/fossilized-fish.png)<br/>Fossilized Fish | Wild Area 2 (Bear) | Top left corner |  |  |
 | ![good-rod](img/items/good-rod.png)<br/>Good Rod | Ballonlea | Left-most house in Ballonlea | Talk to fisherman NPC |  |
 | ![ice-stone](img/items/ice-stone.png)<br/>Ice Stone | Wild Area 3 South | NPC Vender | Purchase from Vender | 3 Badges |
 | ![magmarizer](img/items/magmarizer.png)<br/>Magmarizer | Wild Area 3 South | NPC vender | Purchase from Vender | 3 Badges |
@@ -36,6 +42,7 @@
 | ![metal-coat](img/items/metal-coat.png)<br/>Metal Coat | Wild Area 3 South | NPC Vender | Purchase from Vender | 3 Badges |
 | ![moon-stone](img/items/moon-stone.png)<br/>Moon Stone | Wild Area 3 South | NPC Vender | Purchase from Vender | 3 Badges |
 | ![old-rod](img/items/old-rod.png)<br/>Old Rod | Postwick | Top of stairs in your room when starting a new game. |  |  |
+| ![root-fossil](img/items/root-fossil.png)<br/>Root Fossil | Wild Area 5 (Desert) North | Up a hill to find this fossil in the desert |  |  |
 | ![shiny-charm](img/items/shiny-charm.png)<br/>Shiny Charm | Postwick | Your house, from Mum. | Talk to your mum. Once per day she will give you an item. That item can be a shiny charm. |  |
 | ![sun-stone](img/items/sun-stone.png)<br/>Sun Stone | Wild Area 3 South | NPC Vender | Purchase from NPC | 3 Badges |
 | ![super-rod](img/items/super-rod.png)<br/>Super Rod | Route 9 | On a snow island towards the right side of route 9 | Talk to fisherman NPC |  |

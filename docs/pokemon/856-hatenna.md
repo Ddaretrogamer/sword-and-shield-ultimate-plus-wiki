@@ -84,8 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Motostoke | Grass | 10 |  |
-	| Motostoke | Grass | 10 |  |
+        	| Motostoke East | Grass | 10 |  |
 
         
 
