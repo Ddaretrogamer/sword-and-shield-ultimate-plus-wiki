@@ -15,7 +15,7 @@
                 </div><div style="display: grid; justify-items: center">
                     ![delibird](../../img/pokemon/delibird.png) [Delibird](/sword-and-shield-ultimate-plus-wiki/pokemon/225-delibird) 10%
                 </div><div style="display: grid; justify-items: center">
-                    ![sandslash-alolan](../../img/pokemon/sandslash-alolan.png) [Sandslash-alolan](/sword-and-shield-ultimate-plus-wiki/pokemon/028-sandslash-alolan) 10%
+                    ![sandslash-alolan](../../img/pokemon/sandslash-alolan.png) [Sandslash Alolan](/sword-and-shield-ultimate-plus-wiki/pokemon/028-sandslash-alolan) 10%
                 </div><div style="display: grid; justify-items: center">
                     ![snover](../../img/pokemon/snover.png) [Snover](/sword-and-shield-ultimate-plus-wiki/pokemon/459-snover) 5%
                 </div><div style="display: grid; justify-items: center">
@@ -76,7 +76,7 @@
                 </div><div style="display: grid; justify-items: center">
                     ![cubchoo](../../img/pokemon/cubchoo.png) [Cubchoo](/sword-and-shield-ultimate-plus-wiki/pokemon/613-cubchoo) 100%
                 </div><div style="display: grid; justify-items: center">
-                    ![darumaka-galarian](../../img/pokemon/darumaka-galarian.png) [Darumaka-galarian](/sword-and-shield-ultimate-plus-wiki/pokemon/554-darumaka-galarian) 10%
+                    ![darumaka-galarian](../../img/pokemon/darumaka-galarian.png) [Darumaka Galarian](/sword-and-shield-ultimate-plus-wiki/pokemon/554-darumaka-galarian) 10%
                 </div></div>
 
 	???+ note "Legendary Lv. 60"

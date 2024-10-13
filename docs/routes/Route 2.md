@@ -52,14 +52,14 @@
                 </div><div style="display: grid; justify-items: center">
                     ![basculin](../../img/pokemon/basculin.png) [Basculin](/sword-and-shield-ultimate-plus-wiki/pokemon/550-basculin) 20%
                 </div><div style="display: grid; justify-items: center">
-                    ![basculin-blue-striped](../../img/pokemon/basculin-blue-striped.png) [Basculin-blue-striped](/sword-and-shield-ultimate-plus-wiki/pokemon/550-basculin-blue-striped) 20%
+                    ![basculin-blue-striped](../../img/pokemon/basculin-blue-striped.png) [Basculin Blue Striped](/sword-and-shield-ultimate-plus-wiki/pokemon/550-basculin-blue-striped) 20%
                 </div><div style="display: grid; justify-items: center">
                     ![clawitzer](../../img/pokemon/clawitzer.png) [Clawitzer](/sword-and-shield-ultimate-plus-wiki/pokemon/693-clawitzer) 20%
                 </div></div>
 
 	???+ note "Overworld Lv. 4-6"
 		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
-                    ![zigzagoon-galarian](../../img/pokemon/zigzagoon-galarian.png) [Zigzagoon-galarian](/sword-and-shield-ultimate-plus-wiki/pokemon/263-zigzagoon-galarian) 100%
+                    ![zigzagoon-galarian](../../img/pokemon/zigzagoon-galarian.png) [Zigzagoon Galarian](/sword-and-shield-ultimate-plus-wiki/pokemon/263-zigzagoon-galarian) 100%
                 </div><div style="display: grid; justify-items: center">
                     ![rookidee](../../img/pokemon/rookidee.png) [Rookidee](/sword-and-shield-ultimate-plus-wiki/pokemon/821-rookidee) 100%
                 </div><div style="display: grid; justify-items: center">

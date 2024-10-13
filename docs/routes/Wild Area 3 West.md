@@ -40,7 +40,7 @@
                 </div><div style="display: grid; justify-items: center">
                     ![farfetchd](../../img/pokemon/farfetchd.png) [Farfetchd](/sword-and-shield-ultimate-plus-wiki/pokemon/083-farfetchd) 100%
                 </div><div style="display: grid; justify-items: center">
-                    ![meowth-galarian](../../img/pokemon/meowth-galarian.png) [Meowth-galarian](/sword-and-shield-ultimate-plus-wiki/pokemon/1151-meowth-galarian) 100%
+                    ![meowth-galarian](../../img/pokemon/meowth-galarian.png) [Meowth Galarian](/sword-and-shield-ultimate-plus-wiki/pokemon/1151-meowth-galarian) 100%
                 </div></div>
 
 

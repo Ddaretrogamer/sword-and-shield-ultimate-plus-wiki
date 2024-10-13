@@ -27,7 +27,7 @@
                 </div><div style="display: grid; justify-items: center">
                     ![hatterene](../../img/pokemon/hatterene.png) [Hatterene](/sword-and-shield-ultimate-plus-wiki/pokemon/858-hatterene) 1%
                 </div><div style="display: grid; justify-items: center">
-                    ![mimikyu-disguised](../../img/pokemon/mimikyu-disguised.png) [Mimikyu-disguised](/sword-and-shield-ultimate-plus-wiki/pokemon/778-mimikyu-disguised) 1%
+                    ![mimikyu-disguised](../../img/pokemon/mimikyu-disguised.png) [Mimikyu Disguised](/sword-and-shield-ultimate-plus-wiki/pokemon/778-mimikyu-disguised) 1%
                 </div></div>
 
 	???+ note "Surf Lv. 75-85"

@@ -13,7 +13,7 @@
                 </div><div style="display: grid; justify-items: center">
                     ![lotad](../../img/pokemon/lotad.png) [Lotad](/sword-and-shield-ultimate-plus-wiki/pokemon/270-lotad) 10%
                 </div><div style="display: grid; justify-items: center">
-                    ![nidoran-f](../../img/pokemon/nidoran-f.png) [Nidoran-f](/sword-and-shield-ultimate-plus-wiki/pokemon/029-nidoran-f) 10%
+                    ![nidoran-f](../../img/pokemon/nidoran-f.png) [Nidoran F](/sword-and-shield-ultimate-plus-wiki/pokemon/029-nidoran-f) 10%
                 </div><div style="display: grid; justify-items: center">
                     ![nincada](../../img/pokemon/nincada.png) [Nincada](/sword-and-shield-ultimate-plus-wiki/pokemon/290-nincada) 10%
                 </div><div style="display: grid; justify-items: center">

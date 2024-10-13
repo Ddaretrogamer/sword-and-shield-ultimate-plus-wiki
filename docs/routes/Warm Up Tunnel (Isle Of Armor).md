@@ -7,7 +7,7 @@
 		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![lycanroc](../../img/pokemon/lycanroc.png) [Lycanroc](/sword-and-shield-ultimate-plus-wiki/pokemon/745-lycanroc) 20%
                 </div><div style="display: grid; justify-items: center">
-                    ![minior-red-meteor](../../img/pokemon/minior-red-meteor.png) [Minior-red-meteor](/sword-and-shield-ultimate-plus-wiki/pokemon/774-minior-red-meteor) 20%
+                    ![minior-red-meteor](../../img/pokemon/minior-red-meteor.png) [Minior Red Meteor](/sword-and-shield-ultimate-plus-wiki/pokemon/774-minior-red-meteor) 20%
                 </div><div style="display: grid; justify-items: center">
                     ![carracosta](../../img/pokemon/carracosta.png) [Carracosta](/sword-and-shield-ultimate-plus-wiki/pokemon/565-carracosta) 20%
                 </div><div style="display: grid; justify-items: center">
@@ -30,7 +30,7 @@
 
 	???+ note "Overworld Lv. 50"
 		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
-                    ![stunfisk-galarian](../../img/pokemon/stunfisk-galarian.png) [Stunfisk-galarian](/sword-and-shield-ultimate-plus-wiki/pokemon/618-stunfisk-galarian) 100%
+                    ![stunfisk-galarian](../../img/pokemon/stunfisk-galarian.png) [Stunfisk Galarian](/sword-and-shield-ultimate-plus-wiki/pokemon/618-stunfisk-galarian) 100%
                 </div><div style="display: grid; justify-items: center">
                     ![rolycoly](../../img/pokemon/rolycoly.png) [Rolycoly](/sword-and-shield-ultimate-plus-wiki/pokemon/837-rolycoly) 100%
                 </div><div style="display: grid; justify-items: center">

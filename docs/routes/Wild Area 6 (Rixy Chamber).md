@@ -17,9 +17,9 @@
                 </div><div style="display: grid; justify-items: center">
                     ![lycanroc](../../img/pokemon/lycanroc.png) [Lycanroc](/sword-and-shield-ultimate-plus-wiki/pokemon/745-lycanroc) 10%
                 </div><div style="display: grid; justify-items: center">
-                    ![minior-red-meteor](../../img/pokemon/minior-red-meteor.png) [Minior-red-meteor](/sword-and-shield-ultimate-plus-wiki/pokemon/774-minior-red-meteor) 8%
+                    ![minior-red-meteor](../../img/pokemon/minior-red-meteor.png) [Minior Red Meteor](/sword-and-shield-ultimate-plus-wiki/pokemon/774-minior-red-meteor) 8%
                 </div><div style="display: grid; justify-items: center">
-                    ![lycanroc-midnight](../../img/pokemon/lycanroc-midnight.png) [Lycanroc-midnight](/sword-and-shield-ultimate-plus-wiki/pokemon/745-lycanroc-midnight) 5%
+                    ![lycanroc-midnight](../../img/pokemon/lycanroc-midnight.png) [Lycanroc Midnight](/sword-and-shield-ultimate-plus-wiki/pokemon/745-lycanroc-midnight) 5%
                 </div><div style="display: grid; justify-items: center">
                     ![unown](../../img/pokemon/unown.png) [Unown](/sword-and-shield-ultimate-plus-wiki/pokemon/201-unown) 5%
                 </div><div style="display: grid; justify-items: center">

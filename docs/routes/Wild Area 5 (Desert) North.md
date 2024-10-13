@@ -19,7 +19,7 @@
                 </div><div style="display: grid; justify-items: center">
                     ![claydol](../../img/pokemon/claydol.png) [Claydol](/sword-and-shield-ultimate-plus-wiki/pokemon/344-claydol) 5%
                 </div><div style="display: grid; justify-items: center">
-                    ![yamask-galarian](../../img/pokemon/yamask-galarian.png) [Yamask-galarian](/sword-and-shield-ultimate-plus-wiki/pokemon/562-yamask-galarian) 4%
+                    ![yamask-galarian](../../img/pokemon/yamask-galarian.png) [Yamask Galarian](/sword-and-shield-ultimate-plus-wiki/pokemon/562-yamask-galarian) 4%
                 </div><div style="display: grid; justify-items: center">
                     ![sandile](../../img/pokemon/sandile.png) [Sandile](/sword-and-shield-ultimate-plus-wiki/pokemon/551-sandile) 4%
                 </div><div style="display: grid; justify-items: center">
@@ -30,7 +30,7 @@
 
 	???+ note "Overworld Lv. 22-30"
 		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
-                    ![yamask-galarian](../../img/pokemon/yamask-galarian.png) [Yamask-galarian](/sword-and-shield-ultimate-plus-wiki/pokemon/562-yamask-galarian) 100%
+                    ![yamask-galarian](../../img/pokemon/yamask-galarian.png) [Yamask Galarian](/sword-and-shield-ultimate-plus-wiki/pokemon/562-yamask-galarian) 100%
                 </div><div style="display: grid; justify-items: center">
                     ![mudsdale](../../img/pokemon/mudsdale.png) [Mudsdale](/sword-and-shield-ultimate-plus-wiki/pokemon/750-mudsdale) 100%
                 </div><div style="display: grid; justify-items: center">

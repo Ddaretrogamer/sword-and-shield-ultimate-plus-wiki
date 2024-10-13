@@ -15,7 +15,7 @@
                 </div><div style="display: grid; justify-items: center">
                     ![aurorus](../../img/pokemon/aurorus.png) [Aurorus](/sword-and-shield-ultimate-plus-wiki/pokemon/699-aurorus) 10%
                 </div><div style="display: grid; justify-items: center">
-                    ![mr-mime-galarian](../../img/pokemon/mr-mime-galarian.png) [Mr-mime-galarian](/sword-and-shield-ultimate-plus-wiki/pokemon/122-mr-mime-galarian) 10%
+                    ![mr-mime-galarian](../../img/pokemon/mr-mime-galarian.png) [Mr Mime Galarian](/sword-and-shield-ultimate-plus-wiki/pokemon/122-mr-mime-galarian) 10%
                 </div><div style="display: grid; justify-items: center">
                     ![trevenant](../../img/pokemon/trevenant.png) [Trevenant](/sword-and-shield-ultimate-plus-wiki/pokemon/709-trevenant) 5%
                 </div><div style="display: grid; justify-items: center">
@@ -38,7 +38,7 @@
                 </div><div style="display: grid; justify-items: center">
                     ![wooloo](../../img/pokemon/wooloo.png) [Wooloo](/sword-and-shield-ultimate-plus-wiki/pokemon/831-wooloo) 100%
                 </div><div style="display: grid; justify-items: center">
-                    ![darumaka-galarian](../../img/pokemon/darumaka-galarian.png) [Darumaka-galarian](/sword-and-shield-ultimate-plus-wiki/pokemon/554-darumaka-galarian) 100%
+                    ![darumaka-galarian](../../img/pokemon/darumaka-galarian.png) [Darumaka Galarian](/sword-and-shield-ultimate-plus-wiki/pokemon/554-darumaka-galarian) 100%
                 </div></div>
 
 

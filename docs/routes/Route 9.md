@@ -15,7 +15,7 @@
                 </div><div style="display: grid; justify-items: center">
                     ![cramorant](../../img/pokemon/cramorant.png) [Cramorant](/sword-and-shield-ultimate-plus-wiki/pokemon/845-cramorant) 10%
                 </div><div style="display: grid; justify-items: center">
-                    ![wishiwashi-solo](../../img/pokemon/wishiwashi-solo.png) [Wishiwashi-solo](/sword-and-shield-ultimate-plus-wiki/pokemon/746-wishiwashi-solo) 10%
+                    ![wishiwashi-solo](../../img/pokemon/wishiwashi-solo.png) [Wishiwashi Solo](/sword-and-shield-ultimate-plus-wiki/pokemon/746-wishiwashi-solo) 10%
                 </div><div style="display: grid; justify-items: center">
                     ![pelipper](../../img/pokemon/pelipper.png) [Pelipper](/sword-and-shield-ultimate-plus-wiki/pokemon/279-pelipper) 5%
                 </div><div style="display: grid; justify-items: center">
@@ -49,7 +49,7 @@
                 </div><div style="display: grid; justify-items: center">
                     ![cramorant](../../img/pokemon/cramorant.png) [Cramorant](/sword-and-shield-ultimate-plus-wiki/pokemon/845-cramorant) 100%
                 </div><div style="display: grid; justify-items: center">
-                    ![morpeko-full-belly](../../img/pokemon/morpeko-full-belly.png) [Morpeko-full-belly](/sword-and-shield-ultimate-plus-wiki/pokemon/877-morpeko-full-belly) 100%
+                    ![morpeko-full-belly](../../img/pokemon/morpeko-full-belly.png) [Morpeko Full Belly](/sword-and-shield-ultimate-plus-wiki/pokemon/877-morpeko-full-belly) 100%
                 </div></div>
 
 

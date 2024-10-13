@@ -19,7 +19,7 @@
 
 	???+ note "Overworld Lv. 30"
 		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
-                    ![slowpoke-galarian](../../img/pokemon/slowpoke-galarian.png) [Slowpoke-galarian](/sword-and-shield-ultimate-plus-wiki/pokemon/079-slowpoke-galarian) 100%
+                    ![slowpoke-galarian](../../img/pokemon/slowpoke-galarian.png) [Slowpoke Galarian](/sword-and-shield-ultimate-plus-wiki/pokemon/079-slowpoke-galarian) 100%
                 </div></div>
 
 

@@ -18,7 +18,7 @@
 
 	???+ note "Overworld Lv. 4-6"
 		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
-                    ![zigzagoon-galarian](../../img/pokemon/zigzagoon-galarian.png) [Zigzagoon-galarian](/sword-and-shield-ultimate-plus-wiki/pokemon/263-zigzagoon-galarian) 100%
+                    ![zigzagoon-galarian](../../img/pokemon/zigzagoon-galarian.png) [Zigzagoon Galarian](/sword-and-shield-ultimate-plus-wiki/pokemon/263-zigzagoon-galarian) 100%
                 </div><div style="display: grid; justify-items: center">
                     ![skwovet](../../img/pokemon/skwovet.png) [Skwovet](/sword-and-shield-ultimate-plus-wiki/pokemon/819-skwovet) 100%
                 </div><div style="display: grid; justify-items: center">

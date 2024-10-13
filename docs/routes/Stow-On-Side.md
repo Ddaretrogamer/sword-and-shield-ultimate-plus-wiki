@@ -17,13 +17,13 @@
 
 	???+ note "Legendary"
 		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
-                    ![deoxys-speed](../../img/pokemon/deoxys-speed.png) [Deoxys-speed](/sword-and-shield-ultimate-plus-wiki/pokemon/386-deoxys-speed) 100%
+                    ![deoxys-speed](../../img/pokemon/deoxys-speed.png) [Deoxys Speed](/sword-and-shield-ultimate-plus-wiki/pokemon/386-deoxys-speed) 100%
                 </div><div style="display: grid; justify-items: center">
-                    ![deoxys-attack](../../img/pokemon/deoxys-attack.png) [Deoxys-attack](/sword-and-shield-ultimate-plus-wiki/pokemon/386-deoxys-attack) 100%
+                    ![deoxys-attack](../../img/pokemon/deoxys-attack.png) [Deoxys Attack](/sword-and-shield-ultimate-plus-wiki/pokemon/386-deoxys-attack) 100%
                 </div><div style="display: grid; justify-items: center">
-                    ![mega-rayquaza](../../img/pokemon/mega-rayquaza.png) [Mega-rayquaza](/sword-and-shield-ultimate-plus-wiki/pokemon/384-mega-rayquaza) 100%
+                    ![mega-rayquaza](../../img/pokemon/mega-rayquaza.png) [Mega Rayquaza](/sword-and-shield-ultimate-plus-wiki/pokemon/384-mega-rayquaza) 100%
                 </div><div style="display: grid; justify-items: center">
-                    ![deoxys-defense](../../img/pokemon/deoxys-defense.png) [Deoxys-defense](/sword-and-shield-ultimate-plus-wiki/pokemon/386-deoxys-defense) 100%
+                    ![deoxys-defense](../../img/pokemon/deoxys-defense.png) [Deoxys Defense](/sword-and-shield-ultimate-plus-wiki/pokemon/386-deoxys-defense) 100%
                 </div></div>
 
 

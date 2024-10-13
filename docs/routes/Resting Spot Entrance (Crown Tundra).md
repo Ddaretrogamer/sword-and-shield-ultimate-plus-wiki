@@ -21,9 +21,9 @@
                 </div><div style="display: grid; justify-items: center">
                     ![absol](../../img/pokemon/absol.png) [Absol](/sword-and-shield-ultimate-plus-wiki/pokemon/359-absol) 5%
                 </div><div style="display: grid; justify-items: center">
-                    ![mr-rime](../../img/pokemon/mr-rime.png) [Mr-rime](/sword-and-shield-ultimate-plus-wiki/pokemon/866-mr-rime) 4%
+                    ![mr-rime](../../img/pokemon/mr-rime.png) [Mr Rime](/sword-and-shield-ultimate-plus-wiki/pokemon/866-mr-rime) 4%
                 </div><div style="display: grid; justify-items: center">
-                    ![mr-mime-galarian](../../img/pokemon/mr-mime-galarian.png) [Mr-mime-galarian](/sword-and-shield-ultimate-plus-wiki/pokemon/122-mr-mime-galarian) 4%
+                    ![mr-mime-galarian](../../img/pokemon/mr-mime-galarian.png) [Mr Mime Galarian](/sword-and-shield-ultimate-plus-wiki/pokemon/122-mr-mime-galarian) 4%
                 </div><div style="display: grid; justify-items: center">
                     ![glaceon](../../img/pokemon/glaceon.png) [Glaceon](/sword-and-shield-ultimate-plus-wiki/pokemon/471-glaceon) 1%
                 </div></div>

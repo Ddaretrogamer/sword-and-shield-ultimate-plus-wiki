@@ -42,7 +42,7 @@
 
 	???+ note "Legendary Lv. 80"
 		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
-                    ![moltres-galarian](../../img/pokemon/moltres-galarian.png) [Moltres-galarian](/sword-and-shield-ultimate-plus-wiki/pokemon/1132-moltres-galarian) 100%
+                    ![moltres-galarian](../../img/pokemon/moltres-galarian.png) [Moltres Galarian](/sword-and-shield-ultimate-plus-wiki/pokemon/1132-moltres-galarian) 100%
                 </div></div>
 
 

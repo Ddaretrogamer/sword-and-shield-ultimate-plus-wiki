@@ -11,7 +11,7 @@
                 </div><div style="display: grid; justify-items: center">
                     ![frosmoth](../../img/pokemon/frosmoth.png) [Frosmoth](/sword-and-shield-ultimate-plus-wiki/pokemon/873-frosmoth) 20%
                 </div><div style="display: grid; justify-items: center">
-                    ![corsola-galarian](../../img/pokemon/corsola-galarian.png) [Corsola-galarian](/sword-and-shield-ultimate-plus-wiki/pokemon/1118-corsola-galarian) 20%
+                    ![corsola-galarian](../../img/pokemon/corsola-galarian.png) [Corsola Galarian](/sword-and-shield-ultimate-plus-wiki/pokemon/1118-corsola-galarian) 20%
                 </div><div style="display: grid; justify-items: center">
                     ![beartic](../../img/pokemon/beartic.png) [Beartic](/sword-and-shield-ultimate-plus-wiki/pokemon/614-beartic) 9%
                 </div><div style="display: grid; justify-items: center">
@@ -41,7 +41,7 @@
                 </div><div style="display: grid; justify-items: center">
                     ![cubchoo](../../img/pokemon/cubchoo.png) [Cubchoo](/sword-and-shield-ultimate-plus-wiki/pokemon/613-cubchoo) 100%
                 </div><div style="display: grid; justify-items: center">
-                    ![darumaka-galarian](../../img/pokemon/darumaka-galarian.png) [Darumaka-galarian](/sword-and-shield-ultimate-plus-wiki/pokemon/554-darumaka-galarian) 100%
+                    ![darumaka-galarian](../../img/pokemon/darumaka-galarian.png) [Darumaka Galarian](/sword-and-shield-ultimate-plus-wiki/pokemon/554-darumaka-galarian) 100%
                 </div></div>
 
 

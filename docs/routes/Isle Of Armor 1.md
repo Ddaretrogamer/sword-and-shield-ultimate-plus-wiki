@@ -17,7 +17,7 @@
                 </div><div style="display: grid; justify-items: center">
                     ![primeape](../../img/pokemon/primeape.png) [Primeape](/sword-and-shield-ultimate-plus-wiki/pokemon/057-primeape) 10%
                 </div><div style="display: grid; justify-items: center">
-                    ![slowpoke-galarian](../../img/pokemon/slowpoke-galarian.png) [Slowpoke-galarian](/sword-and-shield-ultimate-plus-wiki/pokemon/079-slowpoke-galarian) 5%
+                    ![slowpoke-galarian](../../img/pokemon/slowpoke-galarian.png) [Slowpoke Galarian](/sword-and-shield-ultimate-plus-wiki/pokemon/079-slowpoke-galarian) 5%
                 </div><div style="display: grid; justify-items: center">
                     ![hypno](../../img/pokemon/hypno.png) [Hypno](/sword-and-shield-ultimate-plus-wiki/pokemon/097-hypno) 5%
                 </div><div style="display: grid; justify-items: center">
@@ -48,9 +48,9 @@
 
 	???+ note "Legendary Lv. 50"
 		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
-                    ![tapu-bulu](../../img/pokemon/tapu-bulu.png) [Tapu-bulu](/sword-and-shield-ultimate-plus-wiki/pokemon/787-tapu-bulu) 100%
+                    ![tapu-bulu](../../img/pokemon/tapu-bulu.png) [Tapu Bulu](/sword-and-shield-ultimate-plus-wiki/pokemon/787-tapu-bulu) 100%
                 </div><div style="display: grid; justify-items: center">
-                    ![tapu-koko](../../img/pokemon/tapu-koko.png) [Tapu-koko](/sword-and-shield-ultimate-plus-wiki/pokemon/785-tapu-koko) 100%
+                    ![tapu-koko](../../img/pokemon/tapu-koko.png) [Tapu Koko](/sword-and-shield-ultimate-plus-wiki/pokemon/785-tapu-koko) 100%
                 </div></div>
 
 

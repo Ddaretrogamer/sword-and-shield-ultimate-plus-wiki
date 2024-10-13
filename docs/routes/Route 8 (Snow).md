@@ -5,7 +5,7 @@
 
 	???+ note "Grass Lv. 40-45"
 		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
-                    ![darumaka-galarian](../../img/pokemon/darumaka-galarian.png) [Darumaka-galarian](/sword-and-shield-ultimate-plus-wiki/pokemon/554-darumaka-galarian) 26%
+                    ![darumaka-galarian](../../img/pokemon/darumaka-galarian.png) [Darumaka Galarian](/sword-and-shield-ultimate-plus-wiki/pokemon/554-darumaka-galarian) 26%
                 </div><div style="display: grid; justify-items: center">
                     ![snom](../../img/pokemon/snom.png) [Snom](/sword-and-shield-ultimate-plus-wiki/pokemon/872-snom) 20%
                 </div><div style="display: grid; justify-items: center">
@@ -26,7 +26,7 @@
 
 	???+ note "Overworld Lv. 39-41"
 		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
-                    ![darumaka-galarian](../../img/pokemon/darumaka-galarian.png) [Darumaka-galarian](/sword-and-shield-ultimate-plus-wiki/pokemon/554-darumaka-galarian) 100%
+                    ![darumaka-galarian](../../img/pokemon/darumaka-galarian.png) [Darumaka Galarian](/sword-and-shield-ultimate-plus-wiki/pokemon/554-darumaka-galarian) 100%
                 </div><div style="display: grid; justify-items: center">
                     ![snom](../../img/pokemon/snom.png) [Snom](/sword-and-shield-ultimate-plus-wiki/pokemon/872-snom) 100%
                 </div><div style="display: grid; justify-items: center">

@@ -24,7 +24,7 @@
 
 	???+ note "Overworld Lv. 50"
 		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
-                    ![stunfisk-galarian](../../img/pokemon/stunfisk-galarian.png) [Stunfisk-galarian](/sword-and-shield-ultimate-plus-wiki/pokemon/618-stunfisk-galarian) 100%
+                    ![stunfisk-galarian](../../img/pokemon/stunfisk-galarian.png) [Stunfisk Galarian](/sword-and-shield-ultimate-plus-wiki/pokemon/618-stunfisk-galarian) 100%
                 </div><div style="display: grid; justify-items: center">
                     ![rolycoly](../../img/pokemon/rolycoly.png) [Rolycoly](/sword-and-shield-ultimate-plus-wiki/pokemon/837-rolycoly) 100%
                 </div><div style="display: grid; justify-items: center">

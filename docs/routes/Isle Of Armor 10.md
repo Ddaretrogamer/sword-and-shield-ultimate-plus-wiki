@@ -10,7 +10,7 @@
 
 	???+ note "Legendary Lv. 50"
 		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
-                    ![tapu-lele](../../img/pokemon/tapu-lele.png) [Tapu-lele](/sword-and-shield-ultimate-plus-wiki/pokemon/786-tapu-lele) 100%
+                    ![tapu-lele](../../img/pokemon/tapu-lele.png) [Tapu Lele](/sword-and-shield-ultimate-plus-wiki/pokemon/786-tapu-lele) 100%
                 </div></div>
 
 

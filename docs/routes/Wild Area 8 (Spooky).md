@@ -15,7 +15,7 @@
                 </div><div style="display: grid; justify-items: center">
                     ![honchkrow](../../img/pokemon/honchkrow.png) [Honchkrow](/sword-and-shield-ultimate-plus-wiki/pokemon/430-honchkrow) 10%
                 </div><div style="display: grid; justify-items: center">
-                    ![gourgeist-average](../../img/pokemon/gourgeist-average.png) [Gourgeist-average](/sword-and-shield-ultimate-plus-wiki/pokemon/711-gourgeist-average) 10%
+                    ![gourgeist-average](../../img/pokemon/gourgeist-average.png) [Gourgeist Average](/sword-and-shield-ultimate-plus-wiki/pokemon/711-gourgeist-average) 10%
                 </div><div style="display: grid; justify-items: center">
                     ![chandelure](../../img/pokemon/chandelure.png) [Chandelure](/sword-and-shield-ultimate-plus-wiki/pokemon/609-chandelure) 5%
                 </div><div style="display: grid; justify-items: center">
@@ -32,7 +32,7 @@
 
 	???+ note "Overworld Lv. 39-41"
 		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
-                    ![zigzagoon-galarian](../../img/pokemon/zigzagoon-galarian.png) [Zigzagoon-galarian](/sword-and-shield-ultimate-plus-wiki/pokemon/263-zigzagoon-galarian) 100%
+                    ![zigzagoon-galarian](../../img/pokemon/zigzagoon-galarian.png) [Zigzagoon Galarian](/sword-and-shield-ultimate-plus-wiki/pokemon/263-zigzagoon-galarian) 100%
                 </div><div style="display: grid; justify-items: center">
                     ![corviknight](../../img/pokemon/corviknight.png) [Corviknight](/sword-and-shield-ultimate-plus-wiki/pokemon/823-corviknight) 100%
                 </div><div style="display: grid; justify-items: center">

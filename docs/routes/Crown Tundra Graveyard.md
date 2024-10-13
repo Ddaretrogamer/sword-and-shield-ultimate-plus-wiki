@@ -38,7 +38,7 @@
                 </div><div style="display: grid; justify-items: center">
                     ![pidgeot](../../img/pokemon/pidgeot.png) [Pidgeot](/sword-and-shield-ultimate-plus-wiki/pokemon/018-pidgeot) 100%
                 </div><div style="display: grid; justify-items: center">
-                    ![morpeko-full-belly](../../img/pokemon/morpeko-full-belly.png) [Morpeko-full-belly](/sword-and-shield-ultimate-plus-wiki/pokemon/877-morpeko-full-belly) 100%
+                    ![morpeko-full-belly](../../img/pokemon/morpeko-full-belly.png) [Morpeko Full Belly](/sword-and-shield-ultimate-plus-wiki/pokemon/877-morpeko-full-belly) 100%
                 </div><div style="display: grid; justify-items: center">
                     ![falinks](../../img/pokemon/falinks.png) [Falinks](/sword-and-shield-ultimate-plus-wiki/pokemon/870-falinks) 100%
                 </div><div style="display: grid; justify-items: center">

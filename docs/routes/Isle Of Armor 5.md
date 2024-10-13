@@ -41,7 +41,7 @@
                 </div><div style="display: grid; justify-items: center">
                     ![pelipper](../../img/pokemon/pelipper.png) [Pelipper](/sword-and-shield-ultimate-plus-wiki/pokemon/279-pelipper) 100%
                 </div><div style="display: grid; justify-items: center">
-                    ![morpeko-full-belly](../../img/pokemon/morpeko-full-belly.png) [Morpeko-full-belly](/sword-and-shield-ultimate-plus-wiki/pokemon/877-morpeko-full-belly) 100%
+                    ![morpeko-full-belly](../../img/pokemon/morpeko-full-belly.png) [Morpeko Full Belly](/sword-and-shield-ultimate-plus-wiki/pokemon/877-morpeko-full-belly) 100%
                 </div><div style="display: grid; justify-items: center">
                     ![applin](../../img/pokemon/applin.png) [Applin](/sword-and-shield-ultimate-plus-wiki/pokemon/840-applin) 100%
                 </div><div style="display: grid; justify-items: center">
@@ -54,7 +54,7 @@
 
 	???+ note "Legendary"
 		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
-                    ![urshifu-rapid-strike](../../img/pokemon/urshifu-rapid-strike.png) [Urshifu-rapid-strike](/sword-and-shield-ultimate-plus-wiki/pokemon/892-urshifu-rapid-strike) 100%
+                    ![urshifu-rapid-strike](../../img/pokemon/urshifu-rapid-strike.png) [Urshifu Rapid Strike](/sword-and-shield-ultimate-plus-wiki/pokemon/892-urshifu-rapid-strike) 100%
                 </div></div>
 
 

@@ -7,7 +7,7 @@
 		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![clefairy](../../img/pokemon/clefairy.png) [Clefairy](/sword-and-shield-ultimate-plus-wiki/pokemon/035-clefairy) 20%
                 </div><div style="display: grid; justify-items: center">
-                    ![nidoran-m](../../img/pokemon/nidoran-m.png) [Nidoran-m](/sword-and-shield-ultimate-plus-wiki/pokemon/032-nidoran-m) 20%
+                    ![nidoran-m](../../img/pokemon/nidoran-m.png) [Nidoran M](/sword-and-shield-ultimate-plus-wiki/pokemon/032-nidoran-m) 20%
                 </div><div style="display: grid; justify-items: center">
                     ![mareep](../../img/pokemon/mareep.png) [Mareep](/sword-and-shield-ultimate-plus-wiki/pokemon/179-mareep) 10%
                 </div><div style="display: grid; justify-items: center">

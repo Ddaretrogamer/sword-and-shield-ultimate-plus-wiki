@@ -5,7 +5,7 @@
 
 	???+ note "Grass"
 		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
-                    ![ponyta-galarian](../../img/pokemon/ponyta-galarian.png) [Ponyta-galarian](/sword-and-shield-ultimate-plus-wiki/pokemon/077-ponyta-galarian) 20%
+                    ![ponyta-galarian](../../img/pokemon/ponyta-galarian.png) [Ponyta Galarian](/sword-and-shield-ultimate-plus-wiki/pokemon/077-ponyta-galarian) 20%
                 </div><div style="display: grid; justify-items: center">
                     ![impidimp](../../img/pokemon/impidimp.png) [Impidimp](/sword-and-shield-ultimate-plus-wiki/pokemon/859-impidimp) 20%
                 </div><div style="display: grid; justify-items: center">
@@ -17,9 +17,9 @@
                 </div><div style="display: grid; justify-items: center">
                     ![clefairy](../../img/pokemon/clefairy.png) [Clefairy](/sword-and-shield-ultimate-plus-wiki/pokemon/035-clefairy) 10%
                 </div><div style="display: grid; justify-items: center">
-                    ![indeedee-male](../../img/pokemon/indeedee-male.png) [Indeedee-male](/sword-and-shield-ultimate-plus-wiki/pokemon/876-indeedee-male) 5%
+                    ![indeedee-male](../../img/pokemon/indeedee-male.png) [Indeedee Male](/sword-and-shield-ultimate-plus-wiki/pokemon/876-indeedee-male) 5%
                 </div><div style="display: grid; justify-items: center">
-                    ![indeedee-male](../../img/pokemon/indeedee-male.png) [Indeedee-male](/sword-and-shield-ultimate-plus-wiki/pokemon/876-indeedee-male) 5%
+                    ![indeedee-male](../../img/pokemon/indeedee-male.png) [Indeedee Male](/sword-and-shield-ultimate-plus-wiki/pokemon/876-indeedee-male) 5%
                 </div><div style="display: grid; justify-items: center">
                     ![drowzee](../../img/pokemon/drowzee.png) [Drowzee](/sword-and-shield-ultimate-plus-wiki/pokemon/096-drowzee) 4%
                 </div><div style="display: grid; justify-items: center">

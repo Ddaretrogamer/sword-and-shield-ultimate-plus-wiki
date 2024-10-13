@@ -21,7 +21,7 @@
                 </div><div style="display: grid; justify-items: center">
                     ![delibird](../../img/pokemon/delibird.png) [Delibird](/sword-and-shield-ultimate-plus-wiki/pokemon/225-delibird) 5%
                 </div><div style="display: grid; justify-items: center">
-                    ![darmanitan-galarian](../../img/pokemon/darmanitan-galarian.png) [Darmanitan-galarian](/sword-and-shield-ultimate-plus-wiki/pokemon/555-darmanitan-galarian) 4%
+                    ![darmanitan-galarian](../../img/pokemon/darmanitan-galarian.png) [Darmanitan Galarian](/sword-and-shield-ultimate-plus-wiki/pokemon/555-darmanitan-galarian) 4%
                 </div><div style="display: grid; justify-items: center">
                     ![absol](../../img/pokemon/absol.png) [Absol](/sword-and-shield-ultimate-plus-wiki/pokemon/359-absol) 4%
                 </div><div style="display: grid; justify-items: center">
@@ -47,7 +47,7 @@
                 </div><div style="display: grid; justify-items: center">
                     ![wooloo](../../img/pokemon/wooloo.png) [Wooloo](/sword-and-shield-ultimate-plus-wiki/pokemon/831-wooloo) 100%
                 </div><div style="display: grid; justify-items: center">
-                    ![darumaka-galarian](../../img/pokemon/darumaka-galarian.png) [Darumaka-galarian](/sword-and-shield-ultimate-plus-wiki/pokemon/554-darumaka-galarian) 100%
+                    ![darumaka-galarian](../../img/pokemon/darumaka-galarian.png) [Darumaka Galarian](/sword-and-shield-ultimate-plus-wiki/pokemon/554-darumaka-galarian) 100%
                 </div></div>
 
 	???+ note "Legendary Lv. 80"
@@ -56,7 +56,7 @@
                 </div><div style="display: grid; justify-items: center">
                     ![regidrago](../../img/pokemon/regidrago.png) [Regidrago](/sword-and-shield-ultimate-plus-wiki/pokemon/895-regidrago) 100%
                 </div><div style="display: grid; justify-items: center">
-                    ![articuno-galarian](../../img/pokemon/articuno-galarian.png) [Articuno-galarian](/sword-and-shield-ultimate-plus-wiki/pokemon/1119-articuno-galarian) 100%
+                    ![articuno-galarian](../../img/pokemon/articuno-galarian.png) [Articuno Galarian](/sword-and-shield-ultimate-plus-wiki/pokemon/1119-articuno-galarian) 100%
                 </div></div>
 
 

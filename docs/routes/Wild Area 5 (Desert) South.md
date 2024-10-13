@@ -32,7 +32,7 @@
 
 	???+ note "Overworld Lv. 22-30"
 		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
-                    ![yamask-galarian](../../img/pokemon/yamask-galarian.png) [Yamask-galarian](/sword-and-shield-ultimate-plus-wiki/pokemon/562-yamask-galarian) 100%
+                    ![yamask-galarian](../../img/pokemon/yamask-galarian.png) [Yamask Galarian](/sword-and-shield-ultimate-plus-wiki/pokemon/562-yamask-galarian) 100%
                 </div><div style="display: grid; justify-items: center">
                     ![silicobra](../../img/pokemon/silicobra.png) [Silicobra](/sword-and-shield-ultimate-plus-wiki/pokemon/843-silicobra) 100%
                 </div><div style="display: grid; justify-items: center">

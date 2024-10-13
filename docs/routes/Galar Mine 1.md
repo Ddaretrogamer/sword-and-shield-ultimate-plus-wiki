@@ -49,7 +49,7 @@
 		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
                     ![barraskewda](../../img/pokemon/barraskewda.png) [Barraskewda](/sword-and-shield-ultimate-plus-wiki/pokemon/847-barraskewda) 60%
                 </div><div style="display: grid; justify-items: center">
-                    ![basculin-blue-striped](../../img/pokemon/basculin-blue-striped.png) [Basculin-blue-striped](/sword-and-shield-ultimate-plus-wiki/pokemon/550-basculin-blue-striped) 20%
+                    ![basculin-blue-striped](../../img/pokemon/basculin-blue-striped.png) [Basculin Blue Striped](/sword-and-shield-ultimate-plus-wiki/pokemon/550-basculin-blue-striped) 20%
                 </div></div>
 
 

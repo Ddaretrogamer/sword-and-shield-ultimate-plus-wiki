@@ -23,12 +23,12 @@
                 </div><div style="display: grid; justify-items: center">
                     ![komala](../../img/pokemon/komala.png) [Komala](/sword-and-shield-ultimate-plus-wiki/pokemon/775-komala) 1%
                 </div><div style="display: grid; justify-items: center">
-                    ![minior-red-meteor](../../img/pokemon/minior-red-meteor.png) [Minior-red-meteor](/sword-and-shield-ultimate-plus-wiki/pokemon/774-minior-red-meteor) 1%
+                    ![minior-red-meteor](../../img/pokemon/minior-red-meteor.png) [Minior Red Meteor](/sword-and-shield-ultimate-plus-wiki/pokemon/774-minior-red-meteor) 1%
                 </div></div>
 
 	???+ note "Surf Lv. 40"
 		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
-                    ![wishiwashi-solo](../../img/pokemon/wishiwashi-solo.png) [Wishiwashi-solo](/sword-and-shield-ultimate-plus-wiki/pokemon/746-wishiwashi-solo) 100%
+                    ![wishiwashi-solo](../../img/pokemon/wishiwashi-solo.png) [Wishiwashi Solo](/sword-and-shield-ultimate-plus-wiki/pokemon/746-wishiwashi-solo) 100%
                 </div></div>
 
 	???+ note "Overworld"

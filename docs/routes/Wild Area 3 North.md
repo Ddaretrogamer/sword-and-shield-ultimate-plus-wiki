@@ -5,7 +5,7 @@
 
 	???+ note "Grass Lv. 28"
 		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
-                    ![jangmo-o](../../img/pokemon/jangmo-o.png) [Jangmo-o](/sword-and-shield-ultimate-plus-wiki/pokemon/782-jangmo-o) 20%
+                    ![jangmo-o](../../img/pokemon/jangmo-o.png) [Jangmo O](/sword-and-shield-ultimate-plus-wiki/pokemon/782-jangmo-o) 20%
                 </div><div style="display: grid; justify-items: center">
                     ![numel](../../img/pokemon/numel.png) [Numel](/sword-and-shield-ultimate-plus-wiki/pokemon/322-numel) 20%
                 </div><div style="display: grid; justify-items: center">
@@ -15,7 +15,7 @@
                 </div><div style="display: grid; justify-items: center">
                     ![salandit](../../img/pokemon/salandit.png) [Salandit](/sword-and-shield-ultimate-plus-wiki/pokemon/757-salandit) 10%
                 </div><div style="display: grid; justify-items: center">
-                    ![mimikyu-disguised](../../img/pokemon/mimikyu-disguised.png) [Mimikyu-disguised](/sword-and-shield-ultimate-plus-wiki/pokemon/778-mimikyu-disguised) 10%
+                    ![mimikyu-disguised](../../img/pokemon/mimikyu-disguised.png) [Mimikyu Disguised](/sword-and-shield-ultimate-plus-wiki/pokemon/778-mimikyu-disguised) 10%
                 </div><div style="display: grid; justify-items: center">
                     ![skorupi](../../img/pokemon/skorupi.png) [Skorupi](/sword-and-shield-ultimate-plus-wiki/pokemon/451-skorupi) 5%
                 </div><div style="display: grid; justify-items: center">
@@ -23,7 +23,7 @@
                 </div><div style="display: grid; justify-items: center">
                     ![cacturne](../../img/pokemon/cacturne.png) [Cacturne](/sword-and-shield-ultimate-plus-wiki/pokemon/332-cacturne) 4%
                 </div><div style="display: grid; justify-items: center">
-                    ![corsola-galarian](../../img/pokemon/corsola-galarian.png) [Corsola-galarian](/sword-and-shield-ultimate-plus-wiki/pokemon/1118-corsola-galarian) 4%
+                    ![corsola-galarian](../../img/pokemon/corsola-galarian.png) [Corsola Galarian](/sword-and-shield-ultimate-plus-wiki/pokemon/1118-corsola-galarian) 4%
                 </div><div style="display: grid; justify-items: center">
                     ![shinx](../../img/pokemon/shinx.png) [Shinx](/sword-and-shield-ultimate-plus-wiki/pokemon/403-shinx) 1%
                 </div><div style="display: grid; justify-items: center">

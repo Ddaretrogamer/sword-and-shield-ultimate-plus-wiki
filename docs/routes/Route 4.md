@@ -11,7 +11,7 @@
                 </div><div style="display: grid; justify-items: center">
                     ![eevee](../../img/pokemon/eevee.png) [Eevee](/sword-and-shield-ultimate-plus-wiki/pokemon/133-eevee) 20%
                 </div><div style="display: grid; justify-items: center">
-                    ![pumpkaboo-average](../../img/pokemon/pumpkaboo-average.png) [Pumpkaboo-average](/sword-and-shield-ultimate-plus-wiki/pokemon/710-pumpkaboo-average) 10%
+                    ![pumpkaboo-average](../../img/pokemon/pumpkaboo-average.png) [Pumpkaboo Average](/sword-and-shield-ultimate-plus-wiki/pokemon/710-pumpkaboo-average) 10%
                 </div><div style="display: grid; justify-items: center">
                     ![chewtle](../../img/pokemon/chewtle.png) [Chewtle](/sword-and-shield-ultimate-plus-wiki/pokemon/833-chewtle) 8%
                 </div><div style="display: grid; justify-items: center">
@@ -20,7 +20,7 @@
 
 	???+ note "Overworld Lv. 7-9"
 		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
-                    ![meowth-galarian](../../img/pokemon/meowth-galarian.png) [Meowth-galarian](/sword-and-shield-ultimate-plus-wiki/pokemon/052-meowth-galarian) 100%
+                    ![meowth-galarian](../../img/pokemon/meowth-galarian.png) [Meowth Galarian](/sword-and-shield-ultimate-plus-wiki/pokemon/052-meowth-galarian) 100%
                 </div></div>
 
 

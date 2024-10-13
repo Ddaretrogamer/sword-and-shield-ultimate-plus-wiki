@@ -25,7 +25,7 @@
                 </div><div style="display: grid; justify-items: center">
                     ![flygon](../../img/pokemon/flygon.png) [Flygon](/sword-and-shield-ultimate-plus-wiki/pokemon/330-flygon) 4%
                 </div><div style="display: grid; justify-items: center">
-                    ![kommo-o](../../img/pokemon/kommo-o.png) [Kommo-o](/sword-and-shield-ultimate-plus-wiki/pokemon/784-kommo-o) 1%
+                    ![kommo-o](../../img/pokemon/kommo-o.png) [Kommo O](/sword-and-shield-ultimate-plus-wiki/pokemon/784-kommo-o) 1%
                 </div><div style="display: grid; justify-items: center">
                     ![turtonator](../../img/pokemon/turtonator.png) [Turtonator](/sword-and-shield-ultimate-plus-wiki/pokemon/776-turtonator) 1%
                 </div></div>

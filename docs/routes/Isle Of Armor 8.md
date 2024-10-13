@@ -23,7 +23,7 @@
                 </div><div style="display: grid; justify-items: center">
                     ![aromatisse](../../img/pokemon/aromatisse.png) [Aromatisse](/sword-and-shield-ultimate-plus-wiki/pokemon/683-aromatisse) 4%
                 </div><div style="display: grid; justify-items: center">
-                    ![meowstic-male](../../img/pokemon/meowstic-male.png) [Meowstic-male](/sword-and-shield-ultimate-plus-wiki/pokemon/678-meowstic-male) 4%
+                    ![meowstic-male](../../img/pokemon/meowstic-male.png) [Meowstic Male](/sword-and-shield-ultimate-plus-wiki/pokemon/678-meowstic-male) 4%
                 </div><div style="display: grid; justify-items: center">
                     ![klefki](../../img/pokemon/klefki.png) [Klefki](/sword-and-shield-ultimate-plus-wiki/pokemon/707-klefki) 1%
                 </div><div style="display: grid; justify-items: center">

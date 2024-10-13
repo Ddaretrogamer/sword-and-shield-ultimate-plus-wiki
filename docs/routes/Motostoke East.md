@@ -11,7 +11,7 @@
                 </div><div style="display: grid; justify-items: center">
                     ![hatenna](../../img/pokemon/hatenna.png) [Hatenna](/sword-and-shield-ultimate-plus-wiki/pokemon/856-hatenna) 10%
                 </div><div style="display: grid; justify-items: center">
-                    ![pumpkaboo-average](../../img/pokemon/pumpkaboo-average.png) [Pumpkaboo-average](/sword-and-shield-ultimate-plus-wiki/pokemon/710-pumpkaboo-average) 10%
+                    ![pumpkaboo-average](../../img/pokemon/pumpkaboo-average.png) [Pumpkaboo Average](/sword-and-shield-ultimate-plus-wiki/pokemon/710-pumpkaboo-average) 10%
                 </div><div style="display: grid; justify-items: center">
                     ![roggenrola](../../img/pokemon/roggenrola.png) [Roggenrola](/sword-and-shield-ultimate-plus-wiki/pokemon/524-roggenrola) 10%
                 </div><div style="display: grid; justify-items: center">

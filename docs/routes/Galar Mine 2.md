@@ -9,7 +9,7 @@
                 </div><div style="display: grid; justify-items: center">
                     ![noibat](../../img/pokemon/noibat.png) [Noibat](/sword-and-shield-ultimate-plus-wiki/pokemon/714-noibat) 24%
                 </div><div style="display: grid; justify-items: center">
-                    ![stunfisk-galarian](../../img/pokemon/stunfisk-galarian.png) [Stunfisk-galarian](/sword-and-shield-ultimate-plus-wiki/pokemon/618-stunfisk-galarian) 20%
+                    ![stunfisk-galarian](../../img/pokemon/stunfisk-galarian.png) [Stunfisk Galarian](/sword-and-shield-ultimate-plus-wiki/pokemon/618-stunfisk-galarian) 20%
                 </div><div style="display: grid; justify-items: center">
                     ![croagunk](../../img/pokemon/croagunk.png) [Croagunk](/sword-and-shield-ultimate-plus-wiki/pokemon/453-croagunk) 10%
                 </div><div style="display: grid; justify-items: center">
@@ -54,12 +54,12 @@
 
 	???+ note "Legendary Lv. 70"
 		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
-                    ![zygarde-complete](../../img/pokemon/zygarde-complete.png) [Zygarde-complete](/sword-and-shield-ultimate-plus-wiki/pokemon/718-zygarde-complete) 100%
+                    ![zygarde-complete](../../img/pokemon/zygarde-complete.png) [Zygarde Complete](/sword-and-shield-ultimate-plus-wiki/pokemon/718-zygarde-complete) 100%
                 </div></div>
 
 	???+ note "Overworld"
 		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
-                    ![stunfisk-galarian](../../img/pokemon/stunfisk-galarian.png) [Stunfisk-galarian](/sword-and-shield-ultimate-plus-wiki/pokemon/618-stunfisk-galarian) 100%
+                    ![stunfisk-galarian](../../img/pokemon/stunfisk-galarian.png) [Stunfisk Galarian](/sword-and-shield-ultimate-plus-wiki/pokemon/618-stunfisk-galarian) 100%
                 </div></div>
 
 

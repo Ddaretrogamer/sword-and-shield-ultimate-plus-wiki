@@ -37,7 +37,7 @@
 
 	???+ note "Overworld"
 		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
-                    ![meowth-galarian](../../img/pokemon/meowth-galarian.png) [Meowth-galarian](/sword-and-shield-ultimate-plus-wiki/pokemon/052-meowth-galarian) 100%
+                    ![meowth-galarian](../../img/pokemon/meowth-galarian.png) [Meowth Galarian](/sword-and-shield-ultimate-plus-wiki/pokemon/052-meowth-galarian) 100%
                 </div><div style="display: grid; justify-items: center">
                     ![cramorant](../../img/pokemon/cramorant.png) [Cramorant](/sword-and-shield-ultimate-plus-wiki/pokemon/845-cramorant) 100%
                 </div><div style="display: grid; justify-items: center">
@@ -54,7 +54,7 @@
 
 	???+ note "Legendary Lv. 50"
 		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
-                    ![tapu-fini](../../img/pokemon/tapu-fini.png) [Tapu-fini](/sword-and-shield-ultimate-plus-wiki/pokemon/788-tapu-fini) 100%
+                    ![tapu-fini](../../img/pokemon/tapu-fini.png) [Tapu Fini](/sword-and-shield-ultimate-plus-wiki/pokemon/788-tapu-fini) 100%
                 </div></div>
 
 
