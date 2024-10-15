@@ -81,7 +81,12 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Isle Of Armor 4 | Legendary | 100 | Return to the Isle of Armor, east of the dojo on the beach after encountering the Galarian Birds at the Tree in the Crown Tundra. |
 
+        
 
 ## Moveset
 

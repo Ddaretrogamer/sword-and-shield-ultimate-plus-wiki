@@ -84,7 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 4 West | Legendary | 100 |  |
+        	| Wild Area 4 West | Legendary | 100 | Return to Wild Area 4 West, southeast corner, after encountering the Galarian Birds at the Tree in the Crown Tundra. |
 
         
 
