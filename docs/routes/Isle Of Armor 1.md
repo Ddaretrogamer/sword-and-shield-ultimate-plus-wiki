@@ -32,9 +32,11 @@
 
 	???+ note "Surf Lv. 40"
 		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
-                    ![poliwhirl](../../img/pokemon/poliwhirl.png) [Poliwhirl](/sword-and-shield-ultimate-plus-wiki/pokemon/061-poliwhirl) 60%
+                    ![poliwhirl](../../img/pokemon/poliwhirl.png) [Poliwhirl](/sword-and-shield-ultimate-plus-wiki/pokemon/061-poliwhirl) 40%
                 </div><div style="display: grid; justify-items: center">
                     ![golduck](../../img/pokemon/golduck.png) [Golduck](/sword-and-shield-ultimate-plus-wiki/pokemon/055-golduck) 40%
+                </div><div style="display: grid; justify-items: center">
+                    ![finneon](../../img/pokemon/finneon.png) [Finneon](/sword-and-shield-ultimate-plus-wiki/pokemon/456-finneon) 20%
                 </div></div>
 
 	???+ note "Overworld Lv. 50-52"

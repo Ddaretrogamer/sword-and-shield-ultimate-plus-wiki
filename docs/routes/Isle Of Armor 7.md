@@ -32,7 +32,9 @@
 
 	???+ note "Surf Lv. 40"
 		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
-                    ![bruxish](../../img/pokemon/bruxish.png) [Bruxish](/sword-and-shield-ultimate-plus-wiki/pokemon/779-bruxish) 100%
+                    ![bruxish](../../img/pokemon/bruxish.png) [Bruxish](/sword-and-shield-ultimate-plus-wiki/pokemon/779-bruxish) 60%
+                </div><div style="display: grid; justify-items: center">
+                    ![alomomola](../../img/pokemon/alomomola.png) [Alomomola](/sword-and-shield-ultimate-plus-wiki/pokemon/594-alomomola) 40%
                 </div></div>
 
 	???+ note "Overworld"

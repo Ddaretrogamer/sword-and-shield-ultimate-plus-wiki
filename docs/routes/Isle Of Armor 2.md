@@ -32,7 +32,9 @@
 
 	???+ note "Surf Lv. 40"
 		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
-                    ![poliwhirl](../../img/pokemon/poliwhirl.png) [Poliwhirl](/sword-and-shield-ultimate-plus-wiki/pokemon/061-poliwhirl) 80%
+                    ![lumineon](../../img/pokemon/lumineon.png) [Lumineon](/sword-and-shield-ultimate-plus-wiki/pokemon/457-lumineon) 40%
+                </div><div style="display: grid; justify-items: center">
+                    ![finneon](../../img/pokemon/finneon.png) [Finneon](/sword-and-shield-ultimate-plus-wiki/pokemon/456-finneon) 40%
                 </div><div style="display: grid; justify-items: center">
                     ![poliwrath](../../img/pokemon/poliwrath.png) [Poliwrath](/sword-and-shield-ultimate-plus-wiki/pokemon/062-poliwrath) 20%
                 </div></div>

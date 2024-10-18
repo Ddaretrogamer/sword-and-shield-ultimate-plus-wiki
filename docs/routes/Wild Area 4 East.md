@@ -32,7 +32,9 @@
 
 	???+ note "Surf"
 		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
-                    ![carvanha](../../img/pokemon/carvanha.png) [Carvanha](/sword-and-shield-ultimate-plus-wiki/pokemon/318-carvanha) 100%
+                    ![tynamo](../../img/pokemon/tynamo.png) [Tynamo](/sword-and-shield-ultimate-plus-wiki/pokemon/602-tynamo) 60%
+                </div><div style="display: grid; justify-items: center">
+                    ![carvanha](../../img/pokemon/carvanha.png) [Carvanha](/sword-and-shield-ultimate-plus-wiki/pokemon/318-carvanha) 40%
                 </div></div>
 
 	???+ note "Fishing   Old Rod"

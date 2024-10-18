@@ -9,25 +9,25 @@
                 </div><div style="display: grid; justify-items: center">
                     ![kangaskhan](../../img/pokemon/kangaskhan.png) [Kangaskhan](/sword-and-shield-ultimate-plus-wiki/pokemon/115-kangaskhan) 20%
                 </div><div style="display: grid; justify-items: center">
-                    ![tauros](../../img/pokemon/tauros.png) [Tauros](/sword-and-shield-ultimate-plus-wiki/pokemon/128-tauros) 10%
-                </div><div style="display: grid; justify-items: center">
-                    ![scyther](../../img/pokemon/scyther.png) [Scyther](/sword-and-shield-ultimate-plus-wiki/pokemon/123-scyther) 10%
-                </div><div style="display: grid; justify-items: center">
-                    ![pinsir](../../img/pokemon/pinsir.png) [Pinsir](/sword-and-shield-ultimate-plus-wiki/pokemon/127-pinsir) 10%
+                    ![yanmega](../../img/pokemon/yanmega.png) [Yanmega](/sword-and-shield-ultimate-plus-wiki/pokemon/469-yanmega) 10%
                 </div><div style="display: grid; justify-items: center">
                     ![magneton](../../img/pokemon/magneton.png) [Magneton](/sword-and-shield-ultimate-plus-wiki/pokemon/082-magneton) 10%
+                </div><div style="display: grid; justify-items: center">
+                    ![victreebel](../../img/pokemon/victreebel.png) [Victreebel](/sword-and-shield-ultimate-plus-wiki/pokemon/071-victreebel) 10%
+                </div><div style="display: grid; justify-items: center">
+                    ![rapidash](../../img/pokemon/rapidash.png) [Rapidash](/sword-and-shield-ultimate-plus-wiki/pokemon/078-rapidash) 10%
                 </div><div style="display: grid; justify-items: center">
                     ![miltank](../../img/pokemon/miltank.png) [Miltank](/sword-and-shield-ultimate-plus-wiki/pokemon/241-miltank) 5%
                 </div><div style="display: grid; justify-items: center">
                     ![toxicroak](../../img/pokemon/toxicroak.png) [Toxicroak](/sword-and-shield-ultimate-plus-wiki/pokemon/454-toxicroak) 5%
                 </div><div style="display: grid; justify-items: center">
-                    ![heracross](../../img/pokemon/heracross.png) [Heracross](/sword-and-shield-ultimate-plus-wiki/pokemon/214-heracross) 4%
-                </div><div style="display: grid; justify-items: center">
                     ![kingler](../../img/pokemon/kingler.png) [Kingler](/sword-and-shield-ultimate-plus-wiki/pokemon/099-kingler) 4%
                 </div><div style="display: grid; justify-items: center">
-                    ![luxray](../../img/pokemon/luxray.png) [Luxray](/sword-and-shield-ultimate-plus-wiki/pokemon/405-luxray) 1%
+                    ![leavanny](../../img/pokemon/leavanny.png) [Leavanny](/sword-and-shield-ultimate-plus-wiki/pokemon/542-leavanny) 4%
                 </div><div style="display: grid; justify-items: center">
-                    ![scrafty](../../img/pokemon/scrafty.png) [Scrafty](/sword-and-shield-ultimate-plus-wiki/pokemon/560-scrafty) 1%
+                    ![castform](../../img/pokemon/castform.png) [Castform](/sword-and-shield-ultimate-plus-wiki/pokemon/351-castform) 1%
+                </div><div style="display: grid; justify-items: center">
+                    ![farfetchd](../../img/pokemon/farfetchd.png) [Farfetchd](/sword-and-shield-ultimate-plus-wiki/pokemon/083-farfetchd) 1%
                 </div></div>
 
 	???+ note "Surf Lv. 40"
