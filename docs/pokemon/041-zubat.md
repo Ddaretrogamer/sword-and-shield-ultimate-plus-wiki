@@ -85,7 +85,6 @@
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
         	| Route 8 Cave | Grass | 20 |  |
-	| Courageous Cavern (Isle Of Armor) | Grass | 10 |  |
 
         
 

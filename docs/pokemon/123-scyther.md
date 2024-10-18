@@ -85,7 +85,6 @@
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
         	| Wild Area 4 East | Grass | 10 |  |
-	| Isle Of Armor 6 | Grass | 10 |  |
 
         
 

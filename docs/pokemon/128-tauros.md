@@ -86,7 +86,6 @@
         | -- | -- | -- | -- |
         	| Wild Area 1 Southeast | Grass | 20 |  |
 	| Wild Area 6 East | Grass | 4 |  |
-	| Isle Of Armor 6 | Grass | 10 |  |
 
         
 

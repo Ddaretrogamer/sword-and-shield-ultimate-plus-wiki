@@ -87,7 +87,7 @@
         	| Wild Area 1 Southwest | Surf | 20 |  |
 	| Wild Area 1 Northwest | Surf | 20 |  |
 	| Wild Area 1 Northwest | Fishing   Good Rod | 33 |  |
-	| Wild Area 4 East | Surf | 100 |  |
+	| Wild Area 4 East | Surf | 40 |  |
 
         
 

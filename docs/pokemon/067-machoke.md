@@ -84,7 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Courageous Cavern (Isle Of Armor) | Grass | 5 |  |
+        	| Courageous Cavern (Isle Of Armor) | Grass | 1 |  |
 
         
 

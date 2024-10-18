@@ -81,7 +81,13 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Isle Of Armor 1 | Surf | 20 |  |
+	| Isle Of Armor 2 | Surf | 40 |  |
 
+        
 
 ## Moveset
 

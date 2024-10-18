@@ -88,7 +88,7 @@
 	| Wild Area 3 (Volcano) | Overworld | 100 |  |
 	| Courageous Cavern (Route 10) | Grass | 10 |  |
 	| Isle Of Armor Desert | Overworld | 100 |  |
-	| Courageous Cavern (Isle Of Armor) | Grass | 30 |  |
+	| Courageous Cavern (Isle Of Armor) | Grass | 10 |  |
 	| Brawlers Cave (Isle Of Armor) | Overworld | 100 |  |
 	| Warm Up Tunnel (Isle Of Armor) | Overworld | 100 |  |
 	| Scifub Chamber (Crown Tundra) | Overworld | 100 |  |

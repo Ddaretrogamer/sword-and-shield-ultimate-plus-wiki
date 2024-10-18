@@ -85,7 +85,7 @@
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
         	| Route 2 | Fishing   Good Rod | 33 |  |
-	| Isle Of Armor 7 | Surf | 100 |  |
+	| Isle Of Armor 7 | Surf | 60 |  |
 
         
 

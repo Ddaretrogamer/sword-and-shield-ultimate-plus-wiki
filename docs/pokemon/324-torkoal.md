@@ -81,7 +81,12 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Courageous Cavern (Isle Of Armor) | Grass | 14 |  |
 
+        
 
 ## Moveset
 
