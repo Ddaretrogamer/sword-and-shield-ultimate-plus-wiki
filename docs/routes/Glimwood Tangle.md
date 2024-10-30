@@ -72,7 +72,7 @@
 
 	???+ note "In Game Trade"
 		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
-                    ![oshawott](../../img/pokemon/oshawott.png) [Oshawott](/sword-and-shield-ultimate-plus-wiki/pokemon/517-oshawott) 100%
+                    ![oshawott](../../img/pokemon/oshawott.png) [Oshawott](/sword-and-shield-ultimate-plus-wiki/pokemon/501-oshawott) 100%
                 </div></div>
 
 

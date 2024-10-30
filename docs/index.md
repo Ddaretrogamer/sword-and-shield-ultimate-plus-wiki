@@ -1,10 +1,10 @@
 <img alt="home-page" src="img/logo.png">
 
 # Welcome to the Sword and Shield Ultimate Plus GBA Wiki
-A FireRed ROM hack by Pclg, Jeanstars, translated by Phantonomy.
-Image by Alex20041509.
+A FireRed ROM hack by Pclg, Jeanstars, and translated by Phantonomy.
+Wiki image by Alex20041509.
 
-Use this Wiki to find information about the ROM hack! This Wiki is still a work in progress.
+Use this Wiki to find information about the ROM hack! This Wiki is still a work in progress, so there are Pokemon that appear in the Pokemon tab which aren't in the game. See the "About" section below for information about which Pokemon are in the game.
 
 Please use the search function to find any Pokemon, item, or route you are interested in learning more about.
 Use the sections below for more general information.
@@ -47,7 +47,7 @@ This Wiki was generated using [WikiGen](https://github.com/AkeemAllen/WikiGen).
 
     This hack was originally created and released by Pclg in 2020. Jeanstars remade it, adding CFRU, dubbing it SwSh Ultimate which was released in 2023. I translated this version to English. Pclg released an overhaul of SwSh Ultimate, and dubbed it, SwSh Ultimate Plus. I then translated that version to English as well.
 
-    The current version of the game is SwSh Ultimate Plus v1.1.5.
+    The current version of the game is SwSh Ultimate Plus v1.1.7.
 
 ## Maps
 === "Galar Region"

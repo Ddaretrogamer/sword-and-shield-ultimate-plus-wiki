@@ -81,7 +81,12 @@
 
 
 
+## Locations
+| Route | Area | Encounter Rate | Extra Instructions |
+        | -- | -- | -- | -- |
+        	| Glimwood Tangle | In Game Trade | 100 | Trade Houndour for Oshawott |
 
+        
 
 ## Moveset
 
