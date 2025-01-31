@@ -1,7 +1,7 @@
 <img alt="home-page" src="img/logo.png">
 
 # Welcome to the Sword and Shield Ultimate Plus GBA Wiki
-A FireRed ROM hack by Pclg, Jeanstars, and translated by Phantonomy.
+A FireRed ROM hack by Pclg, Jeanstars. Translated and enhanced by Phantonomy.
 Wiki image by Alex20041509.
 
 Use this Wiki to find information about the ROM hack! This Wiki is still a work in progress, so there are Pokemon that appear in the Pokemon tab which aren't in the game. See the "About" section below for information about which Pokemon are in the game.
@@ -47,7 +47,7 @@ This Wiki was generated using [WikiGen](https://github.com/AkeemAllen/WikiGen).
 
     This hack was originally created and released by Pclg in 2020. Jeanstars remade it, adding CFRU, dubbing it SwSh Ultimate which was released in 2023. I translated this version to English. Pclg released an overhaul of SwSh Ultimate, and dubbed it, SwSh Ultimate Plus. I then translated that version to English as well.
 
-    The current version of the game is SwSh Ultimate Plus v1.1.7.
+    The current version of the game is SwSh Ultimate Plus v1.2.1.1.
 
 ## Maps
 === "Galar Region"
@@ -71,17 +71,26 @@ This Wiki was generated using [WikiGen](https://github.com/AkeemAllen/WikiGen).
 === "FAQ"
     ### FAQ
     ??? question "Where can I download the the game?"
-        I provide patch (.bps) files, that you can apply to your own legally obtained copy of FireRed. You can download the latest patch on my [Pokecommunity post](https://www.pokecommunity.com/threads/update-new-music-sword-and-shield-ultimate-plus-gba-english-version-complete-1-1-4.526384/) or on my [discord server](https://discord.gg/haWvnjYjkb).
+        I provide patch (.bps) files, that you can apply to your own legally obtained copy of FireRed. You can download the latest patch on my [Pokecommunity post](https://www.pokecommunity.com/threads/update-new-music-sword-and-shield-ultimate-plus-gba-english-version-complete-1-1-4.526384/) on my [discord server](https://discord.gg/haWvnjYjkb), or on my [github page](https://github.com/Ddaretrogamer/Sword-and-Shield-Ultimate-Plus).
 
     ??? question "How does patching a ROM work?"
         Patching a ROM is sort of like adding a mod to a base game. You can use [ROM Patcher JS](https://www.marcrobledo.com/RomPatcher.js/legacy/) to patch your ROM on any device. If you need a comprehensive tutorial, there is one availible on my [discord server](https://discord.gg/DdH7gjTNGx).
 
-    ??? question "What can I play this game on?"
+
         This GBA game will run on any emulator (besides web based emulators like Eclipse). This includes Linux based handheld emulation devices like the RG35XX models. It also works on openFPGA and on real hardware using EZ Flash/Everdrive or any other flashable cartridge (cartridge permitting). It also works on 3DS ([Making a .cia file tutorial](https://discord.gg/FWXfPPzdVR)). I've even got this running on my PS Vita. R4 carts and gbarunner on dsi seem to have issues though. 
 
+    ??? question "Are there any Recommended Emulators?"
+        - For PC/Windows: mGBA
+        - For Android: pizzaboy, Lemuroid, Retroarch w/ mGBA core
+        - For IOS: Retroarch w/ mGBA core
+        - For Linus handhelds: Retroarch w/ mGBA core.
+        
     ??? question "Are there nature mints/ability capsules in this game?"
         No to mints and... sort of. Once you catch a mon, you cannot alter its nature or ability. However, you can use the ability pill item to force your next encountered mon to have its hidden ability. You can also hunt for abilities with the DexNav.
-    
+
+    ??? question "How can I check / adjust EVs/IVs?"
+        IVs in SWSH Ultimate Plus are maxed by default. You can check EVs by opening the summary screen, scrolling right once then pressing A. Vitamins are sold in Wild Area 5 (desert) and EV reducing berries are sold in Hulbury
+        
     ??? question "How do I use the Wyndon gift codes?"
         There is a gift object in the Wyndon Pokecenter. Interact with it to enter the codes. Codes can be found in the "Mystery Gifts" tab.
 
@@ -213,7 +222,11 @@ This Wiki was generated using [WikiGen](https://github.com/AkeemAllen/WikiGen).
     ??? info "Mum"
         ![Image title](https://i.ibb.co/XDcYdGw/mom-npc.png){ align=right }
         Interact with Mum to recieve one of 15 useful items, once per day. 
-
+        
+    ??? info "Camping"
+        ![Image title](https://i.ibb.co/WN3v3Fdr/image.png){ align=right }
+        Chat with this camper to go camping! Come back after you become Champion!
+        
 === "Useful Venders"
 
     ### Useful Venders
