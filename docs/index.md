@@ -4,7 +4,7 @@
 A FireRed ROM hack by Pclg, Jeanstars. Translated and enhanced by Phantonomy.
 Wiki image by Alex20041509.
 
-Use this Wiki to find information about the ROM hack! This Wiki is still a work in progress, so there are Pokemon that appear in the Pokemon tab which aren't in the game. See the "About" section below for information about which Pokemon are in the game.
+Use this Wiki to find information about the ROM hack! This Wiki is still a work in progress. See the "About" section below for information about which Pokemon are in the game.
 
 Please use the search function to find any Pokemon, item, or route you are interested in learning more about.
 Use the sections below for more general information.
