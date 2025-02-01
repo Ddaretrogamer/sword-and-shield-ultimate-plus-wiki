@@ -79,6 +79,15 @@ This Wiki was generated using [WikiGen](https://github.com/AkeemAllen/WikiGen).
 
         This GBA game will run on any emulator (besides web based emulators like Eclipse). This includes Linux based handheld emulation devices like the RG35XX models. It also works on openFPGA and on real hardware using EZ Flash/Everdrive or any other flashable cartridge (cartridge permitting). It also works on 3DS ([Making a .cia file tutorial](https://discord.gg/FWXfPPzdVR)). I've even got this running on my PS Vita. R4 carts and gbarunner on dsi seem to have issues though. 
 
+    ??? question "Which customization patch should I use?"
+        There are 3 customization patches avaliable:
+        - Casual Patch
+        - Performance Patch
+        - Performance + Casual Patch
+
+        See the flowchart to decide which one you would like to apply!
+        ![Image title](https://i.ibb.co/Z60MC1BC/patching-flowchart.png){ align=left } 
+
     ??? question "Are there any Recommended Emulators?"
         - For PC/Windows: mGBA
         - For Android: pizzaboy, Lemuroid, Retroarch w/ mGBA core
