@@ -234,7 +234,7 @@ This Wiki was generated using [WikiGen](https://github.com/AkeemAllen/WikiGen).
         
     ??? info "Camping"
         ![Image title](https://i.ibb.co/WN3v3Fdr/image.png){ align=right }
-        Chat with this camper to go camping! Come back after you become Champion!
+        Chat with this camper located in Wild Area 1 Southeast to go camping! Come back after you become Champion!
         
 === "Useful Venders"
 
