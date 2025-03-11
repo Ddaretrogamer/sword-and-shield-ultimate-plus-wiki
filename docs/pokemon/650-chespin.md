@@ -84,7 +84,7 @@
 ## Locations
 | Route | Area | Encounter Rate | Extra Instructions |
         | -- | -- | -- | -- |
-        	| Wild Area 1 Southwest | In Game Trade | 100 | Trade Drakloak for Chespin |
+        	| Wild Area 1 Southwest | In Game Trade | 100 | Trade Dreepy for Chespin |
 
         
 
