@@ -334,7 +334,7 @@ This Wiki was generated using [WikiGen](https://github.com/AkeemAllen/WikiGen).
         - Trade Galar-Meowth for Snivy
         - Trade Eevee for Tepig
         - Trade Houndour for Oshawott
-        - Trade Drakloak for Chespin
+        - Trade Dreepy for Chespin
         - Trade Greedent for Fennekin
         - Trade Corvisquire for Froakie
         - Trade Leafeon for Rowlett
