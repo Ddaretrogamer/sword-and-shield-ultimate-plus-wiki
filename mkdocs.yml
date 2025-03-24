@@ -27,6 +27,7 @@ nav:
 - Item Locations: item_locations.md
 - Fossil Locations: fossils.md
 - Item Changes: item_changes.md
+- Evolution Methods: evolutions.md
 - Pokemon:
   - 001 - Bulbasaur: pokemon/001-bulbasaur.md
   - 002 - Ivysaur: pokemon/002-ivysaur.md
@@ -1133,7 +1134,6 @@ nav:
   - Tanoby Key (Crown Tundra): routes/Tanoby Key (Crown Tundra).md
   - Dynamax Adventure (Crown Tundra): routes/Dynamax Adventure (Crown Tundra).md
   - Underwater: routes/Underwater.md
-- Evolution Methods: evolutions.md
 plugins:
 - search:
     lang: en
