@@ -25,7 +25,9 @@ theme:
 nav:
 - Home: index.md
 - Item Locations: item_locations.md
+- Fossil Locations: fossils.md
 - Item Changes: item_changes.md
+- Evolution Methods: evolutions.md
 - Pokemon:
   - 001 - Bulbasaur: pokemon/001-bulbasaur.md
   - 002 - Ivysaur: pokemon/002-ivysaur.md
