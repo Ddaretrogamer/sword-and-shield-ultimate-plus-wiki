@@ -83,24 +83,3 @@
 
 
 
-## Moveset
-
-=== "Level Up Moves"
-    | Level | Name | Power | Accuracy | PP | Type | Damage Class |
-        | -- | -- | -- | -- | -- | -- | -- |
-        	| 1 | Tackle | 40 | 100 | 35 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| 5 | Confusion | 50 | 100 | 25 | ![psychic](../img/types/psychic.png) | ![special](../img/types/special.png) |
-	| 9 | Hypnosis | - | 60 | 20 | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png) |
-	| 15 | Calm-mind | - | - | 20 | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png) |
-	| 21 | Psyshield-bash | 70 | 90 | 10 | ![psychic](../img/types/psychic.png) | ![physical](../img/types/physical.png) |
-	| 29 | Extrasensory | 80 | 100 | 20 | ![psychic](../img/types/psychic.png) | ![special](../img/types/special.png) |
-	| 37 | Zen-headbutt | 80 | 90 | 15 | ![psychic](../img/types/psychic.png) | ![physical](../img/types/physical.png) |
-	| 47 | Double-edge | 120 | 100 | 15 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-
-        
-
-=== "Machine Moves"
-    | Machine | Name | Power | Accuracy | PP | Type | Damage Class |
-        | -- | -- | -- | -- | -- | -- | -- |
-        
-        

@@ -83,20 +83,3 @@
 
 
 
-## Moveset
-
-=== "Level Up Moves"
-    | Level | Name | Power | Accuracy | PP | Type | Damage Class |
-        | -- | -- | -- | -- | -- | -- | -- |
-        	| 1 | Tackle | 40 | 100 | 35 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| 1 | String-shot | - | 95 | 40 | ![bug](../img/types/bug.png) | ![status](../img/types/status.png) |
-	| 5 | Poison-sting | 15 | 100 | 35 | ![poison](../img/types/poison.png) | ![physical](../img/types/physical.png) |
-	| 15 | Bug-bite | 60 | 100 | 20 | ![bug](../img/types/bug.png) | ![physical](../img/types/physical.png) |
-
-        
-
-=== "Machine Moves"
-    | Machine | Name | Power | Accuracy | PP | Type | Damage Class |
-        | -- | -- | -- | -- | -- | -- | -- |
-        
-        

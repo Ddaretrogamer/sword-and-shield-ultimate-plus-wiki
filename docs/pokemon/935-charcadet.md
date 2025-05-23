@@ -83,38 +83,3 @@
 
 
 
-## Moveset
-
-=== "Level Up Moves"
-    | Level | Name | Power | Accuracy | PP | Type | Damage Class |
-        | -- | -- | -- | -- | -- | -- | -- |
-        	| 1 | Ember | 40 | 100 | 25 | ![fire](../img/types/fire.png) | ![special](../img/types/special.png) |
-	| 1 | Leer | - | 100 | 30 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| 1 | Astonish | 30 | 100 | 15 | ![ghost](../img/types/ghost.png) | ![physical](../img/types/physical.png) |
-	| 8 | Clear-smog | 50 | - | 15 | ![poison](../img/types/poison.png) | ![special](../img/types/special.png) |
-	| 28 | Incinerate | 60 | 100 | 15 | ![fire](../img/types/fire.png) | ![special](../img/types/special.png) |
-	| 32 | Lava-plume | 80 | 100 | 15 | ![fire](../img/types/fire.png) | ![special](../img/types/special.png) |
-
-        
-
-=== "Machine Moves"
-    | Machine | Name | Power | Accuracy | PP | Type | Damage Class |
-        | -- | -- | -- | -- | -- | -- | -- |
-        	| TM13 | Fire-spin | 35 | 85 | 15 | ![fire](../img/types/fire.png) | ![special](../img/types/special.png) |
-	| TR55 | Flare-blitz | 120 | 100 | 15 | ![fire](../img/types/fire.png) | ![physical](../img/types/physical.png) |
-	| TM61 | Will-o-wisp | - | 85 | 15 | ![fire](../img/types/fire.png) | ![status](../img/types/status.png) |
-	| TM88 | Sleep-talk | - | - | 10 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM38 | Fire-blast | 110 | 85 | 5 | ![fire](../img/types/fire.png) | ![special](../img/types/special.png) |
-	| TM50 | Overheat | 130 | 90 | 5 | ![fire](../img/types/fire.png) | ![special](../img/types/special.png) |
-	| TM43 | Flame-charge | 50 | 100 | 20 | ![fire](../img/types/fire.png) | ![physical](../img/types/physical.png) |
-	| TM03 | Helping-hand | - | - | 20 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM11 | Sunny-day | - | - | 5 | ![fire](../img/types/fire.png) | ![status](../img/types/status.png) |
-	| TM08 | Substitute | - | - | 10 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM20 | Endure | - | - | 10 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM07 | Protect | - | - | 10 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM12 | Facade | 70 | 100 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TR36 | Heat-wave | 95 | 90 | 10 | ![fire](../img/types/fire.png) | ![special](../img/types/special.png) |
-	| TM35 | Flamethrower | 90 | 100 | 15 | ![fire](../img/types/fire.png) | ![special](../img/types/special.png) |
-	| TM09 | Take-down | 90 | 85 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-
-        

@@ -83,26 +83,3 @@
 
 
 
-## Moveset
-
-=== "Level Up Moves"
-    | Level | Name | Power | Accuracy | PP | Type | Damage Class |
-        | -- | -- | -- | -- | -- | -- | -- |
-        	| 1 | Quick-attack | 40 | 100 | 30 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| 6 | Silver-wind | 60 | 100 | 5 | ![bug](../img/types/bug.png) | ![special](../img/types/special.png) |
-	| 11 | Aerial-ace | 60 | - | 20 | ![flying](../img/types/flying.png) | ![physical](../img/types/physical.png) |
-	| 14 | Stealth-rock | - | - | 20 | ![rock](../img/types/rock.png) | ![status](../img/types/status.png) |
-	| 14 | Double-hit | 35 | 90 | 10 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| 18 | Air-slash | 75 | 95 | 15 | ![flying](../img/types/flying.png) | ![special](../img/types/special.png) |
-	| 25 | Swords-dance | - | - | 20 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| 29 | Stone-axe | 65 | 90 | 15 | ![rock](../img/types/rock.png) | ![physical](../img/types/physical.png) |
-	| 34 | X-scissor | 80 | 100 | 15 | ![bug](../img/types/bug.png) | ![physical](../img/types/physical.png) |
-	| 43 | Close-combat | 120 | 100 | 5 | ![fighting](../img/types/fighting.png) | ![physical](../img/types/physical.png) |
-
-        
-
-=== "Machine Moves"
-    | Machine | Name | Power | Accuracy | PP | Type | Damage Class |
-        | -- | -- | -- | -- | -- | -- | -- |
-        
-        

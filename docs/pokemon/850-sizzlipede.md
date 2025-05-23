@@ -88,38 +88,3 @@
 
         
 
-## Moveset
-
-=== "Level Up Moves"
-    | Level | Name | Power | Accuracy | PP | Type | Damage Class |
-        | -- | -- | -- | -- | -- | -- | -- |
-        	| 1 | Ember | 40 | 100 | 25 | ![fire](../img/types/fire.png) | ![special](../img/types/special.png) |
-	| 1 | Smokescreen | - | 100 | 20 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| 5 | Wrap | 15 | 90 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| 10 | Bite | 60 | 100 | 25 | ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png) |
-	| 15 | Flame-wheel | 60 | 100 | 25 | ![fire](../img/types/fire.png) | ![physical](../img/types/physical.png) |
-	| 20 | Bug-bite | 60 | 100 | 20 | ![bug](../img/types/bug.png) | ![physical](../img/types/physical.png) |
-	| 25 | Coil | - | - | 20 | ![poison](../img/types/poison.png) | ![status](../img/types/status.png) |
-	| 30 | Slam | 80 | 75 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| 40 | Crunch | 80 | 100 | 15 | ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png) |
-	| 45 | Fire-lash | 80 | 100 | 15 | ![fire](../img/types/fire.png) | ![physical](../img/types/physical.png) |
-	| 50 | Lunge | 80 | 100 | 15 | ![bug](../img/types/bug.png) | ![physical](../img/types/physical.png) |
-	| 55 | Burn-up | 130 | 100 | 5 | ![fire](../img/types/fire.png) | ![special](../img/types/special.png) |
-
-        
-
-=== "Machine Moves"
-    | Machine | Name | Power | Accuracy | PP | Type | Damage Class |
-        | -- | -- | -- | -- | -- | -- | -- |
-        	| TM09 | Venoshock | 65 | 100 | 10 | ![poison](../img/types/poison.png) | ![special](../img/types/special.png) |
-	| TM05 | Rest | - | - | 5 | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png) |
-	| TM13 | Snore | 50 | 100 | 15 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-	| TM13 | Fire-spin | 35 | 85 | 15 | ![fire](../img/types/fire.png) | ![special](../img/types/special.png) |
-	| TM45 | Attract | - | 100 | 15 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM59 | Brutal-swing | 60 | 100 | 20 | ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png) |
-	| TM11 | Sunny-day | - | - | 5 | ![fire](../img/types/fire.png) | ![status](../img/types/status.png) |
-	| TM07 | Protect | - | - | 10 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM12 | Facade | 70 | 100 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM48 | Round | 60 | 100 | 15 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-
-        
