@@ -82,10 +82,11 @@
 
 
 ## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Route 2 | Fishing   Good Rod | 33 |  |
-	| Isle Of Armor 7 | Surf | 60 |  |
+| Route                 | Area               | Encounter Rate | Extra Instructions |
+| --------------------- | ------------------ | -------------- | ------------------ |
+| Route 2               | Fishing   Good Rod | 33             |                    |
+| Wild Area 3 (Volcano) | Raid Den           | 7              |                    |
+| Isle Of Armor 7       | Surf               | 60             |                    |
 
         
 

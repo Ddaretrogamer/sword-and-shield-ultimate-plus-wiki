@@ -82,10 +82,11 @@
 
 
 ## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Wild Area 1 Southwest | Fishing   Super Rod | 20 |  |
-	| Route 9 | Grass | 4 |  |
+| Route                 | Area                | Encounter Rate | Extra Instructions |
+| --------------------- | ------------------- | -------------- | ------------------ |
+| Wild Area 1 Southwest | Fishing   Super Rod | 20             |                    |
+| Wild Area 3 (Volcano) | Raid Den            | 7              |                    |
+| Route 9               | Grass               | 4              |                    |
 
         
 

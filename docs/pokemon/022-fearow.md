@@ -82,9 +82,10 @@
 
 
 ## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Isle Of Armor 1 | Grass | 20 |  |
+| Route                 | Area     | Encounter Rate | Extra Instructions |
+| --------------------- | -------- | -------------- | ------------------ |
+| Wild Area 3 (Volcano) | Raid Den | 7              |                    |
+| Isle Of Armor 1       | Grass    | 20             |                    |
 
         
 

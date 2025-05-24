@@ -82,10 +82,11 @@
 
 
 ## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Route 7 | Grass | 20 |  |
-	| Wild Area 8 (Spooky) | Grass | 4 |  |
+| Route                 | Area     | Encounter Rate | Extra Instructions |
+| --------------------- | -------- | -------------- | ------------------ |
+| Wild Area 3 (Volcano) | Raid Den | 7              |                    |
+| Route 7               | Grass    | 20             |                    |
+| Wild Area 8 (Spooky)  | Grass    | 4              |                    |
 
         
 

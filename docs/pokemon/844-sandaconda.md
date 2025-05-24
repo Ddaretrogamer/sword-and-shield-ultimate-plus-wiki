@@ -82,10 +82,11 @@
 
 
 ## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Wild Area 5 (Desert) South | Grass | 4 |  |
-	| Route 8 | Grass | 20 |  |
+| Route                      | Area     | Encounter Rate | Extra Instructions |
+| -------------------------- | -------- | -------------- | ------------------ |
+| Wild Area 3 (Volcano)      | Raid Den | 7              | Gigantimax form    |
+| Wild Area 5 (Desert) South | Grass    | 4              |                    |
+| Route 8                    | Grass    | 20             |                    |
 
         
 

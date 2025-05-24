@@ -82,10 +82,11 @@
 
 
 ## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Wild Area 1 Southeast | Grass | 20 |  |
-	| Wild Area 6 East | Grass | 4 |  |
+| Route                 | Area     | Encounter Rate | Extra Instructions |
+| --------------------- | -------- | -------------- | ------------------ |
+| Wild Area 1 Southeast | Grass    | 20             |                    |
+| Wild Area 3 (Volcano) | Raid Den | 7              |                    |
+| Wild Area 6 East      | Grass    | 4              |                    |
 
         
 

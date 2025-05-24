@@ -82,10 +82,11 @@
 
 
 ## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Wild Area 4 East | Grass | 1 |  |
-	| Route 8 (Snow) | Grass | 5 |  |
+| Route                 | Area     | Encounter Rate | Extra Instructions |
+| --------------------- | -------- | -------------- | ------------------ |
+| Wild Area 3 (Volcano) | Raid Den | 7              |                    |
+| Wild Area 4 East      | Grass    | 1              |                    |
+| Route 8 (Snow)        | Grass    | 5              |                    |
 
         
 

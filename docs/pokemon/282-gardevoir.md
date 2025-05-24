@@ -80,6 +80,9 @@
 </table>
 
 
-
+## Locations
+| Route                 | Area     | Encounter Rate | Extra Instructions |
+| --------------------- | -------- | -------------- | ------------------ |
+| Wild Area 3 (Volcano) | Raid Den | 7              |                    |
 
 

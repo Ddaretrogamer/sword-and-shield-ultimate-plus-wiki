@@ -82,11 +82,12 @@
 
 
 ## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Galar Mine 2 | Fishing   Super Rod | 20 |  |
-	| Wild Area 6 East | Surf | 20 |  |
-	| Wild Area 9 (Dragon) | Fishing   Super Rod | 20 |  |
+| Route                 | Area                | Encounter Rate | Extra Instructions |
+| --------------------- | ------------------- | -------------- | ------------------ |
+| Galar Mine 2          | Fishing   Super Rod | 20             |                    |
+| Wild Area 3 (Volcano) | Raid Den            | 7              |                    |
+| Wild Area 6 East      | Surf                | 20             |                    |
+| Wild Area 9 (Dragon)  | Fishing   Super Rod | 20             |                    |
 
         
 

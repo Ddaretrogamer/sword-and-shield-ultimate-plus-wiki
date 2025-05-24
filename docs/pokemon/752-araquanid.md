@@ -82,13 +82,14 @@
 
 
 ## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Wild Area 1 Southwest | Fishing   Super Rod | 20 |  |
-	| Wild Area 1 Northwest | Fishing   Super Rod | 20 |  |
-	| Wild Area 9 (Dragon) | Surf | 20 |  |
-	| Crown Tundra Grassy East | Grass | 4 |  |
-	| Tree Base (Crown Tundra) | Grass | 5 |  |
+| Route                    | Area                | Encounter Rate | Extra Instructions |
+| ------------------------ | ------------------- | -------------- | ------------------ |
+| Wild Area 1 Southwest    | Fishing   Super Rod | 20             |                    |
+| Wild Area 1 Northwest    | Fishing   Super Rod | 20             |                    |
+| Wild Area 3 (Volcano)    | Raid Den            | 7              |                    |
+| Wild Area 9 (Dragon)     | Surf                | 20             |                    |
+| Crown Tundra Grassy East | Grass               | 4              |                    |
+| Tree Base (Crown Tundra) | Grass               | 5              |                    |
 
         
 
