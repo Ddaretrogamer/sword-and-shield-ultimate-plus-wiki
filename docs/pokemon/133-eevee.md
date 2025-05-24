@@ -82,14 +82,20 @@
 
 
 ## Locations
-| Route                  | Area     | Encounter Rate | Extra Instructions        |
-| ---------------------- | -------- | -------------- | ------------------------- |
-| Wild Area 1 Southwest  | Grass    | 20             |                           |
-| Wild Area 1 Southwest  | Raid Den | 4              | Gigantimax form available |
-| Wild Area 1 Southeast  | Grass    | 10             |                           |
-| Wild Area 1 Southeast  | Raid Den | 4              | Gigantimax form available |
-| Wild Area 1 Northeast  | Raid Den | 4              | Gigantimax form available |
-| Route 4                | Grass    | 20             |                           |
-| Crown Tundra Graveyard | Grass    | 10             |                           |
-
+| Route                      | Area     | Encounter Rate | Extra Instructions        |
+| -------------------------- | -------- | -------------- | ------------------------- |
+| Wild Area 1 Southwest      | Grass    | 20             |                           |
+| Wild Area 1 Southwest      | Raid Den | 4              | Gigantimax form available |
+| Wild Area 1 Southeast      | Grass    | 10             |                           |
+| Wild Area 1 Southeast      | Raid Den | 4              | Gigantimax form available |
+| Wild Area 1 Northeast      | Raid Den | 4              | Gigantimax form available |
+| Wild Area 2 (Bear)         | Raid Den | 2              |                           |
+| Route 4                    | Grass    | 20             |                           |
+| Wild Area 4 East           | Raid Den | 2              |                           |
+| Wild Area 4 West           | Raid Den | 2              |                           |
+| Wild Area 5 (Desert) North | Raid Den | 2              |                           |
+| Wild Area 5 (Desert) South | Raid Den | 2              |                           |
+| Wild Area 6 West           | Raid Den | 2              |                           |
+| Wild Area 6 East           | Raid Den | 2              |                           |
+| Crown Tundra Graveyard     | Grass    | 10             |                           |
         

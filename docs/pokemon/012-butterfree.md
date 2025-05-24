@@ -82,13 +82,19 @@
 
 
 ## Locations
-| Route                 | Area     | Encounter Rate | Extra Instructions        |
-| --------------------- | -------- | -------------- | ------------------------- |
-| Wild Area 1 Southwest | Raid Den | 2              | Gigantimax form available |
-| Wild Area 1 Southeast | Raid Den | 2              | Gigantimax form available |
-| Wild Area 1 Northeast | Raid Den | 2              | Gigantimax form available |
-| Wild Area 2 (Bear)    | Grass    | 4              |                           |
-| Slumbering Area       | Grass    | 5              |                           |
-
+| Route                      | Area     | Encounter Rate | Extra Instructions |
+| -------------------------- | -------- | -------------- | ------------------ |
+| Wild Area 1 Southwest      | Raid Den | 2              | Gigantimax form    |
+| Wild Area 1 Southeast      | Raid Den | 2              | Gigantimax form    |
+| Wild Area 1 Northeast      | Raid Den | 2              | Gigantimax form    |
+| Wild Area 2 (Bear)         | Grass    | 4              |                    |
+| Wild Area 2 (Bear)         | Raid Den | 2              | Gigantimax form    |
+| Wild Area 4 East           | Raid Den | 2              | Gigantimax form    |
+| Wild Area 4 West           | Raid Den | 2              | Gigantimax form    |
+| Wild Area 5 (Desert) North | Raid Den | 2              | Gigantimax form    |
+| Wild Area 5 (Desert) South | Raid Den | 2              | Gigantimax form    |
+| Wild Area 6 West           | Raid Den | 2              | Gigantimax form    |
+| Wild Area 6 East           | Raid Den | 2              | Gigantimax form    |
+| Slumbering Area            | Grass    | 5              |                    |
         
 

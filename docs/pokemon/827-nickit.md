@@ -82,19 +82,25 @@
 
 
 ## Locations
-| Route                  | Area      | Encounter Rate | Extra Instructions |
-| ---------------------- | --------- | -------------- | ------------------ |
-| Route 1                | Grass     | 2              |                    |
-| Route 2                | Overworld | 100            |                    |
-| Wild Area 1 Southwest  | Raid Den  | 2              |                    |
-| Wild Area 1 Southeast  | Raid Den  | 2              |                    |
-| Wild Area 1 Northeast  | Raid Den  | 2              |                    |
-| Route 7                | Overworld | 100            |                    |
-| Route 9                | Overworld | 100            |                    |
-| Wild Area 8 (Spooky)   | Overworld | 100            |                    |
-| Isle Of Armor 2        | Overworld | 100            |                    |
-| Isle Of Armor 9        | Overworld | 100            |                    |
-| Crown Tundra Graveyard | Overworld | 100            |                    |
-
+| Route                      | Area      | Encounter Rate | Extra Instructions |
+| -------------------------- | --------- | -------------- | ------------------ |
+| Route 1                    | Grass     | 2              |                    |
+| Route 2                    | Overworld | 100            |                    |
+| Wild Area 1 Southwest      | Raid Den  | 2              |                    |
+| Wild Area 1 Southeast      | Raid Den  | 2              |                    |
+| Wild Area 1 Northeast      | Raid Den  | 2              |                    |
+| Wild Area 2 (Bear)         | Raid Den  | 2              |                    |
+| Wild Area 4 East           | Raid Den  | 2              |                    |
+| Wild Area 4 West           | Raid Den  | 2              |                    |
+| Wild Area 5 (Desert) North | Raid Den  | 2              |                    |
+| Wild Area 5 (Desert) South | Raid Den  | 2              |                    |
+| Wild Area 6 West           | Raid Den  | 2              |                    |
+| Wild Area 6 East           | Raid Den  | 2              |                    |
+| Route 7                    | Overworld | 100            |                    |
+| Route 9                    | Overworld | 100            |                    |
+| Wild Area 8 (Spooky)       | Overworld | 100            |                    |
+| Isle Of Armor 2            | Overworld | 100            |                    |
+| Isle Of Armor 9            | Overworld | 100            |                    |
+| Crown Tundra Graveyard     | Overworld | 100            |                    |
         
 

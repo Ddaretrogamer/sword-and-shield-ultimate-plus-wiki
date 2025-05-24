@@ -82,17 +82,24 @@
 
 
 ## Locations
-| Route                      | Area      | Encounter Rate | Extra Instructions                                             |
-| -------------------------- | --------- | -------------- | -------------------------------------------------------------- |
-| Wild Area 1 Southwest      | Raid Den  | 2              |                                                                |
-| Wild Area 1 Southeast      | Overworld | 100            |                                                                |
-| Wild Area 1 Southeast      | Raid Den  | 2              |                                                                |
-| Wild Area 1 Northeast      | Raid Den  | 2              |                                                                |
-| Motostoke                  | Gift      | 100            | NPC in first house on the right when you enter from the south. |
-| Wild Area 3 West           | Overworld | 100            |                                                                |
-| Wild Area 5 (Desert) North | Overworld | 100            |                                                                |
-| Wild Area 6 West           | Grass     | 1              |                                                                |
-| Isle Of Armor 1            | Overworld | 100            |                                                                |
-| Isle Of Armor 2            | Overworld | 100            |                                                                |
+| Route                      | Area      | Encounter Rate | Extra Instructions               |
+| -------------------------- | --------- | -------------- | -------------------------------- |
+| Wild Area 1 Southwest      | Raid Den  | 2              |                                  |
+| Wild Area 1 Southeast      | Overworld | 100            |                                  |
+| Wild Area 1 Southeast      | Raid Den  | 2              |                                  |
+| Wild Area 1 Northeast      | Raid Den  | 2              |                                  |
+| Wild Area 2 (Bear)         | Raid Den  | 2              |                                  |
+| Motostoke                  | Gift      | 100            | House to the right of PokeCenter |
+| Wild Area 3 West           | Overworld | 100            |                                  |
+| Wild Area 4 East           | Raid Den  | 2              |                                  |
+| Wild Area 4 West           | Raid Den  | 2              |                                  |
+| Wild Area 5 (Desert) North | Overworld | 100            |                                  |
+| Wild Area 5 (Desert) North | Raid Den  | 2              |                                  |
+| Wild Area 5 (Desert) South | Raid Den  | 2              |                                  |
+| Wild Area 6 West           | Grass     | 1              |                                  |
+| Wild Area 6 West           | Raid Den  | 2              |                                  |
+| Wild Area 6 East           | Raid Den  | 2              |                                  |
+| Isle Of Armor 1            | Overworld | 100            |                                  |
+| Isle Of Armor 2            | Overworld | 100            |                                  |
 
 

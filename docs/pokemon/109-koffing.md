@@ -82,11 +82,17 @@
 
 
 ## Locations
-| Route              | Area  | Encounter Rate | Extra Instructions |
-| ------------------ | ----- | -------------- | ------------------ |
-| Wild Area 2 (Bear) | Grass | 20             |                    |
-| Motostoke East     | Grass | 4              |                    |
-| Wild Area 4 West   | Grass | 1              |                    |
-
+| Route                      | Area     | Encounter Rate | Extra Instructions |
+| -------------------------- | -------- | -------------- | ------------------ |
+| Wild Area 2 (Bear)         | Grass    | 20             |                    |
+| Wild Area 2 (Bear)         | Raid Den | 2              |                    |
+| Motostoke East             | Grass    | 4              |                    |
+| Wild Area 4 East           | Raid Den | 2              |                    |
+| Wild Area 4 West           | Grass    | 1              |                    |
+| Wild Area 4 West           | Raid Den | 2              |                    |
+| Wild Area 5 (Desert) North | Raid Den | 2              |                    |
+| Wild Area 5 (Desert) South | Raid Den | 2              |                    |
+| Wild Area 6 West           | Raid Den | 2              |                    |
+| Wild Area 6 East           | Raid Den | 2              |                    |
         
 

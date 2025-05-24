@@ -82,12 +82,19 @@
 
 
 ## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Wild Area 7 (Ice) East | Surf | 20 |  |
-	| Wild Area 7 (Ice) East | Fishing   Super Rod | 20 |  |
-	| Wild Area 7 (Ice) West | Surf | 20 |  |
-	| Route 9 | Surf | 20 |  |
+| Route                      | Area                | Encounter Rate | Extra Instructions |
+| -------------------------- | ------------------- | -------------- | ------------------ |
+| Wild Area 2 (Bear)         | Raid Den            | 2              | Gigantimax form    |
+| Wild Area 4 East           | Raid Den            | 2              | Gigantimax form    |
+| Wild Area 4 West           | Raid Den            | 2              | Gigantimax form    |
+| Wild Area 7 (Ice) East     | Surf                | 20             |                    |
+| Wild Area 7 (Ice) East     | Fishing   Super Rod | 20             |                    |
+| Wild Area 7 (Ice) West     | Surf                | 20             |                    |
+| Wild Area 5 (Desert) North | Raid Den            | 2              | Gigantimax form    |
+| Wild Area 5 (Desert) South | Raid Den            | 2              | Gigantimax form    |
+| Wild Area 6 West           | Raid Den            | 2              | Gigantimax form    |
+| Wild Area 6 East           | Raid Den            | 2              | Gigantimax form    |
+| Route 9                    | Surf                | 20             |                    |
 
         
 

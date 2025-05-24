@@ -82,14 +82,20 @@
 
 
 ## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Wild Area 6 West | Overworld | 100 |  |
-	| Wild Area 6 East | Grass | 20 |  |
-	| Route 10 | Overworld | 100 |  |
-	| Isle Of Armor 7 | Overworld | 100 |  |
-	| Isle Of Armor 8 | Overworld | 100 |  |
-	| Crown Tundra Grassy East | Overworld | 100 |  |
-
+| Route                      | Area      | Encounter Rate | Extra Instructions        |
+| -------------------------- | --------- | -------------- | ------------------------- |
+| Wild Area 2 (Bear)         | Raid Den  | 3              | Gigantimax form available |
+| Wild Area 4 East           | Raid Den  | 3              | Gigantimax form available |
+| Wild Area 4 West           | Raid Den  | 3              | Gigantimax form available |
+| Wild Area 5 (Desert) North | Raid Den  | 3              | Gigantimax form available |
+| Wild Area 5 (Desert) South | Raid Den  | 3              | Gigantimax form available |
+| Wild Area 6 West           | Raid Den  | 3              | Gigantimax form available |
+| Wild Area 6 West           | Overworld | 100            |                           |
+| Wild Area 6 East           | Raid Den  | 3              | Gigantimax form available |
+| Wild Area 6 East           | Grass     | 20             |                           |
+| Route 10                   | Overworld | 100            |                           |
+| Isle Of Armor 7            | Overworld | 100            |                           |
+| Isle Of Armor 8            | Overworld | 100            |                           |
+| Crown Tundra Grassy East   | Overworld | 100            |                           |
         
 

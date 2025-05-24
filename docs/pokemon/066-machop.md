@@ -87,9 +87,16 @@
 | Wild Area 1 Southwest        | Raid Den | 2              |                    |
 | Wild Area 1 Southeast        | Raid Den | 2              |                    |
 | Wild Area 1 Northeast        | Raid Den | 2              |                    |
+| Wild Area 2 (Bear)           | Raid Den | 2              |                    |
 | Route 3                      | Grass    | 40             |                    |
 | Galar Mine 1                 | Grass    | 5              |                    |
 | Wild Area 3 South            | Grass    | 10             |                    |
+| Wild Area 4 East             | Raid Den | 2              |                    |
+| Wild Area 4 West             | Raid Den | 2              |                    |
+| Wild Area 5 (Desert) North   | Raid Den | 2              |                    |
+| Wild Area 5 (Desert) South   | Raid Den | 2              |                    |
+| Wild Area 6 West             | Raid Den | 2              |                    |
+| Wild Area 6 East             | Raid Den | 2              |                    |
 | Courageous Cavern (Route 10) | Grass    | 20             |                    |
         
 

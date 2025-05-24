@@ -82,11 +82,17 @@
 
 
 ## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Wild Area 1 Southeast | Overworld | 100 |  |
-	| Wild Area 1 Northeast | Grass | 5 |  |
-	| Wild Area 1 Northeast | Overworld | 100 |  |
-
+| Route                      | Area      | Encounter Rate | Extra Instructions |
+| -------------------------- | --------- | -------------- | ------------------ |
+| Wild Area 1 Southeast      | Overworld | 100            |                    |
+| Wild Area 1 Northeast      | Grass     | 5              |                    |
+| Wild Area 1 Northeast      | Overworld | 100            |                    |
+| Wild Area 2 (Bear)         | Raid Den  | 2              |                    |
+| Wild Area 4 East           | Raid Den  | 2              |                    |
+| Wild Area 4 West           | Raid Den  | 2              |                    |
+| Wild Area 5 (Desert) North | Raid Den  | 2              |                    |
+| Wild Area 5 (Desert) South | Raid Den  | 2              |                    |
+| Wild Area 6 West           | Raid Den  | 2              |                    |
+| Wild Area 6 East           | Raid Den  | 2              |                    |
         
 

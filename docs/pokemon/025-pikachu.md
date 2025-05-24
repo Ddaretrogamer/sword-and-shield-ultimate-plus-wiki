@@ -82,13 +82,13 @@
 
 
 ## Locations
-| Route                            | Area     | Encounter Rate | Extra Instructions        |
-| -------------------------------- | -------- | -------------- | ------------------------- |
-| Wild Area 1 Southwest            | Raid Den | 2              | Gigantimax form available |
-| Wild Area 1 Northwest            | Grass    | 20             |                           |
-| Wild Area 1 Southeast            | Raid Den | 2              | Gigantimax form available |
-| Wild Area 1 Northeast            | Raid Den | 2              | Gigantimax form available |
-| Route 4                          | Grass    | 20             |                           |
-| Dynamax Adventure (Crown Tundra) | Raid Den | 8              |                           |
+| Route                            | Area     | Encounter Rate | Extra Instructions |
+| -------------------------------- | -------- | -------------- | ------------------ |
+| Wild Area 1 Southwest            | Raid Den | 2              | Gigantimax form    |
+| Wild Area 1 Northwest            | Grass    | 20             |                    |
+| Wild Area 1 Southeast            | Raid Den | 2              | Gigantimax form    |
+| Wild Area 1 Northeast            | Raid Den | 2              | Gigantimax form    |
+| Route 4                          | Grass    | 20             |                    |
+| Dynamax Adventure (Crown Tundra) | Raid Den | 8              |                    |
         
 

@@ -82,10 +82,17 @@
 
 
 ## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Freezington (Crown Tundra) | Grass | 5 |  |
-	| Resting Spot Entrance (Crown Tundra) | Grass | 20 |  |
+| Route                                | Area     | Encounter Rate | Extra Instructions |
+| ------------------------------------ | -------- | -------------- | ------------------ |
+| Wild Area 2 (Bear)                   | Raid Den | 2              | Gigantimax form    |
+| Wild Area 4 East                     | Raid Den | 2              | Gigantimax form    |
+| Wild Area 4 West                     | Raid Den | 2              | Gigantimax form    |
+| Wild Area 5 (Desert) North           | Raid Den | 2              | Gigantimax form    |
+| Wild Area 5 (Desert) South           | Raid Den | 2              | Gigantimax form    |
+| Wild Area 6 West                     | Raid Den | 2              | Gigantimax form    |
+| Wild Area 6 East                     | Raid Den | 2              | Gigantimax form    |
+| Freezington (Crown Tundra)           | Grass    | 5              |                    |
+| Resting Spot Entrance (Crown Tundra) | Grass    | 20             |                    |
 
         
 

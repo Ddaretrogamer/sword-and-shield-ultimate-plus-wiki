@@ -82,13 +82,19 @@
 
 
 ## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Wild Area 4 West | Grass | 4 |  |
-	| Freezington (Crown Tundra) | Grass | 20 |  |
-	| Crown Tundra Graveyard | Grass | 10 |  |
-	| Crown Tundra Snowy East | Grass | 10 |  |
-	| Resting Spot Entrance (Crown Tundra) | Grass | 10 |  |
-
+| Route                                | Area     | Encounter Rate | Extra Instructions |
+| ------------------------------------ | -------- | -------------- | ------------------ |
+| Wild Area 2 (Bear)                   | Raid Den | 2              |                    |
+| Wild Area 4 East                     | Raid Den | 2              |                    |
+| Wild Area 4 West                     | Grass    | 4              |                    |
+| Wild Area 4 West                     | Raid Den | 2              |                    |
+| Wild Area 5 (Desert) North           | Raid Den | 2              |                    |
+| Wild Area 5 (Desert) South           | Raid Den | 2              |                    |
+| Wild Area 6 West                     | Raid Den | 2              |                    |
+| Wild Area 6 East                     | Raid Den | 2              |                    |
+| Freezington (Crown Tundra)           | Grass    | 20             |                    |
+| Crown Tundra Graveyard               | Grass    | 10             |                    |
+| Crown Tundra Snowy East              | Grass    | 10             |                    |
+| Resting Spot Entrance (Crown Tundra) | Grass    | 10             |                    |
         
 

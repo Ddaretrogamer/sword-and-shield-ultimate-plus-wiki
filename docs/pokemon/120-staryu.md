@@ -82,10 +82,16 @@
 
 
 ## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Galar Mine 2 | Fishing   Good Rod | 33 |  |
-	| Isle Of Armor 3 | Surf | 40 |  |
-
+| Route                      | Area               | Encounter Rate | Extra Instructions |
+| -------------------------- | ------------------ | -------------- | ------------------ |
+| Wild Area 2 (Bear)         | Raid Den           | 2              |                    |
+| Galar Mine 2               | Fishing   Good Rod | 33             |                    |
+| Isle Of Armor 3            | Surf               | 40             |                    |
+| Wild Area 4 East           | Raid Den           | 2              |                    |
+| Wild Area 4 West           | Raid Den           | 2              |                    |
+| Wild Area 5 (Desert) North | Raid Den           | 2              |                    |
+| Wild Area 5 (Desert) South | Raid Den           | 2              |                    |
+| Wild Area 6 West           | Raid Den           | 2              |                    |
+| Wild Area 6 East           | Raid Den           | 2              |                    |
         
 
