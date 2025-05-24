@@ -82,14 +82,17 @@
 
 
 ## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Wild Area 7 (Ice) West | Grass | 20 |  |
-	| Wild Area 5 (Desert) South | Grass | 1 |  |
-	| Route 10 | Grass | 1 |  |
-	| Warm Up Tunnel (Isle Of Armor) | Grass | 1 |  |
-	| Crown Tundra Graveyard | Grass | 10 |  |
-	| Crown Tundra Grassy East | Grass | 10 |  |
+| Route                          | Area     | Encounter Rate | Extra Instructions |
+| ------------------------------ | -------- | -------------- | ------------------ |
+| Wild Area 3 South              | Raid Den | 4              |                    |
+| Wild Area 3 West               | Raid Den | 4              |                    |
+| Wild Area 3 North              | Raid Den | 4              |                    |
+| Wild Area 7 (Ice) West         | Grass    | 20             |                    |
+| Wild Area 5 (Desert) South     | Grass    | 1              |                    |
+| Route 10                       | Grass    | 1              |                    |
+| Warm Up Tunnel (Isle Of Armor) | Grass    | 1              |                    |
+| Crown Tundra Graveyard         | Grass    | 10             |                    |
+| Crown Tundra Grassy East       | Grass    | 10             |                    |
 
         
 

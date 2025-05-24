@@ -82,9 +82,12 @@
 
 
 ## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Route 6 | Gift | 100 |  |
+| Route             | Area     | Encounter Rate | Extra Instructions |
+| ----------------- | -------- | -------------- | ------------------ |
+| Wild Area 3 South | Raid Den | 4              |                    |
+| Wild Area 3 West  | Raid Den | 4              |                    |
+| Wild Area 3 North | Raid Den | 4              |                    |
+| Route 6           | Gift     | 100            |                    |
 
         
 

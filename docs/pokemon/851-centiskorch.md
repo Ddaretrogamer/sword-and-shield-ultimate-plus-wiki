@@ -82,9 +82,11 @@
 
 
 ## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Crown Tundra Grassy East | Grass | 10 |  |
-
+| Route                    | Area     | Encounter Rate | Extra Instructions |
+| ------------------------ | -------- | -------------- | ------------------ |
+| Wild Area 3 South        | Raid Den | 4              | Gigantimax form    |
+| Wild Area 3 West         | Raid Den | 4              | Gigantimax form    |
+| Wild Area 3 North        | Raid Den | 4              | Gigantimax form    |
+| Crown Tundra Grassy East | Grass    | 10             |                    |
         
 

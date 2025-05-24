@@ -82,11 +82,14 @@
 
 
 ## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Isle Of Armor 5 | Overworld | 100 |  |
-	| Crown Tundra Grassy East | Grass | 20 |  |
-	| Crown Tundra Grassy East | Overworld | 100 |  |
+| Route                    | Area      | Encounter Rate | Extra Instructions |
+| ------------------------ | --------- | -------------- | ------------------ |
+| Wild Area 3 South        | Raid Den  | 4              |                    |
+| Wild Area 3 West         | Raid Den  | 4              |                    |
+| Wild Area 3 North        | Raid Den  | 4              |                    |
+| Isle Of Armor 5          | Overworld | 100            |                    |
+| Crown Tundra Grassy East | Grass     | 20             |                    |
+| Crown Tundra Grassy East | Overworld | 100            |                    |
 
         
 

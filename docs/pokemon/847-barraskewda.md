@@ -82,15 +82,17 @@
 
 
 ## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Route 2 | Fishing   Good Rod | 33 |  |
-	| Galar Mine 1 | Fishing   Super Rod | 60 |  |
-	| Wild Area 7 (Ice) East | Surf | 20 |  |
-	| Wild Area 7 (Ice) East | Fishing   Old Rod | 50 |  |
-	| Wild Area 7 (Ice) East | Fishing   Good Rod | 33 |  |
-	| Wild Area 7 (Ice) West | Surf | 20 |  |
-	| Wild Area 6 East | Fishing   Super Rod | 20 |  |
-
+| Route                  | Area                | Encounter Rate | Extra Instructions |
+| ---------------------- | ------------------- | -------------- | ------------------ |
+| Route 2                | Fishing   Good Rod  | 33             |                    |
+| Galar Mine 1           | Fishing   Super Rod | 60             |                    |
+| Wild Area 3 South      | Raid Den            | 4              |                    |
+| Wild Area 3 West       | Raid Den            | 4              |                    |
+| Wild Area 3 North      | Raid Den            | 4              |                    |
+| Wild Area 7 (Ice) East | Surf                | 20             |                    |
+| Wild Area 7 (Ice) East | Fishing   Old Rod   | 50             |                    |
+| Wild Area 7 (Ice) East | Fishing   Good Rod  | 33             |                    |
+| Wild Area 7 (Ice) West | Surf                | 20             |                    |
+| Wild Area 6 East       | Fishing   Super Rod | 20             |                    |
         
 

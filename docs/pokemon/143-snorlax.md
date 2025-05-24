@@ -85,6 +85,9 @@
 | Route                                | Area     | Encounter Rate | Extra Instructions |
 | ------------------------------------ | -------- | -------------- | ------------------ |
 | Wild Area 2 (Bear)                   | Raid Den | 2              | Gigantimax form    |
+| Wild Area 3 South                    | Raid Den | 4              | Gigantimax form    |
+| Wild Area 3 West                     | Raid Den | 4              | Gigantimax form    |
+| Wild Area 3 North                    | Raid Den | 4              | Gigantimax form    |
 | Wild Area 4 East                     | Raid Den | 2              | Gigantimax form    |
 | Wild Area 4 West                     | Raid Den | 2              | Gigantimax form    |
 | Wild Area 5 (Desert) North           | Raid Den | 2              | Gigantimax form    |

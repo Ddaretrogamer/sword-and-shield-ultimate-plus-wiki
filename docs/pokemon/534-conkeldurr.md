@@ -82,10 +82,12 @@
 
 
 ## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Crown Tundra Graveyard | Grass | 5 |  |
-	| Crown Tundra Grassy East | Grass | 5 |  |
-
+| Route                    | Area     | Encounter Rate | Extra Instructions |
+| ------------------------ | -------- | -------------- | ------------------ |
+| Wild Area 3 South        | Raid Den | 4              |                    |
+| Wild Area 3 West         | Raid Den | 4              |                    |
+| Wild Area 3 North        | Raid Den | 4              |                    |
+| Crown Tundra Graveyard   | Grass    | 5              |                    |
+| Crown Tundra Grassy East | Grass    | 5              |                    |
         
 
