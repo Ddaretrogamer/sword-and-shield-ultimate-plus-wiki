@@ -82,10 +82,12 @@
 
 
 ## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Route 5 | Gift | 100 | Gift from old woman in daycare |
-	| Route 7 | Grass | 20 |  |
-
+| Route                 | Area     | Encounter Rate | Extra Instructions   |
+| --------------------- | -------- | -------------- | -------------------- |
+| Wild Area 1 Southwest | Raid Den | 2              |                      |
+| Wild Area 1 Southeast | Raid Den | 2              |                      |
+| Wild Area 1 Northeast | Raid Den | 2              |                      |
+| Route 5               | Gift     | 100            | Old woman in Daycare |
+| Route 7               | Grass    | 20             |                      |
         
 

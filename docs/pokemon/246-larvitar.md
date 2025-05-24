@@ -82,10 +82,10 @@
 
 
 ## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Motostoke | Grass | 1 |  |
-	| Wild Area 3 North | Grass | 10 |  |
+| Route             | Area  | Encounter Rate | Extra Instructions |
+| ----------------- | ----- | -------------- | ------------------ |
+| Motostoke East    | Grass | 1              |                    |
+| Wild Area 3 North | Grass | 10             |                    |
 
         
 

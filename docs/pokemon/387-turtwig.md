@@ -82,9 +82,9 @@
 
 
 ## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Motostoke | In Game Trade | 100 | Trade Dubwool for Turtwig |
+| Route          | Area          | Encounter Rate | Extra Instructions        |
+| -------------- | ------------- | -------------- | ------------------------- |
+| Motostoke East | In Game Trade | 100            | Trade Dubwool for Turtwig |
 
         
 

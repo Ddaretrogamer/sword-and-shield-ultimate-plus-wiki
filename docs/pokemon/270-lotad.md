@@ -82,10 +82,11 @@
 
 
 ## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Route 2 | Grass | 20 |  |
-	| Wild Area 1 Northwest | Grass | 10 |  |
-
-        
+| Route                 | Area     | Encounter Rate | Extra Instructions |
+| --------------------- | -------- | -------------- | ------------------ |
+| Route 2               | Grass    | 20             |                    |
+| Wild Area 1 Southwest | Raid Den | 2              |                    |
+| Wild Area 1 Northwest | Grass    | 10             |                    |
+| Wild Area 1 Southeast | Raid Den | 2              |                    |
+| Wild Area 1 Northeast | Raid Den | 2              |                    |
 

@@ -82,11 +82,14 @@
 
 
 ## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Route 2 | Grass | 10 |  |
-	| Route 2 | Overworld | 100 |  |
-	| Crown Tundra Graveyard | Overworld | 100 |  |
+| Route                  | Area      | Encounter Rate | Extra Instructions |
+| ---------------------- | --------- | -------------- | ------------------ |
+| Route 2                | Grass     | 10             |                    |
+| Route 2                | Overworld | 100            |                    |
+| Wild Area 1 Southwest  | Raid Den  | 2              |                    |
+| Wild Area 1 Southeast  | Raid Den  | 2              |                    |
+| Wild Area 1 Northeast  | Raid Den  | 2              |                    |
+| Crown Tundra Graveyard | Overworld | 100            |                    |
 
         
 

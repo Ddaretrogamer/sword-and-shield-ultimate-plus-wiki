@@ -82,12 +82,14 @@
 
 
 ## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Route 3 | Grass | 40 |  |
-	| Galar Mine 1 | Grass | 5 |  |
-	| Wild Area 3 South | Grass | 10 |  |
-	| Courageous Cavern (Route 10) | Grass | 20 |  |
-
+| Route                        | Area     | Encounter Rate | Extra Instructions |
+| ---------------------------- | -------- | -------------- | ------------------ |
+| Wild Area 1 Southwest        | Raid Den | 2              |                    |
+| Wild Area 1 Southeast        | Raid Den | 2              |                    |
+| Wild Area 1 Northeast        | Raid Den | 2              |                    |
+| Route 3                      | Grass    | 40             |                    |
+| Galar Mine 1                 | Grass    | 5              |                    |
+| Wild Area 3 South            | Grass    | 10             |                    |
+| Courageous Cavern (Route 10) | Grass    | 20             |                    |
         
 

@@ -82,12 +82,15 @@
 
 
 ## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Slumbering Weald | Grass | 20 |  |
-	| Route 1 | Grass | 8 |  |
-	| Route 2 | Overworld | 100 |  |
-	| Route 3 | Overworld | 100 |  |
+| Route                 | Area      | Encounter Rate | Extra Instructions |
+| --------------------- | --------- | -------------- | ------------------ |
+| Slumbering Weald      | Grass     | 20             |                    |
+| Route 1               | Grass     | 8              |                    |
+| Route 2               | Overworld | 100            |                    |
+| Wild Area 1 Southwest | Raid Den  | 2              |                    |
+| Wild Area 1 Southeast | Raid Den  | 2              |                    |
+| Wild Area 1 Northeast | Raid Den  | 2              |                    |
+| Route 3               | Overworld | 100            |                    |
 
         
 

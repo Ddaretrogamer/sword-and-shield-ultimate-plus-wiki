@@ -82,9 +82,9 @@
 
 
 ## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Motostoke | Legendary | 100 | After getting cutter item, return to this route and go north to the small trees. Enter the house and Magearna should be there. |
+| Route          | Area      | Encounter Rate | Extra Instructions                               |
+| -------------- | --------- | -------------- | ------------------------------------------------ |
+| Motostoke East | Legendary | 100            | House north of small tree (requires Cutter item) |
 
         
 

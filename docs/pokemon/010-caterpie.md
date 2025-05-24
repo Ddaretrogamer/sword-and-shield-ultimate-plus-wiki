@@ -82,9 +82,12 @@
 
 
 ## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Route 1 | Grass | 20 |  |
+| Route                 | Area  | Encounter Rate | Extra Instructions |
+| --------------------- | ----- | -------------- | ------------------ |
+| Route 1               | Grass | 20             |                    |
+| Wild Area 1 Southwest | Grass | 2              |                    |
+| Wild Area 1 Southeast | Grass | 2              |                    |
+| Wild Area 1 Northeast | Grass | 2              |                    |
 
         
 

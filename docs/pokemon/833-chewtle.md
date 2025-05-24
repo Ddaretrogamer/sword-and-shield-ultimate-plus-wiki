@@ -82,15 +82,18 @@
 
 
 ## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Route 2 | Grass | 8 |  |
-	| Wild Area 1 Northeast | Overworld | 100 |  |
-	| Route 4 | Grass | 8 |  |
-	| Galar Mine 2 | Grass | 25 |  |
-	| Motostoke | Grass | 20 |  |
-	| Isle Of Armor 2 | Overworld | 100 |  |
-	| Isle Of Armor 5 | Overworld | 100 |  |
+| Route                 | Area      | Encounter Rate | Extra Instructions |
+| --------------------- | --------- | -------------- | ------------------ |
+| Route 2               | Grass     | 8              |                    |
+| Wild Area 1 Southwest | Raid Den  | 2              |                    |
+| Wild Area 1 Southeast | Raid Den  | 2              |                    |
+| Wild Area 1 Northeast | Overworld | 100            |                    |
+| Wild Area 1 Northeast | Raid Den  | 2              |                    |
+| Route 4               | Grass     | 8              |                    |
+| Galar Mine 2          | Grass     | 25             |                    |
+| Motostoke East        | Grass     | 20             |                    |
+| Isle Of Armor 2       | Overworld | 100            |                    |
+| Isle Of Armor 5       | Overworld | 100            |                    |
 
         
 

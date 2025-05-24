@@ -82,11 +82,14 @@
 
 
 ## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Galar Mine 1 | Grass | 14 |  |
-	| Wild Area 5 (Desert) South | Grass | 20 |  |
-	| Route 8 Cave | Grass | 19 |  |
+| Route                      | Area     | Encounter Rate | Extra Instructions |
+| -------------------------- | -------- | -------------- | ------------------ |
+| Wild Area 1 Southwest      | Raid Den | 2              |                    |
+| Wild Area 1 Southeast      | Raid Den | 2              |                    |
+| Wild Area 1 Northeast      | Raid Den | 2              |                    |
+| Galar Mine 1               | Grass    | 14             |                    |
+| Wild Area 5 (Desert) South | Grass    | 20             |                    |
+| Route 8 Cave               | Grass    | 19             |                    |
 
         
 

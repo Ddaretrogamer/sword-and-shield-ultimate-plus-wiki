@@ -82,12 +82,13 @@
 
 
 ## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Route 1 | Grass | 20 |  |
-	| Wild Area 4 East | Overworld | 100 |  |
-	| Freezington (Crown Tundra) | Overworld | 100 |  |
-	| Crown Tundra Snowy East | Overworld | 100 |  |
-
-        
+| Route                      | Area      | Encounter Rate | Extra Instructions |
+| -------------------------- | --------- | -------------- | ------------------ |
+| Route 1                    | Grass     | 20             |                    |
+| Wild Area 1 Southwest      | Raid Den  | 2              |                    |
+| Wild Area 1 Southeast      | Raid Den  | 2              |                    |
+| Wild Area 1 Northeast      | Raid Den  | 2              |                    |
+| Wild Area 4 East           | Overworld | 100            |                    |
+| Freezington (Crown Tundra) | Overworld | 100            |                    |
+| Crown Tundra Snowy East    | Overworld | 100            |                    |
 

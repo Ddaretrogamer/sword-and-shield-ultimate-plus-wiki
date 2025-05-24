@@ -82,16 +82,18 @@
 
 
 ## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Wild Area 7 (Ice) East | Overworld | 10 |  |
-	| Wild Area 7 (Ice) West | Overworld | 100 |  |
-	| Route 8 (Snow) | Grass | 26 |  |
-	| Route 8 (Snow) | Overworld | 100 |  |
-	| Route 10 | Grass | 4 |  |
-	| Route 10 | Overworld | 100 |  |
-	| Freezington (Crown Tundra) | Overworld | 100 |  |
-	| Crown Tundra Snowy East | Overworld | 100 |  |
-
+| Route                      | Area      | Encounter Rate | Extra Instructions |
+| -------------------------- | --------- | -------------- | ------------------ |
+| Wild Area 1 Southwest      | Raid Den  | 2              |                    |
+| Wild Area 1 Southeast      | Raid Den  | 2              |                    |
+| Wild Area 1 Northeast      | Raid Den  | 2              |                    |
+| Wild Area 7 (Ice) East     | Overworld | 10             |                    |
+| Wild Area 7 (Ice) West     | Overworld | 100            |                    |
+| Route 8 (Snow)             | Grass     | 26             |                    |
+| Route 8 (Snow)             | Overworld | 100            |                    |
+| Route 10                   | Grass     | 4              |                    |
+| Route 10                   | Overworld | 100            |                    |
+| Freezington (Crown Tundra) | Overworld | 100            |                    |
+| Crown Tundra Snowy East    | Overworld | 100            |                    |
         
 

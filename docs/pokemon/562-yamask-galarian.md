@@ -82,14 +82,16 @@
 
 
 ## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Route 6 | Grass | 10 |  |
-	| Route 6 | Overworld | 100 |  |
-	| Wild Area 5 (Desert) North | Grass | 4 |  |
-	| Wild Area 5 (Desert) North | Overworld | 100 |  |
-	| Wild Area 5 (Desert) South | Overworld | 100 |  |
-	| Route 8 (Desert) | Grass | 10 |  |
-
+| Route                      | Area      | Encounter Rate | Extra Instructions |
+| -------------------------- | --------- | -------------- | ------------------ |
+| Wild Area 1 Southwest      | Raid Den  | 2              |                    |
+| Wild Area 1 Southeast      | Raid Den  | 2              |                    |
+| Wild Area 1 Northeast      | Raid Den  | 2              |                    |
+| Route 6                    | Grass     | 10             |                    |
+| Route 6                    | Overworld | 100            |                    |
+| Wild Area 5 (Desert) North | Grass     | 4              |                    |
+| Wild Area 5 (Desert) North | Overworld | 100            |                    |
+| Wild Area 5 (Desert) South | Overworld | 100            |                    |
+| Route 8 (Desert)           | Grass     | 10             |                    |
         
 

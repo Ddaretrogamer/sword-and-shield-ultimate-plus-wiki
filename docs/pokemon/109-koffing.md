@@ -82,11 +82,11 @@
 
 
 ## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Wild Area 2 (Bear) | Grass | 20 |  |
-	| Motostoke | Grass | 4 |  |
-	| Wild Area 4 West | Grass | 1 |  |
+| Route              | Area  | Encounter Rate | Extra Instructions |
+| ------------------ | ----- | -------------- | ------------------ |
+| Wild Area 2 (Bear) | Grass | 20             |                    |
+| Motostoke East     | Grass | 4              |                    |
+| Wild Area 4 West   | Grass | 1              |                    |
 
         
 

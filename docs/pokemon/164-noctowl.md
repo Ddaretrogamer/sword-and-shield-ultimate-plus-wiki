@@ -82,11 +82,11 @@
 
 
 ## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Motostoke | Grass | 20 |  |
-	| Wild Area 4 East | Grass | 10 |  |
-	| Crown Tundra Graveyard | Overworld | 100 |  |
+| Route                  | Area      | Encounter Rate | Extra Instructions |
+| ---------------------- | --------- | -------------- | ------------------ |
+| Motostoke East         | Grass     | 20             |                    |
+| Wild Area 4 East       | Grass     | 10             |                    |
+| Crown Tundra Graveyard | Overworld | 100            |                    |
 
         
 

@@ -82,9 +82,9 @@
 
 
 ## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Motostoke | Grass | 5 |  |
+| Route          | Area  | Encounter Rate | Extra Instructions |
+| -------------- | ----- | -------------- | ------------------ |
+| Motostoke East | Grass | 5              |                    |
 
         
 
