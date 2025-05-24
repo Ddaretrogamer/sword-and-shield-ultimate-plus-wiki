@@ -80,6 +80,12 @@
 </table>
 
 
-
+## Locations
+| Route                  | Area     | Encounter Rate | Extra Instructions |
+| ---------------------- | -------- | -------------- | ------------------ |
+| Wild Area 7 (Ice) East | Raid Den | 3              | Gigantamax form    |
+| Wild Area 7 (Ice) West | Raid Den | 3              | Gigantamax form    |
+| Wild Area 8 (Spooky)   | Raid Den | 3              | Gigantamax form    |
+| Wild Area 9 (Dragon)   | Raid Den | 3              | Gigantamax form    |
 
 

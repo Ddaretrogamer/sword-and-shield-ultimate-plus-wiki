@@ -82,11 +82,15 @@
 
 
 ## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Route 10 | Grass | 20 |  |
-	| Freezington (Crown Tundra) | Grass | 10 |  |
-	| Resting Spot Entrance (Crown Tundra) | Grass | 4 |  |
+| Route                                | Area     | Encounter Rate | Extra Instructions |
+| ------------------------------------ | -------- | -------------- | ------------------ |
+| Wild Area 7 (Ice) East               | Raid Den | 2              |                    |
+| Wild Area 7 (Ice) West               | Raid Den | 2              |                    |
+| Route 10                             | Grass    | 20             |                    |
+| Wild Area 8 (Spooky)                 | Raid Den | 2              |                    |
+| Wild Area 9 (Dragon)                 | Raid Den | 2              |                    |
+| Freezington (Crown Tundra)           | Grass    | 10             |                    |
+| Resting Spot Entrance (Crown Tundra) | Grass    | 4              |                    |
 
         
 

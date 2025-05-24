@@ -89,6 +89,10 @@
 | Wild Area 1 Southeast            | Raid Den | 2              | Gigantimax form    |
 | Wild Area 1 Northeast            | Raid Den | 2              | Gigantimax form    |
 | Route 4                          | Grass    | 20             |                    |
+| Wild Area 7 (Ice) East           | Raid Den | 2              | Gigantimax form    |
+| Wild Area 7 (Ice) West           | Raid Den | 2              | Gigantimax form    |
+| Wild Area 8 (Spooky)             | Raid Den | 2              | Gigantimax form    |
+| Wild Area 9 (Dragon)             | Raid Den | 2              | Gigantimax form    |
 | Dynamax Adventure (Crown Tundra) | Raid Den | 8              |                    |
         
 

@@ -82,12 +82,16 @@
 
 
 ## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Route 7 | Grass | 10 |  |
-	| Wild Area 8 (Spooky) | Overworld | 100 |  |
-	| Slumbering Area | Grass | 20 |  |
-	| Crown Tundra Graveyard | Overworld | 100 |  |
+| Route                  | Area      | Encounter Rate | Extra Instructions        |
+| ---------------------- | --------- | -------------- | ------------------------- |
+| Wild Area 7 (Ice) East | Raid Den  | 3              | Gigantimax form available |
+| Wild Area 7 (Ice) West | Raid Den  | 3              | Gigantimax form available |
+| Route 7                | Grass     | 10             |                           |
+| Wild Area 8 (Spooky)   | Overworld | 100            |                           |
+| Wild Area 8 (Spooky)   | Raid Den  | 3              | Gigantimax form available |
+| Wild Area 9 (Dragon)   | Raid Den  | 3              | Gigantimax form available |
+| Slumbering Area        | Grass     | 20             |                           |
+| Crown Tundra Graveyard | Overworld | 100            |                           |
 
         
 

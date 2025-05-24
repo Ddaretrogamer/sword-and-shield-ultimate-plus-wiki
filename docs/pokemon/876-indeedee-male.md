@@ -82,11 +82,14 @@
 
 
 ## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Glimwood Tangle | Grass | 5 |  |
-	| Glimwood Tangle | Grass | 5 |  |
-	| Route 10 | Grass | 1 |  |
+| Route                  | Area     | Encounter Rate | Extra Instructions |
+| ---------------------- | -------- | -------------- | ------------------ |
+| Wild Area 7 (Ice) East | Raid Den | 2              |                    |
+| Wild Area 7 (Ice) West | Raid Den | 2              |                    |
+| Glimwood Tangle        | Grass    | 5              |                    |
+| Route 10               | Grass    | 1              |                    |
+| Wild Area 8 (Spooky)   | Raid Den | 2              |                    |
+| Wild Area 9 (Dragon)   | Raid Den | 2              |                    |
 
         
 

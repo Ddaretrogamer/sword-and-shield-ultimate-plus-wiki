@@ -84,9 +84,13 @@
 ## Locations
 | Route                    | Area     | Encounter Rate | Extra Instructions |
 | ------------------------ | -------- | -------------- | ------------------ |
-| Wild Area 3 South        | Raid Den | 4              | Gigantimax form    |
-| Wild Area 3 West         | Raid Den | 4              | Gigantimax form    |
-| Wild Area 3 North        | Raid Den | 4              | Gigantimax form    |
+| Wild Area 3 South        | Raid Den | 4              | Gigantamax form    |
+| Wild Area 3 West         | Raid Den | 4              | Gigantamax form    |
+| Wild Area 3 North        | Raid Den | 4              | Gigantamax form    |
+| Wild Area 7 (Ice) East   | Raid Den | 2              | Gigantamax form    |
+| Wild Area 7 (Ice) West   | Raid Den | 2              | Gigantamax form    |
+| Wild Area 8 (Spooky)     | Raid Den | 2              | Gigantamax form    |
+| Wild Area 9 (Dragon)     | Raid Den | 2              | Gigantamax form    |
 | Crown Tundra Grassy East | Grass    | 10             |                    |
         
 

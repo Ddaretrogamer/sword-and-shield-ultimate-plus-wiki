@@ -82,11 +82,14 @@
 
 
 ## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Wild Area 7 (Ice) East | Grass | 5 |  |
-	| Wild Area 7 (Ice) East | Fishing   Old Rod | 50 |  |
-	| Wild Area 7 (Ice) East | Fishing   Super Rod | 20 |  |
-
+| Route                  | Area                | Encounter Rate | Extra Instructions |
+| ---------------------- | ------------------- | -------------- | ------------------ |
+| Wild Area 7 (Ice) East | Grass               | 5              |                    |
+| Wild Area 7 (Ice) East | Fishing   Old Rod   | 50             |                    |
+| Wild Area 7 (Ice) East | Fishing   Super Rod | 20             |                    |
+| Wild Area 7 (Ice) East | Raid Den            | 2              |                    |
+| Wild Area 7 (Ice) West | Raid Den            | 2              |                    |
+| Wild Area 8 (Spooky)   | Raid Den            | 2              |                    |
+| Wild Area 9 (Dragon)   | Raid Den            | 2              |                    |
         
 

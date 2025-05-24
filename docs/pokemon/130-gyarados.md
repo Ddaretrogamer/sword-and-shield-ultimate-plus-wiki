@@ -82,12 +82,16 @@
 
 
 ## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Galar Mine 2 | Fishing   Super Rod | 20 |  |
-	| Glimwood Tangle | Fishing   Super Rod | 20 |  |
-	| Wild Area 6 East | Fishing   Old Rod | 50 |  |
-	| Wild Area 9 (Dragon) | Fishing   Super Rod | 20 |  |
+| Route                  | Area                | Encounter Rate | Extra Instructions |
+| ---------------------- | ------------------- | -------------- | ------------------ |
+| Galar Mine 2           | Fishing   Super Rod | 20             |                    |
+| Wild Area 7 (Ice) East | Raid Den            | 2              |                    |
+| Wild Area 7 (Ice) West | Raid Den            | 2              |                    |
+| Glimwood Tangle        | Fishing   Super Rod | 20             |                    |
+| Wild Area 6 East       | Fishing   Old Rod   | 50             |                    |
+| Wild Area 8 (Spooky)   | Raid Den            | 2              |                    |
+| Wild Area 9 (Dragon)   | Fishing   Super Rod | 20             |                    |
+| Wild Area 9 (Dragon)   | Raid Den            | 2              |                    |
 
         
 

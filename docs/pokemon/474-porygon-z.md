@@ -81,8 +81,11 @@
 
 
 ## Locations
-| Route                 | Area     | Encounter Rate | Extra Instructions |
-| --------------------- | -------- | -------------- | ------------------ |
-| Wild Area 3 (Volcano) | Raid Den | 7              |                    |
-
+| Route                  | Area     | Encounter Rate | Extra Instructions |
+| ---------------------- | -------- | -------------- | ------------------ |
+| Wild Area 3 (Volcano)  | Raid Den | 7              |                    |
+| Wild Area 7 (Ice) East | Raid Den | 2              |                    |
+| Wild Area 7 (Ice) West | Raid Den | 2              |                    |
+| Wild Area 8 (Spooky)   | Raid Den | 2              |                    |
+| Wild Area 9 (Dragon)   | Raid Den | 2              |                    |
 
