@@ -93,6 +93,10 @@
 | Wild Area 5 (Desert) South | Raid Den | 2              | Gigantimax form           |
 | Wild Area 6 West           | Raid Den | 2              | Gigantimax form           |
 | Wild Area 6 East           | Raid Den | 2              | Gigantimax form           |
-
+| Isle or Armor 2            | Raid Den | 2              | Gigantamax form           |
+| Isle of Armor 4            | Raid Den | 2              | Gigantamax form           |
+| Isle of Armor 5            | Raid Den | 2              | Gigantamax form           |
+| Isle of Armor 6            | Raid Den | 2              | Gigantamax form           |
+| Isle of Armor 7            | Raid Den | 2              | Gigantamax form           |
 
 

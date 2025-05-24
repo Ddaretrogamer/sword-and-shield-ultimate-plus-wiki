@@ -87,6 +87,11 @@
 | Wild Area 3 South | Raid Den | 4              |                    |
 | Wild Area 3 West  | Raid Den | 4              |                    |
 | Wild Area 3 North | Raid Den | 4              |                    |
+| Isle or Armor 2   | Raid Den | 2              |                    |
+| Isle of Armor 4   | Raid Den | 2              |                    |
+| Isle of Armor 5   | Raid Den | 2              |                    |
+| Isle of Armor 6   | Raid Den | 2              |                    |
+| Isle of Armor 7   | Raid Den | 2              |                    |
 | Route 6           | Gift     | 100            |                    |
 
         

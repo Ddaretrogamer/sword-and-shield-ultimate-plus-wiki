@@ -82,15 +82,20 @@
 
 
 ## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Galar Mine 2 | Grass | 20 |  |
-	| Galar Mine 2 | Overworld | 100 |  |
-	| Slumbering Area | Grass | 5 |  |
-	| Brawlers Cave (Isle Of Armor) | Overworld | 100 |  |
-	| Warm Up Tunnel (Isle Of Armor) | Overworld | 100 |  |
-	| Scifub Chamber (Crown Tundra) | Overworld | 100 |  |
-	| Tanoby Key (Crown Tundra) | Overworld | 100 |  |
+| Route                          | Area      | Encounter Rate | Extra Instructions |
+| ------------------------------ | --------- | -------------- | ------------------ |
+| Galar Mine 2                   | Grass     | 20             |                    |
+| Galar Mine 2                   | Overworld | 100            |                    |
+| Slumbering Area                | Grass     | 5              |                    |
+| Isle or Armor 2                | Raid Den  | 2              |                    |
+| Isle of Armor 4                | Raid Den  | 2              |                    |
+| Isle of Armor 5                | Raid Den  | 2              |                    |
+| Isle of Armor 6                | Raid Den  | 2              |                    |
+| Isle of Armor 7                | Raid Den  | 2              |                    |
+| Brawlers Cave (Isle Of Armor)  | Overworld | 100            |                    |
+| Warm Up Tunnel (Isle Of Armor) | Overworld | 100            |                    |
+| Scifub Chamber (Crown Tundra)  | Overworld | 100            |                    |
+| Tanoby Key (Crown Tundra)      | Overworld | 100            |                    |
 
         
 

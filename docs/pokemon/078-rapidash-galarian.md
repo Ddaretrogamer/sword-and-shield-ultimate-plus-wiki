@@ -80,6 +80,13 @@
 </table>
 
 
-
+## Locations
+| Route           | Area     | Encounter Rate | Extra Instructions |
+| --------------- | -------- | -------------- | ------------------ |
+| Isle or Armor 2 | Raid Den | 2              |                    |
+| Isle of Armor 4 | Raid Den | 2              |                    |
+| Isle of Armor 5 | Raid Den | 2              |                    |
+| Isle of Armor 6 | Raid Den | 2              |                    |
+| Isle of Armor 7 | Raid Den | 2              |                    |
 
 

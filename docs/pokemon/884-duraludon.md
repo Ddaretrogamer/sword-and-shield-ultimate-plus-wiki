@@ -98,7 +98,12 @@
 | Route 10                   | Overworld | 100            |                           |
 | Wild Area 8 (Spooky)       | Raid Den  | 3              | Gigantimax form available |
 | Wild Area 9 (Dragon)       | Raid Den  | 3              | Gigantimax form available |
+| Isle or Armor 2            | Raid Den  | 2              | Gigantamax form           |
+| Isle of Armor 4            | Raid Den  | 2              | Gigantamax form           |
+| Isle of Armor 5            | Raid Den  | 2              | Gigantamax form           |
+| Isle of Armor 6            | Raid Den  | 2              | Gigantamax form           |
 | Isle Of Armor 7            | Overworld | 100            |                           |
+| Isle of Armor 7            | Raid Den  | 2              | Gigantamax form           |
 | Isle Of Armor 8            | Overworld | 100            |                           |
 | Crown Tundra Grassy East   | Overworld | 100            |                           |
         

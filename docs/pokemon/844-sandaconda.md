@@ -91,6 +91,10 @@
 | Route 8                    | Grass    | 20             |                    |
 | Wild Area 8 (Spooky)       | Raid Den | 2              | Gigantimax form    |
 | Wild Area 9 (Dragon)       | Raid Den | 2              | Gigantimax form    |
-
+| Isle or Armor 2            | Raid Den | 2              | Gigantamax form    |
+| Isle of Armor 4            | Raid Den | 2              | Gigantamax form    |
+| Isle of Armor 5            | Raid Den | 2              | Gigantamax form    |
+| Isle of Armor 6            | Raid Den | 2              | Gigantamax form    |
+| Isle of Armor 7            | Raid Den | 2              | Gigantamax form    |
         
 
