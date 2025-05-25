@@ -82,4 +82,10 @@
 
 
 
+## Locations
+| Route            | Area      | Encounter Rate | Extra Instructions |
+| ---------------- | --------- | -------------- | ------------------ |
+| Route 5          | Overworld | 100            |                    |
+| Wild Area 3 West | Overworld | 100            |                    |
+| Isle Of Armor 5  | Overworld | 100            |                    |
 

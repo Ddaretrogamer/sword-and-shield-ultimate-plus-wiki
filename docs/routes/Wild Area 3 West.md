@@ -38,7 +38,7 @@
                 </div><div style="display: grid; justify-items: center">
                     ![houndour](../../img/pokemon/houndour.png) [Houndour](/sword-and-shield-ultimate-plus-wiki/pokemon/228-houndour) 100%
                 </div><div style="display: grid; justify-items: center">
-                    ![farfetchd](../../img/pokemon/farfetchd.png) [Farfetchd](/sword-and-shield-ultimate-plus-wiki/pokemon/083-farfetchd) 100%
+                     ![farfetchd-galarian](../../img/pokemon/farfetchd-galarian.png) [Farfetchd Galarian](/sword-and-shield-ultimate-plus-wiki/pokemon/083-farfetchd-galarian) 100%
                 </div><div style="display: grid; justify-items: center">
                     ![meowth-galarian](../../img/pokemon/meowth-galarian.png) [Meowth Galarian](/sword-and-shield-ultimate-plus-wiki/pokemon/1151-meowth-galarian) 100%
                 </div></div>
