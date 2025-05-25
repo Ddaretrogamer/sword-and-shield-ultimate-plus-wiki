@@ -86,6 +86,7 @@
 | ------------------------------ | --------- | -------------- | ------------------ |
 | Galar Mine 2                   | Grass     | 20             |                    |
 | Galar Mine 2                   | Overworld | 100            |                    |
+| Wild Area 3 (Volcano)          | Overworld | 100            |                    |
 | Slumbering Area                | Grass     | 5              |                    |
 | Isle or Armor 2                | Raid Den  | 2              |                    |
 | Isle of Armor 4                | Raid Den  | 2              |                    |

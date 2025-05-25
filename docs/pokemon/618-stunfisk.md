@@ -82,10 +82,9 @@
 
 
 ## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Wild Area 3 (Volcano) | Overworld | 100 |  |
-	| Isle Of Armor 8 | Grass | 10 |  |
+| Route           | Area  | Encounter Rate | Extra Instructions |
+| --------------- | ----- | -------------- | ------------------ |
+| Isle Of Armor 8 | Grass | 10             |                    |
 
         
 
