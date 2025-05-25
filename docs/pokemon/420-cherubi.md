@@ -80,6 +80,9 @@
 </table>
 
 
-
+## Locations
+| Route   | Area  | Encounter Rate | Extra Instructions |
+| ------- | ----- | -------------- | ------------------ |
+| Route 3 | Grass | 2              |                    |
 
 

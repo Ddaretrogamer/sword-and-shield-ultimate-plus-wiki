@@ -14,6 +14,8 @@
                     ![gossifleur](../../img/pokemon/gossifleur.png) [Gossifleur](/sword-and-shield-ultimate-plus-wiki/pokemon/829-gossifleur) 10%
                 </div><div style="display: grid; justify-items: center">
                     ![pancham](../../img/pokemon/pancham.png) [Pancham](/sword-and-shield-ultimate-plus-wiki/pokemon/674-pancham) 8%
+                </div><div style="display: grid; justify-items: center">
+                    ![cherubi](../../img/pokemon/cherubi.png) [Cherubi](/sword-and-shield-ultimate-plus-wiki/pokemon/674-cherubi) 2%
                 </div></div>
 
 	???+ note "Overworld Lv. 4-6"
