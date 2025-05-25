@@ -82,9 +82,9 @@
 
 
 ## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Isle Of Armor Dojo | Gift | 100 | Choose between Squirtle and Bulbasaur as a gift from Mustard for completing the Island Challenge. |
-
+| Route                 | Area    | Encounter Rate | Extra Instructions                                    |
+| --------------------- | ------- | -------------- | ----------------------------------------------------- |
+| Wild Area 1 Southwest | Camping | 100            | (Postgame) Camping area accessible via NPC            |
+| Isle Of Armor Dojo    | Gift    | 100            | Gift from Mustard for completing the Island Challenge |
         
 
