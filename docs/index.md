@@ -236,53 +236,125 @@ This Wiki was generated using [WikiGen](https://github.com/AkeemAllen/WikiGen).
         ![Image title](https://i.ibb.co/WN3v3Fdr/image.png){ align=right }
         Chat with this camper located in Wild Area 1 Southeast to go camping! Come back after you become Champion!
         
-=== "Useful Venders"
+=== "Useful Vendors"
 
-    ### Useful Venders
-    These Venders sell items that will help you along your journey!
+    ### Useful Vendors
+    These Vendors sell items that will help you along your journey!
 
     ??? info "Name Rater/Move Relearner/TM Shop"
-        ![Image title](https://i.ibb.co/jzmxWT7/back-of-pokecenter.png){ align=right }
+        ![Image title](https://i.ibb.co/jzmxWT7/back-of-pokecenter.png){ align=center }
+
         Chat with this NPC in the back of nearly every Pokecenter.
 
-    ??? info "Berry Vender"
-        ![Image title](https://i.ibb.co/6rZf7P9/Berry-NPC-wild-area-1-southwest.png){ align=right }
-        Vender sells berries in Wild Area 1 Southwest.
+    ??? info "Berry Vendor"
+        ![Image title](https://i.ibb.co/6rZf7P9/Berry-NPC-wild-area-1-southwest.png){ align=center }
 
-    ??? info "PokeBall Vender"
-        ![Image title](https://i.ibb.co/9ZnFD2M/pokeball-npc-WILD-area-2.png){ align=right }
-        Vender sells PokeBalls in Wild Area 2.
+        Vendor sells berries in Wild Area 1 Southwest.
 
-    ??? info "Evolution Item Vender"
-        ![Image title](https://i.ibb.co/RbW7V5b/evo-item-npc-wild-area-3.png){ align=right }
-        Vender sells evolution items in Wild Area 3 South.
+    ??? info "PokeBall Vendor"
+        ![Image title](https://i.ibb.co/9ZnFD2M/pokeball-npc-WILD-area-2.png){ align=center }
 
-    ??? info "Mega Stone Vender"
-        ![Image title](https://i.ibb.co/r3RcCKr/mega-stone-npc-wild-area-4.png){ align=right }
-        Vender sells Mega Stones Wild Area 4 West.
+        Vendor sells PokeBalls in Wild Area 2.
 
-    ??? info "Z-Crystal Vender"
-        ![Image title](https://i.ibb.co/VDXsmhp/Z-move-vender-wild-area-6.png){ align=right }
-        Vender sells Z-Crystals in Wild Area 6 West.
+        |            |              |            |             |            |
+        | ---------- | ------------ | ---------- | ----------- | ---------- |
+        | Ultra Ball | Nest Ball    | Dusk Ball  | Lure Ball   | Moon Ball  |
+        | Great Ball | Repeat Ball  | Heal Ball  | Heavy Ball  | Sport Ball |
+        | Poké Ball  | Timer Ball   | Quick Ball | Love Ball   | Beast Ball |
+        | Net Ball   | Luxury Ball  | Fast Ball  | Friend Ball | Dream Ball |
+        | Dive Ball  | Premier Ball | Level Ball |             |            |
 
-    ??? info "Vitamin Vender"
-        ![Image title](https://i.ibb.co/tHdTnGN/Wild-area-5-NPC-held-items-imageonline-co-merged.png){ align=right }
-        Vender sells vitamins and some held items In Wild Area 5 (Desert)
+    ??? info "Evolution Item Vendor"
+        ![Image title](https://i.ibb.co/RbW7V5b/evo-item-npc-wild-area-3.png){ align=center }
 
-    ??? info "Battle Item Vender 1"
-        ![Image title](https://i.ibb.co/ygHMjvH/battle-items-wild-area-8.png){ align=right }
-        Vender sells some useful battle items in Wild Area 8 (Spooky).
+        Vendor sells evolution items in Wild Area 3 South.
+        
+        |                |                |                  |              |              |
+        | -------------- | -------------- | ---------------- | ------------ | ------------ |
+        | Moon Stone     | Up-Grade       | Shiny Stone      | Berry Sweet  | Cracked Pot  |
+        | Sun Stone      | Deap Sea Scale | Dusk Stone       | Love Sweet   | Chipped Pot  |
+        | Fire Stone     | Link Cable     | Dawn Stone       | Clover Sweet | Galar Cuff   |
+        | Leaf Stone     | Protector      | Ice Stone        | Flower Sweet | Galar Wreath |
+        | Metal Coat     | Electirizer    | Prism Scale      | Ribbon Sweet | Razor Claw   |
+        | Deep Sea Tooth | Magmarizer     | Sachet           | Star Sweet   | Razor Fang   |
+        | Water Stone    | Dubious Disc   | Whip Dream       | Sweet Apple  |              |
+        | Thunder Stone  | Reaper Cloth   | Strawberry Sweet | Tart Apple   |              |
+        | Deap Sea Scale | Ice Stone      | Star Sweet       |              |              |
 
-    ??? info "Battle Item Vender 2"
-        ![Image title](https://i.ibb.co/XZh0sHb/battle-items-continued-wild-area-9.png){ align=right }
-        Vender sells other useful battle items in Wild Area 9 (Dragon).
+    ??? info "Mega Stone & Max Candy Vendor"
+        ![Image title](https://i.ibb.co/r3RcCKr/mega-stone-npc-wild-area-4.png){ align=center }
+        
+        Vendor sells Mega Stones Wild Area 4 West.
 
-    ??? info "EV Item Vender"
-        ![Image title](https://i.ibb.co/6nNC6rM/ice-vender-imageonline-co-merged.png){ align=right }
-        Vender sells other useful battle items in Wild Area 7 (Snow).
+    ??? info "Z-Crystal Vendor"
+        ![Image title](https://i.ibb.co/VDXsmhp/Z-move-vender-wild-area-6.png){ align=center }
+
+        Vendor sells Z-Crystals in Wild Area 6 West.
+
+    ??? info "Vitamin & Battle Item Vendor"
+        ![Image title](https://i.ibb.co/tHdTnGN/Wild-area-5-NPC-held-items-imageonline-co-merged.png){ align=center }
+
+        Vendor sells vitamins and some held items In Wild Area 5 (Desert)
+
+        |         |           |              |              |              |
+        | ------- | --------- | ------------ | ------------ | ------------ |
+        | HP Up   | PP Up     | Destiny Knot | Power Lens   | Blue Orb     |
+        | Protein | Zinc      | Black Sludge | Power Band   | Itemfinder   |
+        | Iron    | PP Max    | Toxic Orb    | Power Anklet | Choice Specs |
+        | Carbos  | Everstone | Power Bracer | Power Weight | Choice Scarf |
+        | Calcium | Eviolite  | Power Belt   | Red Orb      | Choice Band  |
+
+    ??? info "Battle Item Vendor 1"
+        ![Image title](https://i.ibb.co/ygHMjvH/battle-items-wild-area-8.png){ align=center }
+        
+        Vendor sells some useful battle items in Wild Area 8 (Spooky).
+
+        |               |                |              |               |                  |
+        | ------------- | -------------- | ------------ | ------------- | ---------------- |
+        | Dragon Scale  | Mystic Water   | Silk Scarf   | Yellow Nectar | Rose Incense     |
+        | Light Ball    | Sharp Beak     | Shell Bell   | Pink Nectar   | Wave Incense     |
+        | Soft Sand     | Poison Barb    | Sea Incense  | Purple Nectar | Terrain Extender |
+        | Hard Stone    | Never-melt Ice | Lax Incense  | Luck Incense  | Electric Seed    |
+        | Miracle Seed  | Spell Tag      | Lucky Punch  | Full Incense  | Grassy Seed      |
+        | Black Glasses | Twisted Spoon  | Metal Powder | Odd Incense   | Misty Seed       |
+        | Black Belt    | Charcoal       | Thick Club   | Pure Incense  | Psychic Seed     |
+        | Magnet        | Dragon Fang    | Red Nectar   | Rock Incense  |                  |
+
+    ??? info "Battle Item Vendor 2"
+        ![Image title](https://i.ibb.co/XZh0sHb/battle-items-continued-wild-area-9.png){ align=center }
+
+        Vendor sells other useful battle items in Wild Area 9 (Dragon).
+
+        |              |              |              |                 |                  |
+        | ------------ | ------------ | ------------ | --------------- | ---------------- |
+        | Wide Lens    | Zoom Lens    | Grip Claw    | Red Card        | Safety Goggles   |
+        | Muscle Band  | Metronome    | Choice Scarf | Ring Target     | Adrenal Orb      |
+        | Wise Glasses | Iron Ball    | Choice Specs | Binding Band    | Protective Pads  |
+        | Expert Belt  | Lagging Tail | Sticky Barb  | Absorb Bulb     | Eject Pack       |
+        | Light Clay   | Destiny Knot | Shed Shell   | Cell Battery    | Room Service     |
+        | Life Orb     | Black Sludge | Big Root     | Eject Button    | Blunder Policy   |
+        | Power Herb   | Icy Rock     | Eviolite     | Weakness Policy | Heavy-Duty Boots |
+        | Toxic Orb    | Smooth Rock  | Float Stone  | Assault Vest    | Utility Umbrella |
+        | Flame Orb    | Heat Rock    | Rocky Helmet | Luminous Moss   | Throat Spray     |
+        | Quick Powder | Damp Rock    | Air Balloon  | Snowball        |                  |
+
+    ??? info "EV Item Vendor"
+        ![Image title](https://i.ibb.co/6nNC6rM/ice-vender-imageonline-co-merged.png){ align=center }
+
+        Vendor sells other useful battle items in Wild Area 7 (Snow).
+
+        |             |         |             |            |              |
+        | ----------- | ------- | ----------- | ---------- | ------------ |
+        | Health Wing | HP Up   | PP Up       | X Attack   | Poké Doll    |
+        | Muscle Wing | Protein | Zinc        | X Defend   | Fluffy Tail  |
+        | Resist Wing | Iron    | PP Max      | X Speed    | Big Malasada |
+        | Genius Wing | Carbos  | Guard Spec. | X Accuracy | Escape Rope  |
+        | Clever Wing | Calcium | Dire Hit    | X Sp. Atk  | Oval Charm   |
+        | Swift Wing  |         |             |            |              |
 
     ??? info "Arceus Plates and Silvally Memories"
-        ![Image title](https://i.ibb.co/wwj9yBs/silvally-memory-imageonline-co-merged.png){ align=right }
+        ![Image title](https://i.ibb.co/wwj9yBs/silvally-memory-imageonline-co-merged.png){ align=center }
+
         The machines behind the table where you obtained Type: Null can be interacted with and sell Memories.
         Plates for Arceus can be won in Raid Dens in the Dynamax Adventure Area.    
          
