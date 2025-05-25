@@ -84,15 +84,15 @@
 ## Locations
 | Route                            | Area     | Encounter Rate | Extra Instructions                                         |
 | -------------------------------- | -------- | -------------- | ---------------------------------------------------------- |
-| Wild Area 1 Southwest            | Raid Den | 2              | Gigantimax form                                            |
+| Wild Area 1 Southwest            | Raid Den | 2              | Gigantamax form                                            |
 | Wild Area 1 Northwest            | Grass    | 20             |                                                            |
-| Wild Area 1 Southeast            | Raid Den | 2              | Gigantimax form                                            |
-| Wild Area 1 Northeast            | Raid Den | 2              | Gigantimax form                                            |
+| Wild Area 1 Southeast            | Raid Den | 2              | Gigantamax form                                            |
+| Wild Area 1 Northeast            | Raid Den | 2              | Gigantamax form                                            |
 | Route 4                          | Grass    | 20             |                                                            |
-| Wild Area 7 (Ice) East           | Raid Den | 2              | Gigantimax form                                            |
-| Wild Area 7 (Ice) West           | Raid Den | 2              | Gigantimax form                                            |
-| Wild Area 8 (Spooky)             | Raid Den | 2              | Gigantimax form                                            |
-| Wild Area 9 (Dragon)             | Raid Den | 2              | Gigantimax form                                            |
+| Wild Area 7 (Ice) East           | Raid Den | 2              | Gigantamax form                                            |
+| Wild Area 7 (Ice) West           | Raid Den | 2              | Gigantamax form                                            |
+| Wild Area 8 (Spooky)             | Raid Den | 2              | Gigantamax form                                            |
+| Wild Area 9 (Dragon)             | Raid Den | 2              | Gigantamax form                                            |
 | Isle or Armor 2                  | Raid Den | 2              | Gigantamax form                                            |
 | Isle of Armor 4                  | Raid Den | 2              | Gigantamax form                                            |
 | Isle of Armor 5                  | Raid Den | 2              | Gigantamax form                                            |

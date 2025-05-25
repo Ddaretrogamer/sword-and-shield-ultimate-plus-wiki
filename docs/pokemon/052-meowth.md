@@ -83,16 +83,16 @@
 ## Locations
 | Route                      | Area     | Encounter Rate | Extra Instructions        |
 | -------------------------- | -------- | -------------- | ------------------------- |
-| Wild Area 1 Southwest      | Raid Den | 4              | Gigantimax form available |
-| Wild Area 1 Southeast      | Raid Den | 4              | Gigantimax form available |
-| Wild Area 1 Northeast      | Raid Den | 4              | Gigantimax form available |
-| Wild Area 2 (Bear)         | Raid Den | 2              | Gigantimax form           |
-| Wild Area 4 East           | Raid Den | 2              | Gigantimax form           |
-| Wild Area 4 West           | Raid Den | 2              | Gigantimax form           |
-| Wild Area 5 (Desert) North | Raid Den | 2              | Gigantimax form           |
-| Wild Area 5 (Desert) South | Raid Den | 2              | Gigantimax form           |
-| Wild Area 6 West           | Raid Den | 2              | Gigantimax form           |
-| Wild Area 6 East           | Raid Den | 2              | Gigantimax form           |
+| Wild Area 1 Southwest      | Raid Den | 4              | Gigantamax form available |
+| Wild Area 1 Southeast      | Raid Den | 4              | Gigantamax form available |
+| Wild Area 1 Northeast      | Raid Den | 4              | Gigantamax form available |
+| Wild Area 2 (Bear)         | Raid Den | 2              | Gigantamax form           |
+| Wild Area 4 East           | Raid Den | 2              | Gigantamax form           |
+| Wild Area 4 West           | Raid Den | 2              | Gigantamax form           |
+| Wild Area 5 (Desert) North | Raid Den | 2              | Gigantamax form           |
+| Wild Area 5 (Desert) South | Raid Den | 2              | Gigantamax form           |
+| Wild Area 6 West           | Raid Den | 2              | Gigantamax form           |
+| Wild Area 6 East           | Raid Den | 2              | Gigantamax form           |
 | Isle or Armor 2            | Raid Den | 2              | Gigantamax form           |
 | Isle of Armor 4            | Raid Den | 2              | Gigantamax form           |
 | Isle of Armor 5            | Raid Den | 2              | Gigantamax form           |

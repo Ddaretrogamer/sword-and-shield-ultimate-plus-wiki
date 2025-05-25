@@ -25,7 +25,7 @@ This Wiki was generated using [WikiGen](https://github.com/AkeemAllen/WikiGen).
     - Auto-run by pressing L.
     - Dexnav in the menu.
     - Dynamax by pressing Start on a move in battle when Dynamax is possible.
-    - Gigantimax
+    - Gigantamax
     - Mega evolution
     - Z-moves
     - Ultra beasts

@@ -83,15 +83,15 @@
 ## Locations
 | Route                      | Area     | Encounter Rate | Extra Instructions        |
 | -------------------------- | -------- | -------------- | ------------------------- |
-| Wild Area 2 (Bear)         | Raid Den | 3              | Gigantimax form available |
-| Wild Area 4 East           | Raid Den | 3              | Gigantimax form available |
-| Wild Area 4 West           | Raid Den | 3              | Gigantimax form available |
+| Wild Area 2 (Bear)         | Raid Den | 3              | Gigantamax form available |
+| Wild Area 4 East           | Raid Den | 3              | Gigantamax form available |
+| Wild Area 4 West           | Raid Den | 3              | Gigantamax form available |
 | Wild Area 7 (Ice) East     | Raid Den | 2              | Gigantamax form           |
 | Wild Area 7 (Ice) West     | Raid Den | 2              | Gigantamax form           |
-| Wild Area 5 (Desert) North | Raid Den | 3              | Gigantimax form available |
-| Wild Area 5 (Desert) South | Raid Den | 3              | Gigantimax form available |
-| Wild Area 6 West           | Raid Den | 3              | Gigantimax form available |
-| Wild Area 6 East           | Raid Den | 3              | Gigantimax form available |
+| Wild Area 5 (Desert) North | Raid Den | 3              | Gigantamax form available |
+| Wild Area 5 (Desert) South | Raid Den | 3              | Gigantamax form available |
+| Wild Area 6 West           | Raid Den | 3              | Gigantamax form available |
+| Wild Area 6 East           | Raid Den | 3              | Gigantamax form available |
 | Wild Area 8 (Spooky)       | Raid Den | 2              | Gigantamax form           |
 | Wild Area 9 (Dragon)       | Raid Den | 2              | Gigantamax form           |
 | Isle or Armor 2            | Raid Den | 2              | Gigantamax form           |

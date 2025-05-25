@@ -85,10 +85,10 @@
 | Route                      | Area     | Encounter Rate | Extra Instructions        |
 | -------------------------- | -------- | -------------- | ------------------------- |
 | Wild Area 1 Southwest      | Grass    | 20             |                           |
-| Wild Area 1 Southwest      | Raid Den | 4              | Gigantimax form available |
+| Wild Area 1 Southwest      | Raid Den | 4              | Gigantamax form available |
 | Wild Area 1 Southeast      | Grass    | 10             |                           |
-| Wild Area 1 Southeast      | Raid Den | 4              | Gigantimax form available |
-| Wild Area 1 Northeast      | Raid Den | 4              | Gigantimax form available |
+| Wild Area 1 Southeast      | Raid Den | 4              | Gigantamax form available |
+| Wild Area 1 Northeast      | Raid Den | 4              | Gigantamax form available |
 | Wild Area 2 (Bear)         | Raid Den | 2              |                           |
 | Route 4                    | Grass    | 20             |                           |
 | Wild Area 4 East           | Raid Den | 2              |                           |

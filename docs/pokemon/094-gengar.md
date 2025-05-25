@@ -83,10 +83,10 @@
 ## Locations
 | Route                            | Area     | Encounter Rate | Extra Instructions        |
 | -------------------------------- | -------- | -------------- | ------------------------- |
-| Wild Area 7 (Ice) East           | Raid Den | 3              | Gigantimax form available |
-| Wild Area 7 (Ice) West           | Raid Den | 3              | Gigantimax form available |
-| Wild Area 8 (Spooky)             | Raid Den | 3              | Gigantimax form available |
-| Wild Area 9 (Dragon)             | Raid Den | 3              | Gigantimax form available |
+| Wild Area 7 (Ice) East           | Raid Den | 3              | Gigantamax form available |
+| Wild Area 7 (Ice) West           | Raid Den | 3              | Gigantamax form available |
+| Wild Area 8 (Spooky)             | Raid Den | 3              | Gigantamax form available |
+| Wild Area 9 (Dragon)             | Raid Den | 3              | Gigantamax form available |
 | Isle or Armor 2                  | Raid Den | 2              | Gigantamax form           |
 | Isle of Armor 4                  | Raid Den | 2              | Gigantamax form           |
 | Isle of Armor 5                  | Raid Den | 2              | Gigantamax form           |
