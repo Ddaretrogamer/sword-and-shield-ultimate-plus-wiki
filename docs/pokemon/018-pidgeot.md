@@ -82,10 +82,11 @@
 
 
 ## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Isle Of Armor 5 | Overworld | 100 |  |
-	| Crown Tundra Graveyard | Overworld | 100 |  |
+| Route                            | Area      | Encounter Rate | Extra Instructions |
+| -------------------------------- | --------- | -------------- | ------------------ |
+| Isle Of Armor 5                  | Overworld | 100            |                    |
+| Dynamax Adventure (Crown Tundra) | Raid Den  | 2              |                    |
+| Crown Tundra Graveyard           | Overworld | 100            |                    |
 
         
 

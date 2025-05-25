@@ -82,10 +82,10 @@
 
 
 ## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Warm Up Tunnel (Isle Of Armor) | Grass | 5 |  |
-	| Crown Tundra Graveyard | Grass | 5 |  |
-
+| Route                            | Area     | Encounter Rate | Extra Instructions |
+| -------------------------------- | -------- | -------------- | ------------------ |
+| Warm Up Tunnel (Isle Of Armor)   | Grass    | 5              |                    |
+| Dynamax Adventure (Crown Tundra) | Raid Den | 2              |                    |
+| Crown Tundra Graveyard           | Grass    | 5              |                    |
         
 

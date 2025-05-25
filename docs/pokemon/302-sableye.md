@@ -82,9 +82,9 @@
 
 
 ## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Wild Area 8 (Spooky) | Grass | 20 |  |
-
+| Route                            | Area     | Encounter Rate | Extra Instructions |
+| -------------------------------- | -------- | -------------- | ------------------ |
+| Wild Area 8 (Spooky)             | Grass    | 20             |                    |
+| Dynamax Adventure (Crown Tundra) | Raid Den | 2              |                    |
         
 

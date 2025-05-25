@@ -82,9 +82,9 @@
 
 
 ## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Courageous Cavern (Route 10) | Grass | 10 |  |
-
+| Route                            | Area     | Encounter Rate | Extra Instructions |
+| -------------------------------- | -------- | -------------- | ------------------ |
+| Courageous Cavern (Route 10)     | Grass    | 10             |                    |
+| Dynamax Adventure (Crown Tundra) | Raid Den | 2              |                    |
         
 

@@ -82,14 +82,14 @@
 
 
 ## Locations
-| Route                          | Area     | Encounter Rate | Extra Instructions |
-| ------------------------------ | -------- | -------------- | ------------------ |
-| Wild Area 7 (Ice) East         | Raid Den | 2              |                    |
-| Wild Area 7 (Ice) West         | Raid Den | 2              |                    |
-| Wild Area 8 (Spooky)           | Raid Den | 2              |                    |
-| Wild Area 9 (Dragon)           | Raid Den | 2              |                    |
-| Warm Up Tunnel (Isle Of Armor) | Grass    | 4              |                    |
-| Tanoby Key (Crown Tundra)      | Grass    | 1              |                    |
-
+| Route                            | Area     | Encounter Rate | Extra Instructions |
+| -------------------------------- | -------- | -------------- | ------------------ |
+| Wild Area 7 (Ice) East           | Raid Den | 2              |                    |
+| Wild Area 7 (Ice) West           | Raid Den | 2              |                    |
+| Wild Area 8 (Spooky)             | Raid Den | 2              |                    |
+| Wild Area 9 (Dragon)             | Raid Den | 2              |                    |
+| Warm Up Tunnel (Isle Of Armor)   | Grass    | 4              |                    |
+| Dynamax Adventure (Crown Tundra) | Raid Den | 2              |                    |
+| Tanoby Key (Crown Tundra)        | Grass    | 1              |                    |
         
 

@@ -82,18 +82,18 @@
 
 
 ## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Wild Area 6 East | Fishing   Good Rod | 33 |  |
-	| Wild Area 9 (Dragon) | Surf | 20 |  |
-	| Wild Area 9 (Dragon) | Fishing   Old Rod | 50 |  |
-	| Wild Area 9 (Dragon) | Overworld | 100 |  |
-	| Isle Of Armor 1 | Overworld | 100 |  |
-	| Isle Of Armor 2 | Overworld | 100 |  |
-	| Isle Of Armor 3 | Overworld | 100 |  |
-	| Isle Of Armor 5 | Overworld | 100 |  |
-	| Isle Of Armor 7 | Overworld | 100 |  |
-	| Isle Of Armor 9 | Overworld | 100 |  |
-
+| Route                            | Area               | Encounter Rate | Extra Instructions |
+| -------------------------------- | ------------------ | -------------- | ------------------ |
+| Wild Area 6 East                 | Fishing   Good Rod | 33             |                    |
+| Wild Area 9 (Dragon)             | Surf               | 20             |                    |
+| Wild Area 9 (Dragon)             | Fishing   Old Rod  | 50             |                    |
+| Wild Area 9 (Dragon)             | Overworld          | 100            |                    |
+| Isle Of Armor 1                  | Overworld          | 100            |                    |
+| Isle Of Armor 2                  | Overworld          | 100            |                    |
+| Isle Of Armor 3                  | Overworld          | 100            |                    |
+| Isle Of Armor 5                  | Overworld          | 100            |                    |
+| Isle Of Armor 7                  | Overworld          | 100            |                    |
+| Isle Of Armor 9                  | Overworld          | 100            |                    |
+| Dynamax Adventure (Crown Tundra) | Raid Den           | 2              |                    |
         
 

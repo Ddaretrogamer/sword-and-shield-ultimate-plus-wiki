@@ -82,11 +82,11 @@
 
 
 ## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Wild Area 7 (Ice) West | Grass | 6 |  |
-	| Crown Tundra Snowy East | Grass | 4 |  |
-	| Resting Spot Entrance (Crown Tundra) | Grass | 5 |  |
-
+| Route                                | Area     | Encounter Rate | Extra Instructions |
+| ------------------------------------ | -------- | -------------- | ------------------ |
+| Wild Area 7 (Ice) West               | Grass    | 6              |                    |
+| Dynamax Adventure (Crown Tundra)     | Raid Den | 2              |                    |
+| Crown Tundra Snowy East              | Grass    | 4              |                    |
+| Resting Spot Entrance (Crown Tundra) | Grass    | 5              |                    |
         
 

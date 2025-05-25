@@ -89,7 +89,7 @@
 | Isle of Armor 5                  | Raid Den | 2              |                    |
 | Isle of Armor 6                  | Raid Den | 2              |                    |
 | Isle of Armor 7                  | Raid Den | 2              |                    |
-| Dynamax Adventure (Crown Tundra) | Raid Den | 1.6            |                    |
+| Dynamax Adventure (Crown Tundra) | Raid Den | 2              | Hisuian variant    |
 
         
 

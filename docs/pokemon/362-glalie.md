@@ -82,11 +82,12 @@
 
 
 ## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Wild Area 7 (Ice) East | Grass | 10 |  |
-	| Route 10 | Grass | 10 |  |
-	| Freezington (Crown Tundra) | Grass | 1 |  |
+| Route                            | Area     | Encounter Rate | Extra Instructions |
+| -------------------------------- | -------- | -------------- | ------------------ |
+| Wild Area 7 (Ice) East           | Grass    | 10             |                    |
+| Route 10                         | Grass    | 10             |                    |
+| Dynamax Adventure (Crown Tundra) | Raid Den | 2              |                    |
+| Freezington (Crown Tundra)       | Grass    | 1              |                    |
 
         
 

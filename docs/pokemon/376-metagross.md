@@ -82,9 +82,9 @@
 
 
 ## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Crown Tundra Snowy East | Grass | 20 |  |
-
+| Route                            | Area     | Encounter Rate | Extra Instructions |
+| -------------------------------- | -------- | -------------- | ------------------ |
+| Dynamax Adventure (Crown Tundra) | Raid Den | 2              |                    |
+| Crown Tundra Snowy East          | Grass    | 20             |                    |
         
 

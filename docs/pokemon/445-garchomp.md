@@ -82,9 +82,9 @@
 
 
 ## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Scifub Chamber (Crown Tundra) | Grass | 5 |  |
-
+| Route                            | Area     | Encounter Rate | Extra Instructions |
+| -------------------------------- | -------- | -------------- | ------------------ |
+| Dynamax Adventure (Crown Tundra) | Raid Den | 2              |                    |
+| Scifub Chamber (Crown Tundra)    | Grass    | 5              |                    |
         
 

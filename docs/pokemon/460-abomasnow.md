@@ -82,10 +82,11 @@
 
 
 ## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Freezington (Crown Tundra) | Grass | 1 |  |
-	| Resting Spot Entrance (Crown Tundra) | Grass | 20 |  |
+| Route                                | Area     | Encounter Rate | Extra Instructions |
+| ------------------------------------ | -------- | -------------- | ------------------ |
+| Dynamax Adventure (Crown Tundra)     | Raid Den | 2              |                    |
+| Freezington (Crown Tundra)           | Grass    | 1              |                    |
+| Resting Spot Entrance (Crown Tundra) | Grass    | 20             |                    |
 
         
 
