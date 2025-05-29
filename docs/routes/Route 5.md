@@ -44,7 +44,7 @@
 
 	???+ note "Overworld Lv. 20-22"
 		<div class="wild-encounters-container"><div style="display: grid; justify-items: center">
-                    ![farfetchd](../../img/pokemon/farfetchd.png) [Farfetchd](/sword-and-shield-ultimate-plus-wiki/pokemon/083-farfetchd) 100%
+                    ![farfetchd-galarian](../../img/pokemon/farfetchd-galarian.png) [Farfetchd Galarian](/sword-and-shield-ultimate-plus-wiki/pokemon/083-farfetchd-galarian) 100%
                 </div><div style="display: grid; justify-items: center">
                     ![applin](../../img/pokemon/applin.png) [Applin](/sword-and-shield-ultimate-plus-wiki/pokemon/840-applin) 100%
                 </div></div>

@@ -82,76 +82,13 @@
 
 
 ## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Wild Area 4 East | Grass | 10 |  |
-	| Route 6 | Grass | 5 |  |
-
+| Route                  | Area     | Encounter Rate | Extra Instructions |
+| ---------------------- | -------- | -------------- | ------------------ |
+| Wild Area 4 East       | Grass    | 10             |                    |
+| Wild Area 7 (Ice) East | Raid Den | 2              |                    |
+| Wild Area 7 (Ice) West | Raid Den | 2              |                    |
+| Route 6                | Grass    | 5              |                    |
+| Wild Area 8 (Spooky)   | Raid Den | 2              |                    |
+| Wild Area 9 (Dragon)   | Raid Den | 2              |                    |
         
 
-## Moveset
-
-=== "Level Up Moves"
-    | Level | Name | Power | Accuracy | PP | Type | Damage Class |
-        | -- | -- | -- | -- | -- | -- | -- |
-        	| 1 | Tackle | 40 | 100 | 35 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| 1 | Detect | - | - | 5 | ![fighting](../img/types/fighting.png) | ![status](../img/types/status.png) |
-	| 1 | Hone-claws | - | - | 15 | ![dark](../img/types/dark.png) | ![status](../img/types/status.png) |
-	| 4 | Karate-chop | 50 | 100 | 25 | ![fighting](../img/types/fighting.png) | ![physical](../img/types/physical.png) |
-	| 8 | Wing-attack | 60 | 100 | 35 | ![flying](../img/types/flying.png) | ![physical](../img/types/physical.png) |
-	| 20 | Encore | - | 100 | 5 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| 28 | Flying-press | 100 | 95 | 10 | ![fighting](../img/types/fighting.png) | ![physical](../img/types/physical.png) |
-	| 32 | Bounce | 85 | 85 | 5 | ![flying](../img/types/flying.png) | ![physical](../img/types/physical.png) |
-	| 36 | Endeavor | - | 100 | 5 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| 40 | Feather-dance | - | 100 | 15 | ![flying](../img/types/flying.png) | ![status](../img/types/status.png) |
-	| 44 | High-jump-kick | 130 | 90 | 10 | ![fighting](../img/types/fighting.png) | ![physical](../img/types/physical.png) |
-	| 48 | Sky-attack | 140 | 90 | 5 | ![flying](../img/types/flying.png) | ![physical](../img/types/physical.png) |
-
-        
-
-=== "Machine Moves"
-    | Machine | Name | Power | Accuracy | PP | Type | Damage Class |
-        | -- | -- | -- | -- | -- | -- | -- |
-        	| TM47 | Low-sweep | 65 | 100 | 20 | ![fighting](../img/types/fighting.png) | ![physical](../img/types/physical.png) |
-	| TM22 | Rock-slide | 75 | 90 | 10 | ![rock](../img/types/rock.png) | ![physical](../img/types/physical.png) |
-	| TM27 | Toxic | - | 90 | 10 | ![poison](../img/types/poison.png) | ![status](../img/types/status.png) |
-	| TM66 | Payback | 50 | 100 | 10 | ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png) |
-	| TM08 | Bulk-up | - | - | 20 | ![fighting](../img/types/fighting.png) | ![status](../img/types/status.png) |
-	| TM100 | Confide | - | - | 20 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM27 | Return | - | 100 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM87 | Swagger | - | 85 | 15 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM54 | False-swipe | 40 | 100 | 40 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM05 | Rest | - | - | 5 | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png) |
-	| TM56 | Fling | - | 100 | 10 | ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png) |
-	| TM84 | Poison-jab | 80 | 100 | 20 | ![poison](../img/types/poison.png) | ![physical](../img/types/physical.png) |
-	| TM62 | Acrobatics | 55 | 100 | 15 | ![flying](../img/types/flying.png) | ![physical](../img/types/physical.png) |
-	| TM88 | Sleep-talk | - | - | 10 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM32 | Double-team | - | - | 15 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM41 | Torment | - | 100 | 15 | ![dark](../img/types/dark.png) | ![status](../img/types/status.png) |
-	| TM51 | Steel-wing | 70 | 90 | 25 | ![steel](../img/types/steel.png) | ![physical](../img/types/physical.png) |
-	| TM39 | Rock-tomb | 60 | 95 | 15 | ![rock](../img/types/rock.png) | ![physical](../img/types/physical.png) |
-	| TM89 | U-turn | 70 | 100 | 20 | ![bug](../img/types/bug.png) | ![physical](../img/types/physical.png) |
-	| TM13 | Brick-break | 75 | 100 | 15 | ![fighting](../img/types/fighting.png) | ![physical](../img/types/physical.png) |
-	| TM86 | Grass-knot | - | 100 | 20 | ![grass](../img/types/grass.png) | ![special](../img/types/special.png) |
-	| TM10 | Hidden-power | 60 | 100 | 15 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-	| TM21 | Frustration | - | 100 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM19 | Roost | - | - | 5 | ![flying](../img/types/flying.png) | ![status](../img/types/status.png) |
-	| TM40 | Aerial-ace | 60 | - | 20 | ![flying](../img/types/flying.png) | ![physical](../img/types/physical.png) |
-	| TM45 | Attract | - | 100 | 15 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM71 | Stone-edge | 100 | 80 | 5 | ![rock](../img/types/rock.png) | ![physical](../img/types/physical.png) |
-	| TM52 | Focus-blast | 120 | 70 | 5 | ![fighting](../img/types/fighting.png) | ![special](../img/types/special.png) |
-	| TM58 | Sky-drop | 60 | 100 | 10 | ![flying](../img/types/flying.png) | ![physical](../img/types/physical.png) |
-	| TM11 | Sunny-day | - | - | 5 | ![fire](../img/types/fire.png) | ![status](../img/types/status.png) |
-	| TM08 | Substitute | - | - | 10 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM07 | Protect | - | - | 10 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM12 | Facade | 70 | 100 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM81 | X-scissor | 80 | 100 | 15 | ![bug](../img/types/bug.png) | ![physical](../img/types/physical.png) |
-	| TM12 | Taunt | - | 100 | 20 | ![dark](../img/types/dark.png) | ![status](../img/types/status.png) |
-	| TM01 | Work-up | - | - | 30 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM48 | Round | 60 | 100 | 15 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-	| TM76 | Fly | 90 | 95 | 15 | ![flying](../img/types/flying.png) | ![physical](../img/types/physical.png) |
-	| TM18 | Rain-dance | - | - | 5 | ![water](../img/types/water.png) | ![status](../img/types/status.png) |
-	| TM68 | Giga-impact | 150 | 90 | 5 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM75 | Swords-dance | - | - | 20 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-
-        

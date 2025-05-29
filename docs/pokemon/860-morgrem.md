@@ -80,50 +80,15 @@
 </table>
 
 
+## Locations
+| Route                      | Area     | Encounter Rate | Extra Instructions |
+| -------------------------- | -------- | -------------- | ------------------ |
+| Wild Area 2 (Bear)         | Raid Den | 2              |                    |
+| Wild Area 4 East           | Raid Den | 2              |                    |
+| Wild Area 4 West           | Raid Den | 2              |                    |
+| Wild Area 5 (Desert) North | Raid Den | 2              |                    |
+| Wild Area 5 (Desert) South | Raid Den | 2              |                    |
+| Wild Area 6 West           | Raid Den | 2              |                    |
+| Wild Area 6 East           | Raid Den | 2              |                    |
 
 
-
-## Moveset
-
-=== "Level Up Moves"
-    | Level | Name | Power | Accuracy | PP | Type | Damage Class |
-        | -- | -- | -- | -- | -- | -- | -- |
-        	| 1 | Confide | - | - | 20 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| 1 | Fake-out | 40 | 100 | 10 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| 1 | False-surrender | 80 | - | 10 | ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png) |
-	| 1 | Flatter | - | 100 | 15 | ![dark](../img/types/dark.png) | ![status](../img/types/status.png) |
-	| 1 | Bite | 60 | 100 | 25 | ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png) |
-	| 20 | Swagger | - | 85 | 15 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| 24 | Sucker-punch | 70 | 100 | 5 | ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png) |
-	| 28 | Torment | - | 100 | 15 | ![dark](../img/types/dark.png) | ![status](../img/types/status.png) |
-	| 35 | Dark-pulse | 80 | 100 | 15 | ![dark](../img/types/dark.png) | ![special](../img/types/special.png) |
-	| 40 | Nasty-plot | - | - | 20 | ![dark](../img/types/dark.png) | ![status](../img/types/status.png) |
-	| 46 | Play-rough | 90 | 90 | 10 | ![fairy](../img/types/fairy.png) | ![physical](../img/types/physical.png) |
-	| 52 | Foul-play | 95 | 100 | 15 | ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png) |
-
-        
-
-=== "Machine Moves"
-    | Machine | Name | Power | Accuracy | PP | Type | Damage Class |
-        | -- | -- | -- | -- | -- | -- | -- |
-        	| TM05 | Rest | - | - | 5 | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png) |
-	| TM13 | Snore | 50 | 100 | 15 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-	| TM65 | Shadow-claw | 70 | 100 | 15 | ![ghost](../img/types/ghost.png) | ![physical](../img/types/physical.png) |
-	| TM60 | Drain-punch | 75 | 100 | 10 | ![fighting](../img/types/fighting.png) | ![physical](../img/types/physical.png) |
-	| TM47 | Fake-tears | - | 100 | 20 | ![dark](../img/types/dark.png) | ![status](../img/types/status.png) |
-	| TM46 | Thief | 60 | 100 | 25 | ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png) |
-	| TM58 | Assurance | 60 | 100 | 10 | ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png) |
-	| TM00 | Mega-punch | 80 | 85 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM45 | Attract | - | 100 | 15 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM42 | Revenge | 60 | 100 | 10 | ![fighting](../img/types/fighting.png) | ![physical](../img/types/physical.png) |
-	| TM01 | Mega-kick | 120 | 75 | 5 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM16 | Light-screen | - | - | 30 | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png) |
-	| TM07 | Protect | - | - | 10 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM12 | Facade | 70 | 100 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM67 | Retaliate | 70 | 100 | 5 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM48 | Round | 60 | 100 | 15 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-	| TM33 | Reflect | - | - | 20 | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png) |
-	| TM87 | Draining-kiss | 50 | 100 | 10 | ![fairy](../img/types/fairy.png) | ![special](../img/types/special.png) |
-	| TM16 | Thunder-wave | - | 90 | 20 | ![electric](../img/types/electric.png) | ![status](../img/types/status.png) |
-
-        

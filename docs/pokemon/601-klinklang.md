@@ -80,59 +80,14 @@
 </table>
 
 
+## Locations
+| Route                  | Area     | Encounter Rate | Extra Instructions |
+| ---------------------- | -------- | -------------- | ------------------ |
+| Wild Area 3 South      | Raid Den | 4              |                    |
+| Wild Area 3 West       | Raid Den | 4              |                    |
+| Wild Area 3 North      | Raid Den | 4              |                    |
+| Wild Area 7 (Ice) East | Raid Den | 2              |                    |
+| Wild Area 7 (Ice) West | Raid Den | 2              |                    |
+| Wild Area 8 (Spooky)   | Raid Den | 2              |                    |
+| Wild Area 9 (Dragon)   | Raid Den | 2              |                    |
 
-
-
-## Moveset
-
-=== "Level Up Moves"
-    | Level | Name | Power | Accuracy | PP | Type | Damage Class |
-        | -- | -- | -- | -- | -- | -- | -- |
-        	| 1 | Vice-grip | 55 | 100 | 30 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| 1 | Magnetic-flux | - | - | 20 | ![electric](../img/types/electric.png) | ![status](../img/types/status.png) |
-	| 1 | Gear-up | - | - | 20 | ![steel](../img/types/steel.png) | ![status](../img/types/status.png) |
-	| 6 | Charge | - | - | 20 | ![electric](../img/types/electric.png) | ![status](../img/types/status.png) |
-	| 11 | Thunder-shock | 40 | 100 | 30 | ![electric](../img/types/electric.png) | ![special](../img/types/special.png) |
-	| 16 | Gear-grind | 50 | 85 | 15 | ![steel](../img/types/steel.png) | ![physical](../img/types/physical.png) |
-	| 21 | Bind | 15 | 85 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| 31 | Autotomize | - | - | 15 | ![steel](../img/types/steel.png) | ![status](../img/types/status.png) |
-	| 36 | Mirror-shot | 65 | 85 | 10 | ![steel](../img/types/steel.png) | ![special](../img/types/special.png) |
-	| 40 | Screech | - | 85 | 40 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| 44 | Discharge | 80 | 100 | 15 | ![electric](../img/types/electric.png) | ![special](../img/types/special.png) |
-	| 48 | Metal-sound | - | 85 | 40 | ![steel](../img/types/steel.png) | ![status](../img/types/status.png) |
-	| 54 | Shift-gear | - | - | 10 | ![steel](../img/types/steel.png) | ![status](../img/types/status.png) |
-	| 60 | Lock-on | - | - | 5 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| 66 | Zap-cannon | 120 | 50 | 5 | ![electric](../img/types/electric.png) | ![special](../img/types/special.png) |
-
-        
-
-=== "Machine Moves"
-    | Machine | Name | Power | Accuracy | PP | Type | Damage Class |
-        | -- | -- | -- | -- | -- | -- | -- |
-        	| TM27 | Toxic | - | 90 | 10 | ![poison](../img/types/poison.png) | ![status](../img/types/status.png) |
-	| TM36 | Thunderbolt | 90 | 100 | 15 | ![electric](../img/types/electric.png) | ![special](../img/types/special.png) |
-	| TM100 | Confide | - | - | 20 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM27 | Return | - | 100 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM87 | Swagger | - | 85 | 15 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM05 | Rest | - | - | 5 | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png) |
-	| TM38 | Thunder | 110 | 70 | 10 | ![electric](../img/types/electric.png) | ![special](../img/types/special.png) |
-	| TM88 | Sleep-talk | - | - | 10 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM32 | Double-team | - | - | 15 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM69 | Rock-polish | - | - | 20 | ![rock](../img/types/rock.png) | ![status](../img/types/status.png) |
-	| TM10 | Hidden-power | 60 | 100 | 15 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-	| TM92 | Trick-room | - | - | 5 | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png) |
-	| TM21 | Frustration | - | 100 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM57 | Charge-beam | 50 | 90 | 10 | ![electric](../img/types/electric.png) | ![special](../img/types/special.png) |
-	| TM37 | Sandstorm | - | - | 10 | ![rock](../img/types/rock.png) | ![status](../img/types/status.png) |
-	| TM54 | Flash-cannon | 80 | 100 | 10 | ![steel](../img/types/steel.png) | ![special](../img/types/special.png) |
-	| TM08 | Substitute | - | - | 10 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM72 | Volt-switch | 70 | 100 | 20 | ![electric](../img/types/electric.png) | ![special](../img/types/special.png) |
-	| TM93 | Wild-charge | 90 | 100 | 15 | ![electric](../img/types/electric.png) | ![physical](../img/types/physical.png) |
-	| TM48 | Hyper-beam | 150 | 90 | 5 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-	| TM07 | Protect | - | - | 10 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM12 | Facade | 70 | 100 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM48 | Round | 60 | 100 | 15 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-	| TM68 | Giga-impact | 150 | 90 | 5 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM16 | Thunder-wave | - | 90 | 20 | ![electric](../img/types/electric.png) | ![status](../img/types/status.png) |
-
-        

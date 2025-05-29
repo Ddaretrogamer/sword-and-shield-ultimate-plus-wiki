@@ -80,49 +80,11 @@
 </table>
 
 
+## Locations
+| Route             | Area     | Encounter Rate | Extra Instructions |
+| ----------------- | -------- | -------------- | ------------------ |
+| Wild Area 3 South | Raid Den | 4              |                    |
+| Wild Area 3 West  | Raid Den | 4              |                    |
+| Wild Area 3 North | Raid Den | 4              |                    |
 
 
-
-## Moveset
-
-=== "Level Up Moves"
-    | Level | Name | Power | Accuracy | PP | Type | Damage Class |
-        | -- | -- | -- | -- | -- | -- | -- |
-        	| 1 | Leafage | 40 | 100 | 40 | ![grass](../img/types/grass.png) | ![physical](../img/types/physical.png) |
-	| 1 | Rapid-spin | 50 | 100 | 40 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| 1 | Sing | - | 55 | 15 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| 1 | Cotton-spore | - | 100 | 40 | ![grass](../img/types/grass.png) | ![status](../img/types/status.png) |
-	| 1 | Sweet-scent | - | 100 | 20 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| 12 | Razor-leaf | 55 | 95 | 25 | ![grass](../img/types/grass.png) | ![physical](../img/types/physical.png) |
-	| 23 | Leaf-tornado | 65 | 90 | 10 | ![grass](../img/types/grass.png) | ![special](../img/types/special.png) |
-	| 28 | Synthesis | - | - | 5 | ![grass](../img/types/grass.png) | ![status](../img/types/status.png) |
-	| 34 | Hyper-voice | 90 | 100 | 10 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-	| 40 | Aromatherapy | - | - | 5 | ![grass](../img/types/grass.png) | ![status](../img/types/status.png) |
-	| 46 | Leaf-storm | 130 | 90 | 5 | ![grass](../img/types/grass.png) | ![special](../img/types/special.png) |
-	| 52 | Cotton-guard | - | - | 10 | ![grass](../img/types/grass.png) | ![status](../img/types/status.png) |
-
-        
-
-=== "Machine Moves"
-    | Machine | Name | Power | Accuracy | PP | Type | Damage Class |
-        | -- | -- | -- | -- | -- | -- | -- |
-        	| TM46 | Weather-ball | 50 | 100 | 10 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-	| TM19 | Giga-drain | 75 | 100 | 10 | ![grass](../img/types/grass.png) | ![special](../img/types/special.png) |
-	| TM05 | Rest | - | - | 5 | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png) |
-	| TM13 | Snore | 50 | 100 | 15 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-	| TM29 | Charm | - | 100 | 20 | ![fairy](../img/types/fairy.png) | ![status](../img/types/status.png) |
-	| TM09 | Bullet-seed | 25 | 100 | 30 | ![grass](../img/types/grass.png) | ![physical](../img/types/physical.png) |
-	| TM03 | Helping-hand | - | - | 20 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM45 | Attract | - | 100 | 15 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM45 | Solar-beam | 120 | 100 | 10 | ![grass](../img/types/grass.png) | ![special](../img/types/special.png) |
-	| TM11 | Sunny-day | - | - | 5 | ![fire](../img/types/fire.png) | ![status](../img/types/status.png) |
-	| TM16 | Light-screen | - | - | 30 | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png) |
-	| TM48 | Hyper-beam | 150 | 90 | 5 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-	| TM07 | Protect | - | - | 10 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM12 | Facade | 70 | 100 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM88 | Grassy-terrain | - | - | 10 | ![grass](../img/types/grass.png) | ![status](../img/types/status.png) |
-	| TM10 | Magical-leaf | 60 | - | 20 | ![grass](../img/types/grass.png) | ![special](../img/types/special.png) |
-	| TM48 | Round | 60 | 100 | 15 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-	| TM68 | Giga-impact | 150 | 90 | 5 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-
-        

@@ -82,59 +82,14 @@
 
 
 ## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Wild Area 7 (Ice) East | Grass | 5 |  |
-	| Wild Area 7 (Ice) East | Fishing   Old Rod | 50 |  |
-	| Wild Area 7 (Ice) East | Fishing   Super Rod | 20 |  |
-
+| Route                  | Area                | Encounter Rate | Extra Instructions |
+| ---------------------- | ------------------- | -------------- | ------------------ |
+| Wild Area 7 (Ice) East | Grass               | 5              |                    |
+| Wild Area 7 (Ice) East | Fishing   Old Rod   | 50             |                    |
+| Wild Area 7 (Ice) East | Fishing   Super Rod | 20             |                    |
+| Wild Area 7 (Ice) East | Raid Den            | 2              |                    |
+| Wild Area 7 (Ice) West | Raid Den            | 2              |                    |
+| Wild Area 8 (Spooky)   | Raid Den            | 2              |                    |
+| Wild Area 9 (Dragon)   | Raid Den            | 2              |                    |
         
 
-## Moveset
-
-=== "Level Up Moves"
-    | Level | Name | Power | Accuracy | PP | Type | Damage Class |
-        | -- | -- | -- | -- | -- | -- | -- |
-        	| 1 | Tackle | 40 | 100 | 35 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| 1 | Powder-snow | 40 | 100 | 25 | ![ice](../img/types/ice.png) | ![special](../img/types/special.png) |
-	| 6 | Mist | - | - | 30 | ![ice](../img/types/ice.png) | ![status](../img/types/status.png) |
-	| 12 | Weather-ball | 50 | 100 | 10 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-	| 24 | Headbutt | 70 | 100 | 15 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| 36 | Freeze-dry | 70 | 100 | 20 | ![ice](../img/types/ice.png) | ![special](../img/types/special.png) |
-	| 48 | Aurora-veil | - | - | 20 | ![ice](../img/types/ice.png) | ![status](../img/types/status.png) |
-
-        
-
-=== "Machine Moves"
-    | Machine | Name | Power | Accuracy | PP | Type | Damage Class |
-        | -- | -- | -- | -- | -- | -- | -- |
-        	| TM05 | Rest | - | - | 5 | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png) |
-	| TR74 | Iron-head | 80 | 100 | 15 | ![steel](../img/types/steel.png) | ![physical](../img/types/physical.png) |
-	| TR69 | Zen-headbutt | 80 | 90 | 15 | ![psychic](../img/types/psychic.png) | ![physical](../img/types/physical.png) |
-	| TR98 | Liquidation | 85 | 100 | 10 | ![water](../img/types/water.png) | ![physical](../img/types/physical.png) |
-	| TM08 | Body-slam | 85 | 100 | 15 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM03 | Water-pulse | 60 | 100 | 20 | ![water](../img/types/water.png) | ![special](../img/types/special.png) |
-	| TM88 | Sleep-talk | - | - | 10 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TR21 | Reversal | - | 100 | 15 | ![fighting](../img/types/fighting.png) | ![physical](../img/types/physical.png) |
-	| TR03 | Hydro-pump | 110 | 80 | 5 | ![water](../img/types/water.png) | ![special](../img/types/special.png) |
-	| TM16 | Icy-wind | 55 | 95 | 15 | ![ice](../img/types/ice.png) | ![special](../img/types/special.png) |
-	| TM35 | Ice-punch | 75 | 100 | 15 | ![ice](../img/types/ice.png) | ![physical](../img/types/physical.png) |
-	| TR46 | Iron-defense | - | - | 15 | ![steel](../img/types/steel.png) | ![status](../img/types/status.png) |
-	| TR17 | Amnesia | - | - | 20 | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png) |
-	| TR12 | Agility | - | - | 30 | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png) |
-	| TM55 | Ice-beam | 90 | 100 | 10 | ![ice](../img/types/ice.png) | ![special](../img/types/special.png) |
-	| TM08 | Substitute | - | - | 10 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM20 | Endure | - | - | 10 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM48 | Hyper-beam | 150 | 90 | 5 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-	| TM07 | Protect | - | - | 10 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM12 | Facade | 70 | 100 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM14 | Blizzard | 110 | 70 | 5 | ![ice](../img/types/ice.png) | ![special](../img/types/special.png) |
-	| TM18 | Rain-dance | - | - | 5 | ![water](../img/types/water.png) | ![status](../img/types/status.png) |
-	| TM68 | Giga-impact | 150 | 90 | 5 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM33 | Reflect | - | - | 20 | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png) |
-	| TM98 | Waterfall | 80 | 100 | 15 | ![water](../img/types/water.png) | ![physical](../img/types/physical.png) |
-	| TM09 | Take-down | 90 | 85 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM64 | Avalanche | 60 | 100 | 10 | ![ice](../img/types/ice.png) | ![physical](../img/types/physical.png) |
-	| TM94 | Surf | 90 | 100 | 15 | ![water](../img/types/water.png) | ![special](../img/types/special.png) |
-
-        

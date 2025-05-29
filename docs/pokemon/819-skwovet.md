@@ -82,50 +82,13 @@
 
 
 ## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Slumbering Weald | Grass | 50 |  |
-	| Route 1 | Grass | 20 |  |
-	| Route 3 | Overworld | 100 |  |
-
+| Route                 | Area      | Encounter Rate | Extra Instructions |
+| --------------------- | --------- | -------------- | ------------------ |
+| Slumbering Weald      | Grass     | 50             |                    |
+| Route 1               | Grass     | 20             |                    |
+| Wild Area 1 Southwest | Raid Den  | 2              |                    |
+| Wild Area 1 Southeast | Raid Den  | 2              |                    |
+| Wild Area 1 Northeast | Raid Den  | 2              |                    |
+| Route 3               | Overworld | 100            |                    |
         
 
-## Moveset
-
-=== "Level Up Moves"
-    | Level | Name | Power | Accuracy | PP | Type | Damage Class |
-        | -- | -- | -- | -- | -- | -- | -- |
-        	| 1 | Tail-whip | - | 100 | 30 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| 1 | Tackle | 40 | 100 | 35 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| 5 | Bite | 60 | 100 | 25 | ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png) |
-	| 10 | Stuff-cheeks | - | - | 10 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| 15 | Spit-up | - | 100 | 10 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-	| 15 | Swallow | - | - | 10 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| 15 | Stockpile | - | - | 20 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| 20 | Body-slam | 85 | 100 | 15 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| 30 | Counter | - | 100 | 20 | ![fighting](../img/types/fighting.png) | ![physical](../img/types/physical.png) |
-	| 40 | Super-fang | - | 90 | 10 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| 45 | Belch | 120 | 90 | 10 | ![poison](../img/types/poison.png) | ![special](../img/types/special.png) |
-
-        
-
-=== "Machine Moves"
-    | Machine | Name | Power | Accuracy | PP | Type | Damage Class |
-        | -- | -- | -- | -- | -- | -- | -- |
-        	| TM66 | Payback | 50 | 100 | 10 | ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png) |
-	| TM05 | Rest | - | - | 5 | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png) |
-	| TM56 | Fling | - | 100 | 10 | ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png) |
-	| TM13 | Snore | 50 | 100 | 15 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-	| TM46 | Thief | 60 | 100 | 25 | ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png) |
-	| TM10 | Dig | 80 | 100 | 10 | ![ground](../img/types/ground.png) | ![physical](../img/types/physical.png) |
-	| TM09 | Bullet-seed | 25 | 100 | 30 | ![grass](../img/types/grass.png) | ![physical](../img/types/physical.png) |
-	| TM58 | Assurance | 60 | 100 | 10 | ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png) |
-	| TM53 | Mud-shot | 55 | 95 | 15 | ![ground](../img/types/ground.png) | ![special](../img/types/special.png) |
-	| TM45 | Attract | - | 100 | 15 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM59 | Brutal-swing | 60 | 100 | 20 | ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png) |
-	| TM84 | Tail-slap | 25 | 85 | 10 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM07 | Protect | - | - | 10 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM12 | Facade | 70 | 100 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM48 | Round | 60 | 100 | 15 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-
-        

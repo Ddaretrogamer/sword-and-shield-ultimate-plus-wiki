@@ -80,49 +80,13 @@
 </table>
 
 
+## Locations
+| Route                  | Area     | Encounter Rate | Extra Instructions |
+| ---------------------- | -------- | -------------- | ------------------ |
+| Wild Area 7 (Ice) East | Raid Den | 2              |                    |
+| Wild Area 7 (Ice) West | Raid Den | 2              |                    |
+| Glimwood Tangle        | Grass    | 5              |                    |
+| Wild Area 8 (Spooky)   | Raid Den | 2              |                    |
+| Wild Area 9 (Dragon)   | Raid Den | 2              |                    |
 
 
-
-## Moveset
-
-=== "Level Up Moves"
-    | Level | Name | Power | Accuracy | PP | Type | Damage Class |
-        | -- | -- | -- | -- | -- | -- | -- |
-        	| 1 | Play-nice | - | - | 20 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| 1 | Stored-power | 20 | 100 | 10 | ![psychic](../img/types/psychic.png) | ![special](../img/types/special.png) |
-	| 5 | Baton-pass | - | - | 40 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| 10 | Disarming-voice | 40 | - | 15 | ![fairy](../img/types/fairy.png) | ![special](../img/types/special.png) |
-	| 15 | Psybeam | 65 | 100 | 20 | ![psychic](../img/types/psychic.png) | ![special](../img/types/special.png) |
-	| 25 | Follow-me | - | - | 20 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| 30 | Aromatherapy | - | - | 5 | ![grass](../img/types/grass.png) | ![status](../img/types/status.png) |
-	| 35 | Psychic | 90 | 100 | 10 | ![psychic](../img/types/psychic.png) | ![special](../img/types/special.png) |
-	| 40 | Calm-mind | - | - | 20 | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png) |
-	| 45 | Guard-split | - | - | 10 | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png) |
-	| 55 | Healing-wish | - | - | 10 | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png) |
-
-        
-
-=== "Machine Moves"
-    | Machine | Name | Power | Accuracy | PP | Type | Damage Class |
-        | -- | -- | -- | -- | -- | -- | -- |
-        	| TM39 | Swift | 60 | - | 20 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-	| TM05 | Rest | - | - | 5 | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png) |
-	| TM61 | Guard-swap | - | - | 10 | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png) |
-	| TM13 | Snore | 50 | 100 | 15 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-	| TM92 | Mystical-fire | 75 | 100 | 10 | ![fire](../img/types/fire.png) | ![special](../img/types/special.png) |
-	| TM44 | Imprison | - | - | 10 | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png) |
-	| TM57 | Pay-day | 40 | 100 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM60 | Drain-punch | 75 | 100 | 10 | ![fighting](../img/types/fighting.png) | ![physical](../img/types/physical.png) |
-	| TM03 | Helping-hand | - | - | 20 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM91 | Psychic-terrain | - | - | 10 | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png) |
-	| TM45 | Attract | - | 100 | 15 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM16 | Light-screen | - | - | 30 | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png) |
-	| TM20 | Safeguard | - | - | 25 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM07 | Protect | - | - | 10 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM12 | Facade | 70 | 100 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM10 | Magical-leaf | 60 | - | 20 | ![grass](../img/types/grass.png) | ![special](../img/types/special.png) |
-	| TM48 | Round | 60 | 100 | 15 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-	| TM33 | Reflect | - | - | 20 | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png) |
-	| TM87 | Draining-kiss | 50 | 100 | 10 | ![fairy](../img/types/fairy.png) | ![special](../img/types/special.png) |
-
-        

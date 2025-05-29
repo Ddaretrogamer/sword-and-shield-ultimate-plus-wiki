@@ -88,36 +88,3 @@
 
         
 
-## Moveset
-
-=== "Level Up Moves"
-    | Level | Name | Power | Accuracy | PP | Type | Damage Class |
-        | -- | -- | -- | -- | -- | -- | -- |
-        	| 1 | Acid | 40 | 100 | 30 | ![poison](../img/types/poison.png) | ![special](../img/types/special.png) |
-	| 1 | Peck | 35 | 100 | 35 | ![flying](../img/types/flying.png) | ![physical](../img/types/physical.png) |
-	| 1 | Growl | - | 100 | 40 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| 1 | Dragon-pulse | 85 | 100 | 10 | ![dragon](../img/types/dragon.png) | ![special](../img/types/special.png) |
-	| 7 | Fury-attack | 15 | 85 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| 14 | Fell-stinger | 50 | 100 | 25 | ![bug](../img/types/bug.png) | ![physical](../img/types/physical.png) |
-	| 35 | Venom-drench | - | 100 | 20 | ![poison](../img/types/poison.png) | ![status](../img/types/status.png) |
-	| 42 | Nasty-plot | - | - | 20 | ![dark](../img/types/dark.png) | ![status](../img/types/status.png) |
-	| 49 | Poison-jab | 80 | 100 | 20 | ![poison](../img/types/poison.png) | ![physical](../img/types/physical.png) |
-	| 56 | Gastro-acid | - | 100 | 10 | ![poison](../img/types/poison.png) | ![status](../img/types/status.png) |
-	| 63 | Toxic | - | 90 | 10 | ![poison](../img/types/poison.png) | ![status](../img/types/status.png) |
-
-        
-
-=== "Machine Moves"
-    | Machine | Name | Power | Accuracy | PP | Type | Damage Class |
-        | -- | -- | -- | -- | -- | -- | -- |
-        	| TM09 | Venoshock | 65 | 100 | 10 | ![poison](../img/types/poison.png) | ![special](../img/types/special.png) |
-	| TM05 | Rest | - | - | 5 | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png) |
-	| TM13 | Snore | 50 | 100 | 15 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-	| TM29 | Charm | - | 100 | 20 | ![fairy](../img/types/fairy.png) | ![status](../img/types/status.png) |
-	| TM07 | Pin-missile | 25 | 95 | 20 | ![bug](../img/types/bug.png) | ![physical](../img/types/physical.png) |
-	| TM03 | Helping-hand | - | - | 20 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM07 | Protect | - | - | 10 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM12 | Facade | 70 | 100 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM48 | Round | 60 | 100 | 15 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-
-        

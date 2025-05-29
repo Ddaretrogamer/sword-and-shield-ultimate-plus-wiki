@@ -82,24 +82,12 @@
 
 
 ## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Wild Area 6 (Rixy Chamber) | Grass | 8 |  |
-	| Isle Of Armor 9 | Grass | 1 |  |
-	| Warm Up Tunnel (Isle Of Armor) | Grass | 20 |  |
+| Route                          | Area     | Encounter Rate | Extra Instructions |
+| ------------------------------ | -------- | -------------- | ------------------ |
+| Wild Area 3 (Volcano)          | Raid Den | 7              |                    |
+| Wild Area 6 (Rixy Chamber)     | Grass    | 8              |                    |
+| Isle Of Armor 9                | Grass    | 1              |                    |
+| Warm Up Tunnel (Isle Of Armor) | Grass    | 20             |                    |
 
         
 
-## Moveset
-
-=== "Level Up Moves"
-    | Level | Name | Power | Accuracy | PP | Type | Damage Class |
-        | -- | -- | -- | -- | -- | -- | -- |
-        
-        
-
-=== "Machine Moves"
-    | Machine | Name | Power | Accuracy | PP | Type | Damage Class |
-        | -- | -- | -- | -- | -- | -- | -- |
-        
-        

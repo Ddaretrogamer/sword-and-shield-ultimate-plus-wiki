@@ -82,73 +82,11 @@
 
 
 ## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Route 2 | Fishing   Good Rod | 33 |  |
-	| Isle Of Armor 7 | Surf | 60 |  |
+| Route                 | Area               | Encounter Rate | Extra Instructions |
+| --------------------- | ------------------ | -------------- | ------------------ |
+| Route 2               | Fishing   Good Rod | 33             |                    |
+| Wild Area 3 (Volcano) | Raid Den           | 7              |                    |
+| Isle Of Armor 7       | Surf               | 60             |                    |
 
         
 
-## Moveset
-
-=== "Level Up Moves"
-    | Level | Name | Power | Accuracy | PP | Type | Damage Class |
-        | -- | -- | -- | -- | -- | -- | -- |
-        	| 1 | Water-gun | 40 | 100 | 25 | ![water](../img/types/water.png) | ![special](../img/types/special.png) |
-	| 4 | Astonish | 30 | 100 | 15 | ![ghost](../img/types/ghost.png) | ![physical](../img/types/physical.png) |
-	| 9 | Confusion | 50 | 100 | 25 | ![psychic](../img/types/psychic.png) | ![special](../img/types/special.png) |
-	| 12 | Bite | 60 | 100 | 25 | ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png) |
-	| 17 | Aqua-jet | 40 | 100 | 20 | ![water](../img/types/water.png) | ![physical](../img/types/physical.png) |
-	| 20 | Disable | - | 100 | 20 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| 25 | Psywave | - | 100 | 15 | ![psychic](../img/types/psychic.png) | ![special](../img/types/special.png) |
-	| 28 | Crunch | 80 | 100 | 15 | ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png) |
-	| 33 | Aqua-tail | 90 | 90 | 10 | ![water](../img/types/water.png) | ![physical](../img/types/physical.png) |
-	| 36 | Screech | - | 85 | 40 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| 41 | Psychic-fangs | 85 | 100 | 10 | ![psychic](../img/types/psychic.png) | ![physical](../img/types/physical.png) |
-	| 44 | Synchronoise | 120 | 100 | 10 | ![psychic](../img/types/psychic.png) | ![special](../img/types/special.png) |
-
-        
-
-=== "Machine Moves"
-    | Machine | Name | Power | Accuracy | PP | Type | Damage Class |
-        | -- | -- | -- | -- | -- | -- | -- |
-        	| TM27 | Toxic | - | 90 | 10 | ![poison](../img/types/poison.png) | ![status](../img/types/status.png) |
-	| TM66 | Payback | 50 | 100 | 10 | ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png) |
-	| TM08 | Bulk-up | - | - | 20 | ![fighting](../img/types/fighting.png) | ![status](../img/types/status.png) |
-	| TM100 | Confide | - | - | 20 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM27 | Return | - | 100 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM87 | Swagger | - | 85 | 15 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM85 | Dream-eater | 100 | 100 | 15 | ![psychic](../img/types/psychic.png) | ![special](../img/types/special.png) |
-	| TM09 | Venoshock | 65 | 100 | 10 | ![poison](../img/types/poison.png) | ![special](../img/types/special.png) |
-	| TM05 | Rest | - | - | 5 | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png) |
-	| TM56 | Fling | - | 100 | 10 | ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png) |
-	| TM04 | Calm-mind | - | - | 20 | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png) |
-	| TM88 | Sleep-talk | - | - | 10 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM63 | Embargo | - | 100 | 15 | ![dark](../img/types/dark.png) | ![status](../img/types/status.png) |
-	| TM32 | Double-team | - | - | 15 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM41 | Torment | - | 100 | 15 | ![dark](../img/types/dark.png) | ![status](../img/types/status.png) |
-	| TM29 | Psychic | 90 | 100 | 10 | ![psychic](../img/types/psychic.png) | ![special](../img/types/special.png) |
-	| TM10 | Hidden-power | 60 | 100 | 15 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-	| TM92 | Trick-room | - | - | 5 | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png) |
-	| TM21 | Frustration | - | 100 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM40 | Aerial-ace | 60 | - | 20 | ![flying](../img/types/flying.png) | ![physical](../img/types/physical.png) |
-	| TM55 | Scald | 80 | 100 | 15 | ![water](../img/types/water.png) | ![special](../img/types/special.png) |
-	| TM45 | Attract | - | 100 | 15 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM79 | Frost-breath | 60 | 90 | 10 | ![ice](../img/types/ice.png) | ![special](../img/types/special.png) |
-	| TM55 | Ice-beam | 90 | 100 | 10 | ![ice](../img/types/ice.png) | ![special](../img/types/special.png) |
-	| TM08 | Substitute | - | - | 10 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM16 | Light-screen | - | - | 30 | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png) |
-	| TM20 | Safeguard | - | - | 25 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM07 | Protect | - | - | 10 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM12 | Facade | 70 | 100 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM12 | Taunt | - | 100 | 20 | ![dark](../img/types/dark.png) | ![status](../img/types/status.png) |
-	| TM48 | Round | 60 | 100 | 15 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-	| TM14 | Blizzard | 110 | 70 | 5 | ![ice](../img/types/ice.png) | ![special](../img/types/special.png) |
-	| TM18 | Rain-dance | - | - | 5 | ![water](../img/types/water.png) | ![status](../img/types/status.png) |
-	| TM68 | Giga-impact | 150 | 90 | 5 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM33 | Reflect | - | - | 20 | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png) |
-	| TM98 | Waterfall | 80 | 100 | 15 | ![water](../img/types/water.png) | ![physical](../img/types/physical.png) |
-	| TM75 | Swords-dance | - | - | 20 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM94 | Surf | 90 | 100 | 15 | ![water](../img/types/water.png) | ![special](../img/types/special.png) |
-
-        

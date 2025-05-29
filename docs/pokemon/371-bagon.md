@@ -82,58 +82,11 @@
 
 
 ## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Motostoke | Grass | 1 |  |
-
+| Route                 | Area     | Encounter Rate | Extra Instructions |
+| --------------------- | -------- | -------------- | ------------------ |
+| Wild Area 1 Southwest | Raid Den | 2              |                    |
+| Wild Area 1 Southeast | Raid Den | 2              |                    |
+| Wild Area 1 Northeast | Raid Den | 2              |                    |
+| Motostoke East        | Grass    | 1              |                    |
         
 
-## Moveset
-
-=== "Level Up Moves"
-    | Level | Name | Power | Accuracy | PP | Type | Damage Class |
-        | -- | -- | -- | -- | -- | -- | -- |
-        	| 1 | Rage | 20 | 100 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| 4 | Ember | 40 | 100 | 25 | ![fire](../img/types/fire.png) | ![special](../img/types/special.png) |
-	| 7 | Leer | - | 100 | 30 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| 10 | Bite | 60 | 100 | 25 | ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png) |
-	| 13 | Dragon-breath | 60 | 100 | 20 | ![dragon](../img/types/dragon.png) | ![special](../img/types/special.png) |
-	| 17 | Headbutt | 70 | 100 | 15 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| 21 | Focus-energy | - | - | 30 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| 25 | Crunch | 80 | 100 | 15 | ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png) |
-	| 34 | Zen-headbutt | 80 | 90 | 15 | ![psychic](../img/types/psychic.png) | ![physical](../img/types/physical.png) |
-	| 39 | Scary-face | - | 100 | 10 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| 49 | Double-edge | 120 | 100 | 15 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-
-        
-
-=== "Machine Moves"
-    | Machine | Name | Power | Accuracy | PP | Type | Damage Class |
-        | -- | -- | -- | -- | -- | -- | -- |
-        	| TM22 | Rock-slide | 75 | 90 | 10 | ![rock](../img/types/rock.png) | ![physical](../img/types/physical.png) |
-	| TM27 | Toxic | - | 90 | 10 | ![poison](../img/types/poison.png) | ![status](../img/types/status.png) |
-	| TM100 | Confide | - | - | 20 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM27 | Return | - | 100 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM87 | Swagger | - | 85 | 15 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM05 | Rest | - | - | 5 | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png) |
-	| TM88 | Sleep-talk | - | - | 10 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM65 | Shadow-claw | 70 | 100 | 15 | ![ghost](../img/types/ghost.png) | ![physical](../img/types/physical.png) |
-	| TM05 | Roar | - | - | 20 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM32 | Double-team | - | - | 15 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM39 | Rock-tomb | 60 | 95 | 15 | ![rock](../img/types/rock.png) | ![physical](../img/types/physical.png) |
-	| TM13 | Brick-break | 75 | 100 | 15 | ![fighting](../img/types/fighting.png) | ![physical](../img/types/physical.png) |
-	| TM38 | Fire-blast | 110 | 85 | 5 | ![fire](../img/types/fire.png) | ![special](../img/types/special.png) |
-	| TM10 | Hidden-power | 60 | 100 | 15 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-	| TM21 | Frustration | - | 100 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM40 | Aerial-ace | 60 | - | 20 | ![flying](../img/types/flying.png) | ![physical](../img/types/physical.png) |
-	| TM45 | Attract | - | 100 | 15 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM02 | Dragon-claw | 80 | 100 | 15 | ![dragon](../img/types/dragon.png) | ![physical](../img/types/physical.png) |
-	| TM11 | Sunny-day | - | - | 5 | ![fire](../img/types/fire.png) | ![status](../img/types/status.png) |
-	| TM08 | Substitute | - | - | 10 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM07 | Protect | - | - | 10 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM12 | Facade | 70 | 100 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM48 | Round | 60 | 100 | 15 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-	| TM18 | Rain-dance | - | - | 5 | ![water](../img/types/water.png) | ![status](../img/types/status.png) |
-	| TM35 | Flamethrower | 90 | 100 | 15 | ![fire](../img/types/fire.png) | ![special](../img/types/special.png) |
-
-        

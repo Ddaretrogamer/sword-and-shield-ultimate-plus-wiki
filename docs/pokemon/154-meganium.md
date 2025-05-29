@@ -80,61 +80,13 @@
 </table>
 
 
+## Locations
+| Route           | Area     | Encounter Rate | Extra Instructions |
+| --------------- | -------- | -------------- | ------------------ |
+| Isle or Armor 2 | Raid Den | 2              |                    |
+| Isle of Armor 4 | Raid Den | 2              |                    |
+| Isle of Armor 5 | Raid Den | 2              |                    |
+| Isle of Armor 6 | Raid Den | 2              |                    |
+| Isle of Armor 7 | Raid Den | 2              |                    |
 
 
-
-## Moveset
-
-=== "Level Up Moves"
-    | Level | Name | Power | Accuracy | PP | Type | Damage Class |
-        | -- | -- | -- | -- | -- | -- | -- |
-        	| 1 | Tackle | 40 | 100 | 35 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| 1 | Petal-dance | 120 | 100 | 10 | ![grass](../img/types/grass.png) | ![special](../img/types/special.png) |
-	| 1 | Growl | - | 100 | 40 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| 6 | Razor-leaf | 55 | 95 | 25 | ![grass](../img/types/grass.png) | ![physical](../img/types/physical.png) |
-	| 9 | Poison-powder | - | 75 | 35 | ![poison](../img/types/poison.png) | ![status](../img/types/status.png) |
-	| 12 | Synthesis | - | - | 5 | ![grass](../img/types/grass.png) | ![status](../img/types/status.png) |
-	| 22 | Magical-leaf | 60 | - | 20 | ![grass](../img/types/grass.png) | ![special](../img/types/special.png) |
-	| 26 | Natural-gift | - | 100 | 15 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| 34 | Sweet-scent | - | 100 | 20 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| 46 | Body-slam | 85 | 100 | 15 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| 60 | Aromatherapy | - | - | 5 | ![grass](../img/types/grass.png) | ![status](../img/types/status.png) |
-	| 70 | Petal-blizzard | 90 | 100 | 15 | ![grass](../img/types/grass.png) | ![physical](../img/types/physical.png) |
-
-        
-
-=== "Machine Moves"
-    | Machine | Name | Power | Accuracy | PP | Type | Damage Class |
-        | -- | -- | -- | -- | -- | -- | -- |
-        	| TM27 | Toxic | - | 90 | 10 | ![poison](../img/types/poison.png) | ![status](../img/types/status.png) |
-	| TM100 | Confide | - | - | 20 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM27 | Return | - | 100 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM87 | Swagger | - | 85 | 15 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM05 | Rest | - | - | 5 | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png) |
-	| TM41 | Earthquake | 100 | 100 | 10 | ![ground](../img/types/ground.png) | ![physical](../img/types/physical.png) |
-	| TM88 | Sleep-talk | - | - | 10 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM32 | Double-team | - | - | 15 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM86 | Grass-knot | - | 100 | 20 | ![grass](../img/types/grass.png) | ![special](../img/types/special.png) |
-	| TM10 | Hidden-power | 60 | 100 | 15 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-	| TM21 | Frustration | - | 100 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM53 | Energy-ball | 90 | 100 | 10 | ![grass](../img/types/grass.png) | ![special](../img/types/special.png) |
-	| TM78 | Bulldoze | 60 | 100 | 20 | ![ground](../img/types/ground.png) | ![physical](../img/types/physical.png) |
-	| TM45 | Attract | - | 100 | 15 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM45 | Solar-beam | 120 | 100 | 10 | ![grass](../img/types/grass.png) | ![special](../img/types/special.png) |
-	| TM82 | Dragon-tail | 60 | 90 | 10 | ![dragon](../img/types/dragon.png) | ![physical](../img/types/physical.png) |
-	| TM11 | Sunny-day | - | - | 5 | ![fire](../img/types/fire.png) | ![status](../img/types/status.png) |
-	| TM08 | Substitute | - | - | 10 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM16 | Light-screen | - | - | 30 | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png) |
-	| TM20 | Safeguard | - | - | 25 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM48 | Hyper-beam | 150 | 90 | 5 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-	| TM07 | Protect | - | - | 10 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM12 | Facade | 70 | 100 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM01 | Work-up | - | - | 30 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM96 | Nature-power | - | - | 20 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM48 | Round | 60 | 100 | 15 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-	| TM49 | Echoed-voice | 40 | 100 | 15 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-	| TM68 | Giga-impact | 150 | 90 | 5 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM33 | Reflect | - | - | 20 | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png) |
-	| TM75 | Swords-dance | - | - | 20 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-
-        

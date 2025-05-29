@@ -82,51 +82,15 @@
 
 
 ## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Wild Area 6 East | Grass | 10 |  |
-
+| Route                      | Area     | Encounter Rate | Extra Instructions |
+| -------------------------- | -------- | -------------- | ------------------ |
+| Wild Area 2 (Bear)         | Raid Den | 2              |                    |
+| Wild Area 4 East           | Raid Den | 2              |                    |
+| Wild Area 4 West           | Raid Den | 2              |                    |
+| Wild Area 5 (Desert) North | Raid Den | 2              |                    |
+| Wild Area 5 (Desert) South | Raid Den | 2              |                    |
+| Wild Area 6 West           | Raid Den | 2              |                    |
+| Wild Area 6 East           | Grass    | 10             |                    |
+| Wild Area 6 East           | Raid Den | 2              |                    |
         
 
-## Moveset
-
-=== "Level Up Moves"
-    | Level | Name | Power | Accuracy | PP | Type | Damage Class |
-        | -- | -- | -- | -- | -- | -- | -- |
-        	| 1 | Tackle | 40 | 100 | 35 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| 1 | Growl | - | 100 | 40 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| 5 | Rollout | 30 | 90 | 20 | ![rock](../img/types/rock.png) | ![physical](../img/types/physical.png) |
-	| 10 | Rock-smash | 40 | 100 | 15 | ![fighting](../img/types/fighting.png) | ![physical](../img/types/physical.png) |
-	| 20 | Stomp | 65 | 100 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| 25 | Iron-defense | - | - | 15 | ![steel](../img/types/steel.png) | ![status](../img/types/status.png) |
-	| 35 | Strength | 80 | 100 | 15 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| 40 | Iron-head | 80 | 100 | 15 | ![steel](../img/types/steel.png) | ![physical](../img/types/physical.png) |
-	| 45 | Play-rough | 90 | 90 | 10 | ![fairy](../img/types/fairy.png) | ![physical](../img/types/physical.png) |
-	| 50 | High-horsepower | 95 | 95 | 10 | ![ground](../img/types/ground.png) | ![physical](../img/types/physical.png) |
-	| 55 | Superpower | 120 | 100 | 5 | ![fighting](../img/types/fighting.png) | ![physical](../img/types/physical.png) |
-
-        
-
-=== "Machine Moves"
-    | Machine | Name | Power | Accuracy | PP | Type | Damage Class |
-        | -- | -- | -- | -- | -- | -- | -- |
-        	| TM22 | Rock-slide | 75 | 90 | 10 | ![rock](../img/types/rock.png) | ![physical](../img/types/physical.png) |
-	| TM16 | Screech | - | 85 | 40 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM54 | Rock-blast | 25 | 90 | 10 | ![rock](../img/types/rock.png) | ![physical](../img/types/physical.png) |
-	| TM05 | Rest | - | - | 5 | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png) |
-	| TM56 | Fling | - | 100 | 10 | ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png) |
-	| TM13 | Snore | 50 | 100 | 15 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-	| TM39 | Rock-tomb | 60 | 95 | 15 | ![rock](../img/types/rock.png) | ![physical](../img/types/physical.png) |
-	| TM13 | Brick-break | 75 | 100 | 15 | ![fighting](../img/types/fighting.png) | ![physical](../img/types/physical.png) |
-	| TM10 | Dig | 80 | 100 | 10 | ![ground](../img/types/ground.png) | ![physical](../img/types/physical.png) |
-	| TM53 | Mud-shot | 55 | 95 | 15 | ![ground](../img/types/ground.png) | ![special](../img/types/special.png) |
-	| TM78 | Bulldoze | 60 | 100 | 20 | ![ground](../img/types/ground.png) | ![physical](../img/types/physical.png) |
-	| TM45 | Attract | - | 100 | 15 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM59 | Brutal-swing | 60 | 100 | 20 | ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png) |
-	| TM01 | Mega-kick | 120 | 75 | 5 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM98 | Stomping-tantrum | 75 | 100 | 10 | ![ground](../img/types/ground.png) | ![physical](../img/types/physical.png) |
-	| TM07 | Protect | - | - | 10 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM12 | Facade | 70 | 100 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM48 | Round | 60 | 100 | 15 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-
-        

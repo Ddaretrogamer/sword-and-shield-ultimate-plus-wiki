@@ -82,69 +82,14 @@
 
 
 ## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Galar Mine 1 | Grass | 14 |  |
-	| Wild Area 5 (Desert) South | Grass | 20 |  |
-	| Route 8 Cave | Grass | 19 |  |
+| Route                      | Area     | Encounter Rate | Extra Instructions |
+| -------------------------- | -------- | -------------- | ------------------ |
+| Wild Area 1 Southwest      | Raid Den | 2              |                    |
+| Wild Area 1 Southeast      | Raid Den | 2              |                    |
+| Wild Area 1 Northeast      | Raid Den | 2              |                    |
+| Galar Mine 1               | Grass    | 14             |                    |
+| Wild Area 5 (Desert) South | Grass    | 20             |                    |
+| Route 8 Cave               | Grass    | 19             |                    |
 
         
 
-## Moveset
-
-=== "Level Up Moves"
-    | Level | Name | Power | Accuracy | PP | Type | Damage Class |
-        | -- | -- | -- | -- | -- | -- | -- |
-        	| 1 | Scratch | 40 | 100 | 35 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| 1 | Metal-claw | 50 | 95 | 35 | ![steel](../img/types/steel.png) | ![physical](../img/types/physical.png) |
-	| 4 | Sand-attack | - | 100 | 15 | ![ground](../img/types/ground.png) | ![status](../img/types/status.png) |
-	| 7 | Astonish | 30 | 100 | 15 | ![ghost](../img/types/ghost.png) | ![physical](../img/types/physical.png) |
-	| 8 | Growl | - | 100 | 40 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| 10 | Mud-slap | 20 | 100 | 10 | ![ground](../img/types/ground.png) | ![special](../img/types/special.png) |
-	| 12 | Agility | - | - | 30 | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png) |
-	| 14 | Magnitude | - | 100 | 30 | ![ground](../img/types/ground.png) | ![physical](../img/types/physical.png) |
-	| 15 | Fury-swipes | 18 | 80 | 15 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| 21 | Slash | 70 | 100 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| 25 | Mud-bomb | 65 | 85 | 10 | ![ground](../img/types/ground.png) | ![special](../img/types/special.png) |
-	| 25 | Sucker-punch | 70 | 100 | 5 | ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png) |
-	| 28 | Earth-power | 90 | 100 | 10 | ![ground](../img/types/ground.png) | ![special](../img/types/special.png) |
-	| 33 | Fissure | - | 30 | 5 | ![ground](../img/types/ground.png) | ![physical](../img/types/physical.png) |
-	| 35 | Iron-head | 80 | 100 | 15 | ![steel](../img/types/steel.png) | ![physical](../img/types/physical.png) |
-
-        
-
-=== "Machine Moves"
-    | Machine | Name | Power | Accuracy | PP | Type | Damage Class |
-        | -- | -- | -- | -- | -- | -- | -- |
-        	| TM22 | Rock-slide | 75 | 90 | 10 | ![rock](../img/types/rock.png) | ![physical](../img/types/physical.png) |
-	| TM27 | Toxic | - | 90 | 10 | ![poison](../img/types/poison.png) | ![status](../img/types/status.png) |
-	| TM100 | Confide | - | - | 20 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM27 | Return | - | 100 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM87 | Swagger | - | 85 | 15 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM05 | Rest | - | - | 5 | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png) |
-	| TM36 | Sludge-bomb | 90 | 100 | 10 | ![poison](../img/types/poison.png) | ![special](../img/types/special.png) |
-	| TM01 | Headbutt | 70 | 100 | 15 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM41 | Earthquake | 100 | 100 | 10 | ![ground](../img/types/ground.png) | ![physical](../img/types/physical.png) |
-	| TM88 | Sleep-talk | - | - | 10 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM65 | Shadow-claw | 70 | 100 | 15 | ![ghost](../img/types/ghost.png) | ![physical](../img/types/physical.png) |
-	| TM32 | Double-team | - | - | 15 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM46 | Thief | 60 | 100 | 25 | ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png) |
-	| TM39 | Rock-tomb | 60 | 95 | 15 | ![rock](../img/types/rock.png) | ![physical](../img/types/physical.png) |
-	| TM10 | Dig | 80 | 100 | 10 | ![ground](../img/types/ground.png) | ![physical](../img/types/physical.png) |
-	| TM10 | Hidden-power | 60 | 100 | 15 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-	| TM56 | Stealth-rock | - | - | 20 | ![rock](../img/types/rock.png) | ![status](../img/types/status.png) |
-	| TM21 | Frustration | - | 100 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM40 | Aerial-ace | 60 | - | 20 | ![flying](../img/types/flying.png) | ![physical](../img/types/physical.png) |
-	| TM78 | Bulldoze | 60 | 100 | 20 | ![ground](../img/types/ground.png) | ![physical](../img/types/physical.png) |
-	| TM45 | Attract | - | 100 | 15 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM37 | Sandstorm | - | - | 10 | ![rock](../img/types/rock.png) | ![status](../img/types/status.png) |
-	| TM11 | Sunny-day | - | - | 5 | ![fire](../img/types/fire.png) | ![status](../img/types/status.png) |
-	| TM54 | Flash-cannon | 80 | 100 | 10 | ![steel](../img/types/steel.png) | ![special](../img/types/special.png) |
-	| TM08 | Substitute | - | - | 10 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM07 | Protect | - | - | 10 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM12 | Facade | 70 | 100 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM01 | Work-up | - | - | 30 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM48 | Round | 60 | 100 | 15 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-	| TM49 | Echoed-voice | 40 | 100 | 15 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-
-        

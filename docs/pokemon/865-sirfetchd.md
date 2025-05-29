@@ -80,50 +80,12 @@
 </table>
 
 
+## Locations
+| Route                  | Area     | Encounter Rate | Extra Instructions |
+| ---------------------- | -------- | -------------- | ------------------ |
+| Wild Area 7 (Ice) East | Raid Den | 2              |                    |
+| Wild Area 7 (Ice) West | Raid Den | 2              |                    |
+| Wild Area 8 (Spooky)   | Raid Den | 2              |                    |
+| Wild Area 9 (Dragon)   | Raid Den | 2              |                    |
 
 
-
-## Moveset
-
-=== "Level Up Moves"
-    | Level | Name | Power | Accuracy | PP | Type | Damage Class |
-        | -- | -- | -- | -- | -- | -- | -- |
-        	| 1 | First-impression | 90 | 100 | 10 | ![bug](../img/types/bug.png) | ![physical](../img/types/physical.png) |
-	| 1 | Leer | - | 100 | 30 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| 1 | Peck | 35 | 100 | 35 | ![flying](../img/types/flying.png) | ![physical](../img/types/physical.png) |
-	| 1 | Iron-defense | - | - | 15 | ![steel](../img/types/steel.png) | ![status](../img/types/status.png) |
-	| 1 | Fury-cutter | 40 | 95 | 20 | ![bug](../img/types/bug.png) | ![physical](../img/types/physical.png) |
-	| 1 | Sand-attack | - | 100 | 15 | ![ground](../img/types/ground.png) | ![status](../img/types/status.png) |
-	| 15 | Rock-smash | 40 | 100 | 15 | ![fighting](../img/types/fighting.png) | ![physical](../img/types/physical.png) |
-	| 25 | Detect | - | - | 5 | ![fighting](../img/types/fighting.png) | ![status](../img/types/status.png) |
-	| 30 | Knock-off | 65 | 100 | 20 | ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png) |
-	| 35 | Defog | - | - | 15 | ![flying](../img/types/flying.png) | ![status](../img/types/status.png) |
-	| 45 | Swords-dance | - | - | 20 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| 50 | Slam | 80 | 75 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| 55 | Leaf-blade | 90 | 100 | 15 | ![grass](../img/types/grass.png) | ![physical](../img/types/physical.png) |
-	| 60 | Final-gambit | - | 100 | 5 | ![fighting](../img/types/fighting.png) | ![special](../img/types/special.png) |
-	| 65 | Brave-bird | 120 | 100 | 15 | ![flying](../img/types/flying.png) | ![physical](../img/types/physical.png) |
-	| 70 | Meteor-assault | 150 | 100 | 5 | ![fighting](../img/types/fighting.png) | ![physical](../img/types/physical.png) |
-
-        
-
-=== "Machine Moves"
-    | Machine | Name | Power | Accuracy | PP | Type | Damage Class |
-        | -- | -- | -- | -- | -- | -- | -- |
-        	| TM05 | Rest | - | - | 5 | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png) |
-	| TM13 | Snore | 50 | 100 | 15 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-	| TM12 | Solar-blade | 125 | 100 | 10 | ![grass](../img/types/grass.png) | ![physical](../img/types/physical.png) |
-	| TM51 | Steel-wing | 70 | 90 | 25 | ![steel](../img/types/steel.png) | ![physical](../img/types/physical.png) |
-	| TM13 | Brick-break | 75 | 100 | 15 | ![fighting](../img/types/fighting.png) | ![physical](../img/types/physical.png) |
-	| TM58 | Assurance | 60 | 100 | 10 | ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png) |
-	| TM03 | Helping-hand | - | - | 20 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM45 | Attract | - | 100 | 15 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM59 | Brutal-swing | 60 | 100 | 20 | ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png) |
-	| TM42 | Revenge | 60 | 100 | 10 | ![fighting](../img/types/fighting.png) | ![physical](../img/types/physical.png) |
-	| TM11 | Sunny-day | - | - | 5 | ![fire](../img/types/fire.png) | ![status](../img/types/status.png) |
-	| TM07 | Protect | - | - | 10 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM12 | Facade | 70 | 100 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM67 | Retaliate | 70 | 100 | 5 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM48 | Round | 60 | 100 | 15 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-
-        

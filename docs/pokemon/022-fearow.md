@@ -82,65 +82,10 @@
 
 
 ## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Isle Of Armor 1 | Grass | 20 |  |
+| Route                 | Area     | Encounter Rate | Extra Instructions |
+| --------------------- | -------- | -------------- | ------------------ |
+| Wild Area 3 (Volcano) | Raid Den | 7              |                    |
+| Isle Of Armor 1       | Grass    | 20             |                    |
 
         
 
-## Moveset
-
-=== "Level Up Moves"
-    | Level | Name | Power | Accuracy | PP | Type | Damage Class |
-        | -- | -- | -- | -- | -- | -- | -- |
-        	| 1 | Sky-attack | 140 | 90 | 5 | ![flying](../img/types/flying.png) | ![physical](../img/types/physical.png) |
-	| 1 | Peck | 35 | 100 | 35 | ![flying](../img/types/flying.png) | ![physical](../img/types/physical.png) |
-	| 1 | Quick-attack | 40 | 100 | 30 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| 1 | Pluck | 60 | 100 | 20 | ![flying](../img/types/flying.png) | ![physical](../img/types/physical.png) |
-	| 3 | Growl | - | 100 | 40 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| 8 | Pursuit | 40 | 100 | 20 | ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png) |
-	| 8 | Leer | - | 100 | 30 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| 11 | Focus-energy | - | - | 30 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| 16 | Fury-attack | 15 | 85 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| 19 | Mirror-move | - | - | 20 | ![flying](../img/types/flying.png) | ![status](../img/types/status.png) |
-	| 23 | Assurance | 60 | 100 | 10 | ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png) |
-	| 37 | Agility | - | - | 30 | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png) |
-	| 47 | Drill-peck | 80 | 100 | 20 | ![flying](../img/types/flying.png) | ![physical](../img/types/physical.png) |
-
-        
-
-=== "Machine Moves"
-    | Machine | Name | Power | Accuracy | PP | Type | Damage Class |
-        | -- | -- | -- | -- | -- | -- | -- |
-        	| TM27 | Toxic | - | 90 | 10 | ![poison](../img/types/poison.png) | ![status](../img/types/status.png) |
-	| TM100 | Confide | - | - | 20 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM27 | Return | - | 100 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM87 | Swagger | - | 85 | 15 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM54 | False-swipe | 40 | 100 | 40 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM05 | Rest | - | - | 5 | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png) |
-	| TM01 | Headbutt | 70 | 100 | 15 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM28 | Tri-attack | 80 | 100 | 10 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-	| TM88 | Sleep-talk | - | - | 10 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM58 | Drill-run | 80 | 95 | 10 | ![ground](../img/types/ground.png) | ![physical](../img/types/physical.png) |
-	| TM32 | Double-team | - | - | 15 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM51 | Steel-wing | 70 | 90 | 25 | ![steel](../img/types/steel.png) | ![physical](../img/types/physical.png) |
-	| TM46 | Thief | 60 | 100 | 25 | ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png) |
-	| TM89 | U-turn | 70 | 100 | 20 | ![bug](../img/types/bug.png) | ![physical](../img/types/physical.png) |
-	| TM10 | Hidden-power | 60 | 100 | 15 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-	| TM21 | Frustration | - | 100 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM19 | Roost | - | - | 5 | ![flying](../img/types/flying.png) | ![status](../img/types/status.png) |
-	| TM40 | Aerial-ace | 60 | - | 20 | ![flying](../img/types/flying.png) | ![physical](../img/types/physical.png) |
-	| TM45 | Attract | - | 100 | 15 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM11 | Sunny-day | - | - | 5 | ![fire](../img/types/fire.png) | ![status](../img/types/status.png) |
-	| TM08 | Substitute | - | - | 10 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM48 | Hyper-beam | 150 | 90 | 5 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-	| TM07 | Protect | - | - | 10 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM12 | Facade | 70 | 100 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM01 | Work-up | - | - | 30 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM48 | Round | 60 | 100 | 15 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-	| TM76 | Fly | 90 | 95 | 15 | ![flying](../img/types/flying.png) | ![physical](../img/types/physical.png) |
-	| TM49 | Echoed-voice | 40 | 100 | 15 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-	| TM18 | Rain-dance | - | - | 5 | ![water](../img/types/water.png) | ![status](../img/types/status.png) |
-	| TM68 | Giga-impact | 150 | 90 | 5 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-
-        

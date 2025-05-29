@@ -82,51 +82,16 @@
 
 
 ## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Route 9 | Grass | 10 |  |
+| Route                  | Area     | Encounter Rate | Extra Instructions |
+| ---------------------- | -------- | -------------- | ------------------ |
+| Wild Area 3 South      | Raid Den | 4              |                    |
+| Wild Area 3 West       | Raid Den | 4              |                    |
+| Wild Area 3 North      | Raid Den | 4              |                    |
+| Wild Area 7 (Ice) East | Raid Den | 2              |                    |
+| Wild Area 7 (Ice) West | Raid Den | 2              |                    |
+| Route 9                | Grass    | 10             |                    |
+| Wild Area 8 (Spooky)   | Raid Den | 2              |                    |
+| Wild Area 9 (Dragon)   | Raid Den | 2              |                    |
 
         
 
-## Moveset
-
-=== "Level Up Moves"
-    | Level | Name | Power | Accuracy | PP | Type | Damage Class |
-        | -- | -- | -- | -- | -- | -- | -- |
-        	| 1 | Peck | 35 | 100 | 35 | ![flying](../img/types/flying.png) | ![physical](../img/types/physical.png) |
-	| 1 | Thunder-shock | 40 | 100 | 30 | ![electric](../img/types/electric.png) | ![special](../img/types/special.png) |
-	| 5 | Water-gun | 40 | 100 | 25 | ![water](../img/types/water.png) | ![special](../img/types/special.png) |
-	| 10 | Charge | - | - | 20 | ![electric](../img/types/electric.png) | ![status](../img/types/status.png) |
-	| 15 | Fury-attack | 15 | 85 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| 20 | Spark | 65 | 100 | 20 | ![electric](../img/types/electric.png) | ![physical](../img/types/physical.png) |
-	| 25 | Bubble-beam | 65 | 100 | 20 | ![water](../img/types/water.png) | ![special](../img/types/special.png) |
-	| 30 | Recover | - | - | 5 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| 35 | Curse | - | - | 10 | ![ghost](../img/types/ghost.png) | ![status](../img/types/status.png) |
-	| 45 | Poison-jab | 80 | 100 | 20 | ![poison](../img/types/poison.png) | ![physical](../img/types/physical.png) |
-	| 50 | Zing-zap | 80 | 100 | 10 | ![electric](../img/types/electric.png) | ![physical](../img/types/physical.png) |
-	| 55 | Acupressure | - | - | 30 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| 60 | Discharge | 80 | 100 | 15 | ![electric](../img/types/electric.png) | ![special](../img/types/special.png) |
-
-        
-
-=== "Machine Moves"
-    | Machine | Name | Power | Accuracy | PP | Type | Damage Class |
-        | -- | -- | -- | -- | -- | -- | -- |
-        	| TM66 | Payback | 50 | 100 | 10 | ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png) |
-	| TM09 | Venoshock | 65 | 100 | 10 | ![poison](../img/types/poison.png) | ![special](../img/types/special.png) |
-	| TM05 | Rest | - | - | 5 | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png) |
-	| TM13 | Snore | 50 | 100 | 15 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-	| TM58 | Assurance | 60 | 100 | 10 | ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png) |
-	| TM07 | Pin-missile | 25 | 95 | 20 | ![bug](../img/types/bug.png) | ![physical](../img/types/physical.png) |
-	| TM90 | Electric-terrain | - | - | 10 | ![electric](../img/types/electric.png) | ![status](../img/types/status.png) |
-	| TM45 | Attract | - | 100 | 15 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM77 | Hex | 65 | 100 | 10 | ![ghost](../img/types/ghost.png) | ![special](../img/types/special.png) |
-	| TM07 | Protect | - | - | 10 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM55 | Brine | 65 | 100 | 10 | ![water](../img/types/water.png) | ![special](../img/types/special.png) |
-	| TM12 | Facade | 70 | 100 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM48 | Round | 60 | 100 | 15 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-	| TM18 | Rain-dance | - | - | 5 | ![water](../img/types/water.png) | ![status](../img/types/status.png) |
-	| TM42 | Self-destruct | 200 | 100 | 5 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM16 | Thunder-wave | - | 90 | 20 | ![electric](../img/types/electric.png) | ![status](../img/types/status.png) |
-
-        

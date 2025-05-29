@@ -83,23 +83,3 @@
 
 
 
-## Moveset
-
-=== "Level Up Moves"
-    | Level | Name | Power | Accuracy | PP | Type | Damage Class |
-        | -- | -- | -- | -- | -- | -- | -- |
-        	| 1 | Encore | - | 100 | 5 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| 1 | Charm | - | 100 | 20 | ![fairy](../img/types/fairy.png) | ![status](../img/types/status.png) |
-	| 1 | Splash | - | - | 40 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| 15 | Mirror-coat | - | 100 | 20 | ![psychic](../img/types/psychic.png) | ![special](../img/types/special.png) |
-	| 15 | Counter | - | 100 | 20 | ![fighting](../img/types/fighting.png) | ![physical](../img/types/physical.png) |
-	| 15 | Destiny-bond | - | - | 5 | ![ghost](../img/types/ghost.png) | ![status](../img/types/status.png) |
-
-        
-
-=== "Machine Moves"
-    | Machine | Name | Power | Accuracy | PP | Type | Damage Class |
-        | -- | -- | -- | -- | -- | -- | -- |
-        	| TM20 | Safeguard | - | - | 25 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-
-        

@@ -89,20 +89,3 @@
 
         
 
-## Moveset
-
-=== "Level Up Moves"
-    | Level | Name | Power | Accuracy | PP | Type | Damage Class |
-        | -- | -- | -- | -- | -- | -- | -- |
-        	| 1 | Mirror-coat | - | 100 | 20 | ![psychic](../img/types/psychic.png) | ![special](../img/types/special.png) |
-	| 1 | Counter | - | 100 | 20 | ![fighting](../img/types/fighting.png) | ![physical](../img/types/physical.png) |
-	| 1 | Destiny-bond | - | - | 5 | ![ghost](../img/types/ghost.png) | ![status](../img/types/status.png) |
-
-        
-
-=== "Machine Moves"
-    | Machine | Name | Power | Accuracy | PP | Type | Damage Class |
-        | -- | -- | -- | -- | -- | -- | -- |
-        	| TM20 | Safeguard | - | - | 25 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-
-        

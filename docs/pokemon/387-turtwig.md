@@ -82,58 +82,9 @@
 
 
 ## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Motostoke | In Game Trade | 100 | Trade Dubwool for Turtwig |
+| Route          | Area          | Encounter Rate | Extra Instructions        |
+| -------------- | ------------- | -------------- | ------------------------- |
+| Motostoke East | In Game Trade | 100            | Trade Dubwool for Turtwig |
 
         
 
-## Moveset
-
-=== "Level Up Moves"
-    | Level | Name | Power | Accuracy | PP | Type | Damage Class |
-        | -- | -- | -- | -- | -- | -- | -- |
-        	| 1 | Tackle | 40 | 100 | 35 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| 5 | Withdraw | - | - | 40 | ![water](../img/types/water.png) | ![status](../img/types/status.png) |
-	| 9 | Absorb | 20 | 100 | 25 | ![grass](../img/types/grass.png) | ![special](../img/types/special.png) |
-	| 13 | Razor-leaf | 55 | 95 | 25 | ![grass](../img/types/grass.png) | ![physical](../img/types/physical.png) |
-	| 17 | Curse | - | - | 10 | ![ghost](../img/types/ghost.png) | ![status](../img/types/status.png) |
-	| 21 | Bite | 60 | 100 | 25 | ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png) |
-	| 25 | Mega-drain | 40 | 100 | 15 | ![grass](../img/types/grass.png) | ![special](../img/types/special.png) |
-	| 29 | Leech-seed | - | 90 | 10 | ![grass](../img/types/grass.png) | ![status](../img/types/status.png) |
-	| 33 | Synthesis | - | - | 5 | ![grass](../img/types/grass.png) | ![status](../img/types/status.png) |
-	| 37 | Crunch | 80 | 100 | 15 | ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png) |
-	| 41 | Giga-drain | 75 | 100 | 10 | ![grass](../img/types/grass.png) | ![special](../img/types/special.png) |
-	| 45 | Leaf-storm | 130 | 90 | 5 | ![grass](../img/types/grass.png) | ![special](../img/types/special.png) |
-
-        
-
-=== "Machine Moves"
-    | Machine | Name | Power | Accuracy | PP | Type | Damage Class |
-        | -- | -- | -- | -- | -- | -- | -- |
-        	| TM27 | Toxic | - | 90 | 10 | ![poison](../img/types/poison.png) | ![status](../img/types/status.png) |
-	| TM100 | Confide | - | - | 20 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM27 | Return | - | 100 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM87 | Swagger | - | 85 | 15 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM05 | Rest | - | - | 5 | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png) |
-	| TM88 | Sleep-talk | - | - | 10 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM32 | Double-team | - | - | 15 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM86 | Grass-knot | - | 100 | 20 | ![grass](../img/types/grass.png) | ![special](../img/types/special.png) |
-	| TM10 | Hidden-power | 60 | 100 | 15 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-	| TM21 | Frustration | - | 100 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM53 | Energy-ball | 90 | 100 | 10 | ![grass](../img/types/grass.png) | ![special](../img/types/special.png) |
-	| TM45 | Attract | - | 100 | 15 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM45 | Solar-beam | 120 | 100 | 10 | ![grass](../img/types/grass.png) | ![special](../img/types/special.png) |
-	| TM11 | Sunny-day | - | - | 5 | ![fire](../img/types/fire.png) | ![status](../img/types/status.png) |
-	| TM08 | Substitute | - | - | 10 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM16 | Light-screen | - | - | 30 | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png) |
-	| TM20 | Safeguard | - | - | 25 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM07 | Protect | - | - | 10 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM12 | Facade | 70 | 100 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM01 | Work-up | - | - | 30 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM96 | Nature-power | - | - | 20 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM48 | Round | 60 | 100 | 15 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-	| TM33 | Reflect | - | - | 20 | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png) |
-	| TM75 | Swords-dance | - | - | 20 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-
-        

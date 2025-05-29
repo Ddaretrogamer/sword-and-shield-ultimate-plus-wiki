@@ -82,49 +82,21 @@
 
 
 ## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Route 2 | Grass | 10 |  |
-	| Route 2 | Overworld | 100 |  |
-	| Crown Tundra Graveyard | Overworld | 100 |  |
+| Route                      | Area      | Encounter Rate | Extra Instructions |
+| -------------------------- | --------- | -------------- | ------------------ |
+| Route 2                    | Grass     | 10             |                    |
+| Route 2                    | Overworld | 100            |                    |
+| Wild Area 1 Southwest      | Raid Den  | 2              |                    |
+| Wild Area 1 Southeast      | Raid Den  | 2              |                    |
+| Wild Area 1 Northeast      | Raid Den  | 2              |                    |
+| Wild Area 2 (Bear)         | Raid Den  | 2              |                    |
+| Wild Area 4 East           | Raid Den  | 2              |                    |
+| Wild Area 4 West           | Raid Den  | 2              |                    |
+| Wild Area 5 (Desert) North | Raid Den  | 2              |                    |
+| Wild Area 5 (Desert) South | Raid Den  | 2              |                    |
+| Wild Area 6 West           | Raid Den  | 2              |                    |
+| Wild Area 6 East           | Raid Den  | 2              |                    |
+| Crown Tundra Graveyard     | Overworld | 100            |                    |
 
         
 
-## Moveset
-
-=== "Level Up Moves"
-    | Level | Name | Power | Accuracy | PP | Type | Damage Class |
-        | -- | -- | -- | -- | -- | -- | -- |
-        	| 1 | Tail-whip | - | 100 | 30 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| 1 | Tackle | 40 | 100 | 35 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| 5 | Nuzzle | 20 | 100 | 20 | ![electric](../img/types/electric.png) | ![physical](../img/types/physical.png) |
-	| 10 | Bite | 60 | 100 | 25 | ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png) |
-	| 15 | Roar | - | - | 20 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| 20 | Spark | 65 | 100 | 20 | ![electric](../img/types/electric.png) | ![physical](../img/types/physical.png) |
-	| 30 | Crunch | 80 | 100 | 15 | ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png) |
-	| 35 | Charge | - | - | 20 | ![electric](../img/types/electric.png) | ![status](../img/types/status.png) |
-	| 40 | Wild-charge | 90 | 100 | 15 | ![electric](../img/types/electric.png) | ![physical](../img/types/physical.png) |
-	| 45 | Play-rough | 90 | 90 | 10 | ![fairy](../img/types/fairy.png) | ![physical](../img/types/physical.png) |
-
-        
-
-=== "Machine Moves"
-    | Machine | Name | Power | Accuracy | PP | Type | Damage Class |
-        | -- | -- | -- | -- | -- | -- | -- |
-        	| TM39 | Swift | 60 | - | 20 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-	| TM05 | Rest | - | - | 5 | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png) |
-	| TM13 | Snore | 50 | 100 | 15 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-	| TM29 | Charm | - | 100 | 20 | ![fairy](../img/types/fairy.png) | ![status](../img/types/status.png) |
-	| TM66 | Thunder-fang | 65 | 95 | 15 | ![electric](../img/types/electric.png) | ![physical](../img/types/physical.png) |
-	| TM10 | Dig | 80 | 100 | 10 | ![ground](../img/types/ground.png) | ![physical](../img/types/physical.png) |
-	| TM03 | Helping-hand | - | - | 20 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM68 | Fire-fang | 65 | 95 | 15 | ![fire](../img/types/fire.png) | ![physical](../img/types/physical.png) |
-	| TM45 | Attract | - | 100 | 15 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM95 | Snarl | 55 | 95 | 15 | ![dark](../img/types/dark.png) | ![special](../img/types/special.png) |
-	| TM72 | Volt-switch | 70 | 100 | 20 | ![electric](../img/types/electric.png) | ![special](../img/types/special.png) |
-	| TM07 | Protect | - | - | 10 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM12 | Facade | 70 | 100 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM48 | Round | 60 | 100 | 15 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-	| TM16 | Thunder-wave | - | 90 | 20 | ![electric](../img/types/electric.png) | ![status](../img/types/status.png) |
-
-        

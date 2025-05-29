@@ -82,69 +82,13 @@
 
 
 ## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Isle Of Armor 1 | Grass | 4 |  |
+| Route                  | Area     | Encounter Rate | Extra Instructions |
+| ---------------------- | -------- | -------------- | ------------------ |
+| Wild Area 7 (Ice) East | Raid Den | 2              |                    |
+| Wild Area 7 (Ice) West | Raid Den | 2              |                    |
+| Wild Area 8 (Spooky)   | Raid Den | 2              |                    |
+| Wild Area 9 (Dragon)   | Raid Den | 2              |                    |
+| Isle Of Armor 1        | Grass    | 4              |                    |
 
         
 
-## Moveset
-
-=== "Level Up Moves"
-    | Level | Name | Power | Accuracy | PP | Type | Damage Class |
-        | -- | -- | -- | -- | -- | -- | -- |
-        	| 1 | Tackle | 40 | 100 | 35 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| 1 | Charge | - | - | 20 | ![electric](../img/types/electric.png) | ![status](../img/types/status.png) |
-	| 1 | Magnetic-flux | - | - | 20 | ![electric](../img/types/electric.png) | ![status](../img/types/status.png) |
-	| 6 | Eerie-impulse | - | 100 | 15 | ![electric](../img/types/electric.png) | ![status](../img/types/status.png) |
-	| 6 | Sonic-boom | - | 90 | 20 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-	| 9 | Thunder-shock | 40 | 100 | 30 | ![electric](../img/types/electric.png) | ![special](../img/types/special.png) |
-	| 9 | Spark | 65 | 100 | 20 | ![electric](../img/types/electric.png) | ![physical](../img/types/physical.png) |
-	| 11 | Rollout | 30 | 90 | 20 | ![rock](../img/types/rock.png) | ![physical](../img/types/physical.png) |
-	| 14 | Swift | 60 | - | 20 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-	| 22 | Electro-ball | - | 100 | 10 | ![electric](../img/types/electric.png) | ![special](../img/types/special.png) |
-	| 24 | Screech | - | 85 | 40 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| 36 | Magnet-rise | - | - | 10 | ![electric](../img/types/electric.png) | ![status](../img/types/status.png) |
-	| 41 | Discharge | 80 | 100 | 15 | ![electric](../img/types/electric.png) | ![special](../img/types/special.png) |
-	| 48 | Mirror-coat | - | 100 | 20 | ![psychic](../img/types/psychic.png) | ![special](../img/types/special.png) |
-	| 60 | Explosion | 250 | 100 | 5 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-
-        
-
-=== "Machine Moves"
-    | Machine | Name | Power | Accuracy | PP | Type | Damage Class |
-        | -- | -- | -- | -- | -- | -- | -- |
-        	| TM27 | Toxic | - | 90 | 10 | ![poison](../img/types/poison.png) | ![status](../img/types/status.png) |
-	| TM36 | Thunderbolt | 90 | 100 | 15 | ![electric](../img/types/electric.png) | ![special](../img/types/special.png) |
-	| TM100 | Confide | - | - | 20 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM21 | Foul-play | 95 | 100 | 15 | ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png) |
-	| TM27 | Return | - | 100 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM87 | Swagger | - | 85 | 15 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM05 | Rest | - | - | 5 | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png) |
-	| TM38 | Thunder | 110 | 70 | 10 | ![electric](../img/types/electric.png) | ![special](../img/types/special.png) |
-	| TM01 | Headbutt | 70 | 100 | 15 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM04 | Teleport | - | - | 20 | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png) |
-	| TM88 | Sleep-talk | - | - | 10 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM32 | Double-team | - | - | 15 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM41 | Torment | - | 100 | 15 | ![dark](../img/types/dark.png) | ![status](../img/types/status.png) |
-	| TM46 | Thief | 60 | 100 | 25 | ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png) |
-	| TM10 | Hidden-power | 60 | 100 | 15 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-	| TM21 | Frustration | - | 100 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM57 | Charge-beam | 50 | 90 | 10 | ![electric](../img/types/electric.png) | ![special](../img/types/special.png) |
-	| TM74 | Gyro-ball | - | 100 | 5 | ![steel](../img/types/steel.png) | ![physical](../img/types/physical.png) |
-	| TM08 | Substitute | - | - | 10 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM16 | Light-screen | - | - | 30 | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png) |
-	| TM72 | Volt-switch | 70 | 100 | 20 | ![electric](../img/types/electric.png) | ![special](../img/types/special.png) |
-	| TM93 | Wild-charge | 90 | 100 | 15 | ![electric](../img/types/electric.png) | ![physical](../img/types/physical.png) |
-	| TM48 | Hyper-beam | 150 | 90 | 5 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-	| TM07 | Protect | - | - | 10 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM12 | Facade | 70 | 100 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM12 | Taunt | - | 100 | 20 | ![dark](../img/types/dark.png) | ![status](../img/types/status.png) |
-	| TM48 | Round | 60 | 100 | 15 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-	| TM18 | Rain-dance | - | - | 5 | ![water](../img/types/water.png) | ![status](../img/types/status.png) |
-	| TM68 | Giga-impact | 150 | 90 | 5 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM33 | Reflect | - | - | 20 | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png) |
-	| TM42 | Self-destruct | 200 | 100 | 5 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM16 | Thunder-wave | - | 90 | 20 | ![electric](../img/types/electric.png) | ![status](../img/types/status.png) |
-
-        

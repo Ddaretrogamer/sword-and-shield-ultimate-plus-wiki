@@ -82,25 +82,13 @@
 
 
 ## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Slumbering Weald | Grass | 10 |  |
-	| Route 1 | Grass | 10 |  |
-	| Route 2 | Grass | 40 |  |
-
+| Route                 | Area     | Encounter Rate | Extra Instructions |
+| --------------------- | -------- | -------------- | ------------------ |
+| Slumbering Weald      | Grass    | 10             |                    |
+| Route 1               | Grass    | 10             |                    |
+| Route 2               | Grass    | 40             |                    |
+| Wild Area 1 Southwest | Raid Den | 2              |                    |
+| Wild Area 1 Southeast | Raid Den | 2              |                    |
+| Wild Area 1 Northeast | Raid Den | 2              |                    |
         
 
-## Moveset
-
-=== "Level Up Moves"
-    | Level | Name | Power | Accuracy | PP | Type | Damage Class |
-        | -- | -- | -- | -- | -- | -- | -- |
-        	| 1 | Struggle-bug | 50 | 100 | 20 | ![bug](../img/types/bug.png) | ![special](../img/types/special.png) |
-
-        
-
-=== "Machine Moves"
-    | Machine | Name | Power | Accuracy | PP | Type | Damage Class |
-        | -- | -- | -- | -- | -- | -- | -- |
-        
-        

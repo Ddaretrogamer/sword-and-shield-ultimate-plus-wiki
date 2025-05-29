@@ -82,35 +82,12 @@
 
 
 ## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Route 5 | Gift | 100 | Gift from old woman in daycare |
-	| Route 7 | Grass | 20 |  |
-
+| Route                 | Area     | Encounter Rate | Extra Instructions   |
+| --------------------- | -------- | -------------- | -------------------- |
+| Wild Area 1 Southwest | Raid Den | 2              |                      |
+| Wild Area 1 Southeast | Raid Den | 2              |                      |
+| Wild Area 1 Northeast | Raid Den | 2              |                      |
+| Route 5               | Gift     | 100            | Old woman in Daycare |
+| Route 7               | Grass    | 20             |                      |
         
 
-## Moveset
-
-=== "Level Up Moves"
-    | Level | Name | Power | Accuracy | PP | Type | Damage Class |
-        | -- | -- | -- | -- | -- | -- | -- |
-        	| 1 | Acid | 40 | 100 | 30 | ![poison](../img/types/poison.png) | ![special](../img/types/special.png) |
-	| 1 | Belch | 120 | 90 | 10 | ![poison](../img/types/poison.png) | ![special](../img/types/special.png) |
-	| 1 | Tearful-look | - | - | 20 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| 1 | Nuzzle | 20 | 100 | 20 | ![electric](../img/types/electric.png) | ![physical](../img/types/physical.png) |
-	| 1 | Flail | - | 100 | 15 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| 1 | Growl | - | 100 | 40 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-
-        
-
-=== "Machine Moves"
-    | Machine | Name | Power | Accuracy | PP | Type | Damage Class |
-        | -- | -- | -- | -- | -- | -- | -- |
-        	| TM05 | Rest | - | - | 5 | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png) |
-	| TM13 | Snore | 50 | 100 | 15 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-	| TM45 | Attract | - | 100 | 15 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM07 | Protect | - | - | 10 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM12 | Facade | 70 | 100 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM48 | Round | 60 | 100 | 15 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-
-        

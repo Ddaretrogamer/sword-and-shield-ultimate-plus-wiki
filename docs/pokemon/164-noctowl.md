@@ -82,69 +82,11 @@
 
 
 ## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Motostoke | Grass | 20 |  |
-	| Wild Area 4 East | Grass | 10 |  |
-	| Crown Tundra Graveyard | Overworld | 100 |  |
+| Route                  | Area      | Encounter Rate | Extra Instructions |
+| ---------------------- | --------- | -------------- | ------------------ |
+| Motostoke East         | Grass     | 20             |                    |
+| Wild Area 4 East       | Grass     | 10             |                    |
+| Crown Tundra Graveyard | Overworld | 100            |                    |
 
         
 
-## Moveset
-
-=== "Level Up Moves"
-    | Level | Name | Power | Accuracy | PP | Type | Damage Class |
-        | -- | -- | -- | -- | -- | -- | -- |
-        	| 1 | Tackle | 40 | 100 | 35 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| 1 | Sky-attack | 140 | 90 | 5 | ![flying](../img/types/flying.png) | ![physical](../img/types/physical.png) |
-	| 1 | Foresight | - | - | 40 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| 1 | Growl | - | 100 | 40 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| 4 | Hypnosis | - | 60 | 20 | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png) |
-	| 7 | Peck | 35 | 100 | 35 | ![flying](../img/types/flying.png) | ![physical](../img/types/physical.png) |
-	| 10 | Confusion | 50 | 100 | 25 | ![psychic](../img/types/psychic.png) | ![special](../img/types/special.png) |
-	| 16 | Zen-headbutt | 80 | 90 | 15 | ![psychic](../img/types/psychic.png) | ![physical](../img/types/physical.png) |
-	| 19 | Psycho-shift | - | 100 | 10 | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png) |
-	| 23 | Extrasensory | 80 | 100 | 20 | ![psychic](../img/types/psychic.png) | ![special](../img/types/special.png) |
-	| 27 | Take-down | 90 | 85 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| 35 | Air-slash | 75 | 95 | 15 | ![flying](../img/types/flying.png) | ![special](../img/types/special.png) |
-	| 39 | Uproar | 90 | 100 | 10 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-	| 47 | Moonblast | 95 | 100 | 15 | ![fairy](../img/types/fairy.png) | ![special](../img/types/special.png) |
-	| 51 | Synchronoise | 120 | 100 | 10 | ![psychic](../img/types/psychic.png) | ![special](../img/types/special.png) |
-
-        
-
-=== "Machine Moves"
-    | Machine | Name | Power | Accuracy | PP | Type | Damage Class |
-        | -- | -- | -- | -- | -- | -- | -- |
-        	| TM27 | Toxic | - | 90 | 10 | ![poison](../img/types/poison.png) | ![status](../img/types/status.png) |
-	| TM100 | Confide | - | - | 20 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM27 | Return | - | 100 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM87 | Swagger | - | 85 | 15 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM85 | Dream-eater | 100 | 100 | 15 | ![psychic](../img/types/psychic.png) | ![special](../img/types/special.png) |
-	| TM05 | Rest | - | - | 5 | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png) |
-	| TM88 | Sleep-talk | - | - | 10 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM32 | Double-team | - | - | 15 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM51 | Steel-wing | 70 | 90 | 25 | ![steel](../img/types/steel.png) | ![physical](../img/types/physical.png) |
-	| TM46 | Thief | 60 | 100 | 25 | ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png) |
-	| TM29 | Psychic | 90 | 100 | 10 | ![psychic](../img/types/psychic.png) | ![special](../img/types/special.png) |
-	| TM10 | Hidden-power | 60 | 100 | 15 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-	| TM21 | Frustration | - | 100 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM30 | Shadow-ball | 80 | 100 | 15 | ![ghost](../img/types/ghost.png) | ![special](../img/types/special.png) |
-	| TM19 | Roost | - | - | 5 | ![flying](../img/types/flying.png) | ![status](../img/types/status.png) |
-	| TM40 | Aerial-ace | 60 | - | 20 | ![flying](../img/types/flying.png) | ![physical](../img/types/physical.png) |
-	| TM45 | Attract | - | 100 | 15 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM11 | Sunny-day | - | - | 5 | ![fire](../img/types/fire.png) | ![status](../img/types/status.png) |
-	| TM08 | Substitute | - | - | 10 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM48 | Hyper-beam | 150 | 90 | 5 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-	| TM07 | Protect | - | - | 10 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM12 | Facade | 70 | 100 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM77 | Psych-up | - | - | 10 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM01 | Work-up | - | - | 30 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM48 | Round | 60 | 100 | 15 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-	| TM76 | Fly | 90 | 95 | 15 | ![flying](../img/types/flying.png) | ![physical](../img/types/physical.png) |
-	| TM49 | Echoed-voice | 40 | 100 | 15 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-	| TM18 | Rain-dance | - | - | 5 | ![water](../img/types/water.png) | ![status](../img/types/status.png) |
-	| TM68 | Giga-impact | 150 | 90 | 5 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM33 | Reflect | - | - | 20 | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png) |
-
-        

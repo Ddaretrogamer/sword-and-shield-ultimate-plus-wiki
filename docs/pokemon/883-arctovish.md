@@ -82,52 +82,13 @@
 
 
 ## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Route 6 | Gift | 100 |  |
-
+| Route           | Area     | Encounter Rate | Extra Instructions |
+| --------------- | -------- | -------------- | ------------------ |
+| Route 6         | Gift     | 100            |                    |
+| Isle or Armor 2 | Raid Den | 2              |                    |
+| Isle of Armor 4 | Raid Den | 2              |                    |
+| Isle of Armor 5 | Raid Den | 2              |                    |
+| Isle of Armor 6 | Raid Den | 2              |                    |
+| Isle of Armor 7 | Raid Den | 2              |                    |
         
 
-## Moveset
-
-=== "Level Up Moves"
-    | Level | Name | Power | Accuracy | PP | Type | Damage Class |
-        | -- | -- | -- | -- | -- | -- | -- |
-        	| 1 | Water-gun | 40 | 100 | 25 | ![water](../img/types/water.png) | ![special](../img/types/special.png) |
-	| 1 | Powder-snow | 40 | 100 | 25 | ![ice](../img/types/ice.png) | ![special](../img/types/special.png) |
-	| 21 | Ancient-power | 60 | 100 | 5 | ![rock](../img/types/rock.png) | ![special](../img/types/special.png) |
-	| 28 | Bite | 60 | 100 | 25 | ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png) |
-	| 35 | Aurora-veil | - | - | 20 | ![ice](../img/types/ice.png) | ![status](../img/types/status.png) |
-	| 42 | Freeze-dry | 70 | 100 | 20 | ![ice](../img/types/ice.png) | ![special](../img/types/special.png) |
-	| 49 | Super-fang | - | 90 | 10 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| 56 | Crunch | 80 | 100 | 15 | ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png) |
-	| 63 | Fishious-rend | 85 | 100 | 10 | ![water](../img/types/water.png) | ![physical](../img/types/physical.png) |
-	| 70 | Icicle-crash | 85 | 90 | 10 | ![ice](../img/types/ice.png) | ![physical](../img/types/physical.png) |
-	| 77 | Blizzard | 110 | 70 | 5 | ![ice](../img/types/ice.png) | ![special](../img/types/special.png) |
-
-        
-
-=== "Machine Moves"
-    | Machine | Name | Power | Accuracy | PP | Type | Damage Class |
-        | -- | -- | -- | -- | -- | -- | -- |
-        	| TM22 | Rock-slide | 75 | 90 | 10 | ![rock](../img/types/rock.png) | ![physical](../img/types/physical.png) |
-	| TM54 | Rock-blast | 25 | 90 | 10 | ![rock](../img/types/rock.png) | ![physical](../img/types/physical.png) |
-	| TM45 | Dive | 80 | 100 | 10 | ![water](../img/types/water.png) | ![physical](../img/types/physical.png) |
-	| TM36 | Whirlpool | 35 | 85 | 15 | ![water](../img/types/water.png) | ![special](../img/types/special.png) |
-	| TM05 | Rest | - | - | 5 | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png) |
-	| TM13 | Snore | 50 | 100 | 15 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-	| TM39 | Rock-tomb | 60 | 95 | 15 | ![rock](../img/types/rock.png) | ![physical](../img/types/physical.png) |
-	| TM16 | Icy-wind | 55 | 95 | 15 | ![ice](../img/types/ice.png) | ![special](../img/types/special.png) |
-	| TM07 | Hail | - | - | 10 | ![ice](../img/types/ice.png) | ![status](../img/types/status.png) |
-	| TM67 | Ice-fang | 65 | 95 | 15 | ![ice](../img/types/ice.png) | ![physical](../img/types/physical.png) |
-	| TM51 | Icicle-spear | 25 | 100 | 30 | ![ice](../img/types/ice.png) | ![physical](../img/types/physical.png) |
-	| TM48 | Hyper-beam | 150 | 90 | 5 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-	| TM07 | Protect | - | - | 10 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM55 | Brine | 65 | 100 | 10 | ![water](../img/types/water.png) | ![special](../img/types/special.png) |
-	| TM12 | Facade | 70 | 100 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM48 | Round | 60 | 100 | 15 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-	| TM18 | Rain-dance | - | - | 5 | ![water](../img/types/water.png) | ![status](../img/types/status.png) |
-	| TM68 | Giga-impact | 150 | 90 | 5 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM64 | Avalanche | 60 | 100 | 10 | ![ice](../img/types/ice.png) | ![physical](../img/types/physical.png) |
-
-        

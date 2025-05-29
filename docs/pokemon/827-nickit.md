@@ -82,52 +82,25 @@
 
 
 ## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Route 1 | Grass | 2 |  |
-	| Route 2 | Overworld | 100 |  |
-	| Route 7 | Overworld | 100 |  |
-	| Route 9 | Overworld | 100 |  |
-	| Wild Area 8 (Spooky) | Overworld | 100 |  |
-	| Isle Of Armor 2 | Overworld | 100 |  |
-	| Isle Of Armor 9 | Overworld | 100 |  |
-	| Crown Tundra Graveyard | Overworld | 100 |  |
-
+| Route                      | Area      | Encounter Rate | Extra Instructions |
+| -------------------------- | --------- | -------------- | ------------------ |
+| Route 1                    | Grass     | 2              |                    |
+| Route 2                    | Overworld | 100            |                    |
+| Wild Area 1 Southwest      | Raid Den  | 2              |                    |
+| Wild Area 1 Southeast      | Raid Den  | 2              |                    |
+| Wild Area 1 Northeast      | Raid Den  | 2              |                    |
+| Wild Area 2 (Bear)         | Raid Den  | 2              |                    |
+| Wild Area 4 East           | Raid Den  | 2              |                    |
+| Wild Area 4 West           | Raid Den  | 2              |                    |
+| Wild Area 5 (Desert) North | Raid Den  | 2              |                    |
+| Wild Area 5 (Desert) South | Raid Den  | 2              |                    |
+| Wild Area 6 West           | Raid Den  | 2              |                    |
+| Wild Area 6 East           | Raid Den  | 2              |                    |
+| Route 7                    | Overworld | 100            |                    |
+| Route 9                    | Overworld | 100            |                    |
+| Wild Area 8 (Spooky)       | Overworld | 100            |                    |
+| Isle Of Armor 2            | Overworld | 100            |                    |
+| Isle Of Armor 9            | Overworld | 100            |                    |
+| Crown Tundra Graveyard     | Overworld | 100            |                    |
         
 
-## Moveset
-
-=== "Level Up Moves"
-    | Level | Name | Power | Accuracy | PP | Type | Damage Class |
-        | -- | -- | -- | -- | -- | -- | -- |
-        	| 1 | Tail-whip | - | 100 | 30 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| 1 | Quick-attack | 40 | 100 | 30 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| 8 | Hone-claws | - | - | 15 | ![dark](../img/types/dark.png) | ![status](../img/types/status.png) |
-	| 20 | Nasty-plot | - | - | 20 | ![dark](../img/types/dark.png) | ![status](../img/types/status.png) |
-	| 24 | Sucker-punch | 70 | 100 | 5 | ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png) |
-	| 28 | Night-slash | 70 | 100 | 15 | ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png) |
-	| 36 | Foul-play | 95 | 100 | 15 | ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png) |
-
-        
-
-=== "Machine Moves"
-    | Machine | Name | Power | Accuracy | PP | Type | Damage Class |
-        | -- | -- | -- | -- | -- | -- | -- |
-        	| TM37 | Beat-up | - | 100 | 10 | ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png) |
-	| TM16 | Screech | - | 85 | 40 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM39 | Swift | 60 | - | 20 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-	| TM05 | Rest | - | - | 5 | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png) |
-	| TM13 | Snore | 50 | 100 | 15 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-	| TM47 | Fake-tears | - | 100 | 20 | ![dark](../img/types/dark.png) | ![status](../img/types/status.png) |
-	| TM46 | Thief | 60 | 100 | 25 | ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png) |
-	| TM10 | Dig | 80 | 100 | 10 | ![ground](../img/types/ground.png) | ![physical](../img/types/physical.png) |
-	| TM58 | Assurance | 60 | 100 | 10 | ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png) |
-	| TM53 | Mud-shot | 55 | 95 | 15 | ![ground](../img/types/ground.png) | ![special](../img/types/special.png) |
-	| TM45 | Attract | - | 100 | 15 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM84 | Tail-slap | 25 | 85 | 10 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM95 | Snarl | 55 | 95 | 15 | ![dark](../img/types/dark.png) | ![special](../img/types/special.png) |
-	| TM07 | Protect | - | - | 10 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM12 | Facade | 70 | 100 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM48 | Round | 60 | 100 | 15 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-
-        

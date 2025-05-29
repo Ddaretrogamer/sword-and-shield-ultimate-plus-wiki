@@ -80,48 +80,13 @@
 </table>
 
 
+## Locations
+| Route           | Area     | Encounter Rate | Extra Instructions |
+| --------------- | -------- | -------------- | ------------------ |
+| Isle or Armor 2 | Raid Den | 2              | Gigantamax form    |
+| Isle of Armor 4 | Raid Den | 2              | Gigantamax form    |
+| Isle of Armor 5 | Raid Den | 2              | Gigantamax form    |
+| Isle of Armor 6 | Raid Den | 2              | Gigantamax form    |
+| Isle of Armor 7 | Raid Den | 2              | Gigantamax form    |
 
 
-
-## Moveset
-
-=== "Level Up Moves"
-    | Level | Name | Power | Accuracy | PP | Type | Damage Class |
-        | -- | -- | -- | -- | -- | -- | -- |
-        	| 1 | Tail-whip | - | 100 | 30 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| 1 | Harden | - | - | 30 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| 1 | Headbutt | 70 | 100 | 15 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| 1 | Thunder-shock | 40 | 100 | 30 | ![electric](../img/types/electric.png) | ![special](../img/types/special.png) |
-	| 32 | Acid-armor | - | - | 20 | ![poison](../img/types/poison.png) | ![status](../img/types/status.png) |
-	| 40 | Flash-cannon | 80 | 100 | 10 | ![steel](../img/types/steel.png) | ![special](../img/types/special.png) |
-	| 64 | Discharge | 80 | 100 | 15 | ![electric](../img/types/electric.png) | ![special](../img/types/special.png) |
-	| 72 | Dynamic-punch | 100 | 50 | 5 | ![fighting](../img/types/fighting.png) | ![physical](../img/types/physical.png) |
-	| 80 | Superpower | 120 | 100 | 5 | ![fighting](../img/types/fighting.png) | ![physical](../img/types/physical.png) |
-	| 88 | Double-iron-bash | 60 | 100 | 5 | ![steel](../img/types/steel.png) | ![physical](../img/types/physical.png) |
-
-        
-
-=== "Machine Moves"
-    | Machine | Name | Power | Accuracy | PP | Type | Damage Class |
-        | -- | -- | -- | -- | -- | -- | -- |
-        	| TM22 | Rock-slide | 75 | 90 | 10 | ![rock](../img/types/rock.png) | ![physical](../img/types/physical.png) |
-	| TM05 | Rest | - | - | 5 | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png) |
-	| TM13 | Snore | 50 | 100 | 15 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-	| TM39 | Rock-tomb | 60 | 95 | 15 | ![rock](../img/types/rock.png) | ![physical](../img/types/physical.png) |
-	| TM13 | Brick-break | 75 | 100 | 15 | ![fighting](../img/types/fighting.png) | ![physical](../img/types/physical.png) |
-	| TM35 | Ice-punch | 75 | 100 | 15 | ![ice](../img/types/ice.png) | ![physical](../img/types/physical.png) |
-	| TM00 | Mega-punch | 80 | 85 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM90 | Electric-terrain | - | - | 10 | ![electric](../img/types/electric.png) | ![status](../img/types/status.png) |
-	| TM45 | Solar-beam | 120 | 100 | 10 | ![grass](../img/types/grass.png) | ![special](../img/types/special.png) |
-	| TM59 | Brutal-swing | 60 | 100 | 20 | ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png) |
-	| TM01 | Mega-kick | 120 | 75 | 5 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM23 | Thunder-punch | 75 | 100 | 15 | ![electric](../img/types/electric.png) | ![physical](../img/types/physical.png) |
-	| TM48 | Hyper-beam | 150 | 90 | 5 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-	| TM07 | Protect | - | - | 10 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM12 | Facade | 70 | 100 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM48 | Round | 60 | 100 | 15 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-	| TM68 | Giga-impact | 150 | 90 | 5 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM42 | Self-destruct | 200 | 100 | 5 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM16 | Thunder-wave | - | 90 | 20 | ![electric](../img/types/electric.png) | ![status](../img/types/status.png) |
-
-        

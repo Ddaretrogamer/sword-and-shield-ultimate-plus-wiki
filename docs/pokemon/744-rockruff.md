@@ -82,61 +82,24 @@
 
 
 ## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Wild Area 1 Southeast | Overworld | 100 |  |
-	| Motostoke | Gift | 100 | Talk to NPC in first house on the right when you enter from the south to get a free Rockruff. |
-	| Wild Area 3 West | Overworld | 100 |  |
-	| Wild Area 5 (Desert) North | Overworld | 100 |  |
-	| Wild Area 6 West | Grass | 1 |  |
-	| Isle Of Armor 1 | Overworld | 100 |  |
-	| Isle Of Armor 2 | Overworld | 100 |  |
+| Route                      | Area      | Encounter Rate | Extra Instructions               |
+| -------------------------- | --------- | -------------- | -------------------------------- |
+| Wild Area 1 Southwest      | Raid Den  | 2              |                                  |
+| Wild Area 1 Southeast      | Overworld | 100            |                                  |
+| Wild Area 1 Southeast      | Raid Den  | 2              |                                  |
+| Wild Area 1 Northeast      | Raid Den  | 2              |                                  |
+| Wild Area 2 (Bear)         | Raid Den  | 2              |                                  |
+| Motostoke                  | Gift      | 100            | House to the right of PokeCenter |
+| Wild Area 3 West           | Overworld | 100            |                                  |
+| Wild Area 4 East           | Raid Den  | 2              |                                  |
+| Wild Area 4 West           | Raid Den  | 2              |                                  |
+| Wild Area 5 (Desert) North | Overworld | 100            |                                  |
+| Wild Area 5 (Desert) North | Raid Den  | 2              |                                  |
+| Wild Area 5 (Desert) South | Raid Den  | 2              |                                  |
+| Wild Area 6 West           | Grass     | 1              |                                  |
+| Wild Area 6 West           | Raid Den  | 2              |                                  |
+| Wild Area 6 East           | Raid Den  | 2              |                                  |
+| Isle Of Armor 1            | Overworld | 100            |                                  |
+| Isle Of Armor 2            | Overworld | 100            |                                  |
 
-        
 
-## Moveset
-
-=== "Level Up Moves"
-    | Level | Name | Power | Accuracy | PP | Type | Damage Class |
-        | -- | -- | -- | -- | -- | -- | -- |
-        	| 1 | Tackle | 40 | 100 | 35 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| 1 | Leer | - | 100 | 30 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| 4 | Sand-attack | - | 100 | 15 | ![ground](../img/types/ground.png) | ![status](../img/types/status.png) |
-	| 7 | Bite | 60 | 100 | 25 | ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png) |
-	| 12 | Howl | - | - | 40 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| 15 | Rock-throw | 50 | 90 | 15 | ![rock](../img/types/rock.png) | ![physical](../img/types/physical.png) |
-	| 18 | Odor-sleuth | - | - | 40 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| 29 | Stealth-rock | - | - | 20 | ![rock](../img/types/rock.png) | ![status](../img/types/status.png) |
-	| 37 | Scary-face | - | 100 | 10 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| 40 | Crunch | 80 | 100 | 15 | ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png) |
-	| 45 | Rock-climb | 90 | 85 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-
-        
-
-=== "Machine Moves"
-    | Machine | Name | Power | Accuracy | PP | Type | Damage Class |
-        | -- | -- | -- | -- | -- | -- | -- |
-        	| TM22 | Rock-slide | 75 | 90 | 10 | ![rock](../img/types/rock.png) | ![physical](../img/types/physical.png) |
-	| TM27 | Toxic | - | 90 | 10 | ![poison](../img/types/poison.png) | ![status](../img/types/status.png) |
-	| TM100 | Confide | - | - | 20 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM27 | Return | - | 100 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM87 | Swagger | - | 85 | 15 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM05 | Rest | - | - | 5 | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png) |
-	| TM88 | Sleep-talk | - | - | 10 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM05 | Roar | - | - | 20 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM32 | Double-team | - | - | 15 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM39 | Rock-tomb | 60 | 95 | 15 | ![rock](../img/types/rock.png) | ![physical](../img/types/physical.png) |
-	| TM69 | Rock-polish | - | - | 20 | ![rock](../img/types/rock.png) | ![status](../img/types/status.png) |
-	| TM10 | Hidden-power | 60 | 100 | 15 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-	| TM21 | Frustration | - | 100 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM45 | Attract | - | 100 | 15 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM71 | Stone-edge | 100 | 80 | 5 | ![rock](../img/types/rock.png) | ![physical](../img/types/physical.png) |
-	| TM95 | Snarl | 55 | 95 | 15 | ![dark](../img/types/dark.png) | ![special](../img/types/special.png) |
-	| TM08 | Substitute | - | - | 10 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM07 | Protect | - | - | 10 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM12 | Facade | 70 | 100 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM12 | Taunt | - | 100 | 20 | ![dark](../img/types/dark.png) | ![status](../img/types/status.png) |
-	| TM48 | Round | 60 | 100 | 15 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-	| TM49 | Echoed-voice | 40 | 100 | 15 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-
-        

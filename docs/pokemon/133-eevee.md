@@ -82,67 +82,25 @@
 
 
 ## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Wild Area 1 Southwest | Grass | 20 |  |
-	| Wild Area 1 Southeast | Grass | 10 |  |
-	| Route 4 | Grass | 20 |  |
-	| Crown Tundra Graveyard | Grass | 10 |  |
-
-        
-
-## Moveset
-
-=== "Level Up Moves"
-    | Level | Name | Power | Accuracy | PP | Type | Damage Class |
-        | -- | -- | -- | -- | -- | -- | -- |
-        	| 1 | Tackle | 40 | 100 | 35 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| 1 | Covet | 60 | 100 | 25 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| 1 | Growl | - | 100 | 40 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| 3 | Tail-whip | - | 100 | 30 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| 6 | Quick-attack | 40 | 100 | 30 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| 9 | Baby-doll-eyes | - | 100 | 30 | ![fairy](../img/types/fairy.png) | ![status](../img/types/status.png) |
-	| 10 | Double-kick | 30 | 100 | 30 | ![fighting](../img/types/fighting.png) | ![physical](../img/types/physical.png) |
-	| 14 | Sand-attack | - | 100 | 15 | ![ground](../img/types/ground.png) | ![status](../img/types/status.png) |
-	| 17 | Bite | 60 | 100 | 25 | ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png) |
-	| 20 | Refresh | - | - | 20 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| 21 | Swift | 60 | - | 20 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-	| 24 | Take-down | 90 | 85 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| 28 | Double-edge | 120 | 100 | 15 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| 29 | Charm | - | 100 | 20 | ![fairy](../img/types/fairy.png) | ![status](../img/types/status.png) |
-	| 33 | Baton-pass | - | - | 40 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| 41 | Last-resort | 140 | 100 | 5 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| 45 | Trump-card | - | - | 5 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-
-        
-
-=== "Machine Moves"
-    | Machine | Name | Power | Accuracy | PP | Type | Damage Class |
-        | -- | -- | -- | -- | -- | -- | -- |
-        	| TM27 | Toxic | - | 90 | 10 | ![poison](../img/types/poison.png) | ![status](../img/types/status.png) |
-	| TM100 | Confide | - | - | 20 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM27 | Return | - | 100 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM87 | Swagger | - | 85 | 15 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM05 | Rest | - | - | 5 | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png) |
-	| TM01 | Headbutt | 70 | 100 | 15 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM57 | Pay-day | 40 | 100 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM88 | Sleep-talk | - | - | 10 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM32 | Double-team | - | - | 15 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM10 | Dig | 80 | 100 | 10 | ![ground](../img/types/ground.png) | ![physical](../img/types/physical.png) |
-	| TM10 | Hidden-power | 60 | 100 | 15 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-	| TM21 | Frustration | - | 100 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM19 | Iron-tail | 100 | 75 | 15 | ![steel](../img/types/steel.png) | ![physical](../img/types/physical.png) |
-	| TM03 | Helping-hand | - | - | 20 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM30 | Shadow-ball | 80 | 100 | 15 | ![ghost](../img/types/ghost.png) | ![special](../img/types/special.png) |
-	| TM45 | Attract | - | 100 | 15 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM11 | Sunny-day | - | - | 5 | ![fire](../img/types/fire.png) | ![status](../img/types/status.png) |
-	| TM08 | Substitute | - | - | 10 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM07 | Protect | - | - | 10 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM12 | Facade | 70 | 100 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM01 | Work-up | - | - | 30 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM48 | Round | 60 | 100 | 15 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-	| TM49 | Echoed-voice | 40 | 100 | 15 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-	| TM18 | Rain-dance | - | - | 5 | ![water](../img/types/water.png) | ![status](../img/types/status.png) |
-	| TM33 | Reflect | - | - | 20 | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png) |
-
+| Route                      | Area     | Encounter Rate | Extra Instructions        |
+| -------------------------- | -------- | -------------- | ------------------------- |
+| Wild Area 1 Southwest      | Grass    | 20             |                           |
+| Wild Area 1 Southwest      | Raid Den | 4              | Gigantamax form available |
+| Wild Area 1 Southeast      | Grass    | 10             |                           |
+| Wild Area 1 Southeast      | Raid Den | 4              | Gigantamax form available |
+| Wild Area 1 Northeast      | Raid Den | 4              | Gigantamax form available |
+| Wild Area 2 (Bear)         | Raid Den | 2              |                           |
+| Route 4                    | Grass    | 20             |                           |
+| Wild Area 4 East           | Raid Den | 2              |                           |
+| Wild Area 4 West           | Raid Den | 2              |                           |
+| Wild Area 5 (Desert) North | Raid Den | 2              |                           |
+| Wild Area 5 (Desert) South | Raid Den | 2              |                           |
+| Wild Area 6 West           | Raid Den | 2              |                           |
+| Wild Area 6 East           | Raid Den | 2              |                           |
+| Isle or Armor 2            | Raid Den | 2              | Gigantamax form           |
+| Isle of Armor 4            | Raid Den | 2              | Gigantamax form           |
+| Isle of Armor 5            | Raid Den | 2              | Gigantamax form           |
+| Isle of Armor 6            | Raid Den | 2              | Gigantamax form           |
+| Isle of Armor 7            | Raid Den | 2              | Gigantamax form           |
+| Crown Tundra Graveyard     | Grass    | 10             |                           |
         

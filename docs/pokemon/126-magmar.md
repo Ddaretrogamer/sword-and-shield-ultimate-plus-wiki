@@ -82,69 +82,15 @@
 
 
 ## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Wild Area 3 West | Grass | 1 |  |
-
+| Route                      | Area     | Encounter Rate | Extra Instructions |
+| -------------------------- | -------- | -------------- | ------------------ |
+| Wild Area 2 (Bear)         | Raid Den | 2              |                    |
+| Wild Area 4 East           | Raid Den | 2              |                    |
+| Wild Area 3 West           | Grass    | 1              |                    |
+| Wild Area 4 West           | Raid Den | 2              |                    |
+| Wild Area 5 (Desert) North | Raid Den | 2              |                    |
+| Wild Area 5 (Desert) South | Raid Den | 2              |                    |
+| Wild Area 6 West           | Raid Den | 2              |                    |
+| Wild Area 6 East           | Raid Den | 2              |                    |
         
 
-## Moveset
-
-=== "Level Up Moves"
-    | Level | Name | Power | Accuracy | PP | Type | Damage Class |
-        | -- | -- | -- | -- | -- | -- | -- |
-        	| 1 | Ember | 40 | 100 | 25 | ![fire](../img/types/fire.png) | ![special](../img/types/special.png) |
-	| 1 | Leer | - | 100 | 30 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| 6 | Smog | 30 | 70 | 20 | ![poison](../img/types/poison.png) | ![special](../img/types/special.png) |
-	| 11 | Smokescreen | - | 100 | 20 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| 12 | Feint-attack | 60 | - | 20 | ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png) |
-	| 17 | Clear-smog | 50 | - | 15 | ![poison](../img/types/poison.png) | ![special](../img/types/special.png) |
-	| 22 | Flame-burst | 70 | 100 | 15 | ![fire](../img/types/fire.png) | ![special](../img/types/special.png) |
-	| 22 | Low-kick | - | 100 | 20 | ![fighting](../img/types/fighting.png) | ![physical](../img/types/physical.png) |
-	| 28 | Fire-spin | 35 | 85 | 15 | ![fire](../img/types/fire.png) | ![special](../img/types/special.png) |
-	| 36 | Lava-plume | 80 | 100 | 15 | ![fire](../img/types/fire.png) | ![special](../img/types/special.png) |
-	| 39 | Confuse-ray | - | 100 | 10 | ![ghost](../img/types/ghost.png) | ![status](../img/types/status.png) |
-
-        
-
-=== "Machine Moves"
-    | Machine | Name | Power | Accuracy | PP | Type | Damage Class |
-        | -- | -- | -- | -- | -- | -- | -- |
-        	| TM47 | Low-sweep | 65 | 100 | 20 | ![fighting](../img/types/fighting.png) | ![physical](../img/types/physical.png) |
-	| TM27 | Toxic | - | 90 | 10 | ![poison](../img/types/poison.png) | ![status](../img/types/status.png) |
-	| TM100 | Confide | - | - | 20 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM27 | Return | - | 100 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM87 | Swagger | - | 85 | 15 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM31 | Fire-punch | 75 | 100 | 15 | ![fire](../img/types/fire.png) | ![physical](../img/types/physical.png) |
-	| TM05 | Rest | - | - | 5 | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png) |
-	| TM56 | Fling | - | 100 | 10 | ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png) |
-	| TM01 | Headbutt | 70 | 100 | 15 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM61 | Will-o-wisp | - | 85 | 15 | ![fire](../img/types/fire.png) | ![status](../img/types/status.png) |
-	| TM04 | Teleport | - | - | 20 | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png) |
-	| TM88 | Sleep-talk | - | - | 10 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM32 | Double-team | - | - | 15 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM46 | Thief | 60 | 100 | 25 | ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png) |
-	| TM13 | Brick-break | 75 | 100 | 15 | ![fighting](../img/types/fighting.png) | ![physical](../img/types/physical.png) |
-	| TM38 | Fire-blast | 110 | 85 | 5 | ![fire](../img/types/fire.png) | ![special](../img/types/special.png) |
-	| TM29 | Psychic | 90 | 100 | 10 | ![psychic](../img/types/psychic.png) | ![special](../img/types/special.png) |
-	| TM50 | Overheat | 130 | 90 | 5 | ![fire](../img/types/fire.png) | ![special](../img/types/special.png) |
-	| TM43 | Flame-charge | 50 | 100 | 20 | ![fire](../img/types/fire.png) | ![physical](../img/types/physical.png) |
-	| TM10 | Hidden-power | 60 | 100 | 15 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-	| TM21 | Frustration | - | 100 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM19 | Iron-tail | 100 | 75 | 15 | ![steel](../img/types/steel.png) | ![physical](../img/types/physical.png) |
-	| TM03 | Helping-hand | - | - | 20 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM45 | Attract | - | 100 | 15 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM52 | Focus-blast | 120 | 70 | 5 | ![fighting](../img/types/fighting.png) | ![special](../img/types/special.png) |
-	| TM11 | Sunny-day | - | - | 5 | ![fire](../img/types/fire.png) | ![status](../img/types/status.png) |
-	| TM08 | Substitute | - | - | 10 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM23 | Thunder-punch | 75 | 100 | 15 | ![electric](../img/types/electric.png) | ![physical](../img/types/physical.png) |
-	| TM48 | Hyper-beam | 150 | 90 | 5 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-	| TM07 | Protect | - | - | 10 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM12 | Facade | 70 | 100 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM12 | Taunt | - | 100 | 20 | ![dark](../img/types/dark.png) | ![status](../img/types/status.png) |
-	| TM15 | Seismic-toss | - | 100 | 20 | ![fighting](../img/types/fighting.png) | ![physical](../img/types/physical.png) |
-	| TM48 | Round | 60 | 100 | 15 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-	| TM68 | Giga-impact | 150 | 90 | 5 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM35 | Flamethrower | 90 | 100 | 15 | ![fire](../img/types/fire.png) | ![special](../img/types/special.png) |
-
-        

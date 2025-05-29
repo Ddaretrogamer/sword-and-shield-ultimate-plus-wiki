@@ -82,25 +82,12 @@
 
 
 ## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Route 1 | Grass | 20 |  |
+| Route                 | Area  | Encounter Rate | Extra Instructions |
+| --------------------- | ----- | -------------- | ------------------ |
+| Route 1               | Grass | 20             |                    |
+| Wild Area 1 Southwest | Grass | 2              |                    |
+| Wild Area 1 Southeast | Grass | 2              |                    |
+| Wild Area 1 Northeast | Grass | 2              |                    |
 
         
 
-## Moveset
-
-=== "Level Up Moves"
-    | Level | Name | Power | Accuracy | PP | Type | Damage Class |
-        | -- | -- | -- | -- | -- | -- | -- |
-        	| 1 | Tackle | 40 | 100 | 35 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| 1 | String-shot | - | 95 | 40 | ![bug](../img/types/bug.png) | ![status](../img/types/status.png) |
-	| 9 | Bug-bite | 60 | 100 | 20 | ![bug](../img/types/bug.png) | ![physical](../img/types/physical.png) |
-
-        
-
-=== "Machine Moves"
-    | Machine | Name | Power | Accuracy | PP | Type | Damage Class |
-        | -- | -- | -- | -- | -- | -- | -- |
-        
-        

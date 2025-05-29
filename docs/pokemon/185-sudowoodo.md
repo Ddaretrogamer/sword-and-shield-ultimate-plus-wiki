@@ -82,71 +82,11 @@
 
 
 ## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Wild Area 2 (Bear) | Grass | 5 |  |
-	| Motostoke | Grass | 4 |  |
-	| Wild Area 5 (Desert) North | Grass | 1 |  |
+| Route                      | Area  | Encounter Rate | Extra Instructions |
+| -------------------------- | ----- | -------------- | ------------------ |
+| Wild Area 2 (Bear)         | Grass | 5              |                    |
+| Motostoke East             | Grass | 4              |                    |
+| Wild Area 5 (Desert) North | Grass | 1              |                    |
 
         
 
-## Moveset
-
-=== "Level Up Moves"
-    | Level | Name | Power | Accuracy | PP | Type | Damage Class |
-        | -- | -- | -- | -- | -- | -- | -- |
-        	| 1 | Wood-hammer | 120 | 100 | 15 | ![grass](../img/types/grass.png) | ![physical](../img/types/physical.png) |
-	| 1 | Copycat | - | - | 20 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| 1 | Slam | 80 | 75 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| 5 | Flail | - | 100 | 15 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| 8 | Low-kick | - | 100 | 20 | ![fighting](../img/types/fighting.png) | ![physical](../img/types/physical.png) |
-	| 12 | Rock-throw | 50 | 90 | 15 | ![rock](../img/types/rock.png) | ![physical](../img/types/physical.png) |
-	| 15 | Mimic | - | - | 10 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| 19 | Feint-attack | 60 | - | 20 | ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png) |
-	| 22 | Tearful-look | - | - | 20 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| 29 | Block | - | - | 5 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| 36 | Counter | - | 100 | 20 | ![fighting](../img/types/fighting.png) | ![physical](../img/types/physical.png) |
-	| 40 | Sucker-punch | 70 | 100 | 5 | ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png) |
-	| 43 | Double-edge | 120 | 100 | 15 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| 50 | Hammer-arm | 100 | 90 | 10 | ![fighting](../img/types/fighting.png) | ![physical](../img/types/physical.png) |
-	| 54 | Head-smash | 150 | 80 | 5 | ![rock](../img/types/rock.png) | ![physical](../img/types/physical.png) |
-
-        
-
-=== "Machine Moves"
-    | Machine | Name | Power | Accuracy | PP | Type | Damage Class |
-        | -- | -- | -- | -- | -- | -- | -- |
-        	| TM22 | Rock-slide | 75 | 90 | 10 | ![rock](../img/types/rock.png) | ![physical](../img/types/physical.png) |
-	| TM27 | Toxic | - | 90 | 10 | ![poison](../img/types/poison.png) | ![status](../img/types/status.png) |
-	| TM100 | Confide | - | - | 20 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM27 | Return | - | 100 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM87 | Swagger | - | 85 | 15 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM23 | Smack-down | 50 | 100 | 15 | ![rock](../img/types/rock.png) | ![physical](../img/types/physical.png) |
-	| TM05 | Rest | - | - | 5 | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png) |
-	| TM56 | Fling | - | 100 | 10 | ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png) |
-	| TM41 | Earthquake | 100 | 100 | 10 | ![ground](../img/types/ground.png) | ![physical](../img/types/physical.png) |
-	| TM04 | Calm-mind | - | - | 20 | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png) |
-	| TM88 | Sleep-talk | - | - | 10 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM32 | Double-team | - | - | 15 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM41 | Torment | - | 100 | 15 | ![dark](../img/types/dark.png) | ![status](../img/types/status.png) |
-	| TM46 | Thief | 60 | 100 | 25 | ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png) |
-	| TM39 | Rock-tomb | 60 | 95 | 15 | ![rock](../img/types/rock.png) | ![physical](../img/types/physical.png) |
-	| TM13 | Brick-break | 75 | 100 | 15 | ![fighting](../img/types/fighting.png) | ![physical](../img/types/physical.png) |
-	| TM69 | Rock-polish | - | - | 20 | ![rock](../img/types/rock.png) | ![status](../img/types/status.png) |
-	| TM10 | Hidden-power | 60 | 100 | 15 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-	| TM21 | Frustration | - | 100 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM78 | Bulldoze | 60 | 100 | 20 | ![ground](../img/types/ground.png) | ![physical](../img/types/physical.png) |
-	| TM45 | Attract | - | 100 | 15 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM37 | Sandstorm | - | - | 10 | ![rock](../img/types/rock.png) | ![status](../img/types/status.png) |
-	| TM71 | Stone-edge | 100 | 80 | 5 | ![rock](../img/types/rock.png) | ![physical](../img/types/physical.png) |
-	| TM11 | Sunny-day | - | - | 5 | ![fire](../img/types/fire.png) | ![status](../img/types/status.png) |
-	| TM08 | Substitute | - | - | 10 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM07 | Protect | - | - | 10 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM64 | Explosion | 250 | 100 | 5 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM12 | Facade | 70 | 100 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM12 | Taunt | - | 100 | 20 | ![dark](../img/types/dark.png) | ![status](../img/types/status.png) |
-	| TM77 | Psych-up | - | - | 10 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM96 | Nature-power | - | - | 20 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM48 | Round | 60 | 100 | 15 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-
-        

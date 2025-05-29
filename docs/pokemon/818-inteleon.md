@@ -80,55 +80,13 @@
 </table>
 
 
+## Locations
+| Route           | Area     | Encounter Rate | Extra Instructions |
+| --------------- | -------- | -------------- | ------------------ |
+| Isle or Armor 2 | Raid Den | 2              | Gigantamax form    |
+| Isle of Armor 4 | Raid Den | 2              | Gigantamax form    |
+| Isle of Armor 5 | Raid Den | 2              | Gigantamax form    |
+| Isle of Armor 6 | Raid Den | 2              | Gigantamax form    |
+| Isle of Armor 7 | Raid Den | 2              | Gigantamax form    |
 
 
-
-## Moveset
-
-=== "Level Up Moves"
-    | Level | Name | Power | Accuracy | PP | Type | Damage Class |
-        | -- | -- | -- | -- | -- | -- | -- |
-        	| 1 | Water-gun | 40 | 100 | 25 | ![water](../img/types/water.png) | ![special](../img/types/special.png) |
-	| 1 | Snipe-shot | 80 | 100 | 15 | ![water](../img/types/water.png) | ![special](../img/types/special.png) |
-	| 1 | Pound | 40 | 100 | 35 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| 1 | Growl | - | 100 | 40 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| 1 | Bind | 15 | 85 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| 12 | Water-pulse | 60 | 100 | 20 | ![water](../img/types/water.png) | ![special](../img/types/special.png) |
-	| 19 | Tearful-look | - | - | 20 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| 24 | Sucker-punch | 70 | 100 | 5 | ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png) |
-	| 38 | Liquidation | 85 | 100 | 10 | ![water](../img/types/water.png) | ![physical](../img/types/physical.png) |
-	| 46 | Soak | - | 100 | 20 | ![water](../img/types/water.png) | ![status](../img/types/status.png) |
-	| 62 | Hydro-pump | 110 | 80 | 5 | ![water](../img/types/water.png) | ![special](../img/types/special.png) |
-
-        
-
-=== "Machine Moves"
-    | Machine | Name | Power | Accuracy | PP | Type | Damage Class |
-        | -- | -- | -- | -- | -- | -- | -- |
-        	| TM46 | Weather-ball | 50 | 100 | 10 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-	| TM45 | Dive | 80 | 100 | 10 | ![water](../img/types/water.png) | ![physical](../img/types/physical.png) |
-	| TM99 | Breaking-swipe | 60 | 100 | 15 | ![dragon](../img/types/dragon.png) | ![physical](../img/types/physical.png) |
-	| TM36 | Whirlpool | 35 | 85 | 15 | ![water](../img/types/water.png) | ![special](../img/types/special.png) |
-	| TM39 | Swift | 60 | - | 20 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-	| TM05 | Rest | - | - | 5 | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png) |
-	| TM56 | Fling | - | 100 | 10 | ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png) |
-	| TM13 | Snore | 50 | 100 | 15 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-	| TM62 | Acrobatics | 55 | 100 | 15 | ![flying](../img/types/flying.png) | ![physical](../img/types/physical.png) |
-	| TM89 | U-turn | 70 | 100 | 20 | ![bug](../img/types/bug.png) | ![physical](../img/types/physical.png) |
-	| TM16 | Icy-wind | 55 | 95 | 15 | ![ice](../img/types/ice.png) | ![special](../img/types/special.png) |
-	| TM52 | Bounce | 85 | 85 | 5 | ![flying](../img/types/flying.png) | ![physical](../img/types/physical.png) |
-	| TM95 | Air-slash | 75 | 95 | 15 | ![flying](../img/types/flying.png) | ![special](../img/types/special.png) |
-	| TM53 | Mud-shot | 55 | 95 | 15 | ![ground](../img/types/ground.png) | ![special](../img/types/special.png) |
-	| TM45 | Attract | - | 100 | 15 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM51 | Icicle-spear | 25 | 100 | 30 | ![ice](../img/types/ice.png) | ![physical](../img/types/physical.png) |
-	| TM16 | Light-screen | - | - | 30 | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png) |
-	| TM20 | Safeguard | - | - | 25 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM48 | Hyper-beam | 150 | 90 | 5 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-	| TM07 | Protect | - | - | 10 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM12 | Facade | 70 | 100 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM48 | Round | 60 | 100 | 15 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-	| TM18 | Rain-dance | - | - | 5 | ![water](../img/types/water.png) | ![status](../img/types/status.png) |
-	| TM68 | Giga-impact | 150 | 90 | 5 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM33 | Reflect | - | - | 20 | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png) |
-
-        

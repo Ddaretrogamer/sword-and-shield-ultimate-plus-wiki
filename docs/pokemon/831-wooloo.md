@@ -82,45 +82,13 @@
 
 
 ## Locations
-| Route | Area | Encounter Rate | Extra Instructions |
-        | -- | -- | -- | -- |
-        	| Route 1 | Grass | 20 |  |
-	| Wild Area 4 East | Overworld | 100 |  |
-	| Freezington (Crown Tundra) | Overworld | 100 |  |
-	| Crown Tundra Snowy East | Overworld | 100 |  |
+| Route                      | Area      | Encounter Rate | Extra Instructions |
+| -------------------------- | --------- | -------------- | ------------------ |
+| Route 1                    | Grass     | 20             |                    |
+| Wild Area 1 Southwest      | Raid Den  | 2              |                    |
+| Wild Area 1 Southeast      | Raid Den  | 2              |                    |
+| Wild Area 1 Northeast      | Raid Den  | 2              |                    |
+| Wild Area 4 East           | Overworld | 100            |                    |
+| Freezington (Crown Tundra) | Overworld | 100            |                    |
+| Crown Tundra Snowy East    | Overworld | 100            |                    |
 
-        
-
-## Moveset
-
-=== "Level Up Moves"
-    | Level | Name | Power | Accuracy | PP | Type | Damage Class |
-        | -- | -- | -- | -- | -- | -- | -- |
-        	| 1 | Tackle | 40 | 100 | 35 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| 1 | Growl | - | 100 | 40 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| 4 | Defense-curl | - | - | 40 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| 8 | Copycat | - | - | 20 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| 12 | Guard-split | - | - | 10 | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png) |
-	| 16 | Double-kick | 30 | 100 | 30 | ![fighting](../img/types/fighting.png) | ![physical](../img/types/physical.png) |
-	| 21 | Headbutt | 70 | 100 | 15 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| 25 | Take-down | 90 | 85 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| 32 | Reversal | - | 100 | 15 | ![fighting](../img/types/fighting.png) | ![physical](../img/types/physical.png) |
-	| 36 | Cotton-guard | - | - | 10 | ![grass](../img/types/grass.png) | ![status](../img/types/status.png) |
-	| 40 | Double-edge | 120 | 100 | 15 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-
-        
-
-=== "Machine Moves"
-    | Machine | Name | Power | Accuracy | PP | Type | Damage Class |
-        | -- | -- | -- | -- | -- | -- | -- |
-        	| TM66 | Payback | 50 | 100 | 10 | ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png) |
-	| TM05 | Rest | - | - | 5 | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png) |
-	| TM61 | Guard-swap | - | - | 10 | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png) |
-	| TM13 | Snore | 50 | 100 | 15 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-	| TM45 | Attract | - | 100 | 15 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM07 | Protect | - | - | 10 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM12 | Facade | 70 | 100 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM48 | Round | 60 | 100 | 15 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
-	| TM16 | Thunder-wave | - | 90 | 20 | ![electric](../img/types/electric.png) | ![status](../img/types/status.png) |
-
-        
