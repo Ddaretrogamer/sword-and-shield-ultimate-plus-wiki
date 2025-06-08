@@ -1,5 +1,6 @@
 ---
-search: exclude: true
+search: 
+    exclude: true
 ---
 
 Pokémon are organized by the generation the evolved form was introduced, while regional variants are grouped in the original generation.
