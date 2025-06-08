@@ -1137,6 +1137,8 @@ nav:
 plugins:
 - search:
     lang: en
+    exclude:
+      - 'evolutions.md' 
 markdown_extensions:
 - admonition
 - abbr
